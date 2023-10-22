@@ -5,7 +5,7 @@ theme = 'beautifulhugo'
 
 [params]
   disclaimerText = 'This website is a personal project. This site is not affiliated with, nor endorsed by Bethesda.'
-
+  googleAnalytics = 'G-MS58PM494H'
 [menu]
 [[menu.main]]
     name = 'Items'
