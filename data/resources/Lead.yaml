@@ -1,0 +1,9 @@
+name: Lead
+symbol: Pb
+type: Inorganic
+rarity: Common
+mass: 0.70
+value: 10
+state: Solid
+credits:
+  - Demon5760

@@ -1,0 +1,13 @@
+name: Huygens
+level: 75
+faction: None
+catalogue_id: TBD
+spectral_class: F8
+temperature: 6180 K
+mass: 1.18 SM
+radius: 772893
+magnitude: 3.44
+planets: 8
+moons: 12
+credits:
+  - Inara

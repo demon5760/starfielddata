@@ -1,0 +1,9 @@
+name: Chlorine
+symbol: Cl
+type: Inorganic
+rarity: Common
+mass: 0.50
+value: 6
+state: Gas
+credits:
+  - Demon5760

@@ -1,0 +1,13 @@
+name: Hawking
+level: 75
+faction: None
+catalogue_id: TBD
+spectral_class: G5
+temperature: 5575 K
+mass: 0.91 SM
+radius: 632905
+magnitude: 5.13
+planets: 6
+moons: 5
+credits:
+  - Inara

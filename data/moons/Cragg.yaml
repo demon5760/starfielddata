@@ -1,0 +1,24 @@
+name: Cragg
+planet: Fenn
+type: Rock
+gravity: 0.44 G
+temperature: Deep Freeze
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: None
+o2: 0%
+temp: -214° 
+flora: {}
+fauna: {}
+traits: []
+resources:
+  - Water
+  - Copper
+  - Iron
+  - Lead
+  - Silver
+  - Tetrafluorides
+credits:
+  - Demon5760

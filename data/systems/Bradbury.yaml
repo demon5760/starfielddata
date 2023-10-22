@@ -1,0 +1,13 @@
+name: Bradbury
+level: 20
+faction: None
+catalogue_id: Gl 635A
+spectral_class: F9
+temperature: 5820 K
+mass: 1.14 SM
+radius: 752004
+magnitude: 2.66
+planets: 5
+moons: 4
+credits:
+  - Inara

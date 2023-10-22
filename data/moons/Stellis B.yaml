@@ -1,0 +1,20 @@
+name: Stellis B
+planet: Stellis
+type: Ice
+gravity: 0.05 G
+temperature: Deep Freeze
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: Chemical
+o2: 0%
+temp: -203° 
+flora: {}
+fauna: {}
+traits: []
+resources:
+  - Water
+  - Chlorine
+credits:
+  - Demon5760

@@ -1,0 +1,16 @@
+name: Navaha
+system: Cheyenne
+type: Gas Giant
+gravity: 1.66 G
+temperature: Deep Freeze
+atmosphere: H2
+magnetosphere: Powerful 
+fauna_rating: None
+flora_rating: None
+water: None
+flora: {}
+fauna: {}
+traits: []
+resources: []
+credits:
+  - Demon5760

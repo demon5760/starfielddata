@@ -1,0 +1,13 @@
+name: Membrane
+type: Organic
+rarity: Uncommon
+mass: 0.50
+value: 9
+farming:
+  Greenhouse:
+    Water: 1
+  Animal Husbandry Facility:
+    - Fiber: 2
+      Water: 1
+credits:
+  - Demon5760

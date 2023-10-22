@@ -1,0 +1,4 @@
++++
+title = 'Hardpoint'
+type = 'moon'
++++

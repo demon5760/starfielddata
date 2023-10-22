@@ -1,0 +1,13 @@
+name: Linnaeus
+level: 45
+faction: None
+catalogue_id: Gl 722
+spectral_class: G5
+temperature: 5575 K
+mass: 0.93 SM
+radius: 647559
+magnitude: 5.27
+planets: 7
+moons: 5
+credits:
+  - Inara

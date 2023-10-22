@@ -1,0 +1,4 @@
++++
+title = "Khayyam"
+type = 'system'
++++

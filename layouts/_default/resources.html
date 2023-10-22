@@ -1,0 +1,66 @@
+{{ define "main" }}
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        {{ with .Content }}
+          <div class="well">
+            {{.}}
+          </div>
+
+        {{ end }}
+        <div class="page-list">
+          <h2>Inorganic</h2>
+            <table>
+              <tr><th>Name</th><th>Type</th><th>Value</th><th>Rarity</th><th>Mass</th><th>Sym.</th><th>State</th></tr>
+            {{ range .Pages }}
+            {{ $resource := index $.Site.Data.resources .Title }}
+            {{ if eq $resource.type "Inorganic"}}
+            <tr>
+              <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+              <td>{{ $resource.type }}</td>
+              <td>{{ $resource.value }}</td>
+              <td>{{ $resource.rarity }}</td>
+              <td>{{ $resource.mass }}</td>
+              <td>{{ $resource.symbol }}</td>
+              <td>{{ $resource.state }}</td>
+            </tr>
+            {{ end }}
+            {{ end}}
+            </table>
+          <h2>Organic</h2>
+          <table>
+            <tr><th>Name</th><th>Type</th><th>Value</th><th>Rarity</th><th>Mass</th></tr>
+          {{ range .Pages }}
+          {{ $resource := index $.Site.Data.resources .Title }}
+          {{ if eq $resource.type "Organic"}}
+          <tr>
+            <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+            <td>{{ $resource.type }}</td>
+            <td>{{ $resource.value }}</td>
+            <td>{{ $resource.rarity }}</td>
+            <td>{{ $resource.mass }}</td>
+          </tr>
+          {{ end }}
+          {{ end}}
+          </table>
+          <h2>Manufactured</h2>
+          <table>
+            <tr><th>Name</th><th>Type</th><th>Value</th><th>Rarity</th><th>Mass</th></tr>
+          {{ range .Pages }}
+          {{ $resource := index $.Site.Data.resources .Title }}
+          {{ if eq $resource.type "Manufactured"}}
+          <tr>
+            <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+            <td>{{ $resource.type }}</td>
+            <td>{{ $resource.value }}</td>
+            <td>{{ $resource.rarity }}</td>
+            <td>{{ $resource.mass }}</td>
+          </tr>
+          {{ end }}
+          {{ end}}
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}

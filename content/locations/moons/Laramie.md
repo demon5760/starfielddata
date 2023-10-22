@@ -1,0 +1,4 @@
++++
+title = 'Laramie'
+type = 'moon'
++++

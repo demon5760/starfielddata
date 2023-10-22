@@ -1,0 +1,22 @@
+name: Smet
+planet: Washakie
+type: Barren
+gravity: 0.19 G
+temperature: Frozen
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: None
+o2: 0%
+temp: -52° 
+flora: {}
+fauna: {}
+traits: []
+resources:
+  - Helium-3
+  - Aluminum
+  - Beryllium
+  - Europium
+credits:
+  - Demon5760

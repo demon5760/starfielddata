@@ -1,0 +1,16 @@
+name: Agamon
+system: Cheyenne
+type: Ice Giant
+gravity: 1.56 G
+temperature: Deep Freeze
+atmosphere: H2
+magnetosphere: Weak 
+fauna_rating: None
+flora_rating: None
+water: None
+flora: {}
+fauna: {}
+traits: []
+resources: []
+credits:
+  - Demon5760

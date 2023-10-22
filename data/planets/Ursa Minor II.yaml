@@ -1,0 +1,33 @@
+name: Ursa Minor II
+system: Ursae Minoris
+type: Rock
+gravity: 0.41 G
+temperature: Cold
+atmosphere: Thin O2
+magnetosphere: Weak
+fauna_rating: Marginal
+flora_rating: Marginal
+water: Chemical
+o2: TBD%
+temp: TBD° 
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+traits:
+  - TBD
+resources:
+  - Water
+  - Copper
+  - Argon
+  - TetraFluorides
+  - Carboxylic Acids
+credits:
+  - Demon5760

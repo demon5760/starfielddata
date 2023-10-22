@@ -1,0 +1,9 @@
+name: Alkanes
+symbol: HnCn
+type: Inorganic
+rarity: Uncommon
+mass: 0.60
+value: 13
+state: Gas
+credits:
+  - Demon5760

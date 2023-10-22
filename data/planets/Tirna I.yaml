@@ -1,0 +1,24 @@
+name: Tirna I
+system: Alpha Tirna
+type: Barren
+gravity: 0.22 G
+temperature: Scorched
+atmosphere: Thin CO2
+magnetosphere: Weak
+fauna_rating: None
+flora_rating: None
+water: None
+o2: 0%
+temp: 181° 
+flora: {}
+fauna: {}
+traits:
+  - Charred Ecosystem (Sinter Terraces)
+  - Boiled Seas (Eroded Reef Outcropping)
+  - Bolide Bombardment (Impact Crater)
+resources:
+  - Helium-3
+  - Iron
+  - Tantalum
+credits:
+  - Demon5760

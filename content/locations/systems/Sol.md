@@ -1,0 +1,4 @@
++++
+title = "Sol"
+type = 'system'
++++

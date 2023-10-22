@@ -1,0 +1,4 @@
++++
+title = "Strix"
+type = 'system'
++++

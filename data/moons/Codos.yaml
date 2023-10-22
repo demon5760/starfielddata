@@ -1,0 +1,109 @@
+name: Codos
+planet: Akila
+type: Rock
+gravity: 0.4 G
+temperature: Temperate
+atmosphere: Standard O2
+magnetosphere: Weak
+fauna_rating: Marginal
+flora_rating: Marginal
+water: Safe
+o2: 21%
+temp: 15° 
+traits: []
+flora:
+  Sage Shrub:
+    resource: Analgesic
+    biomes:
+      - Swamp
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Flowering
+    output_production_allowed: true
+    required_inputs:
+      - Water
+
+  Sandy Goldenglow:
+    resource: Fiber
+    biomes:
+      - Mountains
+      - Swamp
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Spores
+
+  "Wander's Husk":
+    resource: Solvent
+    biomes:
+      - Mountains
+      - Swamp
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Complex
+    output_production_allowed: true
+    required_inputs:
+      - Water
+
+  Spiral Bloom:
+    resource: Analgesic
+    biomes:
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Cuttings
+    output_production_allowed: true
+    required_inputs:
+      - Water
+
+fauna:
+  Herding Cagebrain Grazer:
+    temperment: Peaceful
+    resource: Nutrient
+    biomes:
+      - Swamp
+    health: 70
+
+  Flocking Hornface Grazer:
+    temperment: Territorial
+    resource: Sealant
+    non_lethal_harvest: true
+    biomes:
+      - Mountains
+      - Savanna
+    health: 50
+    abilities: []
+  
+  Beetle Geophage:
+    temperment: Wary
+    resource: Cosmetic
+    biomes:
+      - Mountains
+      - Frozen Mountains
+      - Swamp
+      - Savanna
+    health: 20
+
+  Hunting Boneshell:
+    temperment: Wary
+    resource: Membrane
+    biomes:
+      - Mountains
+      - Savanna
+    health: 170
+    abilities: []
+resources:
+  - Water
+  - Aluminum
+  - Chlorine
+  - Iron
+  - Argon
+  - Beryllium
+  - Alkanes
+  - Carboxylic Acids
+credits:
+  - Demon5760

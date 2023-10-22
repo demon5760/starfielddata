@@ -1,0 +1,13 @@
+name: Sol
+level: 1
+faction: United Colonies
+catalogue_id: SOL
+spectral_class: G2
+temperature: 5830 K
+mass: 1.00 SM
+radius: 696300
+magnitude: 4.85
+planets: 9
+moons: 21
+credits:
+  - Inara

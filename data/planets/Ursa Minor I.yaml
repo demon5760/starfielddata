@@ -1,0 +1,27 @@
+name: Ursa Minor I
+system: Ursae Minoris
+type: Rock
+gravity: 1.10 G
+temperature: Inferno
+atmosphere: Extr CO2
+magnetosphere: Very Strong
+fauna_rating: None
+flora_rating: None
+water: None
+o2: TBD%
+temp: TBD° 
+flora: {}
+fauna: {}
+traits:
+  - Emerging Tectonics (Hot Spring Terraces)
+  - Charred Ecosystem (Sinter Terraces)
+  - Aeriform Life (Fermentation Vents)
+resources:
+  - Copper
+  - Nickel
+  - Uranium
+  - Fluorine
+  - Cobalt
+  - Iridium
+credits:
+  - Demon5760

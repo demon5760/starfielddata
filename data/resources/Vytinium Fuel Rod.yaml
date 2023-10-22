@@ -1,0 +1,12 @@
+name: Vytinium Fuel Rod
+type: Manufactured
+rarity: Rare
+mass: 11
+value: 836
+#crafting:
+#  Indicite Wafer: 1
+#  Nuclear Fuel Rod: 1
+#  Plutonium: 2
+#  Vytinium: 4
+credits:
+  - Demon5760

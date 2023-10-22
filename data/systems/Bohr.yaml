@@ -1,0 +1,13 @@
+name: Bohr
+level: 75
+faction: None
+catalogue_id: TBD 
+spectral_class: G5 
+temperature: 5575 K
+mass: 0.93 SM
+radius: 647559
+magnitude: 5.43
+planets: 8
+moons: 7
+credits:
+  - Inara

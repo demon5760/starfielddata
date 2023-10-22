@@ -1,0 +1,9 @@
+name: Fluorine
+symbol: F
+type: Inorganic
+rarity: Uncommon
+mass: 0.50
+value: 12
+state: Gas
+credits:
+  - Demon5760

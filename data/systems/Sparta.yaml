@@ -1,0 +1,13 @@
+name: Sparta
+level: 60
+faction: None
+catalogue_id: Gl 615.1A
+spectral_class: G8
+temperature: 5320 K
+mass: 0.84 SM
+radius: 614136
+magnitude: 4.82
+planets: 8
+moons: 13
+credits:
+  - Inara

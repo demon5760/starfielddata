@@ -1,0 +1,4 @@
++++
+title = 'Navaha'
+type = 'planet'
++++

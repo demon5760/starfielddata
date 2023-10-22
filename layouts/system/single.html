@@ -1,0 +1,111 @@
+{{ define "main" }}
+
+{{ $system := index $.Site.Data.systems .Title }}
+
+{{ $credits := slice }}
+{{ if $system.credits }}
+  {{ $credits = $credits | append $system.credits}}
+{{ end }}
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        {{ .Content }}
+
+        {{ $system.name }} has a recomended player level of <strong>{{ $system.level }}</strong>.
+        <br /><br />
+        <div><strong>Faction:</strong> {{ $system.faction }}</div>
+        <div><strong>Spectral Class:</strong> {{ $system.spectral_class }}</div>
+        <div><strong>Catalogue ID:</strong> {{ $system.catalogue_id }}</div>
+        <div><strong>Temperature:</strong> {{ $system.temperature }}</div>
+        <div><strong>Mass:</strong> {{ $system.mass }}</div>
+        <div><strong>Radius:</strong> {{ $system.radius }}</div>
+        <div><strong>Magnitude:</strong> {{ $system.magnitude }}</div>
+        <div><strong>Magnitude:</strong> {{ $system.magnitude }}</div>
+
+        There are {{ $system.planets }} planets and {{ $system.moons }} moons can be found in {{ $system.name }}.
+
+        <h2>Planets</h2>
+        Here are the planets we have some information on:
+        <table>
+          <tr>
+            <th>Name</th>
+            <th>Resources</th>
+          </tr>
+          {{ range $.Site.Data.planets }}
+            {{ $planet := .}}
+            {{ if eq .system $system.name }}
+              <tr>
+                <td>
+                  {{ $planet_page_file := printf "/locations/planets/%s" .name }}
+                  {{ $planet_page := $.Site.GetPage $planet_page_file }}
+                  <a href="{{ $planet_page.Permalink }}">{{ .name }}</a>
+                </td>
+                <td>
+                  {{ range $planet.resources }}
+                    {{ $resource := index $.Site.Data.resources .}}
+                    {{ $resource_page_file := printf "/items/resources/%s" $resource.name }}
+                    {{ $resource_page := $.Site.GetPage $resource_page_file }}
+                    {{ if $resource_page  }}
+                      <a href="{{ $resource_page.Permalink }}">{{ $resource.symbol }}</a>
+                    {{ else }}
+                      {{ $resource.symbol }}
+                    {{ end }}
+
+                    
+                  {{ end }}
+                </td>
+              </tr>
+              
+            {{ end }}
+          {{ end }}
+
+        </table>
+        
+        <h2>Moons</h2>
+          Here are the moons we have some information on:
+          <table>
+            <tr>
+              <th>Name</th>
+              <th>Resources</th>
+            </tr>
+
+            {{ range $.Site.Data.moons }}
+              {{ $moon := . }}
+              {{ $planet := index $.Site.Data.planets .planet }}
+              {{ if eq $planet.system $system.name }}
+                <tr>
+                  <td>
+                  {{ $moon_page_file := printf "/locations/moons/%s" .name }}
+                  {{ $moon_page := $.Site.GetPage $moon_page_file }}
+                  {{ if $moon_page }}
+                    <a href="{{ $moon_page.Permalink }}">{{ .name }}</a>
+                  {{ else }}
+                    {{ .name }}
+                  {{ end }}
+                  </td>
+                  <td>
+                    {{ range $moon.resources }}
+                      {{ $resource := index $.Site.Data.resources .}}
+                      {{ $resource_page_file := printf "/items/resources/%s" $resource.name }}
+                      {{ $resource_page := $.Site.GetPage $resource_page_file }}
+                      {{ if $resource_page  }}
+                        <a href="{{ $resource_page.Permalink }}">{{ $resource.symbol }}</a>
+                      {{ else }}
+                        {{ $resource.symbol }}
+                      {{ end }}
+  
+                      
+                    {{ end }}
+                  </td>
+                </tr>
+              {{ end }}
+            {{ end }}
+          </table>
+      </article>
+      {{ partial "page_credits.html" (slice $.Site.Data.sources $credits .Title) }}
+    </div>
+  </div>
+</div>
+{{ end }}

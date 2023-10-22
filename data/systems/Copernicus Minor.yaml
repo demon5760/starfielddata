@@ -1,0 +1,13 @@
+name: Copernicus Minor
+level: 30
+faction: None
+catalogue_id: Gl 596.1B
+spectral_class: M6
+temperature: 2860 K
+mass: 0.17 SM
+radius: 178717
+magnitude: 11.17
+planets: 1
+moons: 2
+credits:
+  - Inara

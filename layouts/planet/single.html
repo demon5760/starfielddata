@@ -1,0 +1,185 @@
+{{ define "main" }}
+
+{{ $planet_name := .Page.Title }}
+{{ $planet := index $.Site.Data.planets $planet_name }}
+{{ $system := index $.Site.Data.systems $planet.system }}
+{{ $system_page_file := printf "/locations/systems/%s" $planet.system }}
+{{ $system_page := .Site.GetPage $system_page_file }}
+
+{{ $credits := slice }}
+{{ if $planet.credits }}
+  {{ $credits = $credits | append $planet.credits}}
+{{ end }}
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <aside>
+        {{ .TableOfContents }}
+      </aside>
+      <hr />
+      <article role="main" class="blog-post">
+        
+        {{ .Content }}
+
+      </article>
+      <div>
+        {{ .Page.Title }} is located in the <a href="{{ $system_page.Permalink }}">{{ $system.name }}</a> system.
+
+        <h2>General Information</h2>
+        <ul>
+          <li>Type: {{ $planet.type }}</li>
+          <li>Gravity: {{ $planet.gravity }}</li>
+          <li>Temperature: {{ $planet.temperature }}</li>
+          <li>Atmosphere: {{ $planet.atmosphere }}</li>
+          <li>Magnetosphere: {{ $planet.magnetosphere}}</li>
+          <li>Water: {{ $planet.water }}</li>
+        </ul>
+
+        <h2>Traits</h2>
+        {{ .Page.Title }} has {{ $planet.traits | len }} traits.
+        <ul>
+          {{ range $planet.traits }}
+            <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+
+        <h2>Resources</h2>
+        {{ if gt ($planet.resources | len) 0 }}
+          {{ $planet.resources | len }} resources can be found on {{ .Page.Title }}.
+          <ul>
+          {{ range $planet.resources }}
+              {{ $resource_page_file := printf "/items/resources/%s" . }}
+              {{ $resource_page := $.Site.GetPage $resource_page_file }}
+              <li><a href="{{ $resource_page.Permalink }}">{{ . }}</a></li>
+          {{ end }}
+          </ul>
+        {{ else }}
+          {{ .Page.Title }} has no resources.
+        {{ end }}
+
+
+        <h2>Flora</h2>
+        {{ if gt ($planet.flora | len) 0 }}
+          {{ .Page.Title }} is home to {{ $planet.flora | len }} species of flora.
+          <table>
+            <tr>
+              <th>Name</th>
+              <th>Resource</th>
+              <th>Farmable</th>
+              <th>Biomes</th>
+              <th>Reproduction</th>
+              <th>Genetics</th>
+              
+            </tr>
+            {{ range $flora_name, $flora_details := $planet.flora }}
+            <tr>
+              <td>{{ $flora_name }}</td>
+              <td>
+                {{ $resource_page_file := printf "/items/resources/%s" $flora_details.resource }}
+                {{ $resource_page := $.Site.GetPage $resource_page_file }}
+                {{ if $resource_page }}
+                  <a href="{{ $resource_page.Permalink }}">{{ $flora_details.resource }}</a>
+                {{ else }}
+                  {{ $flora_details.resource }}
+                {{ end }}
+              </td>
+              <td>
+                {{ if $flora_details.output_production_allowed }}
+                &check;
+                {{ end }}
+              </td>
+              <td>
+                <ul>
+                {{ range $flora_details.biomes }}
+                  <li>{{ . }}</li>
+                {{end}}
+              </ul>
+              </td>
+              <td>{{ $flora_details.reproduction }}</td>
+              <td>
+                <ul>
+                {{ range $flora_details.genetics }}
+                  <li>{{ . }}</li>
+                {{end}}
+              </ul>
+              </td>
+            </tr>
+            {{ end }}
+          </table>
+        {{ else }}
+          {{ .Page.Title }} has no flora.
+        {{ end }}
+
+
+        <h2>Fauna</h2>
+        {{ if gt ($planet.fauna | len) 0 }}
+          {{ .Page.Title }} is home to {{ $planet.fauna | len }} species of fauna.
+          <table>
+            <tr>
+              <th>Name</th>
+              <th>Resource</th>
+              <th>Farmable</th>
+              <th>Non Lethal Harvest</th>
+              <th>Temperment</th>
+              <th>Biomes</th>
+            </tr>
+            {{ range $fauna_name, $fauna_details := $planet.fauna }}
+              <tr>
+                <td>{{ $fauna_name }}</td>
+                <td>
+                  {{ $resource_page_file := printf "/items/resources/%s" $fauna_details.resource }}
+                  {{ $resource_page := $.Site.GetPage $resource_page_file }}
+                  {{ if $resource_page }}
+                    <a href="{{ $resource_page.Permalink }}">{{ $fauna_details.resource }}</a>
+                  {{ else }}
+                    {{ $fauna_details.resource }}
+                  {{ end }}
+                </td>
+                <td>
+                  {{ if $fauna_details.output_production_allowed }}
+                  &check;
+                  {{ end }}
+                </td>
+                <td>
+                  {{ if $fauna_details.non_lethal_harvest }}
+                  &check;
+                  {{ end }}
+                </td>
+                <td>{{$fauna_details.temperment }} </td>
+                <td>
+                  <ul>
+                  {{ range $fauna_details.biomes }}
+                    <li>{{ . }}</li>
+                  {{end}}
+                </ul>
+                </td>
+              </tr>
+            {{ end }}
+          </table>
+        {{ else }}
+          {{ .Page.Title }} has no fauna.
+        {{ end }}
+
+        <h2>Moons</h2>
+        <ul>
+          {{ range $.Site.Data.moons }}
+            {{ if eq .planet $planet_name }}
+
+            {{ $moon_page_file := printf "/locations/moons/%s" .name }}
+            {{ $moon_page := $.Site.GetPage $moon_page_file }}
+            {{ if $moon_page }}
+              <li><a href="{{ $moon_page.Permalink }}">{{ .name }}</a></li>
+            {{ else }}
+            <li>{{ .name }}</a></li>
+            {{ end }}
+              
+            {{ end }}
+          {{ end }}
+        </ul>
+      </div>
+      {{ partial "page_credits.html" (slice $.Site.Data.sources $credits .Title) }}
+    </div>
+  </div>
+</div>
+{{ end }}

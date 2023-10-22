@@ -1,0 +1,4 @@
++++
+title = "Nirvana"
+type = 'system'
++++

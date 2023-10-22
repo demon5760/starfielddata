@@ -1,0 +1,191 @@
+name: Montara Luna
+planet: Montara
+type: Rock
+gravity: 0.39 G
+temperature: Temperate
+atmosphere: Thin O2
+magnetosphere: Average
+fauna_rating: Moderate
+flora_rating: Moderate
+water: Chemical
+o2: 18%
+temp: 13° 
+flora:
+  Twilight Cradleleaf:
+    resource: Nutrient
+    biomes:
+      - Swamp
+      - Hills
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    output_production_allowed: true
+    required_inputs:
+      - Water
+
+  Savanna Sweetbush:
+    resource: Metabolic Agent
+    biomes:
+      - Swamp
+      - Hills
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-Fertilization
+
+  Blooming Slopfeather:
+    resource: Structural
+    biomes:
+      - Hills
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Complex
+    output_production_allowed: true
+    required_inputs:
+      - Water
+
+  Golden Creeper:
+    resource: Sealant
+    biomes:
+      - Frozen Plains
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    output_production_allowed: true
+    required_inputs:
+      - Water
+
+  Sweet Canis Vine:
+    resource: Cosmetic
+    biomes:
+      - Swamp
+      - Coniferous Forest
+      - Hills
+    genetics:
+      - Chiral Opposite
+      - Carbon-based
+    reproduction: Complex
+    output_production_allowed: true
+    required_inputs:
+      - Water
+
+  Crag Root:
+    resource: Toxin
+    biomes:
+      - Swamp
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    output_production_allowed: true
+    required_inputs:
+      - Water
+
+  Savage Woundwort:
+    resource: Amino Acids
+    biomes:
+      - Swamp
+    genetics:
+      - Chiral Opposite
+      - Carbon-based
+    reproduction: Complex
+    output_production_allowed: true
+    required_inputs:
+      - Water
+
+fauna:
+  Schooling Featherfin Filterer:
+    temperment: Peaceful
+    resource: Nutrient
+    biomes:
+      - Swamp
+      - Ocean
+    health: 50
+
+  Swarming Sunflower:
+    temperment: Territorial
+    resource: Antimicrobial
+    biomes:
+      - Swamp
+      - Hills
+      - Savanna
+    health: 100
+    resistances: []
+    abilities: []
+
+  Pack Octomaggot:
+    temperment: Territorial
+    resource: Amino Acids
+    biomes:
+      - Swamp
+      - Hills
+      - Savanna
+    health: 300
+
+  Centiskull Grazer:
+    temperment: Skittish
+    resource: Fiber
+    non_lethal_harvest: true
+    biomes:
+      - Swamp
+      - Frozen Plains
+      - Coniferous Forest
+      - Hills
+      - Savanna
+    health: 20
+
+  Herding Cockatrice Herbivore:
+    temperment: Wary
+    resource: Pigment
+    non_lethal_harvest: true
+    biomes:
+      - Swamp
+      - Coniferous Forest
+      - Hills
+      - Savanna
+    health: 50
+    output_production_allowed: true
+  
+  Flocking Horsamander Grazer:
+    temperment: Wary
+    resource: Spice
+    non_lethal_harvest: true
+    biomes:
+      - Swamp
+      - Hills
+      - Savanna
+    health: 50
+    abilities: []
+    output_production_allowed: true
+
+  Flocking Dodo Grazer:
+    temperment: Peaceful
+    resource: Membrane
+    biomes:
+      - Swamp
+      - Hills
+      - Savanna
+    health: 50
+    output_production_allowed: true
+
+traits:
+  - Primordial Network
+  - Psychotropic Biota
+resources:
+  - Water
+  - Argon
+  - Aluminum
+  - Chlorine
+  - Nickel
+  - Benzene
+  - Cobalt
+  - Carboxylic Acids
+credits:
+  - Demon5760

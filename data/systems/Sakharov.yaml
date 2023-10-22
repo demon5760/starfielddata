@@ -1,0 +1,13 @@
+name: Sakharov
+level: 15
+faction: None
+catalogue_id: Gl 674
+spectral_class: M3
+temperature: 3600 K
+mass: 0.37 SM
+radius: 352327
+magnitude: 11.09
+planets: 2
+moons: 0
+credits:
+  - Inara

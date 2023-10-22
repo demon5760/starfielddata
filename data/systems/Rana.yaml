@@ -1,0 +1,13 @@
+name: Rana
+level: 65
+faction: None
+catalogue_id: NN 3841
+spectral_class: F5
+temperature: 6675 K
+mass: 1.30 SM
+radius: 835560
+magnitude: 3.33
+planets: 9
+moons: 15
+credits:
+  - Inara

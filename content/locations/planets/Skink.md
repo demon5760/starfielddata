@@ -1,0 +1,4 @@
++++
+title = 'Skink'
+type = 'planet'
++++

@@ -1,0 +1,13 @@
+name: Jaffa
+level: 35
+faction: None
+catalogue_id: Gl 616
+spectral_class: G1
+temperature: 5915 K
+mass: 1.05 SM
+radius: 717189
+magnitude: 4.78
+planets: 8
+moons: 12
+credits:
+  - Inara

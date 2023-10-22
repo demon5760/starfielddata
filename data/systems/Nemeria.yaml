@@ -1,0 +1,13 @@
+name: Nemeria
+level: 35
+faction: None
+catalogue_id: Gl 672
+spectral_class: G0
+temperature: 6000 K
+mass: 1.10 SM
+radius: 731114
+magnitude: 4.60
+planets: 7
+moons: 12
+credits:
+  - Inara

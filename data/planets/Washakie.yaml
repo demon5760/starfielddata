@@ -1,0 +1,27 @@
+name: Washakie
+system: Cheyenne
+type: Rock
+gravity: 0.69 G
+temperature: Frozen
+atmosphere: Standard M
+magnetosphere: Weak
+fauna_rating: None
+flora_rating: None
+water: Heavy Metal
+o2: 0%
+temp: -54° 
+flora: {}
+fauna: {}
+traits:
+  - Primed For Life (Warm Pond)
+  - Sonorous Lithosphere (Oscilating Crystals)
+resources:
+  - Water
+  - Lead
+  - Uranium
+  - Argon
+  - Benzene
+  - Silver
+  - Neon
+credits:
+  - Demon5760

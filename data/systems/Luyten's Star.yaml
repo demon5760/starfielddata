@@ -1,0 +1,13 @@
+name: Luyten's Star
+level: 5
+faction: None
+catalogue_id: Gl 273
+spectral_class: M1
+temperature: 3150 K
+mass: 0.26 SM
+radius: 243721
+magnitude: 11.94
+planets: 1
+moons: 0
+credits:
+  - Inara

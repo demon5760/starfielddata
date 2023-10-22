@@ -1,0 +1,13 @@
+name: Sirius
+level: 5
+faction: None
+catalogue_id: Gl 244A
+spectral_class: A2
+temperature: 9940 K
+mass: 2.06 SM
+radius: 1190001
+magnitude: 1.45
+planets: 3
+moons: 3
+credits:
+  - Inara

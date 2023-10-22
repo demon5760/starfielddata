@@ -1,0 +1,13 @@
+name: Schrodinger
+level: 65
+faction: None
+catalogue_id: Gl 699.2
+spectral_class: F3
+temperature: 7005 K
+mass: 1.46 SM
+radius: 1363876
+magnitude: 2.76
+planets: 8
+moons: 14
+credits:
+  - Inara

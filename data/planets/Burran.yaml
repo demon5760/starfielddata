@@ -1,0 +1,20 @@
+name: Burran
+system: Cheyenne
+type: Barren
+gravity: 1.09 G
+temperature: Frozen
+atmosphere: None
+magnetosphere: Very Strong
+fauna_rating: None
+flora_rating: None
+water: None
+o2: 0%
+temp: -117° 
+flora: {}
+fauna:  {}
+traits: []
+resources:
+  - Iron
+  - Helium-3
+credits:
+  - Demon5760

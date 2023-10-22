@@ -1,0 +1,26 @@
+name: Hardpoint
+planet: Navaha
+type: Rock
+gravity: 0.31 G
+temperature: Deep Freeze
+atmosphere: Thin N2
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: Chemical
+o2: 0%
+temp: -220° 
+flora: {}
+fauna: {}
+traits:
+  - Gaseous Font
+resources:
+  - Water
+  - Helium-3
+  - Aluminum
+  - Copper
+  - Iron
+  - Fluorine
+  - Ytterbium
+credits:
+  - Demon5760

@@ -1,0 +1,13 @@
+name: Porrima
+level: 30
+faction: None
+catalogue_id: Gl 482A
+spectral_class: F0
+temperature: 7500 K
+mass: 1.56 SM
+radius: 973700
+magnitude: 2.40
+planets: 6
+moons: 15
+credits:
+  - Inara

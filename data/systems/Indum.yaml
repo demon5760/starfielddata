@@ -1,0 +1,13 @@
+name: Indum
+level: 20
+faction: None
+catalogue_id: Gl 663B
+spectral_class: K1
+temperature: 5035 K
+mass: 0.76 SM
+radius: 576536
+magnitude: 6.19
+planets: 5
+moons: 10
+credits:
+  - Inara

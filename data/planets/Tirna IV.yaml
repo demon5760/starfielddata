@@ -1,0 +1,28 @@
+name: Tirna IV
+system: Alpha Tirna
+type: Rock
+gravity: 0.80 G
+temperature: Cold
+atmosphere: Standard M
+magnetosphere: Very Strong
+fauna_rating: None
+flora_rating: None
+water: Safe
+o2: 0%
+temp: -46° 
+flora: {}
+fauna: {}
+traits:
+  - Continual Conductor (Crystalline Briars)
+  - Active Faulting (Tectonic Faulting)
+  - Sonorous Lithosphere (Oscilating Crystals)
+resources:
+  - Water
+  - Nickel
+  - Iron
+  - Uranium
+  - Argon
+  - Cobalt
+  - Vanadium
+credits:
+  - Demon5760

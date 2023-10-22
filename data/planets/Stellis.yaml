@@ -1,0 +1,16 @@
+name: Stellis
+system: Cheyenne
+type: Gas Giant
+gravity: 4.19 G
+temperature: Deep Freeze
+atmosphere: H2
+magnetosphere: Massive 
+fauna_rating: None
+flora_rating: None
+water: None
+flora: {}
+fauna: {}
+traits: []
+resources: []
+credits:
+  - Demon5760

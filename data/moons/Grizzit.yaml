@@ -1,0 +1,21 @@
+name: Grizzit
+planet: Burran
+type: Barren
+gravity: 0.13 G
+temperature: Frozen
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: None
+o2: 0%
+temp: -118° 
+flora: {}
+fauna: {}
+traits: []
+resources:
+  - Helium-3
+  - Aluminum
+  - Beryllium
+credits:
+  - Demon5760

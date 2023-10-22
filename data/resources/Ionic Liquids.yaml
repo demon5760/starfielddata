@@ -1,0 +1,9 @@
+name: Ionic Liquids
+symbol: IL
+type: Inorganic
+rarity: Exotic
+mass: 0.80
+value: 23
+state: Liquid
+credits:
+  - Demon5760

@@ -1,0 +1,22 @@
+name: Ursa Minor II-a
+planet: Ursa Minor II
+type: Barren
+gravity: 0.09 G
+temperature: Cold
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: None
+o2: TBD%
+temp: TBD° 
+flora: {}
+fauna: {}
+traits:
+  - Bolide Bombardment (Impact Crater)
+resources:
+  - Helium-3
+  - Aluminum
+  - Europium
+credits:
+  - Demon5760

@@ -1,0 +1,70 @@
+name: Jae Montreal
+location:
+  building: Store
+  city: New Homestead
+  planet: Titan
+  system: Sol
+items:
+  SPACESUITS: {}
+  HELMETS: {}
+  APPAREL: {}
+  AID: {}
+  NOTES: {}
+  RESOURCES:
+    ADHESIVE: 12
+    ALKANES: 13
+    ALUMINUM: 7
+    AMINO ACIDS: 10
+    ANALGESIC: 12
+    ANTIMICROBIAL: 10
+    ANTIMONY: 30
+    ARGON: 5
+    AROMATIC: 11
+    BENZENS: 19
+    BERYLIUM: 12
+    CAESIUM: 25
+    CLORINE: 6
+    CHLOROSILANES: 14
+    COPPER: 10
+    COSMETIC: 8
+    DYSPROSIUM: 56
+    EUROPIUM: 40
+    FIBER: 4
+    GOLD: 24
+    HALLUCINOGEN: 14
+    HELLIUM-3: 5
+    HYPERCATALYST: 18
+    INDICITE: 108
+    IONIC LIQUIDS: 23
+    IRIDIUM: 14
+    IRON: 8
+    LEAD: 10
+    LITHIUM: 14
+    MEMBRANE: 9
+    METABOLIC AGENT: 9
+    NEODYMIUM: 20
+    NEON: 16
+    NEOROLOGIC: 67
+    NICKEL: 10
+    NUTRIENT: 5
+    ORNAMENTAL MATERIAL: 11
+    PGMENT: 10
+    PLATINUM: 24
+    PLUTONIUM: 64
+    POLYMER: 20
+    SEALANT: 6
+    SEDATIVE: 12
+    SILVER: 20
+    SPICE: 11
+    STIMULANT: 20
+    STRUCTURAL MATERIAL: 7
+    TANTALUM: 23
+    TETRAFLOURIDES: 18
+    TIANIUM: 12
+    TOXIN: 8
+    TUNGSTEN: 16
+    URANIUM: 14
+    VANADIUM: 24
+    WATER: 4
+    YTTERBIUM: 38
+  MISC: {}

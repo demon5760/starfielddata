@@ -1,0 +1,158 @@
+name: Kumasi I
+system: Kumasi
+type: Rock
+gravity: 1.69 G
+temperature: Temperate
+atmosphere: High O2
+magnetosphere: Very Strong
+fauna_rating: Moderate
+flora_rating: Moderate
+water: Heavy Metal
+o2: 24%
+temp: 39° 
+flora:
+  Atlas Weed:
+    resource: Fiber
+    biomes:
+      - Tropical Forest
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Autumn Junglebloom:
+    resource: Toxin
+    biomes:
+      - Tropical Forest
+      - Deciduous Forest
+      - Wetlands
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+
+  Desiccated Yarberry:
+    resource: Sealant
+    biomes:
+      - Wetlands
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Dappled Ash Bloom:
+    resource: Structural
+    biomes:
+      - Volcanic
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+fauna:
+  Pack Twistfin:
+    temperament: Wary
+    resource: Antimicrobial
+    non_lethal_harvest: true
+    biomes:
+      - Volcanic
+    health: 310
+    abilities:
+      - Ranged mouth attack
+
+  Flocking Cephalopod Scavenger:
+    temperament: Wary
+    resource: Adhesive
+    non_lethal_harvest: true
+    biomes:
+      - Volcanic
+    health: 145
+    abilities:
+      - Ranged mouth attack
+
+  Hunting Brainsprout:
+    temperament: Wary
+    resource: Sedative
+    biomes:
+      - Deciduous Forest
+    health: 345
+
+  Flocking Shellephant Herbivore:
+    temperament: Peaceful
+    resource: Membrane
+    non_lethal_harvest: true
+    biomes:
+      - Deciduous Forest
+    health: 145
+    resistances:
+      - Energy damage
+      - Physical damage
+
+  Schooling Exowhale Filterer:
+    temperament: Peaceful
+    resource: Pigment
+    biomes:
+      - Ocean
+    health: 70
+
+  Toadface Grazer:
+    temperament: Wary
+    resource: Toxin
+    biomes:
+      - Wetlands
+      - Tropical Forest
+    health: 220
+
+  Pack Twintail:
+    temperament: Defensive
+    resource: Stimulant
+    biomes:
+      - Wetlands
+      - Tropical Forest
+    health: 240
+    abilities:
+      - Ranged mouth attack
+
+  Herding Glowback Scavenger:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Frozen Volcanic
+      - Wetlands
+      - Tropical Forest
+      - Volcanic
+      - Decidous Forest
+    health: 95
+
+  Carasnail Scavenger:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    biomes:
+      - Frozen Volcanic
+      - Wetlands
+      - Tropical Forest
+      - Volcanic
+      - Decidous Forest
+    health: 20
+
+traits:
+  - Amphibious Foothold (Remains Of Amphibious Lifeforms)
+  - Primordial Network (Ancient Ortet Nodule)
+resources:
+  - Water
+  - Chlorine
+  - Lead
+  - Argon
+  - Neon
+credits:
+  - Demon5760

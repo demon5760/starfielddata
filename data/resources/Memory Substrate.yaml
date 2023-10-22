@@ -1,0 +1,13 @@
+name: Memory Substrate
+type: Organic
+rarity: Unique
+mass: 1.40
+value: 65
+farming:
+  Greenhouse:
+    Water: 1
+  Animal Husbandry Facility:
+    - Fiber: 2
+      Water: 1
+credits:
+  - Demon5760

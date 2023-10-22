@@ -1,0 +1,77 @@
+{{ define "main" }}
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-16">
+	      <h2> Pharmacology</h2>
+{{ range $.Site.Data.research.Pharmacology }}
+        {{ range . }}
+          <h3>{{ .name }}</h3>
+          <table>
+            <tr><th>Level</th><th>Resources</th><th>Unlocks</th><th>Required Kills</th><th>Required Research</th></tr>
+
+          {{ range $lvl_name, $lvl_data := .levels }}
+            <tr>
+              <td>{{ $lvl_name }}</td>
+              <td> 
+                <ul>
+                {{ range $res_name, $res_qty := $lvl_data.resources }}
+                  <li>{{ $res_qty }} x {{ $res_name }}</li>
+                {{ end }}
+                </ul>
+              </td>
+              <td> 
+                <ul>
+                {{ range $lvl_data.unlocks }}
+                  <li>{{ . }}</li>
+                {{ end }}
+                </ul>
+              </td>
+              <td> 
+                <ul>
+                  {{ range $key, $value := $lvl_data.required_skills }}
+                    <li>{{ $key }} {{ $value }}</li>
+                  {{ end }}
+                  </ul>
+              </td>
+              <td>
+                <ul>
+                  {{ range $key, $value := $lvl_data.required_research }}
+                    <li>{{ $key }} {{ $value }}</li>
+                  {{ end }}
+                </ul>
+              </td>
+            </tr>
+          {{ end }}
+          </table>
+        {{ end }}
+
+{{ end }}
+
+        {{ with .Content }}
+          <div class="well">
+            {{.}}
+          </div>
+        {{ end }}
+        <div class="posts-list">
+          {{ range .Paginator.Pages }}
+            {{ partial "post_preview.html" .}}
+          {{ end }}
+        </div>
+        {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+          <ul class="pager main-pager">
+            {{ if .Paginator.HasPrev }}
+              <li class="previous">
+                <a href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}/">&larr; {{ i18n "newerPosts" }}</a>
+              </li>
+            {{ end }}
+            {{ if .Paginator.HasNext }}
+              <li class="next">
+                <a href="{{ .Permalink }}page/{{ .Paginator.Next.PageNumber }}/">{{ i18n "olderPosts" }} &rarr;</a>
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+{{ end }}

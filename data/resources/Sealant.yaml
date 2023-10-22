@@ -1,0 +1,15 @@
+name: Sealant
+type: Organic
+rarity: Common
+mass: 0.50
+value: 6
+farming:
+  Greenhouse:
+    Water: 1
+  Animal Husbandry Facility:
+    - Fiber: 2
+      Water: 1
+    - Nutrient: 2
+      Water: 1
+credits:
+  - Demon5760

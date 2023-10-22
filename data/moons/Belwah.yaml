@@ -1,0 +1,26 @@
+name: Belwah
+planet: Navaha
+type: Rock
+gravity: 0.50 G
+temperature: Deep Freeze
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: None
+o2: 0%
+temp: -220° 
+flora: {}
+fauna: {}
+traits: []
+resources:
+  - Water
+  - Iron
+  - Nickel
+  - Uranium
+  - Argon
+  - Cobalt
+  - Iridium
+  - Vanadium
+credits:
+  - Demon5760

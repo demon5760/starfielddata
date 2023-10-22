@@ -1,0 +1,21 @@
+name: Wellish
+planet: Montara
+type: Ice
+gravity: 0.10 G
+temperature: Deep Freeze
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: Chemical
+o2: 0%
+temp: -178° 
+flora: {}
+fauna: {}
+traits: []
+resources:
+  - Water
+  - Copper
+  - Ionic Liquids
+credits:
+  - Demon5760

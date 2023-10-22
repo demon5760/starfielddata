@@ -1,0 +1,13 @@
+name: Fiber
+type: Organic
+rarity: Common
+mass: 0.50
+value: 4
+farming:
+  Greenhouse:
+    Water: 1
+  Animal Husbandry Facility:
+    - Nutrient: 2
+      Water: 1
+credits:
+  - Demon5760

@@ -1,0 +1,21 @@
+name: Agamon C
+planet: Agamon
+type: Ice
+gravity: 0.19 G
+temperature: Deep Freeze
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: Safe
+o2: 0%
+temp: -190° 
+flora: {}
+fauna: {}
+traits: []
+resources:
+  - Water
+  - Argon
+  - Benzene
+credits:
+  - Demon5760

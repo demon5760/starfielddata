@@ -1,0 +1,21 @@
+name: Rell
+planet: Burran
+type: Barren
+gravity: 0.18 G
+temperature: Fozen
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: None
+o2: 0%
+temp: -119° 
+flora: {}
+fauna: {}
+traits: []
+resources:
+  - Helium-3
+  - Aluminum
+  - Beryllium
+credits:
+  - Demon5760

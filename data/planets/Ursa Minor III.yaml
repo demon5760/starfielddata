@@ -1,0 +1,25 @@
+name: Ursa Minor III
+system: Ursae Minoris
+type: Rock
+gravity: 1.52 G
+temperature: Fozen
+atmosphere: Extra M
+magnetosphere: Average
+fauna_rating: None
+flora_rating: None
+water: Safe
+o2: 0%
+temp: -55° 
+flora: {}
+fauna: {}
+traits:
+  - Pelted Fields (Stony Meteorite)
+  - Sonorous Lithosphere (Oscilating Crystals)
+resources:
+  - Water
+  - Chlorine
+  - Copper
+  - Chlorosilanes
+  - Fluorine
+credits:
+  - Demon5760

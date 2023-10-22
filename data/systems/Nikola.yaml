@@ -1,0 +1,13 @@
+name: Nikola
+level: 40
+faction: None
+catalogue_id: NN 4056
+spectral_class: G5
+temperature: 5575 K
+mass: 0.93 SM
+radius: 647559
+magnitude: 11.13
+planets: 10
+moons: 9
+credits:
+  - Inara

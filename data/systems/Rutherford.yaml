@@ -1,0 +1,13 @@
+name: Rutherford
+level: 45
+faction: None
+catalogue_id: Gl 504
+spectral_class: G0
+temperature: 6000 K
+mass: 1.10 SM
+radius: 731114
+magnitude: 3.97
+planets: 6
+moons: 15
+credits:
+  - Inara

@@ -1,0 +1,15 @@
+name: Adaptive Frame
+type: Manufactured
+rarity: Common
+mass: 1.60
+value: 24
+crafting:
+  Industrial Workbench:
+    - Aluminum: 1
+      Iron: 1
+  Simple Fabricator:
+    - Aluminum: 1
+      Iron: 1
+credits:
+  - Demon5760
+

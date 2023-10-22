@@ -1,0 +1,9 @@
+name: Uranium
+symbol: U
+type: Inorganic
+rarity: Common
+mass: 0.70
+value: 14
+state: Solid
+credits:
+  - Demon5760

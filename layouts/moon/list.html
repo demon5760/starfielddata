@@ -1,0 +1,44 @@
+{{ define "main" }}
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        {{ with .Content }}
+         <div class="well">
+            {{.}}
+          </div>
+
+        {{ end }}
+        <div class="page-list">
+            <table>
+              <tr><th>Name</th><th>Planet</th><th>System</th></tr>
+            {{ range .Pages }}
+            {{ $moon := index $.Site.Data.moons .Title }}
+            <tr>
+              <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+              <td>
+                {{ $planet_page_file := printf "/locations/planets/%s" $moon.planet }}
+                {{ $planet_page := .Site.GetPage $planet_page_file }}
+                {{ $planet := index $.Site.Data.planets $moon.planet  }}
+                {{ if $planet_page }}
+                  <a href="{{$planet_page.Permalink}}">{{ $moon.planet }}</a>
+                {{ else }}
+                  {{ $moon.planet }}
+                {{ end }}
+              </td>
+              <td>
+                {{ $system_page_file := printf "/locations/systems/%s" $planet.system }}
+                {{ $system_page := .Site.GetPage $system_page_file }}
+                {{ if $system_page }}
+                  <a href="{{$system_page.Permalink}}">{{ $planet.system }}</a>
+                {{ else }}
+                  {{ $planet.system }}
+                {{ end }}
+              </td>
+            </tr>
+            {{ end}}
+            </table>
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}

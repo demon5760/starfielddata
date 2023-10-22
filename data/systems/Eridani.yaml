@@ -1,0 +1,13 @@
+name: Eridani
+level: 20
+faction: None
+catalogue_id: Gl 139
+spectral_class: G8
+temperature: 5400 K
+mass: 0.70 SM
+radius: 639860
+magnitude: 5.35
+planets: 9
+moons: 14
+credits:
+  - Inara

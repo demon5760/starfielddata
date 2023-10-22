@@ -1,0 +1,24 @@
+name: Agamon A
+planet: Agamon
+type: Ice
+gravity: 0.13 G
+temperature: Deep Freeze
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: Safe
+o2: 0%
+temp: -188° 
+flora: {}
+fauna: {}
+traits:
+  - Frozen Ecosystem (Uplifted Fossils)
+  - Coralline Landmass (Coralline Mineral Pool)
+  - Crystalline Crust (Crystalline Nucleation Nodule)
+resources:
+  - Water
+  - Copper
+  - Argon
+credits:
+  - Demon5760

@@ -1,0 +1,174 @@
+{{ define "main" }}
+
+{{ $moon_name := .Page.Title }}
+{{ $moon := index $.Site.Data.moons $moon_name }}
+
+{{ $planet_name := $moon.planet }}
+{{ $planet := index $.Site.Data.planets $planet_name }}
+{{ $planet_page_file := printf "/locations/planets/%s" $planet_name }}
+{{ $planet_page := .Site.GetPage $planet_page_file }}
+
+{{ $system := index $.Site.Data.systems $planet.system }}
+{{ $system_page_file := printf "/locations/systems/%s" $planet.system }}
+{{ $system_page := .Site.GetPage $system_page_file }}
+
+{{ $credits := slice }}
+{{ if $moon.credits }}
+  {{ $credits = $credits | append $moon.credits}}
+{{ end }}
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <aside>
+        {{ .TableOfContents }}
+      </aside>
+      <hr />
+      <article role="main" class="blog-post">
+        
+        {{ .Content }}
+
+      </article>
+      <div>
+        {{ .Page.Title }} orbits <a href="{{ $planet_page.Permalink }}">{{ $planet.name }}</a> in the <a href="{{ $system_page.Permalink }}">{{ $system.name }}</a> system.
+
+        <h2>General Information</h2>
+        <ul>
+          <li>Type: {{ $moon.type }}</li>
+          <li>Gravity: {{ $moon.gravity }}</li>
+          <li>Temperature: {{ $moon.temperature }}</li>
+          <li>Atmosphere: {{ $moon.atmosphere }}</li>
+          <li>Magnetosphere: {{ $moon.magnetosphere}}</li>
+          <li>Water: {{ $moon.water }}</li>
+        </ul>
+
+        
+        {{ if $moon.traits }}
+        <h2>Traits</h2>
+        {{ .Page.Title }} has {{ $moon.traits | len }} traits.
+        <ul>
+          {{ range $moon.traits }}
+            <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        {{ end }}
+
+
+        <h2>Resources</h2>
+        {{ $moon.resources | len }} resources can be found on {{ .Page.Title }}.
+        <ul>
+        {{ range $moon.resources }}
+            {{ $resource_page_file := printf "/items/resources/%s" . }}
+            {{ $resource_page := $.Site.GetPage $resource_page_file }}
+            <li><a href="{{ $resource_page.Permalink }}">{{ . }}</a></li>
+        {{ end }}
+        </ul>
+
+        <h2>Flora</h2>
+        {{ if gt ($moon.flora | len) 0 }}
+          {{ .Page.Title }} is home to {{ $moon.flora | len }} species of flora.
+          <table>
+            <tr>
+              <th>Name</th>
+              <th>Resource</th>
+              <th>Farmable</th>
+              <th>Biomes</th>
+              <th>Reproduction</th>
+              <th>Genetics</th>
+              
+            </tr>
+            {{ range $flora_name, $flora_details := $moon.flora }}
+            <tr>
+              <td>{{ $flora_name }}</td>
+              <td>
+                {{ $resource_page_file := printf "/items/resources/%s" $flora_details.resource }}
+                {{ $resource_page := $.Site.GetPage $resource_page_file }}
+                {{ if $resource_page }}
+                  <a href="{{ $resource_page.Permalink }}">{{ $flora_details.resource }}</a>
+                {{ else }}
+                  {{ $flora_details.resource }}
+                {{ end }}
+              </td>
+              <td>
+                {{ if $flora_details.output_production_allowed }}
+                &check;
+                {{ end }}
+              </td>
+              <td>
+                <ul>
+                {{ range $flora_details.biomes }}
+                  <li>{{ . }}</li>
+                {{end}}
+              </ul>
+              </td>
+              <td>{{ $flora_details.reproduction }}</td>
+              <td>
+                <ul>
+                {{ range $flora_details.genetics }}
+                  <li>{{ . }}</li>
+                {{end}}
+              </ul>
+              </td>
+            </tr>
+            {{ end }}
+          </table>
+        {{ else }}
+          {{ .Page.Title }} has no flora.
+        {{ end }}
+
+
+
+        <h2>Fauna</h2>
+        {{ if gt ($moon.fauna | len) 0 }}
+          {{ .Page.Title }} is home to {{ $moon.fauna | len }} species of fauna.
+          <table>
+            <tr>
+              <th>Name</th>
+              <th>Resource</th>
+              <th>Farmable</th>
+              <th>Non Lethal Harvest</th>
+              <th>Temperment</th>
+              <th>Biomes</th>
+            </tr>
+            {{ range $fauna_name, $fauna_details := $moon.fauna }}
+              <tr>
+                <td>{{ $fauna_name }}</td>
+                <td>
+                  {{ $resource_page_file := printf "/items/resources/%s" $fauna_details.resource }}
+                  {{ $resource_page := $.Site.GetPage $resource_page_file }}
+                  {{ if $resource_page }}
+                    <a href="{{ $resource_page.Permalink }}">{{ $fauna_details.resource }}</a>
+                  {{ else }}
+                    {{ $fauna_details.resource }}
+                  {{ end }}
+                </td>
+                <td>
+                  {{ if $fauna_details.output_production_allowed }}
+                  &check;
+                  {{ end }}
+                </td>
+                <td>
+                  {{ if $fauna_details.non_lethal_harvest }}
+                  &check;
+                  {{ end }}
+                </td>
+                <td>{{$fauna_details.temperment }} </td>
+                <td>
+                  <ul>
+                  {{ range $fauna_details.biomes }}
+                    <li>{{ . }}</li>
+                  {{end}}
+                </ul>
+                </td>
+              </tr>
+            {{ end }}
+          </table>
+        {{ else }}
+          {{ .Page.Title }} has no fauna.
+        {{ end }}
+      </div>
+      {{ partial "page_credits.html" (slice $.Site.Data.sources $credits .Title) }}
+    </div>
+  </div>
+</div>
+{{ end }}

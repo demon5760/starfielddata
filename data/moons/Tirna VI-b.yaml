@@ -1,0 +1,27 @@
+name: Tirna VI-b
+planet: Tirna VI
+type: Rock
+gravity: 0.45 G
+temperature: Frozen
+atmosphere: Thin CO2
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: Chemical
+o2: TBD%
+temp: TBD° 
+flora: {}
+fauna: {}
+traits:
+  - Crystalline Crust ()
+resources:
+  - Water
+  - Helium-3
+  - Aluminum
+  - Chlorine
+  - Copper
+  - Fluorine
+  - Gold
+  - Europium
+credits:
+  - Demon5760

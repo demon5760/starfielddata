@@ -1,0 +1,13 @@
+name: Barnard's Star
+level: 1
+faction: None
+catalogue_id: Gl 699
+spectral_class: M4
+temperature: 3130 K
+mass: 0.14 SM
+radius: 136484
+magnitude: 13.24
+planets: 1
+moons: 0
+credits:
+  - Inara

@@ -1,0 +1,63 @@
+name: Tirna II
+system: Alpha Tirna
+type: Rock
+gravity: 0.88 G
+temperature: Temperate
+atmosphere: Standard O2
+magnetosphere: Powerful
+fauna_rating: Moderate
+flora_rating: Moderate
+water: Safe
+o2: 21%
+temp: 34° 
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  Musard Bugweed:
+    resource: Metabolic Agent
+    biomes:
+      - Sandy Desert
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Cabon-based
+    reproduction: Spores
+    resproduction2: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+fauna:
+  Flocking Toadface Herbivore:
+    temperament: Wary
+    resource: Cosmetic
+    biomes:
+      - Volcanic
+      - Sandy Desert
+      - Mountains
+    health: 390
+    abilities:
+      - Extra Health
+    outpost_production_allowed: true
+
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+traits:
+  - Ecological Consortium (Hive Structures)
+  - Global Glacial Recession (Glacial Remnant)
+resources:
+  - Water
+  - Chlorine
+  - Copper
+  - Lead
+  - Fluorine
+  - Ionic Liquids
+  - Dysprosium
+credits:
+  - Demon5760

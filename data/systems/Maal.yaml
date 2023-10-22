@@ -1,0 +1,13 @@
+name: Maal
+level: 60
+faction: None
+catalogue_id: TBD
+spectral_class: F8
+temperature: 6180 K
+mass: 1.18 SM
+radius: 772893
+magnitude: 3.02
+planets: 10
+moons: 13
+credits:
+  - Inara

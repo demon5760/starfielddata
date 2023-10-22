@@ -1,0 +1,13 @@
+name: Fermi
+level: 75
+faction: None
+catalogue_id: TBD 
+spectral_class: G5
+temperature: 5,575 K
+mass: 0.93 SM
+radius: 647559
+magnitude: 4.23
+planets: 10
+moons: 19
+credits:
+  - Inara

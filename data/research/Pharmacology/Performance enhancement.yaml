@@ -1,0 +1,52 @@
+data:
+  name: Performance Enhancement
+  levels:
+    1:
+      resources:
+        Argon: 2
+        Metabolic Agent: 3
+        Tetrafluorides: 2
+      unlocks:
+        - Amp
+        - Red Trench
+    2:
+      resources:
+        Carboxylic Acids: 10
+        Hippolyta: 5
+        Infantry Alpha: 5
+        Membrane: 10
+        Solvent: 10
+      unlocks:
+        - Panopticon
+        - Paramour
+      required_research:
+        Performance Enhancement: 1
+      required_skills:
+        Chemistry: 1
+    3:
+      resources:
+        Ionic Liquids: 10
+        Squall: 5
+        Stimulant: 10
+        Synapse Alpha: 5
+        Toxin: 10
+      unlocks:
+        - Neurajack
+        - Whiteout
+      required_research:
+        Performance Enhancement: 2
+      required_skills:
+        Chemistry: 2
+    4:
+      resources:
+        Aurora: 10
+        CQB-X: 10
+        Squall: 10
+        Stimulant: 20
+        Whiteout: 8
+      unlocks:
+        - Frostwolf
+      required_research:
+        Performance Enhancement: 3
+      required_skills:
+        Chemistry: 3

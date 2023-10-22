@@ -1,0 +1,4 @@
++++
+title = 'Washakie'
+type = 'planet'
++++

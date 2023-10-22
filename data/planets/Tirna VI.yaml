@@ -1,0 +1,16 @@
+name: Tirna VI
+system: Alpha Tirna
+type: Gas Giant
+gravity: 1.86 G
+temperature: Deep Freeze
+atmosphere: H2
+magnetosphere: Strong
+fauna_rating: None
+flora_rating: None
+water: None
+flora: {}
+fauna: {}
+traits: []
+resources: []
+credits:
+  - Demon5760

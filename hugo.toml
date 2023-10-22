@@ -1,0 +1,37 @@
+baseURL = 'https://starfieldinfo.pages.dev/'
+languageCode = 'en-us'
+title = "Starfield Info"
+theme = 'beautifulhugo'
+
+[params]
+  disclaimerText = 'This website is a personal project. This site is not affiliated with, nor endorsed by Bethesda.'
+
+[menu]
+[[menu.main]]
+    name = 'Items'
+    pageRef = '/items'
+    weight = 10
+[[menu.main]]
+    name = 'Research'
+    pageRef = '/research'
+    weight = 20
+[[menu.main]]
+    name = 'Locations'
+    pageRef = '/locations'
+    weight = 30
+[[menu.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 99
+[[menu.main]]
+    name = 'Bookmarks'
+    pageRef = '/bookmarks'
+    weight = 100
+
+[taxonomies]
+  # defaults
+  category = 'categories'
+  tag = 'tags'
+
+  # Custom
+  # system = 'systems'

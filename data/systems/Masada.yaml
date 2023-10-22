@@ -1,0 +1,13 @@
+name: Masada
+level: 75
+faction: None
+catalogue_id: Gl 650
+spectral_class: G2
+temperature: 5830 K
+mass: 1.00 SM
+radius: 696300
+magnitude: 4.93
+planets: 9
+moons: 8
+credits:
+  - Inara

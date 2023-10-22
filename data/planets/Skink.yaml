@@ -1,0 +1,29 @@
+name: Skink
+system: Cheyenne
+type: Rock
+gravity: 1.02 G
+temperature: Inferno
+atmosphere: Standard CO2
+magnetosphere: Weak
+fauna_rating: None
+flora_rating: None
+water: None
+o2: 0%
+temp: 410° 
+flora: {}
+fauna: {}
+traits:
+  - Active Faulting (Tectonic Faulting)
+  - Gravitational Anomaly
+  - Prismatic Plumes (Crystaline Pools)
+resources:
+  - Water
+  - Copper
+  - Nickel
+  - Lead
+  - Flourine
+  - Cobalt
+  - Silver
+  - Mercury
+credits:
+  - Demon5760

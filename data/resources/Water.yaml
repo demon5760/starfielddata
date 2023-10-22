@@ -1,0 +1,9 @@
+name: Water
+symbol: H₂O
+type: Inorganic
+rarity: Common
+mass: 0.50
+value: 4
+state: Liquid
+credits:
+  - Demon5760

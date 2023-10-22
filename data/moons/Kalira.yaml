@@ -1,0 +1,22 @@
+name: Kalira
+planet: Montara
+type: Ice
+gravity: 0.09 G
+temperature: Deep Freeze
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: Safe
+o2: 0%
+temp: -177° 
+flora: {}
+fauna: {}
+traits: []
+resources:
+  - Water
+  - Copper
+  - Fluorine
+  - Gold
+credits:
+  - Demon5760

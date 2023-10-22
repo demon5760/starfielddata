@@ -1,0 +1,9 @@
+name: Plutonium
+symbol: Pu
+type: Inorganic
+rarity: Exotic
+mass: 1.60
+value: 64
+state: Solid
+credits:
+  - Demon5760

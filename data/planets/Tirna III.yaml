@@ -1,0 +1,27 @@
+name: Tirna III
+system: Alpha Tirna
+type: Rock
+gravity: 1.29 G
+temperature: Cold
+atmosphere: High M
+magnetosphere: Powerful
+fauna_rating: None
+flora_rating: None
+water: Chemical
+o2: 0%
+temp: -35° 
+flora: {}
+fauna: {}
+traits:
+  - Energetic Rifting (Fumarole Field)
+resources:
+  - Water
+  - Chlorine
+  - Nickel
+  - Lead
+  - Argon
+  - Fluorine
+  - Cobalt
+  - Silver
+credits:
+  - Demon5760

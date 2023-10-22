@@ -1,0 +1,24 @@
+name: Bindi
+planet: Akila
+type: Barren
+gravity: 0.23 G
+temperature: Temperate
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: None
+o2: 0%
+temp: 12° 
+flora: {}
+fauna: {}
+traits: []
+resources:
+  - Helium-3
+  - Aluminum
+  - Nickel
+  - Lead
+  - Uranium
+  - Silver
+credits:
+  - Demon5760

@@ -1,0 +1,21 @@
+name: Tirna B
+system: Beta Tirna
+type: Barren
+gravity: 0.04 G
+temperature: Deep Freeze
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: None
+o2: TBD%
+temp: TBD° 
+flora: {}
+fauna: {}
+traits: []
+resources:
+  - Helium-3
+  - Iron
+  - Alkanes
+credits:
+  - Demon5760

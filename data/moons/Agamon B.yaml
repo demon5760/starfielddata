@@ -1,0 +1,21 @@
+name: Agamon B
+planet: Agamon
+type: Ice
+gravity: 0.30 G
+temperature: Deep Freeze
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: Chemical
+o2: 0%
+temp: -191° 
+flora: {}
+fauna: {}
+traits:
+  - Gaseous Font (Outgassing Field)
+resources:
+  - Water
+  - Copper
+credits:
+  - Demon5760

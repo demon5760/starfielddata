@@ -1,0 +1,4 @@
++++
+title = 'Agamon'
+type = 'planet'
++++

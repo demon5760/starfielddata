@@ -1,0 +1,13 @@
+name: Khayyam
+level: 45
+faction: None
+catalogue_id: NN 3782B
+spectral_class: G4
+temperature: 5660 K
+mass: 0.95 SM
+radius: 663805
+magnitude: 6.31
+planets: 6
+moons: 12
+credits:
+  - Inara

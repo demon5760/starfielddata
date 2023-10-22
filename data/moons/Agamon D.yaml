@@ -1,0 +1,20 @@
+name: Agamon D
+planet: Agamon
+type: Ice
+gravity: 0.26 G
+temperature: Deep Freeze
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: Chemical
+o2: 0%
+temp: -190° 
+flora: {}
+fauna: {}
+traits: []
+resources:
+  - Water
+  - Copper
+credits:
+  - Demon5760

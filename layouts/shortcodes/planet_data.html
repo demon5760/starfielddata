@@ -1,0 +1,47 @@
+{{ $planet_name := .Page.Title }}
+{{ $planet := index $.Site.Data.planets $planet_name }}
+{{ $system := index $.Site.Data.systems $planet.system }}
+{{ $system_page_file := printf "/locations/systems/%s" $planet.system }}
+{{ $system_page := .Site.GetPage $system_page_file }}
+{{ $system_link := printf "[%s](%s)" $system.name $system_page.Permalink }}
+
+{{ .Page.Title }} is located in the {{ $system_link }} system.
+
+## General Information
+
+* Type: {{ $planet.type }}
+* Gravity: {{ $planet.gravity }}
+* Temperature: {{ $planet.temperature }}
+* Atmosphere: {{ $planet.atmosphere }}
+* Magnetosphere: {{ $planet.magnetosphere}}
+* Water: {{ $planet.water }}
+
+## Traits
+{{ .Page.Title }} has {{ $planet.traits | len }} traits.
+{{ range $planet.traits }}
+* {{ . }}
+{{ end }}
+
+## Resources
+{{ $planet.resources | len }} resources can be found on {{ .Page.Title }}.
+{{ range $planet.resources }}
+
+    {{ $resource_page_file := printf "/items/resources/%s" . }}
+    {{ $resource_page := $.Site.GetPage $resource_page_file }}
+* {{ printf "[%s](%s)" . $resource_page.Permalink }}
+{{ end }}
+
+## Flora
+{{ .Page.Title }} is home to {{ $planet.flora | len }} species of florae.
+{{ range $planet.flora }}
+* {{ . }}
+{{ end }}
+
+## Fauna
+There are {{ $planet.fauna | len }} different species of faunae on {{ .Page.Title }}
+{{ range $planet.fauna }}
+* {{ . }}
+{{ end }}
+
+
+

@@ -1,0 +1,13 @@
+name: Rasalhague
+level: 40
+faction: None
+catalogue_id: Gl 681
+spectral_class: A5
+temperature: 8040 K
+mass: 2.10 SM
+radius: 1808300
+magnitude: 1.22
+planets: 4
+moons: 3
+credits:
+  - Inara

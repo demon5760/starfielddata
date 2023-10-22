@@ -1,0 +1,52 @@
+data:
+  name: Medical Treatment
+  levels:
+    1:
+      resources:
+        Aluminium: 2
+        Amino Acids: 2
+        Antimicrobial: 3
+      unlocks: 
+        - Antibiotic Paste
+        - Infused Bandages
+    2:
+      resources:
+        Amino Acids: 10
+        Analgesic: 10
+        Antimicrobial: 10
+        Battlestim: 5
+        Heart+: 5
+      unlocks:
+        - Analgesic Poultice
+        - Boudicca
+      required_skills:
+        Chemistry: 1
+      required_research:
+        Medical treatment: 1
+    3:
+      resources:
+        Antibiotics: 10
+        Metabolic Agent: 20
+        Sealant: 10
+        Sedative: 10
+      unlocks:
+        - Antibiotic Injector
+        - Repairing Immobilizer
+      required_skills:
+        Chemistry: 2
+      required_research:
+        Medical treatment: 2
+    4:
+      resources:
+        Heart+: 10
+        Immuno Stimulant: 5
+        Membrane: 20
+        Trauma Pack: 10
+      unlocks:
+        - Junk Flush
+        - Panacea
+      required_skills:
+        Chemistry: 3
+      required_research:
+        Medical treatment: 3
+        

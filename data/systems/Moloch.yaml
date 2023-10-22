@@ -1,0 +1,13 @@
+name: Moloch
+level: 40
+faction: None
+catalogue_id: Gl 538
+spectral_class: G8
+temperature: 5320 K
+mass: 0.84 SM
+radius: 614,136
+magnitude: 5.12
+planets: 7
+moons: 7
+credits:
+  - Inara

@@ -1,0 +1,22 @@
+name: Antharum
+planet: Akila
+type: Barren
+gravity: 0.11 G
+temperature: Temperate
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: None
+o2: 0%
+temp: 11° 
+flora: {}
+fauna: {}
+traits: []  
+resources:
+  - Hellium-3
+  - Aluminum
+  - Beryllium
+  - Neodymium
+credits:
+  - Demon5760

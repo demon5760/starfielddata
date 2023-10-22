@@ -1,0 +1,4 @@
++++
+title = 'Stellis'
+type = 'planet'
++++

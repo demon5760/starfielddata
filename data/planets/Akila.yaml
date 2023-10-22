@@ -1,0 +1,176 @@
+name: Akila
+system: Cheyenne
+type: Rock
+gravity: 1.51 G
+temperature: Temperate
+atmosphere: High O2
+magnetosphere: Very Strong
+fauna_rating: Moderate
+flora_rating: Moderate
+water: Biological
+o2: 24%
+temp: 11°
+flora:
+  Golden Creeper:
+    resource: Hallucinogen
+    biomes:
+      - Frozen Plains
+      - Coniferous Forest
+      - Savanna
+    genetics:
+      - Double Helix
+      - HF-based
+    reproduction: Cuttings
+    output_production_allowed: true
+    required_inputs:
+      - Water
+    genetic2:
+      - Double Helix
+      - Carbon-based
+
+  Canary Reed:
+    resource: Nutrient
+    biomes:
+      - Coniferous Forest
+      - Savanna
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Complex
+
+  Savanna Sweetbush:
+    resource: Fiber
+    biomes:
+      - Coniferous Forest
+      - Savanna
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Self-fertilization
+
+  Chillhook:
+    resource: Toxin
+    biomes:
+      - Frozen Plains
+      - Coniferous Forest
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    output_production_allowed: true
+    required_inputs:
+      - Water
+
+  Cold Cave Nettle:
+    resource: Nutrient
+    biomes:
+      - Frozen Plains
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Spores
+    output_production_allowed: true
+    required_inputs:
+      - Water
+
+fauna:
+  Grazing Ensifer:
+    temperment: Wary
+    resource: Toxin
+    biomes:
+      - Coniferous Forest
+      - Savanna
+    health: 50
+    resistances:
+      - Energy damage
+      - Physical damage
+  Crawling Eurypterid:
+    temperment: Wary
+    resource: Aromatic
+    biomes:
+      - Coniferous Forest
+      - Frozen Plains
+    health: 20
+    output_production_allowed: true
+
+  Elk Crangon:
+    temperment: Wary
+    resource: Nutrient
+    biomes:
+      - Frozen Plains
+      - Savanna
+    health: 50
+    non_lethal_harvest: true
+    output_production_allowed: true
+
+  Ashta:
+    temperment: Fearless
+    resource: Antimicrobial
+    biomes:
+      - Frozen Plains
+      - Coniferous Forest
+      - Savanna
+    health: 300
+    abilities: []
+
+  Mossgnath:
+    temperment: Defensive
+    resource: Hallucinogen
+    biomes:
+      - Savanna
+    health: 360
+
+  Rainbow Agnathan:
+    temperment: Defensive
+    resource: Solvent
+    biomes:
+      - Ocean
+    health: 135
+    abilities:
+      - Laceration damage
+
+  Buzzrunner:
+    temperment: Defensive
+    resource: Sealant
+    biomes:
+      - Coniferous Forest
+    health: 100
+    abilities:
+      - Fast attacks
+
+  Dropsalm:
+    temperment: Defensive
+    resource: Structural
+    biomes:
+      - Coniferous Forest
+    health: 100
+    abilities:
+      - Venomous
+
+  Baleen Rotifer:
+    temperment: Peaceful
+    resource: Antimicrobial
+    biomes:
+      - Frozen Plains
+      - Savanna 
+    health: 20
+
+  Flying Leech:
+    temperment: Peaceful
+    resource: Cosmetic
+    biomes:
+      - Frozen Plains
+    health: 20
+
+traits:
+  - Primordial Network
+  - Crystaline Crust (Crystalline Nucleation Nodule)
+resources:
+  - Water
+  - Argon
+  - Aluminum
+  - Nickel
+  - Benzene
+  - Cobalt
+credits:
+  - Demon5760

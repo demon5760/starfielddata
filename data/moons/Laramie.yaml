@@ -1,0 +1,20 @@
+name: Laramie
+planet: Navaha
+type: Ice
+gravity: 0.33 G
+temperature: Deep Freeze
+atmosphere: Thin N2
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: Heavy Metal
+o2: 0%
+temp: -220° 
+flora: {}
+fauna: {}
+traits:  []
+resources:
+  - Water
+  - Chlorine
+credits:
+  - Demon5760

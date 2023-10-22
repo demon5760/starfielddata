@@ -1,0 +1,13 @@
+name: Ophion
+level: 45
+faction: None
+catalogue_id: Gl 580A
+spectral_class: K0
+temperature: 5200 K
+mass: 0.78 SM
+radius: 591855
+magnitude: 5.34
+planets: 1
+moons: 1
+credits:
+  - Inara

@@ -1,0 +1,21 @@
+name: Olaran
+planet: Navaha
+type: Ice
+gravity: 0.28 G
+temperature: Deep Freeze
+atmosphere: None
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: Heavy Metal
+o2: 0%
+temp: -220° 
+flora: {}
+fauna: {}
+traits: []
+resources:
+  - Water
+  - Argon
+  - Benzene
+credits:
+  - Demon5760

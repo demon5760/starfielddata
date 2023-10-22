@@ -1,0 +1,13 @@
+name: Leviathan
+level: 55
+faction: None
+catalogue_id: Gl 711
+spectral_class: K0
+temperature: 4890 K
+mass: 2.00 SM
+radius: 4101364
+magnitude: 1.89
+planets: 7
+moons: 3
+credits:
+  - Inara

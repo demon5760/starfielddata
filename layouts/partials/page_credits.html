@@ -1,0 +1,29 @@
+<div id="credits">
+    <hr />
+    The information on this page has been collected and aggregated from a number of different sources. 
+    Some amount of the information on this page has been sourced from the following locations:
+
+    {{ $sources := index . 0}}
+    {{ $credits := index . 1}}
+    {{ $title := index . 2}}
+
+    <ul>
+        {{ range $credits }}
+            {{ $credit := index $sources . }}
+            {{ if $credit }}
+                {{ $display_name := .}}
+                {{ if $credit.display_name }}
+                    {{ $display_name = $credit.display_name}}
+                {{ end }}
+
+                {{ if $credit.url }}
+                    <li><a href="{{ $credit.url }}">{{ $display_name }}</a></li>
+                {{ else }}
+                    <li>{{ $display_name }}</li>
+                {{ end }}                
+            {{ else }}
+                {{ warnf "Unable to found a source with name '%s'. Please add a data entry for it. %s" . $title}}
+            {{ end }}
+        {{ end }}
+    </ul>
+</div>

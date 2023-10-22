@@ -1,0 +1,13 @@
+name: Procyon B
+level: 5
+faction: None
+catalogue_id: Gl 280B
+spectral_class: WD
+temperature: 7740 K
+mass: 0.60 SM
+radius: 8592
+magnitude: 12.98
+planets: 1
+moons: 0
+credits:
+  - Inara

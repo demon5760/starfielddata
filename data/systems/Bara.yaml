@@ -1,0 +1,13 @@
+name: Bara
+level: 45
+faction: None
+catalogue_id: Gl 512.1
+spectral_class: G5
+temperature: 5575 K
+mass: 0.93 SM
+radius: 647559
+magnitude: 3.70
+planets: 7
+moons: 10
+credits:
+  - Inara

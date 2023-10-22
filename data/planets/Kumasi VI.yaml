@@ -1,0 +1,26 @@
+name: Kumasi VI
+system: Kumasi
+type: Rock
+gravity: 1.56 G
+temperature: Deep Freeze
+atmosphere: None
+magnetosphere: Average
+fauna_rating: None
+flora_rating: None
+water: None
+o2: 0%
+temp: -204° 
+flora: {}
+fauna: {}
+traits:
+  - Coralline Landmass (Mineral Pool)
+resources:
+  - Water
+  - Chlorine
+  - Iron
+  - Uranium
+  - Alkanes
+  - Iridium
+  - Caesium
+credits:
+  - Demon5760

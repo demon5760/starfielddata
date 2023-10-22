@@ -1,0 +1,9 @@
+name: Neon
+symbol: Ne
+type: Inorganic
+rarity: Exotic
+mass: 0.50
+value: 16
+state: Gas
+credits:
+  - Demon5760

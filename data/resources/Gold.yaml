@@ -1,0 +1,9 @@
+name: Gold
+symbol: Au
+type: Inorganic
+rarity: Rare
+mass: 0.80
+value: 24
+state: Solid
+credits:
+  - Demon5760

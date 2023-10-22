@@ -1,0 +1,16 @@
+name: Groombridge VII
+system: Groombridge
+type: Ice Giant
+gravity: 1.20 G
+temperature: Deep Freeze
+atmosphere: H2
+magnetosphere: Powerful 
+fauna_rating: None
+flora_rating: None
+water: None
+flora: {}
+fauna: {}
+traits: []
+resources: []
+credits:
+  - Demon5760

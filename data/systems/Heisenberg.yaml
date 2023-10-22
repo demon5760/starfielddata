@@ -1,0 +1,13 @@
+name: Heisenberg
+level: 55
+faction: None
+catalogue_id: Gl 654.1
+spectral_class: F9
+temperature: 6015 K
+mass: 1.14 SM
+radius: 752004
+magnitude: 4.42
+planets: 10
+moons: 9
+credits:
+  - Inara

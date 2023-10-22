@@ -1,0 +1,25 @@
+name: Stellis A
+planet: Stellis
+type: Ice
+gravity: 0.40 G
+temperature: Deep Freeze
+atmosphere: Thin N2
+magnetosphere: None
+fauna_rating: None
+flora_rating: None
+water: Chemical
+o2: 0%
+temp: -203° 
+flora: {}
+fauna: {}
+traits:
+  - Pelted Fields (Stony Meteorite)
+  - Frozen Ecosystem (Uplifted Fossils)
+resources:
+  - Water
+  - Copper
+  - Nickel
+  - Cobalt
+  - Gold
+credits:
+  - Demon5760

@@ -1,0 +1,26 @@
+name: Tirna V
+system: Alpha Tirna
+type: Rock
+gravity: 0.89 G
+temperature: Fozen
+atmosphere: Standard N2
+magnetosphere: Average
+fauna_rating: None
+flora_rating: None
+water: Safe
+o2: 0%
+temp: -117° 
+flora: {}
+fauna: {}
+traits:
+  - Sonorous Lithosphere (Oscilating Crystals)
+resources:
+  - Water
+  - Copper
+  - Lead
+  - Uranium
+  - Fluorine
+  - Tungsten
+  - Vanadium
+credits:
+  - Demon5760

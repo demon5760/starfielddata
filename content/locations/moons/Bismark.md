@@ -1,0 +1,4 @@
++++
+title = 'Bismark'
+type = 'moon'
++++

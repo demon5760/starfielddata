@@ -1,0 +1,50 @@
+data:
+  name: Innovative Synthesis
+  levels:
+    1:
+      resources:
+        Alien Genetic Material: 3
+        Carboxylic Acids: 5
+        Mercury: 10
+        Solvent: 5
+        Tetrafluorides: 5
+      unlocks:
+        - Black Hole Heart
+        - Dwarf Star Heart
+      required_research:
+        Performance enhancement: 4
+      required_skills:
+        Chemistry: 3
+        Special Projects: 1
+    2:
+      resources:
+        Alien Genetic Material: 5
+        Aurora: 5
+        Carboxylic Acids: 10
+        Dwarf Star Heart: 5
+        Solvent: 5
+      unlocks:
+        - Giant Heart
+        - Subgiant Heart
+      required_research:
+        Innovative Synthesis: 1
+      required_skills:
+        Chemistry: 3
+        Special Projects: 1
+    3:
+      resources:
+        Alien Genetic Material: 10
+        Black Hole Heart: 5
+        Carboxylic Acids: 10
+        Ionic Liquids: 8
+        Solvent: 10
+        Subgiant Heart: 5
+      unlocks:
+        - Hypergiant Heart
+        - Supermassive Black Heart
+      required_research:
+        Innovative Synthesis: 2
+      required_skills:
+        Chemistry: 3
+        Special Projects: 1      
+

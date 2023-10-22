@@ -1,0 +1,55 @@
+{{ define "main" }}
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        {{ with .Content }}
+          <div class="well">
+            {{.}}
+          </div>
+
+        {{ end }}
+        <div class="page-list">
+          Data available for {{ .Pages | len }} systems.
+            <table>
+              <tr>
+                <th>Name</th>
+                <th>Level</th>
+                <th>Planets</th>
+                <th>Moons</th>
+                <th>Resources <br /> Unique/Total</th>
+              </tr>
+            {{ range .Pages }}
+            {{ $system := index $.Site.Data.systems .Title }}
+            <tr>
+              <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+              <td>{{ $system.level }}</td>
+              <td>{{ $system.planets }}</td>
+              <td>{{ $system.moons }}</td>
+              <td>
+                {{ $resouce_list := slice }}
+                {{ range $.Site.Data.planets }}
+                  {{ if eq .system $system.name}}
+                    {{ $resouce_list = $resouce_list | append .resources }}
+                  {{end}}
+                {{ end }}
+                {{ range $.Site.Data.moons }}
+                  {{ $planet := index $.Site.Data.planets .planet }}
+                  {{ if eq $planet.system  $system.name }}
+                    {{ $resouce_list = $resouce_list | append .resources }}
+                  {{ end }}
+                {{ end }}
+
+                {{ if gt ($resouce_list | len) 0 }}
+                  {{ $resouce_list | uniq | len}} / {{ $resouce_list | len}}
+                {{ else }}
+                  Coming Soon..
+                {{ end }}
+              </td>
+            </tr>
+            {{ end}}
+            </table>
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}

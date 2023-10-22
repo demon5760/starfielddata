@@ -1,0 +1,13 @@
+name: Immunostimulant
+type: Organic
+rarity: Unique
+mass: 1.30
+value: 58
+farming:
+  Greenhouse:
+    Water: 1
+  Animal Husbandry Facility:
+    - Fiber: 2
+      Water: 1
+credits:
+  - Demon5760

@@ -1,0 +1,13 @@
+name: Kapteyn's Star
+level: 10
+faction: None
+catalogue_id: Gl 191
+spectral_class: M0
+temperature: 3570 K
+mass: 0.28 SM
+radius: 202636
+magnitude: 10.90
+planets: 2
+moons: 0
+credits:
+  - Inara
