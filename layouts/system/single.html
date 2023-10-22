@@ -76,9 +76,7 @@
         {{ range $.Site.Data.moons }}
           {{ $planet := index $.Site.Data.planets .planet }}
           {{ if eq $planet.system $system.name }}
-            {{ if eq .system $system.name }}
-              {{ $moons = $moons | append .}}
-            {{ end }}
+            {{ $moons = $moons | append .}}
           {{ end }}
         {{ end }}
 
