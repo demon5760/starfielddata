@@ -2,10 +2,10 @@ baseURL = 'https://starfieldinfo.pages.dev/'
 languageCode = 'en-us'
 title = "Starfield Info"
 theme = 'beautifulhugo'
+googleAnalytics = 'G-MS58PM494H'
 
 [params]
   disclaimerText = 'This website is a personal project. This site is not affiliated with, nor endorsed by Bethesda.'
-  googleAnalytics = 'G-MS58PM494H'
 [menu]
 [[menu.main]]
     name = 'Items'
