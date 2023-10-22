@@ -17,7 +17,14 @@
         <br /><br />
         <div><strong>Faction:</strong> {{ $system.faction }}</div>
         <div><strong>Spectral Class:</strong> {{ $system.spectral_class }}</div>
-        <div><strong>Catalogue ID:</strong> {{ $system.catalogue_id }}</div>
+        <div>
+          {{ $catalogueIdSpanClass := ""}}
+          {{ if eq $system.catalogue_id "TBD"}}
+            {{ $catalogueIdSpanClass = "missing_data"}}
+          {{ end }}
+          <strong>Catalogue ID:</strong> <span class="{{$catalogueIdSpanClass}}">{{ $system.catalogue_id }}</span>
+          
+        </div>
         <div><strong>Temperature:</strong> {{ $system.temperature }}</div>
         <div><strong>Mass:</strong> {{ $system.mass }}</div>
         <div><strong>Radius:</strong> {{ $system.radius }}</div>
@@ -35,7 +42,7 @@
         {{ end }}
         {{ if gt $system.planets ($planets | len ) }}
           <div>
-            <strong>NOTE</strong> We are missing data on {{ sub $system.planets ($planets | len )}} planets. 
+            <span class="missing_data">We are missing data on {{ sub $system.planets ($planets | len )}} planets. </span>
           </div>
         {{ end }}
         Here are the planets we have some information on:
@@ -81,8 +88,8 @@
         {{ end }}
 
         {{ if gt $system.moons ($moons | len ) }}
-          <div>
-            <strong>NOTE</strong> We are missing data on {{ sub $system.moons ($moons | len )}} moons. 
+          <div >
+            <span class="missing_data">We are missing data on {{ sub $system.moons ($moons | len )}} moons.</span>
           </div>
         {{ end }}
           Here are the moons we have some information on:
