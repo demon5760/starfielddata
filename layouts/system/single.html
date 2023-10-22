@@ -27,15 +27,25 @@
         There are {{ $system.planets }} planets and {{ $system.moons }} moons can be found in {{ $system.name }}.
 
         <h2>Planets</h2>
+        {{ $planets := slice }}
+        {{ range $.Site.Data.planets }}
+          {{ if eq .system $system.name }}
+            {{ $planets = $planets | append .}}
+          {{ end }}
+        {{ end }}
+        {{ if gt $system.planets ($planets | len ) }}
+          <div>
+            <strong>NOTE</strong> We are missing data on {{ sub $system.planets ($planets | len )}} planets. 
+          </div>
+        {{ end }}
         Here are the planets we have some information on:
         <table>
           <tr>
             <th>Name</th>
             <th>Resources</th>
           </tr>
-          {{ range $.Site.Data.planets }}
+          {{ range $planets }}
             {{ $planet := .}}
-            {{ if eq .system $system.name }}
               <tr>
                 <td>
                   {{ $planet_page_file := printf "/locations/planets/%s" .name }}
@@ -57,13 +67,26 @@
                   {{ end }}
                 </td>
               </tr>
-              
-            {{ end }}
           {{ end }}
 
         </table>
         
         <h2>Moons</h2>
+        {{ $moons := slice }}
+        {{ range $.Site.Data.moons }}
+          {{ $planet := index $.Site.Data.planets .planet }}
+          {{ if eq $planet.system $system.name }}
+            {{ if eq .system $system.name }}
+              {{ $moons = $moons | append .}}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
+        {{ if gt $system.moons ($moons | len ) }}
+          <div>
+            <strong>NOTE</strong> We are missing data on {{ sub $system.moons ($moons | len )}} moons. 
+          </div>
+        {{ end }}
           Here are the moons we have some information on:
           <table>
             <tr>
@@ -71,10 +94,8 @@
               <th>Resources</th>
             </tr>
 
-            {{ range $.Site.Data.moons }}
+            {{ range $moons }}
               {{ $moon := . }}
-              {{ $planet := index $.Site.Data.planets .planet }}
-              {{ if eq $planet.system $system.name }}
                 <tr>
                   <td>
                   {{ $moon_page_file := printf "/locations/moons/%s" .name }}
@@ -100,7 +121,6 @@
                     {{ end }}
                   </td>
                 </tr>
-              {{ end }}
             {{ end }}
           </table>
       </article>
