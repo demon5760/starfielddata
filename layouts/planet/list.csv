@@ -1,0 +1,3 @@
+name,level,faction,spectral_class,catalogue_id,temperature,mass,radius,magnitude,planets,moons
+{{ range $.Site.Data.systems }}{{.name}},{{.level}},{{.faction}},{{.spectral_class}},{{.catalogue_id}},{{.temperature}},{{.radius}},{{.magnitude}},{{.planets}},{{.moons}}
+{{end}}
