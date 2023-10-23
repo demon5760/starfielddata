@@ -1,0 +1,18 @@
+atmosphere: H2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 3.12 G
+magnetosphere: Strong
+name: Muphrid VII
+o2: TBD
+resources: []
+system: Muphrid
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Gas Giant
+water: None

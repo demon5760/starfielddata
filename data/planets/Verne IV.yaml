@@ -1,0 +1,28 @@
+atmosphere: HIGH M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.21 G
+magnetosphere: Average
+name: Verne IV
+o2: TBD
+resources:
+- Argon
+- Benzene
+- Iridium
+- Lead
+- Silver
+- Uranium
+- Vanadium
+- Water
+system: Verne
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

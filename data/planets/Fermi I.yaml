@@ -1,0 +1,24 @@
+atmosphere: HIGH CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.34 G
+magnetosphere: Weak
+name: Fermi I
+o2: TBD
+resources:
+- Lead
+- Mercury
+- Silver
+- Uranium
+- Vanadium
+system: Fermi
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+type: Rock
+water: None

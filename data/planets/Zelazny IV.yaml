@@ -1,0 +1,27 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.00 G
+magnetosphere: Weak
+name: Zelazny IV
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Copper
+- Fluorine
+- Lead
+- Lithium
+- Tetrafluorides
+- Water
+system: Zelazny
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Safe

@@ -1,0 +1,33 @@
+atmosphere: HIGH O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 1.09 G
+magnetosphere: Very Strong
+name: Rasalhague II
+o2: TBD
+resources:
+- Caesium
+- Chlorine
+- Cobalt
+- Copper
+- Iron
+- Nickel
+- Water
+system: Rasalhague
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

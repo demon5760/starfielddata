@@ -1,0 +1,27 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.41 G
+magnetosphere: Weak
+name: Hyla III
+o2: TBD
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+- Lead
+- Mercury
+- Neodymium
+- Water
+system: Hyla
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

@@ -1,0 +1,22 @@
+atmosphere: EXTR N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.44 G
+magnetosphere: Average
+name: Bannoc III
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Copper
+- Water
+system: Bannoc
+temp: TBD
+temperature: Frozen
+traits: []
+type: Rock
+water: Heavy Metal

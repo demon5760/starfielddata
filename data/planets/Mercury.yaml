@@ -1,0 +1,21 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.38 G
+magnetosphere: TBD
+name: Mercury
+o2: TBD
+resources:
+- Aluminum
+- Helium-3
+- Neodymium
+system: Sol
+temp: TBD
+temperature: Inferno
+traits: []
+type: Barren
+water: None

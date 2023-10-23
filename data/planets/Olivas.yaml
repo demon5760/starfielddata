@@ -1,0 +1,18 @@
+atmosphere: H2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.34 G
+magnetosphere: Strong
+name: Olivas
+o2: TBD
+resources: []
+system: Alpha Centauri
+temp: TBD
+temperature: Frozen
+traits: []
+type: Gas Giant
+water: None

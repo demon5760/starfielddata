@@ -1,0 +1,25 @@
+atmosphere: EXTR CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.31 G
+magnetosphere: Average
+name: Syrma I
+o2: TBD
+resources:
+- Cobalt
+- Lead
+- Nickel
+- Uranium
+system: Syrma
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: None

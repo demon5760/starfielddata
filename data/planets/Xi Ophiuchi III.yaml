@@ -1,0 +1,28 @@
+atmosphere: EXTR CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.77 G
+magnetosphere: Powerful
+name: Xi Ophiuchi III
+o2: TBD
+resources:
+- Alkanes
+- Antimony
+- Copper
+- Fluorine
+- Iridium
+- Iron
+- Uranium
+- Ytterbium
+system: Xi Ophiuchi
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: None

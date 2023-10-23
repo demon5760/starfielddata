@@ -1,0 +1,26 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.08 G
+magnetosphere: Average
+name: Alpha Marae I
+o2: TBD
+resources:
+- Cobalt
+- Lead
+- Nickel
+- Silver
+- Uranium
+- Vanadium
+system: Alpha Marae
+temp: TBD
+temperature: Scorched
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: None

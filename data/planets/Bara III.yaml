@@ -1,0 +1,38 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 0.47 G
+magnetosphere: Average
+name: Bara III
+o2: TBD
+resources:
+- Alkanes
+- Argon
+- Carboxylic Acids
+- Chlorine
+- Chlorosilanes
+- Iron
+- Water
+system: Bara
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Biological

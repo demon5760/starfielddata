@@ -1,0 +1,36 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 0.68 G
+magnetosphere: Powerful
+name: Leviathan IV
+o2: TBD
+resources:
+- Aluminum
+- Chlorine
+- Copper
+- Fluorine
+- Iron
+- Water
+- Ytterbium
+system: Leviathan
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Biological

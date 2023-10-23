@@ -1,0 +1,33 @@
+atmosphere: THIN O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+flora_rating: TBD
+gravity: 0.40 G
+magnetosphere: Average
+name: McClure II
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Copper
+- Lithium
+- Water
+system: McClure
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Safe

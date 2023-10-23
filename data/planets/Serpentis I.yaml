@@ -1,0 +1,24 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.31 G
+magnetosphere: Weak
+name: Serpentis I
+o2: TBD
+resources:
+- Aluminum
+- Helium-3
+- Uranium
+- Vanadium
+system: Serpentis
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+- TBD2
+type: Barren
+water: None

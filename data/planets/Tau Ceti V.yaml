@@ -1,0 +1,28 @@
+atmosphere: EXTR N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.71 G
+magnetosphere: Very Strong
+name: Tau Ceti V
+o2: TBD
+resources:
+- Alkanes
+- Cobalt
+- Iron
+- Nickel
+- Palladium
+- Platinum
+- Water
+- Ytterbium
+system: Tau Ceti
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

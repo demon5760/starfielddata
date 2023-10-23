@@ -1,0 +1,28 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.89 G
+magnetosphere: Weak
+name: Leonis I
+o2: TBD
+resources:
+- Aluminum
+- Beryllium
+- Chlorine
+- Helium-3
+- Lead
+- Neodymium
+- Silver
+- Uranium
+system: Leonis
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: None

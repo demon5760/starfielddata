@@ -1,0 +1,31 @@
+atmosphere: THIN O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 0.35 G
+magnetosphere: Very Strong
+name: Andromas III
+o2: TBD
+resources:
+- Aluminum
+- Argon
+- Beryllium
+- Europium
+- Helium-3
+- Neon
+- Water
+system: Andromas
+temp: TBD
+temperature: Temperate
+traits: []
+type: Rock
+water: Safe

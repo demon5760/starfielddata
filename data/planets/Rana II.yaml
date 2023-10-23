@@ -1,0 +1,24 @@
+atmosphere: EXTR CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.42 G
+magnetosphere: Very Strong
+name: Rana II
+o2: TBD
+resources:
+- Chlorine
+- Lead
+- Silver
+- Uranium
+system: Rana
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: None

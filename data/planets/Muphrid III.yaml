@@ -1,0 +1,24 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.52 G
+magnetosphere: Very Weak
+name: Muphrid III
+o2: TBD
+resources:
+- Alkanes
+- Iron
+- Nickel
+- Uranium
+- Vanadium
+system: Muphrid
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+type: Rock
+water: None

@@ -1,0 +1,27 @@
+atmosphere: EXTR CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.53 G
+magnetosphere: Powerful
+name: Tau Ceti I
+o2: TBD
+resources:
+- Copper
+- Helium-3
+- Iron
+- Nickel
+- Palladium
+- Platinum
+- Uranium
+- Vanadium
+system: Tau Ceti
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+type: Rock
+water: None

@@ -1,0 +1,27 @@
+atmosphere: EXTR N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.79 G
+magnetosphere: Powerful
+name: Charybdis VI
+o2: TBD
+resources:
+- Cobalt
+- Copper
+- Fluorine
+- Iridium
+- Nickel
+- Platinum
+- Uranium
+- Water
+system: Charybdis
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Rock
+water: Safe

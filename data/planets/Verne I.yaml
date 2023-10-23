@@ -1,0 +1,27 @@
+atmosphere: EXTR CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.25 G
+magnetosphere: Average
+name: Verne I
+o2: TBD
+resources:
+- Argon
+- Benzene
+- Iridium
+- Neon
+- Plutonium
+- Uranium
+- Veryl
+system: Verne
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: None

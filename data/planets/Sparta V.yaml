@@ -1,0 +1,28 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.65 G
+magnetosphere: Weak
+name: Sparta V
+o2: TBD
+resources:
+- Alkanes
+- Cobalt
+- Iron
+- Nickel
+- Platinum
+- Tantalum
+- Uranium
+- Water
+system: Sparta
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

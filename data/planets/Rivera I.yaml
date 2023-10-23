@@ -1,0 +1,40 @@
+atmosphere: EXTR M
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+flora_rating: TBD
+gravity: 1.81 G
+magnetosphere: Weak
+name: Rivera I
+o2: TBD
+resources:
+- Argon
+- Benzene
+- Cobalt
+- Lead
+- Nickel
+- Platinum
+- Uranium
+- Water
+system: Rivera
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Heavy Metal

@@ -1,0 +1,22 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.59 G
+magnetosphere: Very Strong
+name: Copernicus VI
+o2: TBD
+resources:
+- Aluminum
+- Europium
+- Helium-3
+- Neodymium
+system: Copernicus
+temp: TBD
+temperature: Frozen
+traits: []
+type: Barren
+water: None

@@ -1,0 +1,29 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.30 G
+magnetosphere: Weak
+name: Luyten's Rock
+o2: TBD
+resources:
+- Alkanes
+- Argon
+- Chlorine
+- Helium-3
+- Iron
+- Lithium
+- Tantalum
+- Water
+system: Luyten's Star
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: None

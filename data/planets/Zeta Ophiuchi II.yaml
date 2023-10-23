@@ -1,0 +1,21 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.16 G
+magnetosphere: Average
+name: Zeta Ophiuchi II
+o2: TBD
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+system: Zeta Ophiuchi
+temp: TBD
+temperature: Frozen
+traits: []
+type: Barren
+water: None

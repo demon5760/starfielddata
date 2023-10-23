@@ -1,0 +1,36 @@
+atmosphere: EXTR O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 1.61 G
+magnetosphere: Very Strong
+name: Jaffa II
+o2: TBD
+resources:
+- Chlorine
+- Copper
+- Fluorine
+- Gold
+- Lead
+- Lithium
+- Mercury
+- Water
+system: Jaffa
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Biological

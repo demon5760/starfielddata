@@ -1,0 +1,21 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.72 G
+magnetosphere: TBD
+name: Masada I
+o2: TBD
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+system: Masada
+temp: TBD
+temperature: Inferno
+traits: []
+type: Barren
+water: None

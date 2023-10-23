@@ -1,0 +1,33 @@
+atmosphere: THIN O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 0.55 G
+magnetosphere: Average
+name: Newton III
+o2: TBD
+resources:
+- Chlorine
+- Copper
+- Gold
+- Lead
+- Lithium
+- Tungsten
+- Uranium
+- Water
+system: Newton
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Chemical

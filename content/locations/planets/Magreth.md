@@ -1,0 +1,5 @@
+
++++
+title = "Magreth"
+type = 'planet'
++++

@@ -1,0 +1,20 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.29 G
+magnetosphere: TBD
+name: Nemeria VII
+o2: TBD
+resources:
+- Chlorine
+- Water
+system: Nemeria
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Safe

@@ -1,0 +1,18 @@
+atmosphere: H2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.89 G
+magnetosphere: Strong
+name: Katydid I
+o2: TBD
+resources: []
+system: Katydid
+temp: TBD
+temperature: Temperate
+traits: []
+type: Hot Gas Giant
+water: None

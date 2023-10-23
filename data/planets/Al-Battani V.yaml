@@ -1,0 +1,20 @@
+atmosphere: '-'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.77 G
+magnetosphere: TBD
+name: Al-Battani V
+o2: TBD
+resources:
+- Helium-3
+- Iron
+system: Al-Battani
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Barren
+water: None

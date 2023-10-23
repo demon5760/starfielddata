@@ -1,0 +1,37 @@
+atmosphere: STD O2 (TOX)
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+flora_rating: TBD
+gravity: 0.61 G
+magnetosphere: Weak
+name: Schrodinger IV
+o2: TBD
+resources:
+- Aluminum
+- Benzene
+- Chlorine
+- Chlorosilanes
+- Copper
+- Fluorine
+- Neodymium
+- Water
+system: Schrodinger
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

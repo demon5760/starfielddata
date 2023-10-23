@@ -1,0 +1,35 @@
+atmosphere: STD M
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+flora_rating: TBD
+gravity: 0.61 G
+magnetosphere: Powerful
+name: Leonis V
+o2: TBD
+resources:
+- Alkanes
+- Argon
+- Benzene
+- Chlorine
+- Chlorosilanes
+- Iron
+- Lithium
+- Water
+system: Leonis
+temp: TBD
+temperature: Temperate
+traits: []
+type: Rock
+water: Biological

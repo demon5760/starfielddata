@@ -1,0 +1,27 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.58 G
+magnetosphere: Average
+name: Hyla I
+o2: TBD
+resources:
+- Alkanes
+- Iridium
+- Iron
+- Lead
+- Mercury
+- Uranium
+- Water
+system: Hyla
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: None

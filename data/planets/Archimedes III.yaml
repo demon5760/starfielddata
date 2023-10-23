@@ -1,0 +1,42 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+  TBD9: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+flora_rating: TBD
+gravity: 0.70 G
+magnetosphere: Weak
+name: Archimedes III
+o2: TBD
+resources:
+- Aluminum
+- Beryllium
+- Chlorine
+- Copper
+- Lead
+- Neodymium
+- Tungsten
+- Water
+system: Archimedes
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

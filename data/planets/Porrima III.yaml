@@ -1,0 +1,32 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 2.01 G
+magnetosphere: Average
+name: Porrima III
+o2: TBD
+resources:
+- Aluminum
+- Chlorine
+- Helium-3
+- Lithium
+- Water
+system: Porrima
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Safe

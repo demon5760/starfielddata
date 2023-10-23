@@ -1,0 +1,31 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 0.39 G
+magnetosphere: Weak
+name: Maheo I
+o2: TBD
+resources:
+- Argon
+- Benzene
+- Chlorine
+- Cobalt
+- Lead
+- Nickel
+- Silver
+- Water
+system: Maheo
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

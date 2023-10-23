@@ -1,0 +1,26 @@
+atmosphere: STD N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.79 G
+magnetosphere: Very Strong
+name: Al-Battani IV
+o2: TBD
+resources:
+- Alkanes
+- Chlorine
+- Chlorosilanes
+- Iron
+- Lead
+- Water
+system: Al-Battani
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

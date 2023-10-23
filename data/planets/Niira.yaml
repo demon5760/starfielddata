@@ -1,0 +1,35 @@
+atmosphere: STD M (TOX)
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+flora_rating: TBD
+gravity: 0.61 G
+magnetosphere: Weak
+name: Niira
+o2: TBD
+resources:
+- Argon
+- Benzene
+- Chlorine
+- Copper
+- Fluorine
+- Ionic Liquids
+- Nickel
+- Water
+system: Narion
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Heavy Metal

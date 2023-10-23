@@ -1,0 +1,28 @@
+atmosphere: HIGH M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.40 G
+magnetosphere: Powerful
+name: Maal VII
+o2: TBD
+resources:
+- Copper
+- Fluorine
+- Lead
+- Nickel
+- Platinum
+- Tetrafluorides
+- Tungsten
+- Water
+system: Maal
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

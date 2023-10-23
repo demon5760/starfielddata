@@ -1,0 +1,24 @@
+atmosphere: STD N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.86 G
+magnetosphere: Very Strong
+name: Copernicus V
+o2: TBD
+resources:
+- Argon
+- Chlorine
+- Lithium
+- Nickel
+- Water
+system: Copernicus
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Rock
+water: Chemical

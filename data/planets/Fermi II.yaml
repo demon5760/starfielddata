@@ -1,0 +1,24 @@
+atmosphere: EXTR CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.68 G
+magnetosphere: Powerful
+name: Fermi II
+o2: TBD
+resources:
+- Alkanes
+- Iron
+- Lead
+- Silver
+system: Fermi
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: None

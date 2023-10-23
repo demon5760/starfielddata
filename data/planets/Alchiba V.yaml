@@ -1,0 +1,23 @@
+atmosphere: THIN N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.52 G
+magnetosphere: Powerful
+name: Alchiba V
+o2: TBD
+resources:
+- Argon
+- Iridium
+- Lead
+- Uranium
+- Water
+system: Alchiba
+temp: TBD
+temperature: Frozen
+traits: []
+type: Rock
+water: Chemical

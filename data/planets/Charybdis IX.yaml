@@ -1,0 +1,20 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.18 G
+magnetosphere: TBD
+name: Charybdis IX
+o2: TBD
+resources:
+- Chlorine
+- Water
+system: Charybdis
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Chemical

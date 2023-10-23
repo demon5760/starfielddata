@@ -1,0 +1,26 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+flora_rating: TBD
+gravity: 1.04 G
+magnetosphere: Powerful
+name: Suvorov
+o2: TBD
+resources:
+- Copper
+- Fluorine
+- Water
+system: Kryx
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Rock
+water: Chemical

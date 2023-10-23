@@ -1,0 +1,22 @@
+atmosphere: EXTR CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.74 G
+magnetosphere: Powerful
+name: Zosma I
+o2: TBD
+resources:
+- Cobalt
+- Lead
+- Nickel
+system: Zosma
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+type: Rock
+water: None

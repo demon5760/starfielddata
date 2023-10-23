@@ -1,0 +1,5 @@
+
++++
+title = "Lumos"
+type = 'planet'
++++

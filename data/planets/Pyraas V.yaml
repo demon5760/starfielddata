@@ -1,0 +1,22 @@
+atmosphere: STD N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.18 G
+magnetosphere: Powerful
+name: Pyraas V
+o2: TBD
+resources:
+- Copper
+- Lead
+- Water
+system: Pyraas
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Rock
+water: Chemical

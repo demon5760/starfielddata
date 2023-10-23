@@ -1,0 +1,20 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.27 G
+magnetosphere: TBD
+name: Heinlein VII
+o2: TBD
+resources:
+- Lead
+- Water
+system: Heinlein
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Chemical

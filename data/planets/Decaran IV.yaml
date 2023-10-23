@@ -1,0 +1,21 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.29 G
+magnetosphere: Weak
+name: Decaran IV
+o2: TBD
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+system: Decaran
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Barren
+water: None

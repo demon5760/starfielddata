@@ -1,0 +1,38 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+  TBD9: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+flora_rating: TBD
+gravity: 0.51 G
+magnetosphere: Very Weak
+name: Oborum I
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Copper
+- Gold
+- Water
+system: Oborum Prime
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Biological

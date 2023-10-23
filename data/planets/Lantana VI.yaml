@@ -1,0 +1,29 @@
+atmosphere: STD N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.90 G
+magnetosphere: Weak
+name: Lantana VI
+o2: TBD
+resources:
+- Alkanes
+- Chlorine
+- Cobalt
+- Iron
+- Nickel
+- Uranium
+- Vanadium
+- Water
+system: Lantana
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

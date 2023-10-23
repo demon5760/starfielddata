@@ -1,0 +1,5 @@
+
++++
+title = "Bondar"
+type = 'planet'
++++

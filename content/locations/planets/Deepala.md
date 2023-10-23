@@ -1,0 +1,5 @@
+
++++
+title = "Deepala"
+type = 'planet'
++++

@@ -1,0 +1,42 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+  TBD9: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+flora_rating: TBD
+gravity: 1.34 G
+magnetosphere: Powerful
+name: Beta Ternion II
+o2: TBD
+resources:
+- Argon
+- Cobalt
+- Iron
+- Nickel
+- Palladium
+- Platinum
+- Uranium
+- Water
+system: Beta Ternion
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Chemical

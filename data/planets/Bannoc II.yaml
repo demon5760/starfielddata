@@ -1,0 +1,36 @@
+atmosphere: STD M
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 0.91 G
+magnetosphere: Weak
+name: Bannoc II
+o2: TBD
+resources:
+- Aluminum
+- Argon
+- Iridium
+- Nickel
+- Platinum
+- Uranium
+- Vanadium
+- Water
+system: Bannoc
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Biological

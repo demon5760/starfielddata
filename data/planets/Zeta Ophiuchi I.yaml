@@ -1,0 +1,46 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD10: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+  TBD9: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD10: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+  TBD9: {}
+flora_rating: TBD
+gravity: 0.79 G
+magnetosphere: Very Strong
+name: Zeta Ophiuchi I
+o2: TBD
+resources:
+- Alkanes
+- Chlorine
+- Iron
+- Lead
+- Silver
+- Tantalum
+- Water
+- Ytterbium
+system: Zeta Ophiuchi
+temp: TBD
+temperature: Temperate
+traits: []
+type: Rock
+water: Safe

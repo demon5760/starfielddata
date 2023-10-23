@@ -1,0 +1,44 @@
+atmosphere: HIGH O2 (COR)
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+flora_rating: TBD
+gravity: 1.30 G
+magnetosphere: Weak
+name: Guniibuu II
+o2: TBD
+resources:
+- Aluminum
+- Beryllium
+- Chlorine
+- Copper
+- Fluorine
+- Gold
+- Iron
+- Water
+system: Guniibuu
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Radioactive

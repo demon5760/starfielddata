@@ -1,0 +1,18 @@
+atmosphere: H2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 3.82 G
+magnetosphere: Strong
+name: Alchiba IX
+o2: TBD
+resources: []
+system: Alchiba
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Gas Giant
+water: None

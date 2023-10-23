@@ -1,0 +1,39 @@
+atmosphere: EXTR M
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 1.21 G
+magnetosphere: Weak
+name: Magnar
+o2: TBD
+resources:
+- Aluminum
+- Argon
+- Beryllium
+- Cobalt
+- Lead
+- Nickel
+- Silver
+- Water
+system: Delta Pavonis
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

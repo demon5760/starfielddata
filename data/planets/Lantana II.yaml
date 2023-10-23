@@ -1,0 +1,25 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.66 G
+magnetosphere: Weak
+name: Lantana II
+o2: TBD
+resources:
+- Lead
+- Nickel
+- Tungsten
+- Uranium
+system: Lantana
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: None

@@ -1,0 +1,41 @@
+atmosphere: HIGH O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+flora_rating: TBD
+gravity: 1.02 G
+magnetosphere: Weak
+name: Gamma Vulpes I
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Copper
+- Lithium
+- Water
+system: Gamma Vulpes
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

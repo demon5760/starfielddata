@@ -1,0 +1,22 @@
+atmosphere: HIGH CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.94 G
+magnetosphere: Average
+name: Marduk I
+o2: TBD
+resources:
+- Chlorine
+- Nickel
+- Water
+system: Marduk
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+type: Rock
+water: None

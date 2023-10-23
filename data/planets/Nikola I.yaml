@@ -1,0 +1,26 @@
+atmosphere: THIN O2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.71 G
+magnetosphere: Very Weak
+name: Nikola I
+o2: TBD
+resources:
+- Alkanes
+- Aluminum
+- Argon
+- Beryllium
+- Carboxylic Acids
+- Iron
+- Tantalum
+- Water
+system: Nikola
+temp: TBD
+temperature: Cold
+traits: []
+type: Rock
+water: Chemical

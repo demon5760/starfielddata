@@ -1,0 +1,5 @@
+
++++
+title = "Cthol"
+type = 'planet'
++++

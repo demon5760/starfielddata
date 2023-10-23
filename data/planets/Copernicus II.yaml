@@ -1,0 +1,40 @@
+atmosphere: THIN OC (TOX)
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+flora_rating: TBD
+gravity: 0.53 G
+magnetosphere: Average
+name: Copernicus II
+o2: TBD
+resources:
+- Benzene
+- Copper
+- Fluorine
+- Iron
+- Lead
+- Nickel
+- Titanium
+- Water
+system: Copernicus
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

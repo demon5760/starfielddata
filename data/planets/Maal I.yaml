@@ -1,0 +1,22 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.91 G
+magnetosphere: TBD
+name: Maal I
+o2: TBD
+resources:
+- Helium-3
+- Iron
+- Ytterbium
+system: Maal
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+type: Barren
+water: None

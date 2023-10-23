@@ -1,0 +1,46 @@
+atmosphere: HIGH O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD10: {}
+  TBD11: {}
+  TBD12: {}
+  TBD13: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+  TBD9: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+flora_rating: TBD
+gravity: 0.88 G
+magnetosphere: Average
+name: Serpentis IV
+o2: TBD
+resources:
+- Argon
+- Benzene
+- Chlorine
+- Chlorosilanes
+- Copper
+- Fluorine
+- Lithium
+- Water
+system: Serpentis
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Chemical

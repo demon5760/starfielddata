@@ -1,0 +1,41 @@
+atmosphere: HIGH O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+flora_rating: TBD
+gravity: 1.55 G
+magnetosphere: Average
+name: Strix I
+o2: TBD
+resources:
+- Alkanes
+- Aluminum
+- Beryllium
+- Copper
+- Helium-3
+- Iron
+- Uranium
+- Water
+system: Strix
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Safe

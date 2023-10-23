@@ -1,0 +1,30 @@
+atmosphere: STD M (COR)
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 0.80 G
+magnetosphere: Weak
+name: Eridani IV
+o2: TBD
+resources:
+- Argon
+- Fluorine
+- Water
+system: Eridani
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Chemical

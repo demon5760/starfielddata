@@ -1,0 +1,32 @@
+atmosphere: THIN O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 1.00 G
+magnetosphere: Average
+name: Tau Ceti II
+o2: TBD
+resources:
+- Alkanes
+- Argon
+- Benzene
+- Iron
+- Water
+system: Tau Ceti
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Biological

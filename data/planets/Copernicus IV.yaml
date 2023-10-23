@@ -1,0 +1,33 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+flora_rating: TBD
+gravity: 0.42 G
+magnetosphere: Weak
+name: Copernicus IV
+o2: TBD
+resources:
+- Aluminum
+- Argon
+- Beryllium
+- Nickel
+- Water
+system: Copernicus
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Biological

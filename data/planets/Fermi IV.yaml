@@ -1,0 +1,27 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.75 G
+magnetosphere: Average
+name: Fermi IV
+o2: TBD
+resources:
+- Cobalt
+- Copper
+- Fluorine
+- Iridium
+- Nickel
+- Uranium
+- Vanadium
+- Water
+system: Fermi
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Chemical

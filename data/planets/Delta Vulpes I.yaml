@@ -1,0 +1,18 @@
+atmosphere: H2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 2.55 G
+magnetosphere: Weak
+name: Delta Vulpes I
+o2: TBD
+resources: []
+system: Delta Vulpes
+temp: TBD
+temperature: Inferno
+traits: []
+type: Hot Gas Giant
+water: None

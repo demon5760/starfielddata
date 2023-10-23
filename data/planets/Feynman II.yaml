@@ -1,0 +1,25 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.48 G
+magnetosphere: Weak
+name: Feynman II
+o2: TBD
+resources:
+- Iridium
+- Lead
+- Silver
+- Uranium
+- Vanadium
+system: Feynman
+temp: TBD
+temperature: Scorched
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: None

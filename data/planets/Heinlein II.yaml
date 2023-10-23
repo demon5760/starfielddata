@@ -1,0 +1,25 @@
+atmosphere: STD CO2 (COR)
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.81 G
+magnetosphere: Average
+name: Heinlein II
+o2: TBD
+resources:
+- Chlorine
+- Iridium
+- Iron
+- Nickel
+- Uranium
+- Vanadium
+system: Heinlein
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+type: Rock
+water: None

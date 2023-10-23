@@ -1,0 +1,20 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.78 G
+magnetosphere: Average
+name: Rasalhague IV
+o2: TBD
+resources:
+- Helium-3
+- Iron
+system: Rasalhague
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Barren
+water: None

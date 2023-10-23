@@ -1,0 +1,22 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.65 G
+magnetosphere: TBD
+name: Bradbury I
+o2: TBD
+resources:
+- Alkanes
+- Helium-3
+- Iron
+- Ytterbium
+system: Bradbury
+temp: TBD
+temperature: Inferno
+traits: []
+type: Barren
+water: None

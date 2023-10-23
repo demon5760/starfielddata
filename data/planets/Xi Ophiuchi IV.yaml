@@ -1,0 +1,23 @@
+atmosphere: STD M (COR)
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.08 G
+magnetosphere: Average
+name: Xi Ophiuchi IV
+o2: TBD
+resources:
+- Chlorine
+- Fluorine
+- Nickel
+- Water
+system: Xi Ophiuchi
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Chemical

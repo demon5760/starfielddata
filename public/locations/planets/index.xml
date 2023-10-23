@@ -1,233 +1,404 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Planets on Starfield Info</title>
-    <link>https://starfieldinfo.pages.dev/locations/planets/</link>
-    <description>Recent content in Planets on Starfield Info</description>
+    <title>Planets on Starfield Data</title>
+    <link>https://starfield-data.pages.dev/locations/planets/</link>
+    <description>Recent content in Planets on Starfield Data</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://starfieldinfo.pages.dev/locations/planets/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://starfield-data.pages.dev/locations/planets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agamon</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/agamon/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/agamon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/agamon/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/agamon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Akila</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/akila/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/akila/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/akila/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/akila/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Al-Battani I</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/al-battani-i/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/al-battani-i/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/al-battani-i/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/al-battani-i/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Al-Battani II</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/al-battani-ii/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/al-battani-ii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/al-battani-ii/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/al-battani-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Al-Battani III</title>
+      <link>https://starfield-data.pages.dev/locations/planets/al-battani-iii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/al-battani-iii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Al-Battani IV</title>
+      <link>https://starfield-data.pages.dev/locations/planets/al-battani-iv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/al-battani-iv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Al-Battani V</title>
+      <link>https://starfield-data.pages.dev/locations/planets/al-battani-v/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/al-battani-v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Al-Battani VI</title>
+      <link>https://starfield-data.pages.dev/locations/planets/al-battani-vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/al-battani-vi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Al-Battani VII</title>
+      <link>https://starfield-data.pages.dev/locations/planets/al-battani-vii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/al-battani-vii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Al-Battani VIII</title>
+      <link>https://starfield-data.pages.dev/locations/planets/al-battani-viii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/al-battani-viii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alchiba I</title>
+      <link>https://starfield-data.pages.dev/locations/planets/alchiba-i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/alchiba-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alchiba II</title>
+      <link>https://starfield-data.pages.dev/locations/planets/alchiba-ii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/alchiba-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alchiba III</title>
+      <link>https://starfield-data.pages.dev/locations/planets/alchiba-iii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/alchiba-iii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alchiba IV</title>
+      <link>https://starfield-data.pages.dev/locations/planets/alchiba-iv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/alchiba-iv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alchiba IX</title>
+      <link>https://starfield-data.pages.dev/locations/planets/alchiba-ix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/alchiba-ix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alchiba V</title>
+      <link>https://starfield-data.pages.dev/locations/planets/alchiba-v/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/alchiba-v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alchiba VI</title>
+      <link>https://starfield-data.pages.dev/locations/planets/alchiba-vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/alchiba-vi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alchiba VII</title>
+      <link>https://starfield-data.pages.dev/locations/planets/alchiba-vii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/alchiba-vii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alchiba VIII</title>
+      <link>https://starfield-data.pages.dev/locations/planets/alchiba-viii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/alchiba-viii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alchiba X</title>
+      <link>https://starfield-data.pages.dev/locations/planets/alchiba-x/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/alchiba-x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorab I</title>
+      <link>https://starfield-data.pages.dev/locations/planets/algorab-i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/algorab-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorab II</title>
+      <link>https://starfield-data.pages.dev/locations/planets/algorab-ii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/algorab-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorab III</title>
+      <link>https://starfield-data.pages.dev/locations/planets/algorab-iii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starfield-data.pages.dev/locations/planets/algorab-iii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bradbury II</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/bradbury-ii/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/bradbury-ii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/bradbury-ii/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/bradbury-ii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Burran</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/burran/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/burran/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/burran/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/burran/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fenn</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/fenn/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/fenn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/fenn/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/fenn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Groombridge VII</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/groombridge-vii/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/groombridge-vii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/groombridge-vii/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/groombridge-vii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kumasi I</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/kumasi-i/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/kumasi-i/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/kumasi-i/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/kumasi-i/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kumasi VI</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/kumasi-vi/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/kumasi-vi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/kumasi-vi/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/kumasi-vi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Montara</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/montara/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/montara/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/montara/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/montara/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Navaha</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/navaha/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/navaha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/navaha/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/navaha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skink</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/skink/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/skink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/skink/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/skink/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stellis</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/stellis/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/stellis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/stellis/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/stellis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tirna B</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/tirna-b/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/tirna-b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/tirna-b/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/tirna-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tirna I</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/tirna-i/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/tirna-i/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/tirna-i/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/tirna-i/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tirna II</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/tirna-ii/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/tirna-ii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/tirna-ii/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/tirna-ii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tirna III</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/tirna-iii/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/tirna-iii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/tirna-iii/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/tirna-iii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tirna IV</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/tirna-iv/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/tirna-iv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/tirna-iv/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/tirna-iv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tirna V</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/tirna-v/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/tirna-v/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/tirna-v/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/tirna-v/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tirna VI</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/tirna-vi/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/tirna-vi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/tirna-vi/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/tirna-vi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ursa Minor I</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/ursa-minor-i/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/ursa-minor-i/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/ursa-minor-i/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/ursa-minor-i/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ursa Minor II</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/ursa-minor-ii/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/ursa-minor-ii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/ursa-minor-ii/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/ursa-minor-ii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ursa Minor III</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/ursa-minor-iii/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/ursa-minor-iii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/ursa-minor-iii/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/ursa-minor-iii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Washakie</title>
-      <link>https://starfieldinfo.pages.dev/locations/planets/washakie/</link>
+      <link>https://starfield-data.pages.dev/locations/planets/washakie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://starfieldinfo.pages.dev/locations/planets/washakie/</guid>
+      <guid>https://starfield-data.pages.dev/locations/planets/washakie/</guid>
       <description></description>
     </item>
     

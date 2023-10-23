@@ -1,0 +1,5 @@
+
++++
+title = "Gagarin"
+type = 'planet'
++++

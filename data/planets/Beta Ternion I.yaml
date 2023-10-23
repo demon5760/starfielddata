@@ -1,0 +1,32 @@
+atmosphere: HIGH O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 1.35 G
+magnetosphere: Powerful
+name: Beta Ternion I
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Copper
+- Iron
+- Lithium
+- Water
+system: Beta Ternion
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

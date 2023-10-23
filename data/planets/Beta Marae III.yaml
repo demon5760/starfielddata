@@ -1,0 +1,23 @@
+atmosphere: STD N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.90 G
+magnetosphere: Average
+name: Beta Marae III
+o2: TBD
+resources:
+- Chlorine
+- Copper
+- Ionic Liquids
+- Lead
+- Water
+system: Beta Marae
+temp: TBD
+temperature: Frozen
+traits: []
+type: Rock
+water: Chemical

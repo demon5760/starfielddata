@@ -1,0 +1,26 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.46 G
+magnetosphere: Weak
+name: Volii Epsilon
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Copper
+- Fluorine
+- Ionic Liquids
+- Lead
+- Water
+system: Volii
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Chemical

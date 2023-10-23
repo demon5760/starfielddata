@@ -1,0 +1,29 @@
+atmosphere: EXTR CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.11 G
+magnetosphere: Average
+name: Marduk II
+o2: TBD
+resources:
+- Cobalt
+- Copper
+- Nickel
+- Palladium
+- Platinum
+- Plutonium
+- Uranium
+- Vanadium
+system: Marduk
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: None

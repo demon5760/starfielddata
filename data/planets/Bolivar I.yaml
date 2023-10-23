@@ -1,0 +1,32 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 0.82 G
+magnetosphere: Weak
+name: Bolivar I
+o2: TBD
+resources:
+- Chlorine
+- Copper
+- Lead
+- Nickel
+- Tungsten
+- Water
+system: Bolivar
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Biological

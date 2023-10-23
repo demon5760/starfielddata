@@ -1,0 +1,45 @@
+atmosphere: HIGH O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD10: {}
+  TBD11: {}
+  TBD12: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+  TBD9: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+flora_rating: TBD
+gravity: 1.21 G
+magnetosphere: Very Strong
+name: Beta Marae I
+o2: TBD
+resources:
+- Argon
+- Chlorine
+- Copper
+- Lead
+- Uranium
+- Water
+system: Beta Marae
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Chemical

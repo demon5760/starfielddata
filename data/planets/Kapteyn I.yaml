@@ -1,0 +1,28 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.92 G
+magnetosphere: Weak
+name: Kapteyn I
+o2: TBD
+resources:
+- Aluminum
+- Helium-3
+- Lead
+- Nickel
+- Platinum
+- Uranium
+- Vanadium
+- Water
+system: Kapteyn's Star
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Barren
+water: None

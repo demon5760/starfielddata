@@ -1,0 +1,28 @@
+atmosphere: STD M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.79 G
+magnetosphere: Average
+name: Syrma V
+o2: TBD
+resources:
+- Copper
+- Fluorine
+- Iridium
+- Nickel
+- Platinum
+- Tetrafluorides
+- Uranium
+- Water
+system: Syrma
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

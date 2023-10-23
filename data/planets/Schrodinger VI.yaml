@@ -1,0 +1,18 @@
+atmosphere: H2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 4.18 G
+magnetosphere: Extreme
+name: Schrodinger VI
+o2: TBD
+resources: []
+system: Schrodinger
+temp: TBD
+temperature: Frozen
+traits: []
+type: Gas Giant
+water: None

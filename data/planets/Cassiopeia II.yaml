@@ -1,0 +1,25 @@
+atmosphere: HIGH M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.12 G
+magnetosphere: Average
+name: Cassiopeia II
+o2: TBD
+resources:
+- Chlorine
+- Cobalt
+- Nickel
+- Platinum
+- Water
+system: ETA Cassiopeia
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

@@ -1,0 +1,27 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.02 G
+magnetosphere: Average
+name: Decaran III
+o2: TBD
+resources:
+- Cobalt
+- Copper
+- Lead
+- Nickel
+- Palladium
+- Tungsten
+- Uranium
+- Water
+system: Decaran
+temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+type: Rock
+water: None

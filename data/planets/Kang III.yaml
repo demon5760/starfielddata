@@ -1,0 +1,35 @@
+atmosphere: HIGH M
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 1.23 G
+magnetosphere: Very Strong
+name: Kang III
+o2: TBD
+resources:
+- Alkanes
+- Iron
+- Lead
+- Silver
+- Water
+system: Kang
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

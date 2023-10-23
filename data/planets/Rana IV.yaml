@@ -1,0 +1,33 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 1.17 G
+magnetosphere: Very Strong
+name: Rana IV
+o2: TBD
+resources:
+- Argon
+- Benzene
+- Chlorine
+- Lead
+- Silver
+- Water
+system: Rana
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

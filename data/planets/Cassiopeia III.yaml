@@ -1,0 +1,25 @@
+atmosphere: STD N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.83 G
+magnetosphere: Powerful
+name: Cassiopeia III
+o2: TBD
+resources:
+- Chlorine
+- Nickel
+- Uranium
+- Water
+system: ETA Cassiopeia
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

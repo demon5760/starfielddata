@@ -1,0 +1,27 @@
+atmosphere: STD N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.18 G
+magnetosphere: Average
+name: Alpha Andraste V
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Iridium
+- Nickel
+- Uranium
+- Water
+system: Alpha Andraste
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: None

@@ -1,0 +1,28 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.38 G
+magnetosphere: Weak
+name: Freya IV
+o2: TBD
+resources:
+- Aluminum
+- Cobalt
+- Europium
+- Helium-3
+- Iridium
+- Nickel
+- Uranium
+- Water
+system: Freya
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

@@ -1,0 +1,23 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.44 G
+magnetosphere: Average
+name: Leviathan II
+o2: TBD
+resources:
+- Aluminum
+- Beryllium
+- Europium
+- Helium-3
+- Neodymium
+system: Leviathan
+temp: TBD
+temperature: Inferno
+traits: []
+type: Barren
+water: None

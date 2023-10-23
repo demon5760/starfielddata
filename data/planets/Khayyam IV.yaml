@@ -1,0 +1,28 @@
+atmosphere: STD N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.16 G
+magnetosphere: Weak
+name: Khayyam IV
+o2: TBD
+resources:
+- Alkanes
+- Copper
+- Iron
+- Lead
+- Tantalum
+- Titanium
+- Tungsten
+- Water
+system: Khayyam
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

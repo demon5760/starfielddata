@@ -1,0 +1,25 @@
+atmosphere: STD M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.91 G
+magnetosphere: Very Strong
+name: Katydid II
+o2: TBD
+resources:
+- Chlorine
+- Lead
+- Silver
+- Water
+system: Katydid
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

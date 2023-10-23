@@ -1,0 +1,27 @@
+atmosphere: STD M (COR)
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.84 G
+magnetosphere: Very Strong
+name: Masada IV
+o2: TBD
+resources:
+- Cobalt
+- Fluorine
+- Lead
+- Nickel
+- Tungsten
+- Uranium
+- Vanadium
+- Water
+system: Masada
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Rock
+water: Chemical

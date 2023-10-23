@@ -1,0 +1,28 @@
+atmosphere: HIGH N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.40 G
+magnetosphere: Average
+name: Pyraas IV
+o2: TBD
+resources:
+- Alkanes
+- Chlorine
+- Chlorosilanes
+- Iron
+- Nickel
+- Platinum
+- Uranium
+- Water
+system: Pyraas
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

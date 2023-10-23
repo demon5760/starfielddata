@@ -1,0 +1,27 @@
+atmosphere: THIN N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.52 G
+magnetosphere: Average
+name: Maheo II
+o2: TBD
+resources:
+- Alkanes
+- Copper
+- Helium-3
+- Iron
+- Lead
+- Tetrafluorides
+- Water
+- Ytterbium
+system: Maheo
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Rock
+water: Safe

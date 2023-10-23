@@ -1,0 +1,5 @@
+
++++
+title = "Faraday"
+type = 'planet'
++++

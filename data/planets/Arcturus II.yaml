@@ -1,0 +1,35 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 0.95 G
+magnetosphere: Average
+name: Arcturus II
+o2: TBD
+resources:
+- Alkanes
+- Argon
+- Benzene
+- Chlorine
+- Iridium
+- Iron
+- Uranium
+- Water
+system: Arcturus
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Chemical

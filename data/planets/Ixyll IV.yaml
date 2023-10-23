@@ -1,0 +1,27 @@
+atmosphere: HIGH N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.11 G
+magnetosphere: Very Strong
+name: Ixyll IV
+o2: TBD
+resources:
+- Argon
+- Carboxylic Acids
+- Neon
+- Nickel
+- Uranium
+- Water
+system: Ixyll
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Chemical

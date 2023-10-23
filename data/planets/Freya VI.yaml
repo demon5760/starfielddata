@@ -1,0 +1,20 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.68 G
+magnetosphere: Weak
+name: Freya VI
+o2: TBD
+resources:
+- Aluminum
+- Helium-3
+system: Freya
+temp: TBD
+temperature: Frozen
+traits: []
+type: Barren
+water: None

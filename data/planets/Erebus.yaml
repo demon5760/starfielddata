@@ -1,0 +1,22 @@
+atmosphere: HIGH N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.24 G
+magnetosphere: Very Strong
+name: Erebus
+o2: TBD
+resources:
+- Alkanes
+- Iron
+- Uranium
+system: Olympus
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Rock
+water: None

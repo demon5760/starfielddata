@@ -1,0 +1,5 @@
+
++++
+title = "Nesoi"
+type = 'planet'
++++

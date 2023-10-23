@@ -1,0 +1,25 @@
+atmosphere: HIGH M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.04 G
+magnetosphere: Weak
+name: Ixyll III
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Copper
+- Iron
+- Water
+system: Ixyll
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

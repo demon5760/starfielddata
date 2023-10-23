@@ -1,0 +1,29 @@
+atmosphere: THIN N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.54 G
+magnetosphere: Very Weak
+name: Ternion VI
+o2: TBD
+resources:
+- Copper
+- Fluorine
+- Iron
+- Lead
+- Tantalum
+- Titanium
+- Tungsten
+- Water
+system: Alpha Ternion
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

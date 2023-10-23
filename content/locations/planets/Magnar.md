@@ -1,0 +1,5 @@
+
++++
+title = "Magnar"
+type = 'planet'
++++

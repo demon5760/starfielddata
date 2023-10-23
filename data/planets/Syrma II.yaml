@@ -1,0 +1,26 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.80 G
+magnetosphere: Powerful
+name: Syrma II
+o2: TBD
+resources:
+- Alkanes
+- Chlorine
+- Chlorosilanes
+- Iron
+- Nickel
+- Platinum
+- Plutonium
+- Uranium
+system: Syrma
+temp: TBD
+temperature: Inferno
+traits: []
+type: Rock
+water: None

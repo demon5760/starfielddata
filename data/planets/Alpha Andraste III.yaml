@@ -1,0 +1,42 @@
+atmosphere: HIGH O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD10: {}
+  TBD11: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+  TBD9: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+flora_rating: TBD
+gravity: 1.44 G
+magnetosphere: Powerful
+name: Alpha Andraste III
+o2: TBD
+resources:
+- Argon
+- Chlorine
+- Chlorosilanes
+- Lead
+- Water
+- Xenon
+system: Alpha Andraste
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Heavy Metal

@@ -1,0 +1,27 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.68 G
+magnetosphere: Weak
+name: Jaffa I
+o2: TBD
+resources:
+- Alkanes
+- Dysprosium
+- Iron
+- Lead
+- Titanium
+- Tungsten
+- Uranium
+system: Jaffa
+temp: TBD
+temperature: Scorched
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: None

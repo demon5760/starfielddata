@@ -1,0 +1,5 @@
+
++++
+title = "Sumati"
+type = 'planet'
++++

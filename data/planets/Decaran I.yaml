@@ -1,0 +1,35 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+flora_rating: TBD
+gravity: 1.09 G
+magnetosphere: Weak
+name: Decaran I
+o2: TBD
+resources:
+- Argon
+- Benzene
+- Carboxylic Acids
+- Chlorine
+- Iron
+- Water
+system: Decaran
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

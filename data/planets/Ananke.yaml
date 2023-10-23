@@ -1,0 +1,21 @@
+atmosphere: HIGH N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.12 G
+magnetosphere: Powerful
+name: Ananke
+o2: TBD
+resources:
+- Aluminum
+- Europium
+- Helium-3
+system: Olympus
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Barren
+water: None

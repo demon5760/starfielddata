@@ -1,0 +1,28 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.05 G
+magnetosphere: Weak
+name: Verne III
+o2: TBD
+resources:
+- Argon
+- Copper
+- Iridium
+- Nickel
+- Palladium
+- Uranium
+- Water
+system: Verne
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Chemical

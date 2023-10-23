@@ -1,0 +1,30 @@
+atmosphere: HIGH CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.49 G
+magnetosphere: Powerful
+name: Bohr III
+o2: TBD
+resources:
+- Alkanes
+- Chlorine
+- Chlorosilanes
+- Cobalt
+- Iron
+- Lithium
+- Nickel
+- Water
+system: Bohr
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+- TBD3
+- TBD4
+type: Rock
+water: Chemical

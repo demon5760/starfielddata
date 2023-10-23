@@ -1,0 +1,25 @@
+atmosphere: STD CO2 (COR)
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.00 G
+magnetosphere: Average
+name: Marduk III
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Iron
+- Lead
+- Uranium
+system: Marduk
+temp: TBD
+temperature: Hot
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: None

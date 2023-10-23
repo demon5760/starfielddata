@@ -1,0 +1,25 @@
+atmosphere: EXTR M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.51 G
+magnetosphere: Very Strong
+name: Al-Battani III
+o2: TBD
+resources:
+- Copper
+- Fluorine
+- Lead
+- Nickel
+- Palladium
+system: Al-Battani
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: None

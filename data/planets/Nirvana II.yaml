@@ -1,0 +1,41 @@
+atmosphere: HIGH O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 1.83 G
+magnetosphere: Very Strong
+name: Nirvana II
+o2: TBD
+resources:
+- Copper
+- Fluorine
+- Ionic Liquids
+- Iron
+- Tetrafluorides
+- Uranium
+- Vanadium
+- Water
+system: Nirvana
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Heavy Metal

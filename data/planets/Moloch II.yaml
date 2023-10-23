@@ -1,0 +1,45 @@
+atmosphere: HIGH O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD10: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+  TBD9: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+flora_rating: TBD
+gravity: 1.33 G
+magnetosphere: Average
+name: Moloch II
+o2: TBD
+resources:
+- Aluminum
+- Argon
+- Benzene
+- Carboxylic Acids
+- Chlorine
+- Iron
+- Lithium
+- Water
+system: Moloch
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Heavy Metal

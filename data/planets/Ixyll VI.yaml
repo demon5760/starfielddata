@@ -1,0 +1,18 @@
+atmosphere: H2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 5.62 G
+magnetosphere: Massive
+name: Ixyll VI
+o2: TBD
+resources: []
+system: Ixyll
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Gas Giant
+water: None

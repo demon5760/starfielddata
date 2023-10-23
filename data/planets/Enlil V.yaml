@@ -1,0 +1,26 @@
+atmosphere: STD N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.65 G
+magnetosphere: Very Strong
+name: Enlil V
+o2: TBD
+resources:
+- Copper
+- Fluorine
+- Iridium
+- Uranium
+- Vanadium
+- Water
+system: Enlil
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

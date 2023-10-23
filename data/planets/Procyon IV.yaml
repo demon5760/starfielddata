@@ -1,0 +1,26 @@
+atmosphere: HIGH N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.16 G
+magnetosphere: Average
+name: Procyon IV
+o2: TBD
+resources:
+- Cobalt
+- Nickel
+- Uranium
+- Water
+system: Procyon A
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+- TBD3
+- TBD4
+type: Rock
+water: Safe

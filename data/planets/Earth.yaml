@@ -1,0 +1,24 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.00 G
+magnetosphere: TBD
+name: Earth
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Lead
+- Mercury
+- Water
+system: Sol
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Safe

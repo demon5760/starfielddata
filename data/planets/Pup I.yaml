@@ -1,0 +1,23 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.06 G
+magnetosphere: TBD
+name: Pup I
+o2: TBD
+resources:
+- Caesium
+- Chlorine
+- Water
+system: The Pup
+temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+- TBD2
+type: Barren
+water: None

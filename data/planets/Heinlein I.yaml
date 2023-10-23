@@ -1,0 +1,22 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.57 G
+magnetosphere: Weak
+name: Heinlein I
+o2: TBD
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+system: Heinlein
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+type: Barren
+water: None

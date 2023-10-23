@@ -1,0 +1,25 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.70 G
+magnetosphere: Very Strong
+name: Strix II
+o2: TBD
+resources:
+- Argon
+- Benzene
+- Copper
+- Fluorine
+- Iron
+- Lead
+- Water
+system: Strix
+temp: TBD
+temperature: Cold
+traits: []
+type: Rock
+water: Heavy Metal

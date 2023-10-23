@@ -1,0 +1,39 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 0.85 G
+magnetosphere: Average
+name: Muphrid IV
+o2: TBD
+resources:
+- Alkanes
+- Aluminum
+- Argon
+- Chlorine
+- Chlorosilanes
+- Iron
+- Lithium
+- Water
+system: Muphrid
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Radioactive

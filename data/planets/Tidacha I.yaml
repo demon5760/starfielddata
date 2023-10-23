@@ -1,0 +1,39 @@
+atmosphere: STD O2 (TOX)
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+flora_rating: TBD
+gravity: 1.41 G
+magnetosphere: Very Strong
+name: Tidacha I
+o2: TBD
+resources:
+- Alkanes
+- Aluminum
+- Argon
+- Benzene
+- Carboxylic Acids
+- Chlorine
+- Iron
+- Water
+system: Tidacha
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Chemical

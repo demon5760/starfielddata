@@ -1,0 +1,21 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.71 G
+magnetosphere: Weak
+name: Gaea
+o2: TBD
+resources:
+- Aluminum
+- Helium-3
+- Neodymium
+system: Lunara
+temp: TBD
+temperature: Frozen
+traits: []
+type: Barren
+water: None

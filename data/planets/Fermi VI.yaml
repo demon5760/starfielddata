@@ -1,0 +1,26 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.57 G
+magnetosphere: Very Weak
+name: Fermi VI
+o2: TBD
+resources:
+- Alkanes
+- Chlorine
+- Chlorosilanes
+- Copper
+- Fluorine
+- Iron
+- Tantalum
+- Water
+system: Fermi
+temp: TBD
+temperature: Frozen
+traits: []
+type: Rock
+water: Safe

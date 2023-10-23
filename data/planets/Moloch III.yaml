@@ -1,0 +1,25 @@
+atmosphere: STD N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.75 G
+magnetosphere: Average
+name: Moloch III
+o2: TBD
+resources:
+- Antimony
+- Argon
+- Carboxylic Acids
+- Copper
+- Fluorine
+- Lead
+- Water
+system: Moloch
+temp: TBD
+temperature: Cold
+traits: []
+type: Rock
+water: Safe

@@ -1,0 +1,29 @@
+atmosphere: THIN N2 (COR)
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.39 G
+magnetosphere: Weak
+name: Freya V
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Cobalt
+- Helium-3
+- Iron
+- Lead
+- Nickel
+- Water
+system: Freya
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Chemical

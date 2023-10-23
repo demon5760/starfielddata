@@ -1,0 +1,26 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.20 G
+magnetosphere: Weak
+name: Pyraas VII
+o2: TBD
+resources:
+- Alkanes
+- Copper
+- Fluorine
+- Iridium
+- Iron
+- Uranium
+- Vanadium
+- Water
+system: Pyraas
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: None

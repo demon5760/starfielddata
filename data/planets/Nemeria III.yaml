@@ -1,0 +1,21 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.89 G
+magnetosphere: Weak
+name: Nemeria III
+o2: TBD
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+system: Nemeria
+temp: TBD
+temperature: Frozen
+traits: []
+type: Barren
+water: None

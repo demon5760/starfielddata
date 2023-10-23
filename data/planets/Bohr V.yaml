@@ -1,0 +1,25 @@
+atmosphere: STD M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.78 G
+magnetosphere: Average
+name: Bohr V
+o2: TBD
+resources:
+- Alkanes
+- Caesium
+- Chlorine
+- Iron
+- Uranium
+- Water
+system: Bohr
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Rock
+water: Heavy Metal

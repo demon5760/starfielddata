@@ -1,0 +1,26 @@
+atmosphere: STD N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.71 G
+magnetosphere: Powerful
+name: McClure III
+o2: TBD
+resources:
+- Alkanes
+- Chlorine
+- Cobalt
+- Copper
+- Iron
+- Nickel
+- Tantalum
+- Water
+system: McClure
+temp: TBD
+temperature: Frozen
+traits: []
+type: Rock
+water: Chemical

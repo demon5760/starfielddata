@@ -1,0 +1,27 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.51 G
+magnetosphere: TBD
+name: Indum I
+o2: TBD
+resources:
+- Alkanes
+- Chlorine
+- Iridium
+- Iron
+- Tantalum
+- Uranium
+- Water
+system: Indum
+temp: TBD
+temperature: Scorched
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: None

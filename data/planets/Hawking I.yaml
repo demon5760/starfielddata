@@ -1,0 +1,42 @@
+atmosphere: HIGH CO2 (COR)
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+  TBD9: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+flora_rating: TBD
+gravity: 0.94 G
+magnetosphere: Weak
+name: Hawking I
+o2: TBD
+resources:
+- Argon
+- Chlorine
+- Chlorosilanes
+- Lead
+- Tungsten
+- Water
+system: Hawking
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

@@ -1,0 +1,5 @@
+
++++
+title = "Curie"
+type = 'planet'
++++

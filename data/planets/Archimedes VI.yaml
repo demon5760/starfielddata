@@ -1,0 +1,28 @@
+atmosphere: STD N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.83 G
+magnetosphere: Weak
+name: Archimedes VI
+o2: TBD
+resources:
+- Cobalt
+- Copper
+- Iron
+- Nickel
+- Platinum
+- Uranium
+- Water
+system: Archimedes
+temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Chemical

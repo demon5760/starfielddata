@@ -1,0 +1,24 @@
+atmosphere: THIN N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.76 G
+magnetosphere: Average
+name: Delta Vulpes II
+o2: TBD
+resources:
+- Cobalt
+- Iron
+- Nickel
+- Water
+system: Delta Vulpes
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

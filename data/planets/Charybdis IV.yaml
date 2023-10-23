@@ -1,0 +1,26 @@
+atmosphere: HIGH CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.83 G
+magnetosphere: Average
+name: Charybdis IV
+o2: TBD
+resources:
+- Cobalt
+- Copper
+- Gold
+- Iridium
+- Nickel
+- Uranium
+- Water
+system: Charybdis
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: None

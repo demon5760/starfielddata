@@ -1,0 +1,5 @@
+
++++
+title = "Mars"
+type = 'planet'
++++

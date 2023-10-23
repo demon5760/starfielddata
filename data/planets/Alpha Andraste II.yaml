@@ -1,0 +1,25 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.37 G
+magnetosphere: Weak
+name: Alpha Andraste II
+o2: TBD
+resources:
+- Aluminum
+- Beryllium
+- Chlorine
+- Helium-3
+- Iron
+- Tantalum
+system: Alpha Andraste
+temp: TBD
+temperature: Hot
+traits:
+- TBD1
+type: Rock
+water: None

@@ -1,0 +1,35 @@
+atmosphere: EXTR O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 1.50 G
+magnetosphere: Powerful
+name: Andromas II
+o2: TBD
+resources:
+- Argon
+- Carboxylic Acids
+- Chlorine
+- Chlorosilanes
+- Fluorine
+- Lithium
+- Nickel
+- Water
+system: Andromas
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Chemical

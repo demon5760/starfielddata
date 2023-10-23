@@ -1,0 +1,5 @@
+
++++
+title = "Bode"
+type = 'planet'
++++

@@ -1,0 +1,36 @@
+atmosphere: HIGH O2 (TOX)
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 1.31 G
+magnetosphere: Average
+name: Bel II
+o2: TBD
+resources:
+- Aluminum
+- Argon
+- Benzene
+- Chlorine
+- Lithium
+- Water
+system: Bel
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Biological

@@ -1,0 +1,24 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.61 G
+magnetosphere: Average
+name: Heisenberg III
+o2: TBD
+resources:
+- Argon
+- Lead
+- Silver
+- Water
+system: Heisenberg
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Biological

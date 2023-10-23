@@ -1,0 +1,28 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.66 G
+magnetosphere: Very Weak
+name: Ixyll I
+o2: TBD
+resources:
+- Alkanes
+- Cobalt
+- Iridium
+- Iron
+- Lead
+- Nickel
+- Uranium
+system: Ixyll
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: None

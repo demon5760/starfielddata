@@ -1,0 +1,27 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.58 G
+magnetosphere: Average
+name: Khayyam III
+o2: TBD
+resources:
+- Alkanes
+- Chlorine
+- Chlorosilanes
+- Copper
+- Gold
+- Iron
+- Lead
+- Water
+system: Khayyam
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Safe

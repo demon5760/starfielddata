@@ -1,0 +1,5 @@
+
++++
+title = "Etherea"
+type = 'planet'
++++

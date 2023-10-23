@@ -1,0 +1,25 @@
+atmosphere: EXTR M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.52 G
+magnetosphere: Average
+name: Ursae Minor III
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Copper
+- Fluorine
+- Water
+system: Ursae Minoris
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

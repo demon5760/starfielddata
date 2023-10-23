@@ -1,0 +1,26 @@
+atmosphere: EXTR CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.68 G
+magnetosphere: Very Strong
+name: Ixyll V
+o2: TBD
+resources:
+- Chlorine
+- Copper
+- Fluorine
+- Lead
+- Lithium
+- Silver
+- Water
+system: Ixyll
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Rock
+water: Chemical

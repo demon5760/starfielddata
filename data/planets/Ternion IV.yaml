@@ -1,0 +1,25 @@
+atmosphere: STD M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.94 G
+magnetosphere: Powerful
+name: Ternion IV
+o2: TBD
+resources:
+- Chlorine
+- Iron
+- Lead
+- Mercury
+- Water
+system: Alpha Ternion
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

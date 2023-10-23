@@ -1,0 +1,28 @@
+atmosphere: EXTR N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.23 G
+magnetosphere: Average
+name: Heinlein V
+o2: TBD
+resources:
+- Argon
+- Carboxylic Acids
+- Cobalt
+- Lead
+- Nickel
+- Palladium
+- Silver
+- Water
+system: Heinlein
+temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

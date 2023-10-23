@@ -1,0 +1,22 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.79 G
+magnetosphere: Weak
+name: Algorab I
+o2: TBD
+resources:
+- Iridium
+- Lead
+- Uranium
+system: Algorab
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+type: Rock
+water: None

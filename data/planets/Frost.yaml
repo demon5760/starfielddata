@@ -1,0 +1,23 @@
+atmosphere: EXTR N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.58 G
+magnetosphere: Very Strong
+name: Frost
+o2: TBD
+resources:
+- Helium-3
+- Lead
+- Water
+system: Barnard's Star
+temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

@@ -1,0 +1,36 @@
+atmosphere: HIGH O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 1.51 G
+magnetosphere: Powerful
+name: Proxima Ternion III
+o2: TBD
+resources:
+- Aluminum
+- Caesium
+- Chlorine
+- Copper
+- Fluorine
+- Nickel
+- Water
+system: Proxima Ternion
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

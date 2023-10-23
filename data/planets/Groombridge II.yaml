@@ -1,0 +1,27 @@
+atmosphere: EXTR M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 2.18 G
+magnetosphere: Average
+name: Groombridge II
+o2: TBD
+resources:
+- Alkanes
+- Copper
+- Iron
+- Lead
+- Tungsten
+- Water
+system: Groombridge
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

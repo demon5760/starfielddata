@@ -1,0 +1,25 @@
+atmosphere: THIN N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.58 G
+magnetosphere: Very Strong
+name: Ternion VII
+o2: TBD
+resources:
+- Aluminum
+- Beryllium
+- Chlorine
+- Chlorosilanes
+- Helium-3
+- Lithium
+- Water
+system: Alpha Ternion
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: Safe

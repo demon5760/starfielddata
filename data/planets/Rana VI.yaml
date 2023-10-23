@@ -1,0 +1,18 @@
+atmosphere: H2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 5.86 G
+magnetosphere: Massive
+name: Rana VI
+o2: TBD
+resources: []
+system: Rana
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Gas Giant
+water: None

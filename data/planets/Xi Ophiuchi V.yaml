@@ -1,0 +1,28 @@
+atmosphere: STD M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.21 G
+magnetosphere: Very Strong
+name: Xi Ophiuchi V
+o2: TBD
+resources:
+- Cobalt
+- Copper
+- Fluorine
+- Lead
+- Nickel
+- Platinum
+- Tetrafluorides
+- Water
+system: Xi Ophiuchi
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

@@ -1,0 +1,29 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.53 G
+magnetosphere: Average
+name: Enlil III
+o2: TBD
+resources:
+- Alkanes
+- Argon
+- Benzene
+- Chlorine
+- Iron
+- Nickel
+- Tantalum
+- Water
+system: Enlil
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

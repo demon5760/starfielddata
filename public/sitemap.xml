@@ -2,539 +2,601 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://starfieldinfo.pages.dev/items/</loc>
+    <loc>https://starfield-data.pages.dev/items/</loc>
     <lastmod>2023-09-24T13:38:20-04:00</lastmod>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/</loc>
     <lastmod>2023-09-24T13:38:20-04:00</lastmod>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/</loc>
+    <loc>https://starfield-data.pages.dev/</loc>
     <lastmod>2023-09-24T13:38:20-04:00</lastmod>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/about/</loc>
+    <loc>https://starfield-data.pages.dev/about/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/adaptive-frame/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/adaptive-frame/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/adhesive/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/adhesive/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/agamon/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/agamon/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/agamon-a/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/agamon-a/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/agamon-b/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/agamon-b/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/agamon-c/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/agamon-c/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/agamon-d/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/agamon-d/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/akila/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/akila/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/al-battani/</loc>
+    <loc>https://starfield-data.pages.dev/locations/cities/akila-city/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/al-battani-i/</loc>
+    <loc>https://starfield-data.pages.dev/locations/homes/akila-city-core-manor/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/al-battani-ii/</loc>
+    <loc>https://starfield-data.pages.dev/locations/homes/akila-city-stretch-home/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/alchiba/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/al-battani/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/aldumite/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/al-battani-i/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/algorab/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/al-battani-ii/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/alkanes/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/al-battani-iii/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/alpha-andraste/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/al-battani-iv/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/alpha-centauri/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/al-battani-v/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/alpha-marae/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/al-battani-vi/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/alpha-ternion/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/al-battani-vii/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/alpha-tirna/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/al-battani-viii/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/altair/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/alchiba/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/aluminum/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/alchiba-i/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/amino-acids/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/alchiba-ii/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/analgesic/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/alchiba-iii/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/andromas/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/alchiba-iv/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/antharum/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/alchiba-ix/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/antimicrobial/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/alchiba-v/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/antimony/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/alchiba-vi/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/aqueous-hematite/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/alchiba-vii/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/aranae/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/alchiba-viii/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/archimedes/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/alchiba-x/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/arcturus/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/aldumite/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/argon/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/algorab/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/aromatic/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/algorab-i/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/bannoc/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/algorab-ii/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/bannoc-secondus/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/algorab-iii/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/bara/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/alkanes/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/bardeen/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/alpha-andraste/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/barnards-star/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/alpha-centauri/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/bel/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/alpha-marae/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/belwah/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/alpha-ternion/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/benzene/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/alpha-tirna/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/beryllium/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/altair/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/bessel/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/aluminum/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/beta-andraste/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/amino-acids/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/beta-marae/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/analgesic/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/beta-ternion/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/andromas/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/beta-tirna/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/antharum/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/bindi/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/antimicrobial/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/biosuppressant/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/antimony/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/bismark/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/aqueous-hematite/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/bohr/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/aranae/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/bolivar/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/archimedes/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/bookmarks/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/arcturus/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/bradbury/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/argon/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/bradbury-ii/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/aromatic/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/burran/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/bannoc/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/caelumite/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/bannoc-secondus/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/caesium/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/bara/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/carboxylic-acids/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/bardeen/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/carinae/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/barnards-star/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/categories/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/bel/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/celebrai/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/belwah/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/charybdis/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/benzene/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/cheyenne/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/beryllium/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/chlorine/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/bessel/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/chlorosilanes/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/beta-andraste/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/cobalt/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/beta-marae/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/codos/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/beta-ternion/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/copernicus/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/beta-tirna/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/copernicus-minor/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/bindi/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/copper/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/biosuppressant/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/cosmetic/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/bismark/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/cragg/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/bohr/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/decaran/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/bolivar/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/delta-pavonis/</loc>
+    <loc>https://starfield-data.pages.dev/bookmarks/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/delta-vulpes/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/bradbury/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/denebola/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/bradbury-ii/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/dysprosium/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/burran/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/enlil/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/caelumite/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/eridani/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/caesium/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/eta-cassiopeia/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/carboxylic-acids/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/europium/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/carinae/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/fenn/</loc>
+    <loc>https://starfield-data.pages.dev/categories/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/fermi/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/celebrai/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/feynman/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/charybdis/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/fiber/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/cheyenne/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/fluorine/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/chlorine/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/foucault/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/chlorosilanes/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/freya/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/cobalt/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/gamma-vulpes/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/codos/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/gastronomic-delight/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/copernicus/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/gold/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/copernicus-minor/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/grizzit/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/copper/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/groombridge/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/cosmetic/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/groombridge-vii/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/cragg/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/groombridge-vii-b/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/decaran/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/guniibuu/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/delta-pavonis/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/hallucinogen/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/delta-vulpes/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/hardpoint/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/denebola/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/hawking/</loc>
+    <loc>https://starfield-data.pages.dev/locations/homes/dream-home/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/heilo/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/dysprosium/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/heinlein/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/enlil/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/heisenberg/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/eridani/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/helium-3/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/eta-cassiopeia/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/high-tensile-spidroin/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/europium/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/huygens/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/fenn/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/hyla/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/fermi/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/hypercatalyst/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/feynman/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/immunostimulant/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/fiber/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/indicite/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/fluorine/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/indum/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/foucault/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/ionic-liquids/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/freya/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/iridium/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/gamma-vulpes/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/iron/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/gastronomic-delight/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/ixyll/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/gold/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/jaffa/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/grizzit/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/kalira/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/groombridge/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/kang/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/groombridge-vii/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/kapteyns-star/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/groombridge-vii-b/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/katydid/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/guniibuu/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/khayyam/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/hallucinogen/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/kryx/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/hardpoint/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/kumasi/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/hawking/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/kumasi-i/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/heilo/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/kumasi-vi/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/heinlein/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/lantana/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/heisenberg/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/laramie/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/helium-3/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/lead/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/high-tensile-spidroin/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/leonis/</loc>
+    <loc>https://starfield-data.pages.dev/locations/homes/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/leviathan/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/huygens/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/linnaeus/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/hyla/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/lithium/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/hypercatalyst/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/immunostimulant/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/lubricant/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/indicite/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/lunara/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/indum/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/luxury-textile/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/ionic-liquids/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/luytens-star/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/iridium/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/maal/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/iron/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/maheo/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/ixyll/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/marduk/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/jaffa/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/masada/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/kalira/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/mcclure/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/kang/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/membrane/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/kapteyns-star/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/memory-substrate/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/katydid/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/mercury/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/khayyam/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/metabolic-agent/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/kryx/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/moloch/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/kumasi/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/montara/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/kumasi-i/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/montara-luna/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/kumasi-vi/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/lantana/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/muphrid/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/laramie/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/narion/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/lead/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/navaha/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/leonis/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/nemeria/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/leviathan/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/neodymium/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/linnaeus/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/neon/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/lithium/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/neurologic/</loc>
+    <loc>https://starfield-data.pages.dev/locations/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/newton/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/lubricant/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/nickel/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/lunara/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/nikola/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/luxury-textile/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/nirah/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/luytens-star/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/nirvana/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/maal/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/nutrient/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/maheo/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/oborum-prime/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/marduk/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/oborum-proxima/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/masada/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/olaran/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/mcclure/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/olympus/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/membrane/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/ophion/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/memory-substrate/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/ornamental-material/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/mercury/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/palladium/</loc>
+    <loc>https://starfield-data.pages.dev/locations/homes/mercury-tower-penthouse/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/piazzi/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/metabolic-agent/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/pigment/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/moloch/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/montara/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/platinum/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/montara-luna/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/plutonium/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/polymer/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/muphrid/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/porrima/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/narion/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/procyon-a/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/navaha/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/procyon-b/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/nemeria/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/proxima-ternion/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/neodymium/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/pyraas/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/neon/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/quark-degenerate-tissues/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/neurologic/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/rana/</loc>
+    <loc>https://starfield-data.pages.dev/locations/cities/new-atlantis/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/rasalhague/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/newton/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/rell/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/nickel/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/rivera/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/nikola/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/rothicite/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/nirah/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/rutherford/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/nirvana/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/sagan/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/nutrient/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/sakharov/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/oborum-prime/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/schrodinger/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/oborum-proxima/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/sealant/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/olaran/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/sedative/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/olympus/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/serpentis/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/ophion/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/shoza/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/ornamental-material/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/silver/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/palladium/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/sirius/</loc>
+    <loc>https://starfield-data.pages.dev/locations/homes/parents-house/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/skink/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/piazzi/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/smet/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/pigment/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/sol/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/solvent/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/platinum/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/sparta/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/plutonium/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/spice/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/polymer/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/stellis/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/porrima/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/stellis-a/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/procyon-a/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/stellis-b/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/procyon-b/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/stellis-c/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/proxima-ternion/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/stellis-d/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/pyraas/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/stimulant/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/quark-degenerate-tissues/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/strix/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/rana/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/structural-material/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/rasalhague/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/syrma/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/rell/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/rivera/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/tags/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/rothicite/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/tahrnis/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/rutherford/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/tantalum/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/sagan/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/tasine/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/sakharov/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/tau-ceti/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/schrodinger/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/tetrafluorides/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/sealant/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/the-pup/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/sedative/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/thren/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/serpentis/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/tidacha/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/shoza/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/tirna-b/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/silver/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/tirna-i/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/sirius/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/tirna-ii/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/skink/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/tirna-iii/</loc>
+    <loc>https://starfield-data.pages.dev/locations/homes/sleep-crate/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/tirna-iv/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/smet/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/tirna-iv-a/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/sol/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/tirna-v/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/solvent/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/tirna-vi/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/sparta/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/tirna-vi-b/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/spice/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/titanium/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/stellis/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/toliman/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/stellis-a/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/toxin/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/stellis-b/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/tungsten/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/stellis-c/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/uranium/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/stellis-d/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/ursa-minor-i/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/stimulant/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/ursa-minor-ii/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/strix/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/ursa-minor-ii-a/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/structural-material/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/ursa-minor-iii/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/syrma/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/ursae-majoris/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/ursae-minoris/</loc>
+    <loc>https://starfield-data.pages.dev/tags/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/valo/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/tahrnis/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/van-maanens-star/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/tantalum/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/vanadium/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/tasine/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/vega/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/tau-ceti/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/verne/</loc>
+    <loc>https://starfield-data.pages.dev/items/resources/tetrafluorides/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/veryl/</loc>
+    <loc>https://starfield-data.pages.dev/locations/homes/the-lodge/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/volii/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/the-pup/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/vytinium/</loc>
+    <loc>https://starfield-data.pages.dev/locations/homes/the-sky-suite/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/vytinium-fuel-rod/</loc>
+    <loc>https://starfield-data.pages.dev/locations/homes/the-well-apartment/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/planets/washakie/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/thren/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/water/</loc>
+    <loc>https://starfield-data.pages.dev/locations/systems/tidacha/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/moons/wellish/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/tirna-b/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/wolf/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/tirna-i/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/xenon/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/tirna-ii/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/xi-ophiuchi/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/tirna-iii/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/items/resources/ytterbium/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/tirna-iv/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/zelazny/</loc>
+    <loc>https://starfield-data.pages.dev/locations/moons/tirna-iv-a/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/zeta-ophiuchi/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/tirna-v/</loc>
   </url><url>
-    <loc>https://starfieldinfo.pages.dev/locations/systems/zosma/</loc>
+    <loc>https://starfield-data.pages.dev/locations/planets/tirna-vi/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/moons/tirna-vi-b/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/items/resources/titanium/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/systems/toliman/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/items/resources/toxin/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/items/resources/tungsten/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/items/resources/uranium/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/planets/ursa-minor-i/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/planets/ursa-minor-ii/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/moons/ursa-minor-ii-a/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/planets/ursa-minor-iii/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/systems/ursae-majoris/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/systems/ursae-minoris/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/systems/valo/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/systems/van-maanens-star/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/items/resources/vanadium/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/systems/vega/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/systems/verne/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/items/resources/veryl/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/systems/volii/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/items/resources/vytinium/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/items/resources/vytinium-fuel-rod/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/planets/washakie/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/items/resources/water/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/moons/wellish/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/systems/wolf/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/items/resources/xenon/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/systems/xi-ophiuchi/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/items/resources/ytterbium/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/systems/zelazny/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/systems/zeta-ophiuchi/</loc>
+  </url><url>
+    <loc>https://starfield-data.pages.dev/locations/systems/zosma/</loc>
   </url>
 </urlset>

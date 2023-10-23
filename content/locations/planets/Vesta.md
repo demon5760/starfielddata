@@ -1,0 +1,5 @@
+
++++
+title = "Vesta"
+type = 'planet'
++++

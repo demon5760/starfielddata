@@ -1,0 +1,24 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.49 G
+magnetosphere: Weak
+name: Bohr I
+o2: TBD
+resources:
+- Chlorine
+- Lead
+- Mercury
+- Silver
+system: Bohr
+temp: TBD
+temperature: Scorched
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: None

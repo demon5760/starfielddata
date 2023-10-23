@@ -1,0 +1,32 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 0.62 G
+magnetosphere: Very Strong
+name: Copernicus III
+o2: TBD
+resources:
+- Argon
+- Benzene
+- Lead
+- Water
+system: Copernicus
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

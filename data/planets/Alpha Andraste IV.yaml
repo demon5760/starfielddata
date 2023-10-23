@@ -1,0 +1,28 @@
+atmosphere: HIGH M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.85 G
+magnetosphere: Very Weak
+name: Alpha Andraste IV
+o2: TBD
+resources:
+- Alkanes
+- Copper
+- Iron
+- Lead
+- Nickel
+- Palladium
+- Titanium
+- Water
+system: Alpha Andraste
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

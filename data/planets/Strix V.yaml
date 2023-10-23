@@ -1,0 +1,25 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.28 G
+magnetosphere: Powerful
+name: Strix V
+o2: TBD
+resources:
+- Chlorine
+- Iridium
+- Lithium
+- Nickel
+- Uranium
+- Water
+- Xenon
+system: Strix
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: None

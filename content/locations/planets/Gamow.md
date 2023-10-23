@@ -1,0 +1,5 @@
+
++++
+title = "Gamow"
+type = 'planet'
++++

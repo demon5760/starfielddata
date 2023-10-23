@@ -1,0 +1,26 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.73 G
+magnetosphere: Weak
+name: Hawking II
+o2: TBD
+resources:
+- Alkanes
+- Chlorine
+- Copper
+- Iron
+- Water
+system: Hawking
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Chemical

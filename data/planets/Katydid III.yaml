@@ -1,0 +1,28 @@
+atmosphere: STD N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.14 G
+magnetosphere: Average
+name: Katydid III
+o2: TBD
+resources:
+- Aluminum
+- Beryllium
+- Copper
+- Indicite
+- Iron
+- Lead
+- Silver
+- Water
+system: Katydid
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

@@ -1,0 +1,29 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.19 G
+magnetosphere: Powerful
+name: Schrodinger II
+o2: TBD
+resources:
+- Aldumite
+- Chlorine
+- Chlorosilanes
+- Lead
+- Plutonium
+- Titanium
+- Tungsten
+- Uranium
+system: Schrodinger
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: None

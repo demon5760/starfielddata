@@ -1,0 +1,22 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.39 G
+magnetosphere: Weak
+name: Bara IV
+o2: TBD
+resources:
+- Helium-3
+- Iron
+- Tantalum
+system: Bara
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Barren
+water: None

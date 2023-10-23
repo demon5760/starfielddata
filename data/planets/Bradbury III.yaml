@@ -1,0 +1,36 @@
+atmosphere: HIGH O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 1.46 G
+magnetosphere: Average
+name: Bradbury III
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Cobalt
+- Lead
+- Nickel
+- Titanium
+- Uranium
+- Water
+system: Bradbury
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Biological

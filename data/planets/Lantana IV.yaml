@@ -1,0 +1,30 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 1.11 G
+magnetosphere: Powerful
+name: Lantana IV
+o2: TBD
+resources:
+- Cobalt
+- Copper
+- Fluorine
+- Nickel
+- Water
+system: Lantana
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Biological

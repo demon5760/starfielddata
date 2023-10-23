@@ -1,0 +1,18 @@
+atmosphere: H2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.37 G
+magnetosphere: Weak
+name: Leonis VI
+o2: TBD
+resources: []
+system: Leonis
+temp: TBD
+temperature: Frozen
+traits: []
+type: Ice Giant
+water: None

@@ -1,0 +1,41 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+flora_rating: TBD
+gravity: 0.71 G
+magnetosphere: Very Strong
+name: Rutherford III
+o2: TBD
+resources:
+- Argon
+- Chlorine
+- Chlorosilanes
+- Lead
+- Lithium
+- Water
+system: Rutherford
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Heavy Metal

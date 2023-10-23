@@ -1,0 +1,25 @@
+atmosphere: STD M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.80 G
+magnetosphere: Weak
+name: Alchiba IV
+o2: TBD
+resources:
+- Copper
+- Iridium
+- Lead
+- Tetrafluorides
+- Uranium
+- Vanadium
+- Water
+system: Alchiba
+temp: TBD
+temperature: Cold
+traits: []
+type: Rock
+water: Safe

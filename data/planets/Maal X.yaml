@@ -1,0 +1,21 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.14 G
+magnetosphere: TBD
+name: Maal X
+o2: TBD
+resources:
+- Cobalt
+- Nickel
+- Water
+system: Maal
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Chemical

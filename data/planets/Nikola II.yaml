@@ -1,0 +1,25 @@
+atmosphere: STD N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.69 G
+magnetosphere: Average
+name: Nikola II
+o2: TBD
+resources:
+- Argon
+- Lead
+- Nickel
+- Plutonium
+- Tungsten
+- Uranium
+- Water
+system: Nikola
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: None

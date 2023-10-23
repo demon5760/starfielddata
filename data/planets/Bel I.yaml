@@ -1,0 +1,39 @@
+atmosphere: THIN O2 (COR)
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+flora_rating: TBD
+gravity: 0.52 G
+magnetosphere: Weak
+name: Bel I
+o2: TBD
+resources:
+- Argon
+- Carboxylic Acids
+- Chlorine
+- Chlorosilanes
+- Fluorine
+- Nickel
+- Water
+system: Bel
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Chemical

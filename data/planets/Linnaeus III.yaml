@@ -1,0 +1,26 @@
+atmosphere: EXTR M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.32 G
+magnetosphere: Average
+name: Linnaeus III
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Copper
+- Fluorine
+- Nickel
+- Tetrafluorides
+- Uranium
+- Water
+system: Linnaeus
+temp: TBD
+temperature: Frozen
+traits: []
+type: Rock
+water: Chemical

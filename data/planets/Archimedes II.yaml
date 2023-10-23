@@ -1,0 +1,28 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 0.46 G
+magnetosphere: Average
+name: Archimedes II
+o2: TBD
+resources:
+- Argon
+- Uranium
+- Water
+system: Archimedes
+temp: TBD
+temperature: Temperate
+traits: []
+type: Rock
+water: Radioactive

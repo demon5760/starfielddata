@@ -1,0 +1,21 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.59 G
+magnetosphere: Weak
+name: Huygens I
+o2: TBD
+resources:
+- Helium-3
+- Iron
+system: Huygens
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+type: Barren
+water: None

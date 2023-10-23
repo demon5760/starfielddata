@@ -1,0 +1,27 @@
+atmosphere: HIGH N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.51 G
+magnetosphere: Average
+name: Kumasi IV
+o2: TBD
+resources:
+- Cobalt
+- Copper
+- Dysprosium
+- Lead
+- Nickel
+- Water
+system: Kumasi
+temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

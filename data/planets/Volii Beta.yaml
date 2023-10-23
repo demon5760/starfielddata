@@ -1,0 +1,21 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.58 G
+magnetosphere: Average
+name: Volii Beta
+o2: TBD
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+system: Volii
+temp: TBD
+temperature: Scorched
+traits: []
+type: Rock
+water: None

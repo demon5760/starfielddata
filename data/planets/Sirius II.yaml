@@ -1,0 +1,28 @@
+atmosphere: STD M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.38 G
+magnetosphere: Average
+name: Sirius II
+o2: TBD
+resources:
+- Chlorine
+- Chlorosilanes
+- Iridium
+- Lithium
+- Nickel
+- Uranium
+- Water
+- Xenon
+system: Sirius
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

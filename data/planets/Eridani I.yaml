@@ -1,0 +1,23 @@
+atmosphere: EXTR CO2 (COR)
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.77 G
+magnetosphere: Powerful
+name: Eridani I
+o2: TBD
+resources:
+- Chlorine
+- Uranium
+system: Eridani
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: None

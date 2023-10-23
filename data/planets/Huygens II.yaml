@@ -1,0 +1,26 @@
+atmosphere: HIGH CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.40 G
+magnetosphere: Powerful
+name: Huygens II
+o2: TBD
+resources:
+- Chlorine
+- Iridium
+- Iron
+- Uranium
+- Vanadium
+- Xenon
+system: Huygens
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: None

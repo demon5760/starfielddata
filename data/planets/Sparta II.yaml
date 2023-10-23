@@ -1,0 +1,23 @@
+atmosphere: EXTR CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 1.67 G
+magnetosphere: Very Strong
+name: Sparta II
+o2: TBD
+resources:
+- Lead
+- Titanium
+- Tungsten
+- Uranium
+system: Sparta
+temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+type: Rock
+water: None

@@ -1,0 +1,23 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.20 G
+magnetosphere: TBD
+name: Cruth
+o2: TBD
+resources:
+- Antimony
+- Copper
+- Fluorine
+- Gold
+- Water
+system: Narion
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Chemical

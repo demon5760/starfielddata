@@ -1,0 +1,27 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.61 G
+magnetosphere: Average
+name: Tau Ceti III
+o2: TBD
+resources:
+- Alkanes
+- Chlorine
+- Copper
+- Iron
+- Lithium
+- Tetrafluorides
+- Water
+system: Tau Ceti
+temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Heavy Metal

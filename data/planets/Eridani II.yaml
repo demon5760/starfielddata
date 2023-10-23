@@ -1,0 +1,43 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+flora_rating: TBD
+gravity: 0.86 G
+magnetosphere: Average
+name: Eridani II
+o2: TBD
+resources:
+- Chlorine
+- Cobalt
+- Copper
+- Fluorine
+- Gold
+- Iron
+- Nickel
+- Water
+system: Eridani
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

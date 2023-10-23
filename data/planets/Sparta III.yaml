@@ -1,0 +1,36 @@
+atmosphere: THIN O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 0.62 G
+magnetosphere: Weak
+name: Sparta III
+o2: TBD
+resources:
+- Argon
+- Benzene
+- Copper
+- Fluorine
+- Iron
+- Lead
+- Nickel
+- Water
+system: Sparta
+temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

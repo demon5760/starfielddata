@@ -1,0 +1,5 @@
+
++++
+title = "Gaea"
+type = 'planet'
++++

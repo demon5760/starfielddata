@@ -1,0 +1,43 @@
+atmosphere: HIGH M
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+  TBD9: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+flora_rating: TBD
+gravity: 1.13 G
+magnetosphere: Average
+name: Pyraas II
+o2: TBD
+resources:
+- Argon
+- Chlorine
+- Chlorosilanes
+- Iridium
+- Lead
+- Titanium
+- Uranium
+- Water
+system: Pyraas
+temp: TBD
+temperature: Temperate
+traits: []
+type: Rock
+water: Biological

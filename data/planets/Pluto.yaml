@@ -1,0 +1,22 @@
+atmosphere: TBD
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.06 G
+magnetosphere: TBD
+name: Pluto
+o2: TBD
+resources:
+- Lead
+- Titanium
+- Tungsten
+- Water
+system: Sol
+temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Safe

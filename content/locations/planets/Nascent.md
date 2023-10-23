@@ -1,0 +1,5 @@
+
++++
+title = "Nascent"
+type = 'planet'
++++
