@@ -1,0 +1,7 @@
+name: Parent's House
+city: New Atlantis
+price: 0
+requirements:
+  - Select "Kid Stuff" trait upon character creation.
+credits:
+  - Den Of Geek
