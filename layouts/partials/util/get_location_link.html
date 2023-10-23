@@ -1,0 +1,27 @@
+{{ $location_name := index . 0 }}
+{{ $site := index . 1 }}
+
+{{ $page_file := "" }}
+
+{{ $location_link := $location_name }}
+
+{{ if $location_name }}
+    {{ if index $site.Data.moons $location_name }}
+        {{ $page_file = printf "/locations/moons/%s" $location_name }}
+    {{ else if index $site.Data.planets $location_name }}
+        {{ $page_file = printf "/locations/planets/%s" $location_name }}
+    {{ else if index $site.Data.cities $location_name }}
+        {{ $page_file = printf "/locations/cities/%s" $location_name }}
+    {{ else if index $site.Data.systems $location_name }}
+        {{ $page_file = printf "/locations/systems/%s" $location_name }}
+    {{ end }}
+{{ end }}
+
+{{ if $page_file }}
+    {{ $location_page := $site.GetPage $page_file }}
+    {{ if $location_page.Title }}
+        {{ $location_link = printf "<a href='%s'>%s</a>" $location_page.Permalink $location_name }}
+    {{ end }}
+{{ end }}
+
+{{ return ( $location_link | safeHTML ) }}

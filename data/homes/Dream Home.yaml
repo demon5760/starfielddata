@@ -1,0 +1,7 @@
+name: Dream Home
+planet: Nesoi
+price: 125000
+requirements:
+  - Select "Dream Home" trait during character creation.
+credits:
+  - Den Of Geek
