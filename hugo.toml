@@ -1,6 +1,6 @@
-baseURL = 'https://starfieldinfo.pages.dev/'
+baseURL = 'https://starfield-data.pages.dev/'
 languageCode = 'en-us'
-title = "Starfield Info"
+title = "Starfield Data"
 theme = 'beautifulhugo'
 googleAnalytics = 'G-MS58PM494H'
 
