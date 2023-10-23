@@ -1,0 +1,20 @@
+{{ $span_class := "" }}
+{{ $value := string . }}
+
+{{ if eq $value "" }}
+    {{ $value = "TBD" }}
+{{ end }}
+
+{{ if hasPrefix $value "TBD"}}
+    {{ $span_class = "missing_data" }}
+    {{ $value = "TBD" }}
+{{ end }}
+
+{{ if not $value }}
+    {{ if not (eq $value 0) }}
+        {{ $span_class = "missing_data" }}
+        {{ $value = "TBD" }}
+    {{ end }}
+{{ end }}
+{{ return (( printf "<span class='%s'>%s</span>" $span_class $value) | safeHTML )  }}
+

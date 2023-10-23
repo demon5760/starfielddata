@@ -8,8 +8,8 @@ magnetosphere: Very Strong
 fauna_rating: None
 flora_rating: None
 water: None
-o2: 0%
-temp: -117° 
+o2_percent: 0
+surface_temp: -117 
 flora: {}
 fauna:  {}
 traits: []

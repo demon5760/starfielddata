@@ -8,8 +8,8 @@ magnetosphere: Average
 fauna_rating: None
 flora_rating: None
 water: None
-o2: 0%
-temp: -204° 
+o2_percent: 0
+surface_temp: -204
 flora: {}
 fauna: {}
 traits:

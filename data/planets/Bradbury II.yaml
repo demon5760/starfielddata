@@ -1,0 +1,30 @@
+atmosphere: Thin CO2
+credits:
+  - Starfield Sheet 1
+  - Demon5760
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.59 G
+magnetosphere: Powerful
+name: Bradbury II
+o2_percent: 0
+resources:
+- Alkanes
+- Iridium
+- Iron
+- Lead
+- Tantalum
+- Tungsten
+- Uranium
+- Ytterbium
+system: Bradbury
+surface_temp: 409
+temperature: Inferno
+traits:
+- Prismatic Plumes (Crystalline Pools)
+- Charred Ecosystem (Sinter Terraces)
+- Gaseous Font (Outgasing Field)
+type: Rock
+water: None

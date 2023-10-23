@@ -8,8 +8,8 @@ magnetosphere: Powerful
 fauna_rating: Moderate
 flora_rating: Moderate
 water: Safe
-o2: 21%
-temp: 34° 
+o2_percent: 21
+surface_temp: 34
 flora:
   TBD1: {}
   TBD2: {}

@@ -1,0 +1,36 @@
+atmosphere: STD O2 (TOX)
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 0.84 G
+magnetosphere: Weak
+name: Al-Battani II
+o2_percent: TBD
+resources:
+- Alkanes
+- Copper
+- Dysprosium
+- Ionic Liquids
+- Lead
+- Nickel
+- Water
+system: Al-Battani
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Safe

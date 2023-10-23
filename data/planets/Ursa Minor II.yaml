@@ -8,8 +8,8 @@ magnetosphere: Weak
 fauna_rating: Marginal
 flora_rating: Marginal
 water: Chemical
-o2: TBD%
-temp: TBD° 
+o2_percent: TBD
+surface_temp: TBD
 flora:
   TBD1: {}
   TBD2: {}

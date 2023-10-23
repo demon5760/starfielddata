@@ -8,8 +8,8 @@ magnetosphere: Average
 fauna_rating: Moderate
 flora_rating: Moderate
 water: Chemical
-o2: 18%
-temp: 13° 
+o2_percent: 18
+surface_temp: 13
 flora:
   Twilight Cradleleaf:
     resource: Nutrient

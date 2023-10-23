@@ -8,8 +8,8 @@ magnetosphere: Very Strong
 fauna_rating: Moderate
 flora_rating: Moderate
 water: Biological
-o2: 24%
-temp: 11°
+o2_percent: 24
+surface_temp: 11
 flora:
   Golden Creeper:
     resource: Hallucinogen

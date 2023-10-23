@@ -8,8 +8,8 @@ magnetosphere: Weak
 fauna_rating: Marginal
 flora_rating: Marginal
 water: Safe
-o2: 21%
-temp: 15° 
+o2_percent: 21
+surface_temp: 15
 traits: []
 flora:
   Sage Shrub:

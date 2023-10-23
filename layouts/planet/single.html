@@ -34,6 +34,8 @@
           <li>Atmosphere: {{ $planet.atmosphere }}</li>
           <li>Magnetosphere: {{ $planet.magnetosphere}}</li>
           <li>Water: {{ $planet.water }}</li>
+          <li>O2: {{ partial "util/tbd_data_resolver.html" $planet.o2_percent }}&percnt;</li>
+          <li>Surface Temp: {{ partial "util/tbd_data_resolver.html" $planet.surface_temp }}&deg; </li>
         </ul>
 
         <h2>Traits</h2>
