@@ -20,6 +20,10 @@ googleAnalytics = 'G-MS58PM494H'
     pageRef = '/locations'
     weight = 30
 [[menu.main]]
+    name = 'Data'
+    pageRef = '/data'
+    weight = 90
+[[menu.main]]
     name = 'About'
     pageRef = '/about'
     weight = 99
