@@ -1,0 +1,26 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.69 G
+magnetosphere: '-0'
+name: Zeta Ophiuchi VI-c
+o2_percent: TBD
+planet: Zeta Ophiuchi VI
+resources:
+- Cobalt
+- Copper
+- Lead
+- Nickel
+- Platinum
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+type: Rock
+water: Chemical

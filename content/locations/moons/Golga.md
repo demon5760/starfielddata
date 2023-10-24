@@ -1,0 +1,5 @@
+
++++
+title = "Golga"
+type = 'moon'
++++

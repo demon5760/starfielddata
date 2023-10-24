@@ -1,0 +1,33 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 0.46 G
+magnetosphere: Average
+name: Bardeen V-c
+o2_percent: TBD
+planet: Bardeen V
+resources:
+- Chlorine
+- Chlorosilanes
+- Cobalt
+- Copper
+- Nickel
+- Platinum
+- Water
+- Xenon
+surface_temp: TBD
+temperature: Cold
+traits: []
+type: Rock
+water: Biological

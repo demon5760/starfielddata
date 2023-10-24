@@ -1,0 +1,26 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.50 G
+magnetosphere: '-0'
+name: Linnaeus IV-b
+o2_percent: TBD
+planet: Linnaeus IV
+resources:
+- Alkanes
+- Aluminum
+- Beryllium
+- Helium-3
+- Iron
+- Lead
+- Water
+- Ytterbium
+surface_temp: TBD
+temperature: Temperate
+traits: []
+type: Rock
+water: Biological

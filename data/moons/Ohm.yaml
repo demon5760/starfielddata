@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.05 G
+magnetosphere: '-0'
+name: Ohm
+o2_percent: TBD
+planet: Faraday
+resources:
+- Copper
+- Fluorine
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: chemical

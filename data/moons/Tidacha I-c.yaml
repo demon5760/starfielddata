@@ -1,0 +1,23 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.18 G
+magnetosphere: '-0'
+name: Tidacha I-c
+o2_percent: TBD
+planet: Tidacha I
+resources:
+- Helium-3
+- Iron
+- Ytterbium
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Barren
+water: '-0'

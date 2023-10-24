@@ -1,0 +1,23 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.53 G
+magnetosphere: '-0'
+name: Ixyll VII-b
+o2_percent: TBD
+planet: Ixyll VII
+resources:
+- Copper
+- Gold
+- Lead
+- Tungsten
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: '-0'

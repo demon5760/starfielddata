@@ -1,0 +1,26 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.48 G
+magnetosphere: Very Weak
+name: Beta Andraste I-a
+o2_percent: TBD
+planet: Beta Andraste I
+resources:
+- Copper
+- Fluorine
+- Helium-3
+- Iridium
+- Nickel
+- Uranium
+- Vanadium
+- Water
+surface_temp: TBD
+temperature: Cold
+traits: []
+type: Rock
+water: Radioactive

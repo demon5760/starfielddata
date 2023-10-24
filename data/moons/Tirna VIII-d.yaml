@@ -1,0 +1,28 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.65 G
+magnetosphere: '-0'
+name: Tirna VIII-d
+o2_percent: TBD
+planet: Tirna VIII
+resources:
+- Alkanes
+- Argon
+- Benzene
+- Carboxylic Acids
+- Iron
+- Nickel
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Biological

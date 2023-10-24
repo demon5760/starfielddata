@@ -1,0 +1,31 @@
+atmosphere: THIN M (COR)
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 0.48 G
+magnetosphere: Average
+name: Rana VI-a
+o2_percent: TBD
+planet: Rana VI
+resources:
+- Aluminum
+- Beryllium
+- Chlorine
+- Water
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Biological

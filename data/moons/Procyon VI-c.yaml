@@ -1,0 +1,25 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.34 G
+magnetosphere: '-0'
+name: Procyon VI-c
+o2_percent: TBD
+planet: Procyon VI
+resources:
+- Alkanes
+- Copper
+- Iron
+- Nickel
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Rock
+water: Safe

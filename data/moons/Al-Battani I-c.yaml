@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.16 G
+magnetosphere: '-0'
+name: Al-Battani I-c
+o2_percent: TBD
+planet: Al-Battani I
+resources:
+- Helium-3
+- Iron
+- Tantalum
+surface_temp: TBD
+temperature: Inferno
+traits: []
+type: Barren
+water: '-0'

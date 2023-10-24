@@ -1,0 +1,28 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.68 G
+magnetosphere: '-0'
+name: Maheo IV-c
+o2_percent: TBD
+planet: Maheo IV
+resources:
+- Aluminum
+- Argon
+- Benzene
+- Carboxylic Acids
+- Chlorine
+- Neodymium
+- Water
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

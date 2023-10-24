@@ -1,0 +1,22 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.14 G
+magnetosphere: '-0'
+name: Navacci
+o2_percent: TBD
+planet: Polvo
+resources:
+- Aluminum
+- Europium
+- Helium-3
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Barren
+water: '-0'

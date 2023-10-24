@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.33 G
+magnetosphere: '-0'
+name: Masada VII-b
+o2_percent: TBD
+planet: Masada VII
+resources:
+- Copper
+- Ionic Liquids
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Safe

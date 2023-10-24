@@ -1,0 +1,25 @@
+atmosphere: THIN N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.41 G
+magnetosphere: '-0'
+name: Moloch V-c
+o2_percent: TBD
+planet: Moloch V
+resources:
+- Argon
+- Benzene
+- Helium-3
+- Iron
+- Lead
+- Silver
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: Safe

@@ -1,0 +1,24 @@
+atmosphere: STD O2 (TOX)
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.74 G
+magnetosphere: '-0'
+name: Alchiba X-b
+o2_percent: TBD
+planet: Alchiba X
+resources:
+- Argon
+- Benzene
+- Lead
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Biological

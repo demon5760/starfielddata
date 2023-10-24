@@ -1,0 +1,22 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.19 G
+magnetosphere: '-0'
+name: Worthless
+o2_percent: TBD
+planet: Arachna
+resources:
+- Helium-3
+- Iron
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Barren
+water: '-0'

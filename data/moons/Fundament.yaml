@@ -1,0 +1,18 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.04 G
+magnetosphere: '-0'
+name: Fundament
+o2_percent: TBD
+planet: Nascent
+resources: []
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Asteroid
+water: '-0'

@@ -1,0 +1,25 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.50 G
+magnetosphere: '-0'
+name: Kang VII-c
+o2_percent: TBD
+planet: Kang VII
+resources:
+- Copper
+- Fluorine
+- Lead
+- Nickel
+- Tetrafluorides
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits: []
+type: Rock
+water: Safe

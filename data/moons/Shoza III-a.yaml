@@ -1,0 +1,23 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.16 G
+magnetosphere: '-0'
+name: Shoza III-a
+o2_percent: TBD
+planet: Shoza III
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+- Neodymium
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Barren
+water: '-0'

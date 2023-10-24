@@ -1,0 +1,35 @@
+atmosphere: THIN O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 0.58 G
+magnetosphere: Weak
+name: Schrodinger VIII-a
+o2_percent: TBD
+planet: Schrodinger VIII
+resources:
+- Alkanes
+- Chlorine
+- Cobalt
+- Iron
+- Lead
+- Nickel
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

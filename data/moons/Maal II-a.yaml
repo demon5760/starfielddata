@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.06 G
+magnetosphere: '-0'
+name: Maal II-a
+o2_percent: TBD
+planet: Maal II
+resources:
+- Aluminum
+- Helium-3
+surface_temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+type: Barren
+water: '-0'

@@ -1,0 +1,29 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.67 G
+magnetosphere: Average
+name: Archimedes V-a
+o2_percent: TBD
+planet: Archimedes V
+resources:
+- Chlorine
+- Copper
+- Iron
+- Nickel
+- Palladium
+- Tantalum
+- Water
+- Ytterbium
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Heavy Metal

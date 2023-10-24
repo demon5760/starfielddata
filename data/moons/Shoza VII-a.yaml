@@ -1,0 +1,26 @@
+atmosphere: THIN N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.37 G
+magnetosphere: '-0'
+name: Shoza VII-a
+o2_percent: TBD
+planet: Shoza VII
+resources:
+- Aluminum
+- Copper
+- Fluorine
+- Helium-3
+- Lead
+- Tungsten
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+type: Rock
+water: '-0'

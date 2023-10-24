@@ -1,0 +1,44 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+flora_rating: TBD
+gravity: 0.58 G
+magnetosphere: Average
+name: Ursa Major II
+o2_percent: TBD
+resources:
+- Argon
+- Benzene
+- Carboxylic Acids
+- Chlorine
+- Chlorosilanes
+- Iron
+- Tantalum
+- Water
+surface_temp: TBD
+system: Ursae Majoris
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Radioactive

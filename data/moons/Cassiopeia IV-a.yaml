@@ -1,0 +1,38 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+flora_rating: TBD
+gravity: 0.46 G
+magnetosphere: Weak
+name: Cassiopeia IV-a
+o2_percent: TBD
+planet: Cassiopeia IV
+resources:
+- Alkanes
+- Chlorine
+- Iridium
+- Iron
+- Nickel
+- Tantalum
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Radioactive

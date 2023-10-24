@@ -1,0 +1,23 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.25 G
+magnetosphere: '-0'
+name: Copernicus VIII-a
+o2_percent: TBD
+planet: Copernicus VIII
+resources:
+- Chlorine
+- Chlorosilanes
+- Lithium
+- Water
+- Xenon
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Chemical

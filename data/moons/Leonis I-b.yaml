@@ -1,0 +1,27 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.35 G
+magnetosphere: '-0'
+name: Leonis I-b
+o2_percent: TBD
+planet: Leonis I
+resources:
+- Aluminum
+- Cobalt
+- Helium-3
+- Lead
+- Nickel
+- Silver
+- Uranium
+surface_temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: '-0'

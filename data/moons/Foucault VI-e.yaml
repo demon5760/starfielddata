@@ -1,0 +1,23 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.02 G
+magnetosphere: '-0'
+name: Foucault VI-e
+o2_percent: TBD
+planet: Foucault VI
+resources:
+- Antimony
+- Copper
+- Fluorine
+- Gold
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Safe

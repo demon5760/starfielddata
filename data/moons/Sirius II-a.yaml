@@ -1,0 +1,25 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.35 G
+magnetosphere: '-0'
+name: Sirius II-a
+o2_percent: TBD
+planet: Sirius II
+resources:
+- Argon
+- Benzene
+- Helium-3
+- Iron
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Safe

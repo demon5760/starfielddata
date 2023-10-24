@@ -1,0 +1,26 @@
+atmosphere: THIN N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.50 G
+magnetosphere: '-0'
+name: Eridani VIII-d
+o2_percent: TBD
+planet: Eridani VIII
+resources:
+- Alkanes
+- Chlorine
+- Cobalt
+- Iron
+- Lithium
+- Nickel
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: Safe

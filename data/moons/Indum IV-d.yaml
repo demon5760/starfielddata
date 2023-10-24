@@ -1,0 +1,28 @@
+atmosphere: STD M (COR)
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.51 G
+magnetosphere: '-0'
+name: Indum IV-d
+o2_percent: TBD
+planet: Indum IV
+resources:
+- Antimony
+- Chlorine
+- Copper
+- Fluorine
+- Gold
+- Iron
+- Tantalum
+- Water
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Radioactive

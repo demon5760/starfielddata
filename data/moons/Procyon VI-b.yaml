@@ -1,0 +1,25 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.53 G
+magnetosphere: Average
+name: Procyon VI-b
+o2_percent: TBD
+planet: Procyon VI
+resources:
+- Argon
+- Benzene
+- Carboxylic Acids
+- Iron
+- Lead
+- Water
+surface_temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Rock
+water: Biological

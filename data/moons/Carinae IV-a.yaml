@@ -1,0 +1,20 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.05 G
+magnetosphere: '-0'
+name: Carinae IV-a
+o2_percent: TBD
+planet: Carinae IV
+resources:
+- Copper
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Heavy Metal

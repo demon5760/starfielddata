@@ -1,0 +1,23 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.49 G
+magnetosphere: '-0'
+name: Muphrid II-a
+o2_percent: TBD
+planet: Muphrid II
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+- Nickel
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits: []
+type: Rock
+water: '-0'

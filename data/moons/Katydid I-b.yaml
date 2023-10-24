@@ -1,0 +1,23 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.02 G
+magnetosphere: Average
+name: Katydid I-b
+o2_percent: TBD
+planet: Katydid I
+resources:
+- Argon
+- Benzene
+- Carboxylic Acids
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Ice
+water: '-0'

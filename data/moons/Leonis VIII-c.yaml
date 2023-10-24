@@ -1,0 +1,25 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.70 G
+magnetosphere: '-0'
+name: Leonis VIII-c
+o2_percent: TBD
+planet: Leonis VIII
+resources:
+- Alkanes
+- Argon
+- Chlorine
+- Iron
+- Water
+- Ytterbium
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Biological

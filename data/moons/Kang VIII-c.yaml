@@ -1,0 +1,25 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.72 G
+magnetosphere: Very Weak
+name: Kang VIII-c
+o2_percent: TBD
+planet: Kang VIII
+resources:
+- Alkanes
+- Chlorine
+- Chlorosilanes
+- Copper
+- Iron
+- Water
+- Ytterbium
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: Safe

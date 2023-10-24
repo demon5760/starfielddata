@@ -1,0 +1,26 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.49 G
+magnetosphere: '-0'
+name: Charybdis VII-d
+o2_percent: TBD
+planet: Charybdis VII
+resources:
+- Chlorine
+- Cobalt
+- Iron
+- Lead
+- Nickel
+- Platinum
+- Tantalum
+- Water
+surface_temp: TBD
+temperature: Cold
+traits: []
+type: Rock
+water: Chemical

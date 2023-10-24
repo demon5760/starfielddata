@@ -1,0 +1,5 @@
+
++++
+title = "Worthless"
+type = 'moon'
++++

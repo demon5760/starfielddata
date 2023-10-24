@@ -1,0 +1,28 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.47 G
+magnetosphere: '-0'
+name: Cassiopeia II-a
+o2_percent: TBD
+planet: Cassiopeia II
+resources:
+- Chlorine
+- Chlorosilanes
+- Helium-3
+- Lead
+- Nickel
+- Tungsten
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Biological

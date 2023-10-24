@@ -1,0 +1,5 @@
+
++++
+title = "Candore"
+type = 'moon'
++++

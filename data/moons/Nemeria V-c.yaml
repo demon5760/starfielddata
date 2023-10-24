@@ -1,0 +1,27 @@
+atmosphere: Thin M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.55 G
+magnetosphere: '-0'
+name: Nemeria V-c
+o2_percent: TBD
+planet: Nemeria V
+resources:
+- Alkanes
+- Copper
+- Helium-3
+- Iron
+- Tetrafluorides
+- Uranium
+- Vanadium
+- Water
+surface_temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Rock
+water: Safe

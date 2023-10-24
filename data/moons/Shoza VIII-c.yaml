@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.05 G
+magnetosphere: '-0'
+name: Shoza VIII-c
+o2_percent: TBD
+planet: Shoza VIII
+resources:
+- Argon
+- Benzene
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: '-0'

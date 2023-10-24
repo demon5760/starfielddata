@@ -1,0 +1,24 @@
+atmosphere: STD O2 (TOX)
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.66 G
+magnetosphere: '-0'
+name: Jaffa VI-a
+o2_percent: TBD
+planet: Jaffa VI
+resources:
+- Benzene
+- Chlorine
+- Lead
+- Nickel
+- Silver
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: Heavy Metal

@@ -1,0 +1,26 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.34 G
+magnetosphere: '-0'
+name: Maal VI-a
+o2_percent: TBD
+planet: Maal VI
+resources:
+- Aluminum
+- Beryllium
+- Chlorine
+- Helium-3
+- Lead
+- Lithium
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Frozen
+traits: []
+type: Rock
+water: Safe

@@ -1,0 +1,26 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.43 G
+magnetosphere: '-0'
+name: Archimedes VI-a
+o2_percent: TBD
+planet: Archimedes VI
+resources:
+- Argon
+- Carboxylic Acids
+- Iridium
+- Lead
+- Silver
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+type: Rock
+water: Chemical

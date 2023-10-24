@@ -1,0 +1,28 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.55 G
+magnetosphere: '-0'
+name: Porrima IV-d
+o2_percent: TBD
+planet: Porrima IV
+resources:
+- Argon
+- Carboxylic Acids
+- Lead
+- Neon
+- Nickel
+- Plutonium
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Biological

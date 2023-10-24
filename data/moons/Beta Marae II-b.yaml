@@ -1,0 +1,18 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.05 G
+magnetosphere: '-0'
+name: Beta Marae II-b
+o2_percent: TBD
+planet: Beta Marae II
+resources: []
+surface_temp: TBD
+temperature: Frozen
+traits: []
+type: Asteroid
+water: '-0'

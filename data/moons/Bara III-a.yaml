@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.08 G
+magnetosphere: '-0'
+name: Bara III-a
+o2_percent: TBD
+planet: Bara III
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+surface_temp: TBD
+temperature: Cold
+traits: []
+type: Barren
+water: '-0'

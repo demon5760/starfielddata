@@ -1,0 +1,24 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.54 G
+magnetosphere: '-0'
+name: Heisenberg VIII-c
+o2_percent: TBD
+planet: Heisenberg VIII
+resources:
+- Alkanes
+- Chlorine
+- Chlorosilanes
+- Iron
+- Nickel
+- Water
+surface_temp: TBD
+temperature: Cold
+traits: []
+type: Rock
+water: Safe

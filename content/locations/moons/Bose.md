@@ -1,0 +1,5 @@
+
++++
+title = "Bose"
+type = 'moon'
++++

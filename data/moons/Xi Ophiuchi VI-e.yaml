@@ -1,0 +1,28 @@
+atmosphere: THIN M (COR)
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.57 G
+magnetosphere: '-0'
+name: Xi Ophiuchi VI-e
+o2_percent: TBD
+planet: Xi Ophiuchi VI
+resources:
+- Chlorine
+- Dysprosium
+- Iridium
+- Lead
+- Tungsten
+- Uranium
+- Vanadium
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Heavy Metal

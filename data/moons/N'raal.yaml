@@ -1,0 +1,23 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.13 G
+magnetosphere: Very Strong
+name: N'raal
+o2_percent: TBD
+planet: Nirah Prime
+resources:
+- Lead
+- Tungsten
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+- TBD2
+type: Ice
+water: '-0'

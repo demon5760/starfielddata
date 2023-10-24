@@ -1,0 +1,24 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.51 G
+magnetosphere: '-0'
+name: Leonis VIII-a
+o2_percent: TBD
+planet: Leonis VIII
+resources:
+- Chlorine
+- Copper
+- Lead
+- Silver
+- Water
+surface_temp: TBD
+temperature: Frozen
+traits: []
+type: Rock
+water: Radioactive

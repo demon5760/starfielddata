@@ -1,0 +1,31 @@
+atmosphere: THIN N2 (COR)
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 0.35 G
+magnetosphere: Weak
+name: Xi Ophiuchi VIII-b
+o2_percent: TBD
+planet: Xi Ophiuchi VIII
+resources:
+- Chlorine
+- Iron
+- Nickel
+- Water
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Chemical

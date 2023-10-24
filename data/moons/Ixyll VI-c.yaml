@@ -1,0 +1,25 @@
+atmosphere: THIN N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.49 G
+magnetosphere: '-0'
+name: Ixyll VI-c
+o2_percent: TBD
+planet: Ixyll VI
+resources:
+- Alkanes
+- Aluminum
+- Europium
+- Helium-3
+- Iron
+- Lead
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: Radioactive

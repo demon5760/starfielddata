@@ -1,0 +1,26 @@
+atmosphere: THIN O2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.72 G
+magnetosphere: '-0'
+name: Alpha Marae III-d
+o2_percent: TBD
+planet: Alpha Marae III
+resources:
+- Argon
+- Benzene
+- Chlorine
+- Iridium
+- Iron
+- Lithium
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Cold
+traits: []
+type: Rock
+water: Heavy Metal

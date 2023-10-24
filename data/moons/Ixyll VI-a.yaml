@@ -1,0 +1,22 @@
+atmosphere: THIN N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.34 G
+magnetosphere: '-0'
+name: Ixyll VI-a
+o2_percent: TBD
+planet: Ixyll VI
+resources:
+- Copper
+- Fluorine
+- Ionic Liquids
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Chemical

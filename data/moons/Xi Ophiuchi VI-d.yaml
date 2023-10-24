@@ -1,0 +1,25 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.37 G
+magnetosphere: '-0'
+name: Xi Ophiuchi VI-d
+o2_percent: TBD
+planet: Xi Ophiuchi VI
+resources:
+- Cobalt
+- Iridium
+- Lead
+- Nickel
+- Platinum
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: Chemical

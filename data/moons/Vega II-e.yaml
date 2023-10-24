@@ -1,0 +1,23 @@
+atmosphere: STD M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.64 G
+magnetosphere: '-0'
+name: Vega II-e
+o2_percent: TBD
+planet: Vega II
+resources:
+- Cobalt
+- Nickel
+- Palladium
+- Water
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Chemical

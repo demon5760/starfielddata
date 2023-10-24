@@ -1,0 +1,41 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD10: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+  TBD9: {}
+flora_rating: TBD
+gravity: 0.48 G
+magnetosphere: Weak
+name: Groombridge VIII-a
+o2_percent: TBD
+planet: Groombridge VIII
+resources:
+- Argon
+- Benzene
+- Carboxylic Acids
+- Chlorine
+- Lead
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Biological

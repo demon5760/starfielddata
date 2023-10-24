@@ -1,0 +1,28 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.42 G
+magnetosphere: '-0'
+name: Shoza II-a
+o2_percent: TBD
+planet: Shoza II
+resources:
+- Aluminum
+- Chlorine
+- Chlorosilanes
+- Cobalt
+- Helium-3
+- Nickel
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: '-0'

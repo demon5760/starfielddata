@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.39 G
+magnetosphere: '-0'
+name: Newton II-b
+o2_percent: TBD
+planet: Newton II
+resources:
+- Helium-3
+- Iron
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Barren
+water: '-0'

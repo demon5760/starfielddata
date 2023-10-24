@@ -1,0 +1,24 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.42 G
+magnetosphere: '-0'
+name: Volt
+o2_percent: TBD
+planet: Faraday
+resources:
+- Copper
+- Iron
+- Nickel
+- Uranium
+- Water
+- Ytterbium
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: Chemical

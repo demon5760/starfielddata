@@ -1,0 +1,33 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 0.55 G
+magnetosphere: Very Strong
+name: Kreet
+o2_percent: TBD
+planet: Anselon
+resources:
+- Alkanes
+- Argon
+- Helium-3
+- Iron
+- Lead
+- Neon
+- Silver
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Biological

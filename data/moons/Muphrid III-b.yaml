@@ -1,0 +1,20 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.19 G
+magnetosphere: '-0'
+name: Muphrid III-b
+o2_percent: TBD
+planet: Muphrid III
+resources:
+- Aluminum
+- Helium-3
+surface_temp: TBD
+temperature: Inferno
+traits: []
+type: Barren
+water: '-0'

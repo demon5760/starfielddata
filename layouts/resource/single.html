@@ -61,7 +61,8 @@
             {{ $moon_page_file := printf "/locations/moons/%s" .name }}
             {{ $moon_page := $.Site.GetPage $moon_page_file }}
 
-            {{ $planet := index $.Site.Data.planets $planet_name }}
+            
+            {{ $planet := index $.Site.Data.planets $planet_name  }}
             {{ $system_page_file := printf "/locations/systems/%s" $planet.system }}
             {{ $system_page := $.Site.GetPage $system_page_file }}
 

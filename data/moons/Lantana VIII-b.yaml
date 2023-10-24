@@ -1,0 +1,33 @@
+atmosphere: THIN O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 0.48 G
+magnetosphere: Weak
+name: Lantana VIII-b
+o2_percent: TBD
+planet: Lantana VIII
+resources:
+- Cobalt
+- Iridium
+- Lead
+- Nickel
+- Platinum
+- Plutonium
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Cold
+traits: []
+type: Rock
+water: Biological

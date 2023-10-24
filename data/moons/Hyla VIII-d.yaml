@@ -1,0 +1,27 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.71 G
+magnetosphere: '-0'
+name: Hyla VIII-d
+o2_percent: TBD
+planet: Hyla VIII
+resources:
+- Chlorine
+- Copper
+- Fluorine
+- Iridium
+- Nickel
+- Plutonium
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Biological

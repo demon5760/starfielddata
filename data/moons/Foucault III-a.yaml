@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.12 G
+magnetosphere: '-0'
+name: Foucault III-a
+o2_percent: TBD
+planet: Foucault III
+resources:
+- Alkanes
+- Helium-3
+- Iron
+surface_temp: TBD
+temperature: Cold
+traits: []
+type: Barren
+water: '-0'

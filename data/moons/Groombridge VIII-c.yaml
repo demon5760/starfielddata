@@ -1,0 +1,26 @@
+atmosphere: THIN O2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.55 G
+magnetosphere: '-0'
+name: Groombridge VIII-c
+o2_percent: TBD
+planet: Groombridge VIII
+resources:
+- Aluminum
+- Beryllium
+- Copper
+- Lead
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

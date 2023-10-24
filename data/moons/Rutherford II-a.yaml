@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.08 G
+magnetosphere: '-0'
+name: Rutherford II-a
+o2_percent: TBD
+planet: Rutherford II
+resources:
+- Aluminum
+- Helium-3
+- Neodymium
+surface_temp: TBD
+temperature: Scorched
+traits: []
+type: Barren
+water: '-0'

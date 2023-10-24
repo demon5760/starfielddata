@@ -19,7 +19,7 @@ flora_rating: TBD
 gravity: 1.04 G
 magnetosphere: Average
 name: Cassiopeia I
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Cobalt
@@ -27,8 +27,8 @@ resources:
 - Fluorine
 - Nickel
 - Water
-system: ETA Cassiopeia
-temp: TBD
+surface_temp: TBD
+system: Eta Cassiopeia
 temperature: Temperate
 traits:
 - TBD1

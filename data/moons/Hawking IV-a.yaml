@@ -1,0 +1,23 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.26 G
+magnetosphere: '-0'
+name: Hawking IV-a
+o2_percent: TBD
+planet: Hawking IV
+resources:
+- Alkanes
+- Helium-3
+- Iron
+- Tantalum
+- Ytterbium
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Barren
+water: '-0'
