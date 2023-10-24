@@ -10,8 +10,11 @@
         {{ end }}
         <div class="page-list">
             Data available for {{ $.Site.Data.planets | len }} planets.
-            <table>
+            <table class="data_table">
+              <thead>
               <tr><th>Name</th><th>System</th></tr>
+              </thead>
+              <tbody>
             {{ range .Pages }}
             {{ $planet := index $.Site.Data.planets .Title }}
             <tr>
@@ -24,6 +27,7 @@
               </td>
             </tr>
             {{ end}}
+          </tbody>
             </table>
         </div>
       </div>
