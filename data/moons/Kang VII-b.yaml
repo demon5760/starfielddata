@@ -1,0 +1,23 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.44 G
+magnetosphere: '-0'
+name: Kang VII-b
+o2_percent: TBD
+planet: Kang VII
+resources:
+- Copper
+- Iridium
+- Nickel
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: '-0'

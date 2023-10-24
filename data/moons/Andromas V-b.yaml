@@ -1,0 +1,27 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.70 G
+magnetosphere: '-0'
+name: Andromas V-b
+o2_percent: TBD
+planet: Andromas V
+resources:
+- Alkanes
+- Copper
+- Fluorine
+- Iron
+- Lead
+- Silver
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Biological

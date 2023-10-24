@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.03 G
+magnetosphere: '-0'
+name: Rutherford VI-c
+o2_percent: TBD
+planet: Rutherford VI
+resources:
+- Chlorine
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+type: Ice
+water: Safe

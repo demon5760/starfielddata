@@ -1,0 +1,36 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+flora_rating: TBD
+gravity: 0.50 G
+magnetosphere: Average
+name: Syrma VII-a
+o2_percent: TBD
+planet: Syrma VII
+resources:
+- Argon
+- Chlorine
+- Chlorosilanes
+- Cobalt
+- Lithium
+- Nickel
+- Platinum
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+type: Rock
+water: Safe

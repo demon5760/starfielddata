@@ -1,0 +1,24 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.59 G
+magnetosphere: '-0'
+name: Foucault VII-d
+o2_percent: TBD
+planet: Foucault VII
+resources:
+- Argon
+- Benzene
+- Chlorine
+- Nickel
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+type: Rock
+water: '-0'

@@ -1,0 +1,26 @@
+atmosphere: STD M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.48 G
+magnetosphere: '-0'
+name: Strix III-c
+o2_percent: TBD
+planet: Strix III
+resources:
+- Cobalt
+- Copper
+- Fluorine
+- Iridium
+- Nickel
+- Palladium
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits: []
+type: Rock
+water: Chemical

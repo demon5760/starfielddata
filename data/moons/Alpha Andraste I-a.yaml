@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.06 G
+magnetosphere: '-0'
+name: Alpha Andraste I-a
+o2_percent: TBD
+planet: Alpha Andraste I
+resources:
+- Helium-3
+- Iron
+surface_temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+type: Barren
+water: '-0'

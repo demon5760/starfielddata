@@ -1,0 +1,35 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 0.52 G
+magnetosphere: Weak
+name: Porrima IV-c
+o2_percent: TBD
+planet: Porrima IV
+resources:
+- Alkanes
+- Argon
+- Carboxylic Acids
+- Chlorine
+- Chlorosilanes
+- Iron
+- Neon
+- Water
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Radioactive

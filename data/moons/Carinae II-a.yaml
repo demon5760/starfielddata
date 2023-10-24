@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.27 G
+magnetosphere: '-0'
+name: Carinae II-a
+o2_percent: TBD
+planet: Carinae II
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+surface_temp: TBD
+temperature: Scorched
+traits: []
+type: Barren
+water: '-0'

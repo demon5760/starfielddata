@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.02 G
+magnetosphere: '-0'
+name: Vega II-a
+o2_percent: TBD
+planet: Vega II
+resources:
+- Copper
+- Water
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Ice
+water: Chemical

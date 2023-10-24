@@ -1,0 +1,22 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.09 G
+magnetosphere: '-0'
+name: Linnaeus II-a
+o2_percent: TBD
+planet: Linnaeus II
+resources:
+- Helium-3
+- Iron
+- Tantalum
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Barren
+water: '-0'

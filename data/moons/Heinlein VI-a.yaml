@@ -1,0 +1,27 @@
+atmosphere: STD M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.53 G
+magnetosphere: Weak
+name: Heinlein VI-a
+o2_percent: TBD
+planet: Heinlein VI
+resources:
+- Chlorine
+- Chlorosilanes
+- Cobalt
+- Lead
+- Nickel
+- Palladium
+- Water
+- Xenon
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Biological

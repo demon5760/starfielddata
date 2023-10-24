@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.01 G
+magnetosphere: '-0'
+name: Mimas
+o2_percent: TBD
+planet: Saturn
+resources:
+- Nickel
+- Palladium
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Safe

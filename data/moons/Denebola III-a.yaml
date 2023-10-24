@@ -1,0 +1,29 @@
+atmosphere: THIN M (COR)
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.41 G
+magnetosphere: '-0'
+name: Denebola III-a
+o2_percent: TBD
+planet: Denebola III
+resources:
+- Alkanes
+- Chlorine
+- Chlorosilanes
+- Helium-3
+- Iron
+- Tantalum
+- Water
+- Ytterbium
+surface_temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Chemical

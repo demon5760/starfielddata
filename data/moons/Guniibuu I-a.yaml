@@ -1,0 +1,23 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.21 G
+magnetosphere: '-0'
+name: Guniibuu I-a
+o2_percent: TBD
+planet: Guniibuu I
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+- Neodymium
+surface_temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+type: Barren
+water: '-0'

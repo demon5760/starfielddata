@@ -1,0 +1,22 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.10 G
+magnetosphere: '-0'
+name: Shoza I-a
+o2_percent: TBD
+planet: Shoza I
+resources:
+- Helium-3
+- Iron
+- Ytterbium
+surface_temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+type: Barren
+water: '-0'

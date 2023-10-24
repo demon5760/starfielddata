@@ -1,0 +1,25 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.36 G
+magnetosphere: '-0'
+name: Alchiba IV-a
+o2_percent: TBD
+planet: Alchiba IV
+resources:
+- Argon
+- Cobalt
+- Copper
+- Fluorine
+- Lead
+- Nickel
+- Water
+surface_temp: TBD
+temperature: Cold
+traits: []
+type: Rock
+water: Chemical

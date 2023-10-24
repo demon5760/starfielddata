@@ -1,0 +1,27 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.35 G
+magnetosphere: '-0'
+name: Linnaeus IV-a
+o2_percent: TBD
+planet: Linnaeus IV
+resources:
+- Cobalt
+- Iridium
+- Lead
+- Nickel
+- Platinum
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: '-0'

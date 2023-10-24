@@ -1,0 +1,27 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.41 G
+magnetosphere: '-0'
+name: Jaffa II-a
+o2_percent: TBD
+planet: Jaffa II
+resources:
+- Cobalt
+- Iridium
+- Nickel
+- Palladium
+- Plutonium
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: '-0'

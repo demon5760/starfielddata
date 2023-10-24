@@ -1,0 +1,24 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.45 G
+magnetosphere: '-0'
+name: Charybdis VI-b
+o2_percent: TBD
+planet: Charybdis VI
+resources:
+- Alkanes
+- Chlorine
+- Iron
+- Tantalum
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits: []
+type: Rock
+water: Safe

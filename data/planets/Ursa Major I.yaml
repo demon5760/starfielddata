@@ -1,0 +1,24 @@
+atmosphere: STD CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.66 G
+magnetosphere: Average
+name: Ursa Major I
+o2_percent: TBD
+resources:
+- Copper
+- Fluorine
+- Uranium
+surface_temp: TBD
+system: Ursae Majoris
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: '-0'

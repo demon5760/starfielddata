@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.42 G
+magnetosphere: '-0'
+name: Al-Battani VII-a
+o2_percent: TBD
+planet: Al-Battani VII
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Barren
+water: '-0'

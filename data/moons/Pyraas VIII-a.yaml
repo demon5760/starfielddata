@@ -1,0 +1,26 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.51 G
+magnetosphere: Very Weak
+name: Pyraas VIII-a
+o2_percent: TBD
+planet: Pyraas VIII
+resources:
+- Aluminum
+- Chlorine
+- Chlorosilanes
+- Helium-3
+- Iron
+- Lead
+- Nickel
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: Biological

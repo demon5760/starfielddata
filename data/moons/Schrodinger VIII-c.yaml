@@ -1,0 +1,20 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.23 G
+magnetosphere: '-0'
+name: Schrodinger VIII-c
+o2_percent: TBD
+planet: Schrodinger VIII
+resources:
+- Chlorine
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Chemical

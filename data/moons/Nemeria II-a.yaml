@@ -1,0 +1,22 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.25 G
+magnetosphere: '-0'
+name: Nemeria II-a
+o2_percent: TBD
+planet: Nemeria II
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Barren
+water: '-0'

@@ -1,0 +1,22 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.08 G
+magnetosphere: '-0'
+name: Tirna III-b
+o2_percent: TBD
+planet: Tirna III
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Barren
+water: '-0'

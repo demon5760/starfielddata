@@ -1,0 +1,27 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.58 G
+magnetosphere: '-0'
+name: Freya VII-a
+o2_percent: TBD
+planet: Freya VII
+resources:
+- Copper
+- Fluorine
+- Lead
+- Nickel
+- Tetrafluorides
+- Titanium
+- Tungsten
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+type: Rock
+water: Radioactive

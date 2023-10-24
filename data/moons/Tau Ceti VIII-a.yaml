@@ -1,0 +1,20 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.11 G
+magnetosphere: '-0'
+name: Tau Ceti VIII-a
+o2_percent: TBD
+planet: Tau Ceti VIII
+resources:
+- Copper
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Chemical

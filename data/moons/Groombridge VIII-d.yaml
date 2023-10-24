@@ -1,0 +1,24 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.74 G
+magnetosphere: '-0'
+name: Groombridge VIII-d
+o2_percent: TBD
+planet: Groombridge VIII
+resources:
+- Argon
+- Chlorine
+- Iridium
+- Lithium
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits: []
+type: Rock
+water: Heavy Metal

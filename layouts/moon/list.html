@@ -9,6 +9,7 @@
 
         {{ end }}
         <div class="page-list">
+            Data available for {{ $.Site.Data.moons | len }} moons.
             <table>
               <tr><th>Name</th><th>Planet</th><th>System</th></tr>
             {{ range .Pages }}

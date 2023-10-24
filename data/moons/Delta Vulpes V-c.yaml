@@ -1,0 +1,26 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.38 G
+magnetosphere: Very Weak
+name: Delta Vulpes V-c
+o2_percent: TBD
+planet: Delta Vulpes V
+resources:
+- Aluminum
+- Chlorine
+- Copper
+- Helium-3
+- Iron
+- Tetrafluorides
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: Safe

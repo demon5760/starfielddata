@@ -1,0 +1,27 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.73 G
+magnetosphere: '-0'
+name: Indum III-b
+o2_percent: TBD
+planet: Indum III
+resources:
+- Cobalt
+- Copper
+- Iron
+- Nickel
+- Tantalum
+- Tetrafluorides
+- Water
+- Ytterbium
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Safe

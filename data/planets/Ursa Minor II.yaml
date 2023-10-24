@@ -1,33 +1,33 @@
-name: Ursa Minor II
-system: Ursae Minoris
-type: Rock
-gravity: 0.41 G
-temperature: Cold
-atmosphere: Thin O2
-magnetosphere: Weak
-fauna_rating: Marginal
-flora_rating: Marginal
-water: Chemical
-o2_percent: TBD
-surface_temp: TBD
-flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
+atmosphere: THIN O2
+credits:
+- Starfield Sheet 1
 fauna:
   TBD1: {}
   TBD2: {}
   TBD3: {}
   TBD4: {}
   TBD5: {}
-traits:
-  - TBD
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 0.41 G
+magnetosphere: Weak
+name: Ursa Minor II
+o2_percent: TBD
 resources:
-  - Water
-  - Copper
-  - Argon
-  - TetraFluorides
-  - Carboxylic Acids
-credits:
-  - Demon5760
+- Argon
+- Carboxylic Acids
+- Copper
+- Tetrafluorides
+- Water
+surface_temp: TBD
+system: Ursae Minoris
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Chemical

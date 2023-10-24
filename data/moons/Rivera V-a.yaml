@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.03 G
+magnetosphere: '-0'
+name: Rivera V-a
+o2_percent: TBD
+planet: Rivera V
+resources:
+- Nickel
+- Platinum
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Chemical

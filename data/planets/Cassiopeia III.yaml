@@ -8,14 +8,14 @@ flora_rating: TBD
 gravity: 0.83 G
 magnetosphere: Powerful
 name: Cassiopeia III
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Nickel
 - Uranium
 - Water
-system: ETA Cassiopeia
-temp: TBD
+surface_temp: TBD
+system: Eta Cassiopeia
 temperature: Frozen
 traits:
 - TBD1

@@ -1,0 +1,22 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.44 G
+magnetosphere: '-0'
+name: Zosma III-a
+o2_percent: TBD
+planet: Zosma III
+resources:
+- Chlorine
+- Helium-3
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Frozen
+traits: []
+type: Rock
+water: Chemical

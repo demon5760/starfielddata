@@ -1,0 +1,23 @@
+atmosphere: THIN CO2 (COR)
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.38 G
+magnetosphere: '-0'
+name: Nemeria II-b
+o2_percent: TBD
+planet: Nemeria II
+resources:
+- Alkanes
+- Chlorine
+- Iron
+- Lead
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits: []
+type: Rock
+water: '-0'

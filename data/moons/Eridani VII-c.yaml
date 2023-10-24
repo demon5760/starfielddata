@@ -1,0 +1,27 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.33 G
+magnetosphere: '-0'
+name: Eridani VII-c
+o2_percent: TBD
+planet: Eridani VII
+resources:
+- Aluminum
+- Europium
+- Helium-3
+- Lead
+- Titanium
+- Tungsten
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+type: Rock
+water: Chemical

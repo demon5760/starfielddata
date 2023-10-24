@@ -1,0 +1,23 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.19 G
+magnetosphere: '-0'
+name: Celebrai III-c
+o2_percent: TBD
+planet: Celebrai III
+resources:
+- Argon
+- Benzene
+- Neon
+- Water
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Ice
+water: Heavy Metal

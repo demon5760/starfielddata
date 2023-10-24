@@ -1,0 +1,22 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.14 G
+magnetosphere: '-0'
+name: Procyon V-a
+o2_percent: TBD
+planet: Procyon V
+resources:
+- Cobalt
+- Nickel
+- Water
+surface_temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Ice
+water: Chemical

@@ -1,0 +1,26 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.57 G
+magnetosphere: '-0'
+name: Enlil VI-b
+o2_percent: TBD
+planet: Enlil VI
+resources:
+- Copper
+- Fluorine
+- Gold
+- Lead
+- Nickel
+- Tungsten
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits: []
+type: Rock
+water: Biological

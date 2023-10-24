@@ -1,0 +1,22 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.09 G
+magnetosphere: '-0'
+name: Rana V-a
+o2_percent: TBD
+planet: Rana V
+resources:
+- Aluminum
+- Beryllium
+- Helium-3
+- Neodymium
+surface_temp: TBD
+temperature: Frozen
+traits: []
+type: Barren
+water: '-0'

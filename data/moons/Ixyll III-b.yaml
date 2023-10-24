@@ -1,0 +1,43 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+flora_rating: TBD
+gravity: 0.65 G
+magnetosphere: Weak
+name: Ixyll III-b
+o2_percent: TBD
+planet: Ixyll III
+resources:
+- Aluminum
+- Argon
+- Benzene
+- Beryllium
+- Chlorine
+- Chlorosilanes
+- Iron
+- Water
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Safe

@@ -1,0 +1,22 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.09 G
+magnetosphere: '-0'
+name: Porrima I-b
+o2_percent: TBD
+planet: Porrima I
+resources:
+- Aluminum
+- Beryllium
+- Europium
+- Helium-3
+surface_temp: TBD
+temperature: Scorched
+traits: []
+type: Barren
+water: '-0'

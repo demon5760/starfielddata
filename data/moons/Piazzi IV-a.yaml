@@ -1,0 +1,22 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.11 G
+magnetosphere: '-0'
+name: Piazzi IV-a
+o2_percent: TBD
+planet: Piazzi IV
+resources:
+- Aluminum
+- Beryllium
+- Europium
+- Helium-3
+surface_temp: TBD
+temperature: Frozen
+traits: []
+type: Barren
+water: '-0'

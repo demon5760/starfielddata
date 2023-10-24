@@ -1,0 +1,20 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.31 G
+magnetosphere: '-0'
+name: Cybele
+o2_percent: TBD
+planet: Aion
+resources:
+- Aluminum
+- Helium-3
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Barren
+water: '-0'

@@ -1,0 +1,20 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.09 G
+magnetosphere: '-0'
+name: Bohr I-a
+o2_percent: TBD
+planet: Bohr I
+resources:
+- Helium-3
+- Iron
+surface_temp: TBD
+temperature: Scorched
+traits: []
+type: Barren
+water: '-0'

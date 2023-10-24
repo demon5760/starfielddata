@@ -1,0 +1,26 @@
+atmosphere: THIN N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.49 G
+magnetosphere: '-0'
+name: Xi Ophiuchi VII-b
+o2_percent: TBD
+planet: Xi Ophiuchi VII
+resources:
+- Argon
+- Carboxylic Acids
+- Chlorine
+- Cobalt
+- Lead
+- Nickel
+- Platinum
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits: []
+type: Rock
+water: Chemical

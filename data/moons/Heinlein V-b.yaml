@@ -1,0 +1,23 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.22 G
+magnetosphere: '-0'
+name: Heinlein V-b
+o2_percent: TBD
+planet: Heinlein V
+resources:
+- Aluminum
+- Beryllium
+- Europium
+- Helium-3
+- Neodymium
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Barren
+water: '-0'

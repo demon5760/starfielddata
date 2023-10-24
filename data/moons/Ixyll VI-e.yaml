@@ -1,0 +1,25 @@
+atmosphere: THIN O2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.46 G
+magnetosphere: '-0'
+name: Ixyll VI-e
+o2_percent: TBD
+planet: Ixyll VI
+resources:
+- Chlorine
+- Chlorosilanes
+- Cobalt
+- Nickel
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Biological

@@ -1,0 +1,36 @@
+atmosphere: STD O2
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: TBD
+gravity: 0.65 G
+magnetosphere: Very Strong
+name: Heinlein IV-b
+o2_percent: TBD
+planet: Heinlein IV
+resources:
+- Alkanes
+- Caesium
+- Chlorine
+- Iron
+- Lead
+- Mercury
+- Silver
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Radioactive

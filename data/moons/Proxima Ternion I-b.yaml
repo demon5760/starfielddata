@@ -1,0 +1,23 @@
+atmosphere: THIN CO2 (COR)
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.41 G
+magnetosphere: '-0'
+name: Proxima Ternion I-b
+o2_percent: TBD
+planet: Proxima Ternion I
+resources:
+- Fluorine
+- Lead
+- Silver
+surface_temp: TBD
+temperature: Inferno
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: '-0'

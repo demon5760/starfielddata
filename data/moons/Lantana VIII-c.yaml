@@ -1,0 +1,28 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.36 G
+magnetosphere: '-0'
+name: Lantana VIII-c
+o2_percent: TBD
+planet: Lantana VIII
+resources:
+- Chlorine
+- Chlorosilanes
+- Helium-3
+- Iron
+- Lead
+- Nickel
+- Palladium
+- Water
+surface_temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

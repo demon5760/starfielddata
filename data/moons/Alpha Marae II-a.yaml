@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.12 G
+magnetosphere: '-0'
+name: Alpha Marae II-a
+o2_percent: TBD
+planet: Alpha Marae II
+resources:
+- Nickel
+- Water
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Ice
+water: Chemical

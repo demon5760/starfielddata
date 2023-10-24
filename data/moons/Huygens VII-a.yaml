@@ -1,0 +1,25 @@
+atmosphere: THIN N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.46 G
+magnetosphere: '-0'
+name: Huygens VII-a
+o2_percent: TBD
+planet: Huygens VII
+resources:
+- Chlorine
+- Cobalt
+- Iridium
+- Nickel
+- Tasine
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Frozen
+traits: []
+type: Rock
+water: Biological

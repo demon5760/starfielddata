@@ -1,0 +1,5 @@
+
++++
+title = "Gryphus"
+type = 'moon'
++++

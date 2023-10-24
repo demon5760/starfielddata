@@ -1,0 +1,5 @@
+
++++
+title = "Zamka"
+type = 'moon'
++++

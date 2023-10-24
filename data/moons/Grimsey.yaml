@@ -1,0 +1,24 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.09 G
+magnetosphere: '-0'
+name: Grimsey
+o2_percent: TBD
+planet: Deepala
+resources:
+- Iridium
+- Plutonium
+- Uranium
+- Vanadium
+surface_temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+- TBD2
+type: Ice
+water: '-0'

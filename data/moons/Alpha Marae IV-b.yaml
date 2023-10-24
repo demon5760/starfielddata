@@ -1,0 +1,27 @@
+atmosphere: STD M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.51 G
+magnetosphere: '-0'
+name: Alpha Marae IV-b
+o2_percent: TBD
+planet: Alpha Marae IV
+resources:
+- Alkanes
+- Aluminum
+- Beryllium
+- Chlorine
+- Cobalt
+- Iron
+- Nickel
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Safe

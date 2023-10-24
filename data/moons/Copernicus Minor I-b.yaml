@@ -1,0 +1,24 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.55 G
+magnetosphere: '-0'
+name: Copernicus Minor I-b
+o2_percent: TBD
+planet: Copernicus Minor I
+resources:
+- Alkanes
+- Chlorine
+- Chlorosilanes
+- Iron
+- Lithium
+- Water
+surface_temp: TBD
+temperature: Frozen
+traits: []
+type: Rock
+water: Safe

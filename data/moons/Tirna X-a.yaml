@@ -1,0 +1,25 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.54 G
+magnetosphere: Very Weak
+name: Tirna X-a
+o2_percent: TBD
+planet: Tirna X
+resources:
+- Copper
+- Gold
+- Iron
+- Lead
+- Titanium
+- Tungsten
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: Biological

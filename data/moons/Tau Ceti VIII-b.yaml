@@ -1,0 +1,41 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+flora_rating: TBD
+gravity: 0.57 G
+magnetosphere: Average
+name: Tau Ceti VIII-b
+o2_percent: TBD
+planet: Tau Ceti VIII
+resources:
+- Aluminum
+- Argon
+- Chlorine
+- Chlorosilanes
+- Iron
+- Tantalum
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Chemical

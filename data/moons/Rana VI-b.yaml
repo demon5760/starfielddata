@@ -1,0 +1,26 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.42 G
+magnetosphere: '-0'
+name: Rana VI-b
+o2_percent: TBD
+planet: Rana VI
+resources:
+- Alkanes
+- Chlorine
+- Chlorosilanes
+- Iron
+- Lithium
+- Nickel
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Rock
+water: Chemical

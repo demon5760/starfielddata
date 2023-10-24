@@ -1,0 +1,24 @@
+atmosphere: STD N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.45 G
+magnetosphere: Weak
+name: Pyraas VII-b
+o2_percent: TBD
+planet: Pyraas VII
+resources:
+- Argon
+- Chlorine
+- Chlorosilanes
+- Lithium
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Biological

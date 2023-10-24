@@ -1,0 +1,23 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.08 G
+magnetosphere: '-0'
+name: Kumasi VII-b
+o2_percent: TBD
+planet: Kumasi VII
+resources:
+- Copper
+- Fluorine
+- Ionic Liquids
+- Tetrafluorides
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Chemical

@@ -1,0 +1,26 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.45 G
+magnetosphere: '-0'
+name: Jaffa VII-b
+o2_percent: TBD
+planet: Jaffa VII
+resources:
+- Chlorine
+- Chlorosilanes
+- Dysprosium
+- Iron
+- Lead
+- Titanium
+- Tungsten
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits: []
+type: Rock
+water: Chemical

@@ -1,0 +1,25 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.54 G
+magnetosphere: '-0'
+name: Sparta VII-a
+o2_percent: TBD
+planet: Sparta VII
+resources:
+- Chlorine
+- Cobalt
+- Lead
+- Nickel
+- Platinum
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+type: Rock
+water: Biological

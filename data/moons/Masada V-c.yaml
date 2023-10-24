@@ -1,0 +1,26 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.42 G
+magnetosphere: '-0'
+name: Masada V-c
+o2_percent: TBD
+planet: Masada V
+resources:
+- Argon
+- Benzene
+- Lead
+- Nickel
+- Tungsten
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Rock
+water: Safe

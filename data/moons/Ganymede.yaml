@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.15 G
+magnetosphere: '-0'
+name: Ganymede
+o2_percent: TBD
+planet: Jupiter
+resources:
+- Chlorine
+- Water
+surface_temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Ice
+water: Chemical

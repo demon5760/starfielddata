@@ -1,0 +1,22 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.04 G
+magnetosphere: '-0'
+name: Piazzi VI-c
+o2_percent: TBD
+planet: Piazzi VI
+resources:
+- Caesium
+- Chlorine
+- Chlorosilanes
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Chemical

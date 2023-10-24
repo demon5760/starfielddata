@@ -1,0 +1,23 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.19 G
+magnetosphere: '-0'
+name: Copernicus VII-b
+o2_percent: TBD
+planet: Copernicus VII
+resources:
+- Chlorine
+- Chlorosilanes
+- Lithium
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+type: Ice
+water: Chemical

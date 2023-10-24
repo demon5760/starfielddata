@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.13 G
+magnetosphere: '-0'
+name: Ursa Major I-c
+o2_percent: TBD
+planet: Ursa Major I
+resources:
+- Helium-3
+- Iron
+- Tantalum
+surface_temp: TBD
+temperature: Hot
+traits: []
+type: Barren
+water: '-0'

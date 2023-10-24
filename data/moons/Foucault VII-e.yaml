@@ -1,0 +1,28 @@
+atmosphere: THIN N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.42 G
+magnetosphere: '-0'
+name: Foucault VII-e
+o2_percent: TBD
+planet: Foucault VII
+resources:
+- Aluminum
+- Argon
+- Carboxylic Acids
+- Helium-3
+- Lead
+- Neodymium
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

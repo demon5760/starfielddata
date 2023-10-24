@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.30 G
+magnetosphere: '-0'
+name: Alchiba VI-c
+o2_percent: TBD
+planet: Alchiba VI
+resources:
+- Copper
+- Fluorine
+- Water
+surface_temp: TBD
+temperature: Frozen
+traits: []
+type: Ice
+water: Safe

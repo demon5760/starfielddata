@@ -37,9 +37,11 @@
           <li>Type: {{ $moon.type }}</li>
           <li>Gravity: {{ $moon.gravity }}</li>
           <li>Temperature: {{ $moon.temperature }}</li>
-          <li>Atmosphere: {{ $moon.atmosphere }}</li>
-          <li>Magnetosphere: {{ $moon.magnetosphere}}</li>
+          <li>Atmosphere: {{ partial "util/tbd_data_resolver.html" $moon.atmosphere }}</li>
+          <li>Magnetosphere: {{ partial "util/tbd_data_resolver.html" $moon.magnetosphere }}</li>
           <li>Water: {{ $moon.water }}</li>
+          <li>O2: {{ partial "util/tbd_data_resolver.html" $moon.o2_percent }}&percnt;</li>
+          <li>Surface Temp: {{ partial "util/tbd_data_resolver.html" $moon.surface_temp }}&deg; </li>
         </ul>
 
         

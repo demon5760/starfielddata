@@ -1,0 +1,36 @@
+atmosphere: STD M
+credits:
+- Starfield Sheet 1
+fauna:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+fauna_rating: TBD
+flora:
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+flora_rating: TBD
+gravity: 0.64 G
+magnetosphere: Weak
+name: Denebola I-b
+o2_percent: TBD
+planet: Denebola I
+resources:
+- Copper
+- Helium-3
+- Iridium
+- Iron
+- Lead
+- Silver
+- Uranium
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: Chemical

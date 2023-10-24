@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.31 G
+magnetosphere: '-0'
+name: Tirna VII-b
+o2_percent: TBD
+planet: Tirna VII
+resources:
+- Lead
+- Tungsten
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Safe

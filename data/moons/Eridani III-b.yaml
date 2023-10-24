@@ -1,0 +1,29 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.41 G
+magnetosphere: '-0'
+name: Eridani III-b
+o2_percent: TBD
+planet: Eridani III
+resources:
+- Chlorine
+- Helium-3
+- Iridium
+- Iron
+- Nickel
+- Uranium
+- Vanadium
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+- TBD3
+type: Rock
+water: Safe

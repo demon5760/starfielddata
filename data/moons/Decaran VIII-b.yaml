@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.27 G
+magnetosphere: '-0'
+name: Decaran VIII-b
+o2_percent: TBD
+planet: Decaran VIII
+resources:
+- Cobalt
+- Nickel
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Safe

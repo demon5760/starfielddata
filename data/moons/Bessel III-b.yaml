@@ -1,0 +1,27 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.43 G
+magnetosphere: '-0'
+name: Bessel III-b
+o2_percent: TBD
+planet: Bessel III
+resources:
+- Aluminum
+- Argon
+- Cobalt
+- Iron
+- Neon
+- Nickel
+- Platinum
+- Water
+surface_temp: TBD
+temperature: Cold
+traits:
+- TBD1
+type: Rock
+water: Biological

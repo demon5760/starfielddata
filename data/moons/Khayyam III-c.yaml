@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.11 G
+magnetosphere: '-0'
+name: Khayyam III-c
+o2_percent: TBD
+planet: Khayyam III
+resources:
+- Aluminum
+- Europium
+- Helium-3
+surface_temp: TBD
+temperature: Cold
+traits: []
+type: Barren
+water: '-0'

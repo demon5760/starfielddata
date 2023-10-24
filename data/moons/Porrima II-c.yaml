@@ -1,0 +1,23 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.34 G
+magnetosphere: '-0'
+name: Porrima II-c
+o2_percent: TBD
+planet: Porrima II
+resources:
+- Chlorine
+- Lead
+- Water
+surface_temp: TBD
+temperature: Temperate
+traits:
+- TBD1
+- TBD2
+type: Rock
+water: '-0'

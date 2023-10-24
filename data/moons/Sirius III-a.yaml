@@ -1,0 +1,24 @@
+atmosphere: THIN N2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.42 G
+magnetosphere: '-0'
+name: Sirius III-a
+o2_percent: TBD
+planet: Sirius III
+resources:
+- Aluminum
+- Chlorine
+- Copper
+- Fluorine
+- Lithium
+- Water
+surface_temp: TBD
+temperature: Cold
+traits: []
+type: Rock
+water: Chemical

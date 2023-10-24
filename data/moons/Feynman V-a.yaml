@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.06 G
+magnetosphere: '-0'
+name: Feynman V-a
+o2_percent: TBD
+planet: Feynman V
+resources:
+- Alkanes
+- Helium-3
+- Iron
+surface_temp: TBD
+temperature: Cold
+traits: []
+type: Barren
+water: '-0'

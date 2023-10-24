@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.13 G
+magnetosphere: '-0'
+name: Europa
+o2_percent: TBD
+planet: Jupiter
+resources:
+- Chlorine
+- Chlorosilanes
+- Water
+surface_temp: TBD
+temperature: Frozen
+traits: []
+type: Ice
+water: '-0'

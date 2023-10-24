@@ -1,0 +1,25 @@
+atmosphere: THIN M
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.47 G
+magnetosphere: '-0'
+name: Lantana IX-e
+o2_percent: TBD
+planet: Lantana IX
+resources:
+- Alkanes
+- Chlorine
+- Copper
+- Iron
+- Lead
+- Tantalum
+- Water
+surface_temp: TBD
+temperature: Cold
+traits: []
+type: Rock
+water: Safe

@@ -1,0 +1,21 @@
+atmosphere: '-0'
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.04 G
+magnetosphere: '-0'
+name: Jaffa VII-d
+o2_percent: TBD
+planet: Jaffa VII
+resources:
+- Cobalt
+- Nickel
+- Water
+surface_temp: TBD
+temperature: Deep Freeze
+traits: []
+type: Ice
+water: Chemical

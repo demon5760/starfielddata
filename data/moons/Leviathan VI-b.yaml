@@ -1,0 +1,25 @@
+atmosphere: THIN CO2
+credits:
+- Starfield Sheet 1
+fauna: {}
+fauna_rating: TBD
+flora: {}
+flora_rating: TBD
+gravity: 0.36 G
+magnetosphere: '-0'
+name: Leviathan VI-b
+o2_percent: TBD
+planet: Leviathan VI
+resources:
+- Chlorine
+- Chlorosilanes
+- Helium-3
+- Iron
+- Water
+- Xenon
+surface_temp: TBD
+temperature: Frozen
+traits:
+- TBD1
+type: Rock
+water: Safe
