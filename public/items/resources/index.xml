@@ -1,934 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Resources on Starfield Data</title>
-    <link>https://starfield-data.pages.dev/items/resources/</link>
-    <description>Recent content in Resources on Starfield Data</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 24 Sep 2023 13:38:20 -0400</lastBuildDate><atom:link href="https://starfield-data.pages.dev/items/resources/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Adaptive Frame</title>
-      <link>https://starfield-data.pages.dev/items/resources/adaptive-frame/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/adaptive-frame/</guid>
-      <description>Adaptive Frame is a Common Manufactured resource. One Adaptive Frame has a mass of 1.6 and is worth 24 credits.
-Purchase Crafting Industrial Workbench Simple Fabricator Supply Chain You can craft 1 Adaptive Frame using these resources:
-[map[Aluminum:1 Iron:1]] Industrial Workbench
-[map[Aluminum:1 Iron:1]] Simple Fabricator
-Purchase Adaptive Frame can be purchased at the following locations.
-Crafting You have a few different options for crafting Adaptive Frame.
-Industrial Workbench flowchart TDIndustrialWorkbench[ Industrial Workbench]Aluminum[ 1 Aluminum]Aluminum --&gt; IndustrialWorkbenchIron[ 1 Iron]Iron --&gt; IndustrialWorkbenchSimple Fabricator flowchart TDSimpleFabricator[ Simple Fabricator]Power[5 Power]Power --&gt; SimpleFabricatorAluminum[ 1 Aluminum]Aluminum --&gt; SimpleFabricatorIron[ 1 Iron]Iron --&gt; SimpleFabricatorSupply Chain You can automate the manufactoring like this:</description>
-    </item>
-    
-    <item>
-      <title>Adhesive</title>
-      <link>https://starfield-data.pages.dev/items/resources/adhesive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/adhesive/</guid>
-      <description>Adhesive is a Rare Organic resource. One Adhesive has a mass of 0.5 and is worth 12 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Adhesive can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Adhesive.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Aldumite</title>
-      <link>https://starfield-data.pages.dev/items/resources/aldumite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/aldumite/</guid>
-      <description> Aldumite is a Unique Inorganic resource. One Aldumite has a mass of 1.9 and is worth 84 credits. It has a symbol of Ad and can be stored in Solid containers.
-Purchase Production Extractor - Aldumite Extractor - Aldumite - Commercial Extractor - Aldumite - Industrial Purchase Aldumite can be purchased at the following locations.
-Production Extractor - Aldumite flowchart TDAldumiteExtractorPower[Power x 5]AldumiteExtractor[Extractor - Aldumite]AldumiteStorage[Storage - Solid]AldumiteExtractorPower --&gt; AldumiteExtractorAldumiteExtractor --&gt; AldumiteStorageExtractor - Aldumite - Commercial flowchart TDAldumiteExtractorPower[Power x 10]AldumiteExtractor[Extractor - Aldumite]AldumiteStorage[Storage - Solid]AldumiteExtractorPower --&gt; AldumiteExtractorAldumiteExtractor --&gt; AldumiteStorageExtractor - Aldumite - Industrial flowchart TDAldumiteExtractorPower[Power x 20]AldumiteExtractor[Extractor - Aldumite]AldumiteStorage[Storage - Solid]AldumiteExtractorPower --&gt; AldumiteExtractorAldumiteExtractor --&gt; AldumiteStorage</description>
-    </item>
-    
-    <item>
-      <title>Alkanes</title>
-      <link>https://starfield-data.pages.dev/items/resources/alkanes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/alkanes/</guid>
-      <description> Alkanes is a Uncommon Inorganic resource. One Alkanes has a mass of 0.6 and is worth 13 credits. It has a symbol of HnCn and can be stored in Gas containers.
-Purchase Production Extractor - Alkanes Extractor - Alkanes - Commercial Extractor - Alkanes - Industrial Purchase Alkanes can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Alkanes flowchart TDAlkanesExtractorPower[Power x 5]AlkanesExtractor[Extractor - Alkanes]AlkanesStorage[Storage - Gas]AlkanesExtractorPower --&gt; AlkanesExtractorAlkanesExtractor --&gt; AlkanesStorageExtractor - Alkanes - Commercial flowchart TDAlkanesExtractorPower[Power x 10]AlkanesExtractor[Extractor - Alkanes]AlkanesStorage[Storage - Gas]AlkanesExtractorPower --&gt; AlkanesExtractorAlkanesExtractor --&gt; AlkanesStorageExtractor - Alkanes - Industrial flowchart TDAlkanesExtractorPower[Power x 20]AlkanesExtractor[Extractor - Alkanes]AlkanesStorage[Storage - Gas]AlkanesExtractorPower --&gt; AlkanesExtractorAlkanesExtractor --&gt; AlkanesStorage</description>
-    </item>
-    
-    <item>
-      <title>Aluminum</title>
-      <link>https://starfield-data.pages.dev/items/resources/aluminum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/aluminum/</guid>
-      <description> Aluminum is a Common Inorganic resource. One Aluminum has a mass of 0.5 and is worth 7 credits. It has a symbol of Al and can be stored in Solid containers.
-Purchase Production Extractor - Aluminum Extractor - Aluminum - Commercial Extractor - Aluminum - Industrial Purchase Aluminum can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Aluminum flowchart TDAluminumExtractorPower[Power x 5]AluminumExtractor[Extractor - Aluminum]AluminumStorage[Storage - Solid]AluminumExtractorPower --&gt; AluminumExtractorAluminumExtractor --&gt; AluminumStorageExtractor - Aluminum - Commercial flowchart TDAluminumExtractorPower[Power x 10]AluminumExtractor[Extractor - Aluminum]AluminumStorage[Storage - Solid]AluminumExtractorPower --&gt; AluminumExtractorAluminumExtractor --&gt; AluminumStorageExtractor - Aluminum - Industrial flowchart TDAluminumExtractorPower[Power x 20]AluminumExtractor[Extractor - Aluminum]AluminumStorage[Storage - Solid]AluminumExtractorPower --&gt; AluminumExtractorAluminumExtractor --&gt; AluminumStorage</description>
-    </item>
-    
-    <item>
-      <title>Amino Acids</title>
-      <link>https://starfield-data.pages.dev/items/resources/amino-acids/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/amino-acids/</guid>
-      <description>Amino Acids is a Rare Organic resource. One Amino Acids has a mass of 0.5 and is worth 10 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Amino Acids can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Amino Acids.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Analgesic</title>
-      <link>https://starfield-data.pages.dev/items/resources/analgesic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/analgesic/</guid>
-      <description>Analgesic is a Rare Organic resource. One Analgesic has a mass of 0.5 and is worth 12 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Analgesic can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Analgesic.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Antimicrobial</title>
-      <link>https://starfield-data.pages.dev/items/resources/antimicrobial/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/antimicrobial/</guid>
-      <description>Antimicrobial is a Uncommon Organic resource. One Antimicrobial has a mass of 0.5 and is worth 10 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Antimicrobial can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Antimicrobial.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Antimony</title>
-      <link>https://starfield-data.pages.dev/items/resources/antimony/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/antimony/</guid>
-      <description> Antimony is a Exotic Inorganic resource. One Antimony has a mass of 0.8 and is worth 30 credits. It has a symbol of Sb and can be stored in Solid containers.
-Purchase Production Extractor - Antimony Extractor - Antimony - Commercial Extractor - Antimony - Industrial Purchase Antimony can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Antimony flowchart TDAntimonyExtractorPower[Power x 5]AntimonyExtractor[Extractor - Antimony]AntimonyStorage[Storage - Solid]AntimonyExtractorPower --&gt; AntimonyExtractorAntimonyExtractor --&gt; AntimonyStorageExtractor - Antimony - Commercial flowchart TDAntimonyExtractorPower[Power x 10]AntimonyExtractor[Extractor - Antimony]AntimonyStorage[Storage - Solid]AntimonyExtractorPower --&gt; AntimonyExtractorAntimonyExtractor --&gt; AntimonyStorageExtractor - Antimony - Industrial flowchart TDAntimonyExtractorPower[Power x 20]AntimonyExtractor[Extractor - Antimony]AntimonyStorage[Storage - Solid]AntimonyExtractorPower --&gt; AntimonyExtractorAntimonyExtractor --&gt; AntimonyStorage</description>
-    </item>
-    
-    <item>
-      <title>Aqueous Hematite</title>
-      <link>https://starfield-data.pages.dev/items/resources/aqueous-hematite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/aqueous-hematite/</guid>
-      <description> Aqueous Hematite is a Unique Inorganic resource. One Aqueous Hematite has a mass of 1.3 and is worth 56 credits. It has a symbol of Aq and can be stored in Solid containers.
-Purchase Production Extractor - Aqueous Hematite Extractor - Aqueous Hematite - Commercial Extractor - Aqueous Hematite - Industrial Purchase Aqueous Hematite can be purchased at the following locations.
-Production Extractor - Aqueous Hematite flowchart TDAqueousHematiteExtractorPower[Power x 5]AqueousHematiteExtractor[Extractor - Aqueous Hematite]AqueousHematiteStorage[Storage - Solid]AqueousHematiteExtractorPower --&gt; AqueousHematiteExtractorAqueousHematiteExtractor --&gt; AqueousHematiteStorageExtractor - Aqueous Hematite - Commercial flowchart TDAqueousHematiteExtractorPower[Power x 10]AqueousHematiteExtractor[Extractor - Aqueous Hematite]AqueousHematiteStorage[Storage - Solid]AqueousHematiteExtractorPower --&gt; AqueousHematiteExtractorAqueousHematiteExtractor --&gt; AqueousHematiteStorageExtractor - Aqueous Hematite - Industrial flowchart TDAqueousHematiteExtractorPower[Power x 20]AqueousHematiteExtractor[Extractor - Aqueous Hematite]AqueousHematiteStorage[Storage - Solid]AqueousHematiteExtractorPower --&gt; AqueousHematiteExtractorAqueousHematiteExtractor --&gt; AqueousHematiteStorage</description>
-    </item>
-    
-    <item>
-      <title>Argon</title>
-      <link>https://starfield-data.pages.dev/items/resources/argon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/argon/</guid>
-      <description> Argon is a Common Inorganic resource. One Argon has a mass of 0.5 and is worth 5 credits. It has a symbol of Ar and can be stored in Gas containers.
-Purchase Production Extractor - Argon Extractor - Argon - Commercial Extractor - Argon - Industrial Purchase Argon can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Argon flowchart TDArgonExtractorPower[Power x 5]ArgonExtractor[Extractor - Argon]ArgonStorage[Storage - Gas]ArgonExtractorPower --&gt; ArgonExtractorArgonExtractor --&gt; ArgonStorageExtractor - Argon - Commercial flowchart TDArgonExtractorPower[Power x 10]ArgonExtractor[Extractor - Argon]ArgonStorage[Storage - Gas]ArgonExtractorPower --&gt; ArgonExtractorArgonExtractor --&gt; ArgonStorageExtractor - Argon - Industrial flowchart TDArgonExtractorPower[Power x 20]ArgonExtractor[Extractor - Argon]ArgonStorage[Storage - Gas]ArgonExtractorPower --&gt; ArgonExtractorArgonExtractor --&gt; ArgonStorage</description>
-    </item>
-    
-    <item>
-      <title>Aromatic</title>
-      <link>https://starfield-data.pages.dev/items/resources/aromatic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/aromatic/</guid>
-      <description>Aromatic is a Rare Organic resource. One Aromatic has a mass of 0.5 and is worth 11 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Aromatic can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Aromatic.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Benzene</title>
-      <link>https://starfield-data.pages.dev/items/resources/benzene/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/benzene/</guid>
-      <description> Benzene is a Uncommon Inorganic resource. One Benzene has a mass of 0.6 and is worth 19 credits. It has a symbol of C₆Hn and can be stored in Gas containers.
-Purchase Production Extractor - Benzene Extractor - Benzene - Commercial Extractor - Benzene - Industrial Purchase Benzene can be purchased at the following locations.
-Production Extractor - Benzene flowchart TDBenzeneExtractorPower[Power x 5]BenzeneExtractor[Extractor - Benzene]BenzeneStorage[Storage - Gas]BenzeneExtractorPower --&gt; BenzeneExtractorBenzeneExtractor --&gt; BenzeneStorageExtractor - Benzene - Commercial flowchart TDBenzeneExtractorPower[Power x 10]BenzeneExtractor[Extractor - Benzene]BenzeneStorage[Storage - Gas]BenzeneExtractorPower --&gt; BenzeneExtractorBenzeneExtractor --&gt; BenzeneStorageExtractor - Benzene - Industrial flowchart TDBenzeneExtractorPower[Power x 20]BenzeneExtractor[Extractor - Benzene]BenzeneStorage[Storage - Gas]BenzeneExtractorPower --&gt; BenzeneExtractorBenzeneExtractor --&gt; BenzeneStorage</description>
-    </item>
-    
-    <item>
-      <title>Beryllium</title>
-      <link>https://starfield-data.pages.dev/items/resources/beryllium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/beryllium/</guid>
-      <description> Beryllium is a Uncommon Inorganic resource. One Beryllium has a mass of 0.5 and is worth 12 credits. It has a symbol of Be and can be stored in Solid containers.
-Purchase Production Extractor - Beryllium Extractor - Beryllium - Commercial Extractor - Beryllium - Industrial Purchase Beryllium can be purchased at the following locations.
-Production Extractor - Beryllium flowchart TDBerylliumExtractorPower[Power x 5]BerylliumExtractor[Extractor - Beryllium]BerylliumStorage[Storage - Solid]BerylliumExtractorPower --&gt; BerylliumExtractorBerylliumExtractor --&gt; BerylliumStorageExtractor - Beryllium - Commercial flowchart TDBerylliumExtractorPower[Power x 10]BerylliumExtractor[Extractor - Beryllium]BerylliumStorage[Storage - Solid]BerylliumExtractorPower --&gt; BerylliumExtractorBerylliumExtractor --&gt; BerylliumStorageExtractor - Beryllium - Industrial flowchart TDBerylliumExtractorPower[Power x 20]BerylliumExtractor[Extractor - Beryllium]BerylliumStorage[Storage - Solid]BerylliumExtractorPower --&gt; BerylliumExtractorBerylliumExtractor --&gt; BerylliumStorage</description>
-    </item>
-    
-    <item>
-      <title>Biosuppressant</title>
-      <link>https://starfield-data.pages.dev/items/resources/biosuppressant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/biosuppressant/</guid>
-      <description>Biosuppressant is a Exotic Organic resource. One Biosuppressant has a mass of 0.5 and is worth 16 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Biosuppressant can be purchased at the following locations.
-Farming You have a few different options for farming Biosuppressant.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.
-flowchart TDBiosuppressantGreenhousePower[Power x 3]BiosuppressantGreenhouse[Greenhouse - Biosuppressant]BiosuppressantStorage[Storage]Water[1 Water]Water --&gt; BiosuppressantGreenhouseBiosuppressantGreenhousePower --&gt; BiosuppressantGreenhouseBiosuppressantGreenhouse --&gt; BiosuppressantStorageAnimal Husbandry Facility The Standard, Commercial, and Industrial Animal Husbandry Facility all have the same power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Caelumite</title>
-      <link>https://starfield-data.pages.dev/items/resources/caelumite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/caelumite/</guid>
-      <description> Caelumite is a Unique Inorganic resource. One Caelumite has a mass of 0.3 and is worth 264 credits. It has a symbol of Ct and can be stored in Solid containers.
-Purchase Production Extractor - Caelumite Extractor - Caelumite - Commercial Extractor - Caelumite - Industrial Purchase Caelumite can be purchased at the following locations.
-Production Extractor - Caelumite flowchart TDCaelumiteExtractorPower[Power x 5]CaelumiteExtractor[Extractor - Caelumite]CaelumiteStorage[Storage - Solid]CaelumiteExtractorPower --&gt; CaelumiteExtractorCaelumiteExtractor --&gt; CaelumiteStorageExtractor - Caelumite - Commercial flowchart TDCaelumiteExtractorPower[Power x 10]CaelumiteExtractor[Extractor - Caelumite]CaelumiteStorage[Storage - Solid]CaelumiteExtractorPower --&gt; CaelumiteExtractorCaelumiteExtractor --&gt; CaelumiteStorageExtractor - Caelumite - Industrial flowchart TDCaelumiteExtractorPower[Power x 20]CaelumiteExtractor[Extractor - Caelumite]CaelumiteStorage[Storage - Solid]CaelumiteExtractorPower --&gt; CaelumiteExtractorCaelumiteExtractor --&gt; CaelumiteStorage</description>
-    </item>
-    
-    <item>
-      <title>Caesium</title>
-      <link>https://starfield-data.pages.dev/items/resources/caesium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/caesium/</guid>
-      <description> Caesium is a Exotic Inorganic resource. One Caesium has a mass of 0.8 and is worth 25 credits. It has a symbol of Cs and can be stored in Liquid containers.
-Purchase Production Extractor - Caesium Extractor - Caesium - Commercial Extractor - Caesium - Industrial Purchase Caesium can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Caesium flowchart TDCaesiumExtractorPower[Power x 5]CaesiumExtractor[Extractor - Caesium]CaesiumStorage[Storage - Liquid]CaesiumExtractorPower --&gt; CaesiumExtractorCaesiumExtractor --&gt; CaesiumStorageExtractor - Caesium - Commercial flowchart TDCaesiumExtractorPower[Power x 10]CaesiumExtractor[Extractor - Caesium]CaesiumStorage[Storage - Liquid]CaesiumExtractorPower --&gt; CaesiumExtractorCaesiumExtractor --&gt; CaesiumStorageExtractor - Caesium - Industrial flowchart TDCaesiumExtractorPower[Power x 20]CaesiumExtractor[Extractor - Caesium]CaesiumStorage[Storage - Liquid]CaesiumExtractorPower --&gt; CaesiumExtractorCaesiumExtractor --&gt; CaesiumStorage</description>
-    </item>
-    
-    <item>
-      <title>Carboxylic Acids</title>
-      <link>https://starfield-data.pages.dev/items/resources/carboxylic-acids/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/carboxylic-acids/</guid>
-      <description> Carboxylic Acids is a Rare Inorganic resource. One Carboxylic Acids has a mass of 0.8 and is worth 12 credits. It has a symbol of R-COOH and can be stored in Liquid containers.
-Purchase Production Extractor - Carboxylic Acids Extractor - Carboxylic Acids - Commercial Extractor - Carboxylic Acids - Industrial Purchase Carboxylic Acids can be purchased at the following locations.
-Production Extractor - Carboxylic Acids flowchart TDCarboxylicAcidsExtractorPower[Power x 5]CarboxylicAcidsExtractor[Extractor - Carboxylic Acids]CarboxylicAcidsStorage[Storage - Liquid]CarboxylicAcidsExtractorPower --&gt; CarboxylicAcidsExtractorCarboxylicAcidsExtractor --&gt; CarboxylicAcidsStorageExtractor - Carboxylic Acids - Commercial flowchart TDCarboxylicAcidsExtractorPower[Power x 10]CarboxylicAcidsExtractor[Extractor - Carboxylic Acids]CarboxylicAcidsStorage[Storage - Liquid]CarboxylicAcidsExtractorPower --&gt; CarboxylicAcidsExtractorCarboxylicAcidsExtractor --&gt; CarboxylicAcidsStorageExtractor - Carboxylic Acids - Industrial flowchart TDCarboxylicAcidsExtractorPower[Power x 20]CarboxylicAcidsExtractor[Extractor - Carboxylic Acids]CarboxylicAcidsStorage[Storage - Liquid]CarboxylicAcidsExtractorPower --&gt; CarboxylicAcidsExtractorCarboxylicAcidsExtractor --&gt; CarboxylicAcidsStorage</description>
-    </item>
-    
-    <item>
-      <title>Chlorine</title>
-      <link>https://starfield-data.pages.dev/items/resources/chlorine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/chlorine/</guid>
-      <description> Chlorine is a Common Inorganic resource. One Chlorine has a mass of 0.5 and is worth 6 credits. It has a symbol of Cl and can be stored in Gas containers.
-Purchase Production Extractor - Chlorine Extractor - Chlorine - Commercial Extractor - Chlorine - Industrial Purchase Chlorine can be purchased at the following locations.
-Production Extractor - Chlorine flowchart TDChlorineExtractorPower[Power x 5]ChlorineExtractor[Extractor - Chlorine]ChlorineStorage[Storage - Gas]ChlorineExtractorPower --&gt; ChlorineExtractorChlorineExtractor --&gt; ChlorineStorageExtractor - Chlorine - Commercial flowchart TDChlorineExtractorPower[Power x 10]ChlorineExtractor[Extractor - Chlorine]ChlorineStorage[Storage - Gas]ChlorineExtractorPower --&gt; ChlorineExtractorChlorineExtractor --&gt; ChlorineStorageExtractor - Chlorine - Industrial flowchart TDChlorineExtractorPower[Power x 20]ChlorineExtractor[Extractor - Chlorine]ChlorineStorage[Storage - Gas]ChlorineExtractorPower --&gt; ChlorineExtractorChlorineExtractor --&gt; ChlorineStorage</description>
-    </item>
-    
-    <item>
-      <title>Chlorosilanes</title>
-      <link>https://starfield-data.pages.dev/items/resources/chlorosilanes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/chlorosilanes/</guid>
-      <description> Chlorosilanes is a Uncommon Inorganic resource. One Chlorosilanes has a mass of 0.6 and is worth 14 credits. It has a symbol of SiH₃Cl and can be stored in Liquid containers.
-Purchase Production Extractor - Chlorosilanes Extractor - Chlorosilanes - Commercial Extractor - Chlorosilanes - Industrial Purchase Chlorosilanes can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Chlorosilanes flowchart TDChlorosilanesExtractorPower[Power x 5]ChlorosilanesExtractor[Extractor - Chlorosilanes]ChlorosilanesStorage[Storage - Liquid]ChlorosilanesExtractorPower --&gt; ChlorosilanesExtractorChlorosilanesExtractor --&gt; ChlorosilanesStorageExtractor - Chlorosilanes - Commercial flowchart TDChlorosilanesExtractorPower[Power x 10]ChlorosilanesExtractor[Extractor - Chlorosilanes]ChlorosilanesStorage[Storage - Liquid]ChlorosilanesExtractorPower --&gt; ChlorosilanesExtractorChlorosilanesExtractor --&gt; ChlorosilanesStorageExtractor - Chlorosilanes - Industrial flowchart TDChlorosilanesExtractorPower[Power x 20]ChlorosilanesExtractor[Extractor - Chlorosilanes]ChlorosilanesStorage[Storage - Liquid]ChlorosilanesExtractorPower --&gt; ChlorosilanesExtractorChlorosilanesExtractor --&gt; ChlorosilanesStorage</description>
-    </item>
-    
-    <item>
-      <title>Cobalt</title>
-      <link>https://starfield-data.pages.dev/items/resources/cobalt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/cobalt/</guid>
-      <description> Cobalt is a Uncommon Inorganic resource. One Cobalt has a mass of 0.6 and is worth 12 credits. It has a symbol of Co and can be stored in Solid containers.
-Purchase Production Extractor - Cobalt Extractor - Cobalt - Commercial Extractor - Cobalt - Industrial Purchase Cobalt can be purchased at the following locations.
-Production Extractor - Cobalt flowchart TDCobaltExtractorPower[Power x 5]CobaltExtractor[Extractor - Cobalt]CobaltStorage[Storage - Solid]CobaltExtractorPower --&gt; CobaltExtractorCobaltExtractor --&gt; CobaltStorageExtractor - Cobalt - Commercial flowchart TDCobaltExtractorPower[Power x 10]CobaltExtractor[Extractor - Cobalt]CobaltStorage[Storage - Solid]CobaltExtractorPower --&gt; CobaltExtractorCobaltExtractor --&gt; CobaltStorageExtractor - Cobalt - Industrial flowchart TDCobaltExtractorPower[Power x 20]CobaltExtractor[Extractor - Cobalt]CobaltStorage[Storage - Solid]CobaltExtractorPower --&gt; CobaltExtractorCobaltExtractor --&gt; CobaltStorage</description>
-    </item>
-    
-    <item>
-      <title>Copper</title>
-      <link>https://starfield-data.pages.dev/items/resources/copper/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/copper/</guid>
-      <description> Copper is a Common Inorganic resource. One Copper has a mass of 0.6 and is worth 10 credits. It has a symbol of Cu and can be stored in Solid containers.
-Purchase Production Extractor - Copper Extractor - Copper - Commercial Extractor - Copper - Industrial Purchase Copper can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Copper flowchart TDCopperExtractorPower[Power x 5]CopperExtractor[Extractor - Copper]CopperStorage[Storage - Solid]CopperExtractorPower --&gt; CopperExtractorCopperExtractor --&gt; CopperStorageExtractor - Copper - Commercial flowchart TDCopperExtractorPower[Power x 10]CopperExtractor[Extractor - Copper]CopperStorage[Storage - Solid]CopperExtractorPower --&gt; CopperExtractorCopperExtractor --&gt; CopperStorageExtractor - Copper - Industrial flowchart TDCopperExtractorPower[Power x 20]CopperExtractor[Extractor - Copper]CopperStorage[Storage - Solid]CopperExtractorPower --&gt; CopperExtractorCopperExtractor --&gt; CopperStorage</description>
-    </item>
-    
-    <item>
-      <title>Cosmetic</title>
-      <link>https://starfield-data.pages.dev/items/resources/cosmetic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/cosmetic/</guid>
-      <description>Cosmetic is a Uncommon Organic resource. One Cosmetic has a mass of 0.5 and is worth 8 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Cosmetic can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Cosmetic.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Dysprosium</title>
-      <link>https://starfield-data.pages.dev/items/resources/dysprosium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/dysprosium/</guid>
-      <description> Dysprosium is a Exotic Inorganic resource. One Dysprosium has a mass of 1.4 and is worth 56 credits. It has a symbol of Dy and can be stored in Solid containers.
-Purchase Production Extractor - Dysprosium Extractor - Dysprosium - Commercial Extractor - Dysprosium - Industrial Purchase Dysprosium can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Dysprosium flowchart TDDysprosiumExtractorPower[Power x 5]DysprosiumExtractor[Extractor - Dysprosium]DysprosiumStorage[Storage - Solid]DysprosiumExtractorPower --&gt; DysprosiumExtractorDysprosiumExtractor --&gt; DysprosiumStorageExtractor - Dysprosium - Commercial flowchart TDDysprosiumExtractorPower[Power x 10]DysprosiumExtractor[Extractor - Dysprosium]DysprosiumStorage[Storage - Solid]DysprosiumExtractorPower --&gt; DysprosiumExtractorDysprosiumExtractor --&gt; DysprosiumStorageExtractor - Dysprosium - Industrial flowchart TDDysprosiumExtractorPower[Power x 20]DysprosiumExtractor[Extractor - Dysprosium]DysprosiumStorage[Storage - Solid]DysprosiumExtractorPower --&gt; DysprosiumExtractorDysprosiumExtractor --&gt; DysprosiumStorage</description>
-    </item>
-    
-    <item>
-      <title>Europium</title>
-      <link>https://starfield-data.pages.dev/items/resources/europium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/europium/</guid>
-      <description> Europium is a Exotic Inorganic resource. One Europium has a mass of 1 and is worth 40 credits. It has a symbol of Eu and can be stored in Solid containers.
-Purchase Production Extractor - Europium Extractor - Europium - Commercial Extractor - Europium - Industrial Purchase Europium can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Europium flowchart TDEuropiumExtractorPower[Power x 5]EuropiumExtractor[Extractor - Europium]EuropiumStorage[Storage - Solid]EuropiumExtractorPower --&gt; EuropiumExtractorEuropiumExtractor --&gt; EuropiumStorageExtractor - Europium - Commercial flowchart TDEuropiumExtractorPower[Power x 10]EuropiumExtractor[Extractor - Europium]EuropiumStorage[Storage - Solid]EuropiumExtractorPower --&gt; EuropiumExtractorEuropiumExtractor --&gt; EuropiumStorageExtractor - Europium - Industrial flowchart TDEuropiumExtractorPower[Power x 20]EuropiumExtractor[Extractor - Europium]EuropiumStorage[Storage - Solid]EuropiumExtractorPower --&gt; EuropiumExtractorEuropiumExtractor --&gt; EuropiumStorage</description>
-    </item>
-    
-    <item>
-      <title>Fiber</title>
-      <link>https://starfield-data.pages.dev/items/resources/fiber/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/fiber/</guid>
-      <description>Fiber is a Common Organic resource. One Fiber has a mass of 0.5 and is worth 4 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Fiber can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Fiber.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Fluorine</title>
-      <link>https://starfield-data.pages.dev/items/resources/fluorine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/fluorine/</guid>
-      <description> Fluorine is a Uncommon Inorganic resource. One Fluorine has a mass of 0.5 and is worth 12 credits. It has a symbol of F and can be stored in Gas containers.
-Purchase Production Extractor - Fluorine Extractor - Fluorine - Commercial Extractor - Fluorine - Industrial Purchase Fluorine can be purchased at the following locations.
-Production Extractor - Fluorine flowchart TDFluorineExtractorPower[Power x 5]FluorineExtractor[Extractor - Fluorine]FluorineStorage[Storage - Gas]FluorineExtractorPower --&gt; FluorineExtractorFluorineExtractor --&gt; FluorineStorageExtractor - Fluorine - Commercial flowchart TDFluorineExtractorPower[Power x 10]FluorineExtractor[Extractor - Fluorine]FluorineStorage[Storage - Gas]FluorineExtractorPower --&gt; FluorineExtractorFluorineExtractor --&gt; FluorineStorageExtractor - Fluorine - Industrial flowchart TDFluorineExtractorPower[Power x 20]FluorineExtractor[Extractor - Fluorine]FluorineStorage[Storage - Gas]FluorineExtractorPower --&gt; FluorineExtractorFluorineExtractor --&gt; FluorineStorage</description>
-    </item>
-    
-    <item>
-      <title>Gastronomic Delight</title>
-      <link>https://starfield-data.pages.dev/items/resources/gastronomic-delight/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/gastronomic-delight/</guid>
-      <description>Gastronomic Delight is a Unique Organic resource. One Gastronomic Delight has a mass of 1.5 and is worth 66 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Gastronomic Delight can be purchased at the following locations.
-Farming You have a few different options for farming Gastronomic Delight.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.
-flowchart TDGastronomicDelightGreenhousePower[Power x 3]GastronomicDelightGreenhouse[Greenhouse - Gastronomic Delight]GastronomicDelightStorage[Storage]Water[1 Water]Water --&gt; GastronomicDelightGreenhouseGastronomicDelightGreenhousePower --&gt; GastronomicDelightGreenhouseGastronomicDelightGreenhouse --&gt; GastronomicDelightStorageAnimal Husbandry Facility The Standard, Commercial, and Industrial Animal Husbandry Facility all have the same power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Gold</title>
-      <link>https://starfield-data.pages.dev/items/resources/gold/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/gold/</guid>
-      <description> Gold is a Rare Inorganic resource. One Gold has a mass of 0.8 and is worth 24 credits. It has a symbol of Au and can be stored in Solid containers.
-Purchase Production Extractor - Gold Extractor - Gold - Commercial Extractor - Gold - Industrial Purchase Gold can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Gold flowchart TDGoldExtractorPower[Power x 5]GoldExtractor[Extractor - Gold]GoldStorage[Storage - Solid]GoldExtractorPower --&gt; GoldExtractorGoldExtractor --&gt; GoldStorageExtractor - Gold - Commercial flowchart TDGoldExtractorPower[Power x 10]GoldExtractor[Extractor - Gold]GoldStorage[Storage - Solid]GoldExtractorPower --&gt; GoldExtractorGoldExtractor --&gt; GoldStorageExtractor - Gold - Industrial flowchart TDGoldExtractorPower[Power x 20]GoldExtractor[Extractor - Gold]GoldStorage[Storage - Solid]GoldExtractorPower --&gt; GoldExtractorGoldExtractor --&gt; GoldStorage</description>
-    </item>
-    
-    <item>
-      <title>Hallucinogen</title>
-      <link>https://starfield-data.pages.dev/items/resources/hallucinogen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/hallucinogen/</guid>
-      <description>Hallucinogen is a Rare Organic resource. One Hallucinogen has a mass of 0.5 and is worth 14 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Hallucinogen can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Hallucinogen.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Helium-3</title>
-      <link>https://starfield-data.pages.dev/items/resources/helium-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/helium-3/</guid>
-      <description> Helium-3 is a Uncommon Inorganic resource. One Helium-3 has a mass of 0.3 and is worth 14 credits. It has a symbol of He-3 and can be stored in Gas containers.
-Purchase Production Extractor - Helium-3 Extractor - Helium-3 - Commercial Extractor - Helium-3 - Industrial Purchase Helium-3 can be purchased at the following locations.
-Production Extractor - Helium-3 flowchart TDHelium-3ExtractorPower[Power x 5]Helium-3Extractor[Extractor - Helium-3]Helium-3Storage[Storage - Gas]Helium-3ExtractorPower --&gt; Helium-3ExtractorHelium-3Extractor --&gt; Helium-3StorageExtractor - Helium-3 - Commercial flowchart TDHelium-3ExtractorPower[Power x 10]Helium-3Extractor[Extractor - Helium-3]Helium-3Storage[Storage - Gas]Helium-3ExtractorPower --&gt; Helium-3ExtractorHelium-3Extractor --&gt; Helium-3StorageExtractor - Helium-3 - Industrial flowchart TDHelium-3ExtractorPower[Power x 20]Helium-3Extractor[Extractor - Helium-3]Helium-3Storage[Storage - Gas]Helium-3ExtractorPower --&gt; Helium-3ExtractorHelium-3Extractor --&gt; Helium-3Storage</description>
-    </item>
-    
-    <item>
-      <title>High-Tensile Spidroin</title>
-      <link>https://starfield-data.pages.dev/items/resources/high-tensile-spidroin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/high-tensile-spidroin/</guid>
-      <description>High-Tensile Spidroin is a Unique Organic resource. One High-Tensile Spidroin has a mass of 1.3 and is worth 62 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase High-Tensile Spidroin can be purchased at the following locations.
-Farming You have a few different options for farming High-Tensile Spidroin.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.
-flowchart TDHigh-TensileSpidroinGreenhousePower[Power x 3]High-TensileSpidroinGreenhouse[Greenhouse - High-Tensile Spidroin]High-TensileSpidroinStorage[Storage]Water[1 Water]Water --&gt; High-TensileSpidroinGreenhouseHigh-TensileSpidroinGreenhousePower --&gt; High-TensileSpidroinGreenhouseHigh-TensileSpidroinGreenhouse --&gt; High-TensileSpidroinStorageAnimal Husbandry Facility The Standard, Commercial, and Industrial Animal Husbandry Facility all have the same power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Hypercatalyst</title>
-      <link>https://starfield-data.pages.dev/items/resources/hypercatalyst/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/hypercatalyst/</guid>
-      <description>Hypercatalyst is a Exotic Organic resource. One Hypercatalyst has a mass of 0.5 and is worth 18 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Hypercatalyst can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Hypercatalyst.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Immunostimulant</title>
-      <link>https://starfield-data.pages.dev/items/resources/immunostimulant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/immunostimulant/</guid>
-      <description>Immunostimulant is a Unique Organic resource. One Immunostimulant has a mass of 1.3 and is worth 58 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Immunostimulant can be purchased at the following locations.
-Farming You have a few different options for farming Immunostimulant.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.
-flowchart TDImmunostimulantGreenhousePower[Power x 3]ImmunostimulantGreenhouse[Greenhouse - Immunostimulant]ImmunostimulantStorage[Storage]Water[1 Water]Water --&gt; ImmunostimulantGreenhouseImmunostimulantGreenhousePower --&gt; ImmunostimulantGreenhouseImmunostimulantGreenhouse --&gt; ImmunostimulantStorageAnimal Husbandry Facility The Standard, Commercial, and Industrial Animal Husbandry Facility all have the same power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Indicite</title>
-      <link>https://starfield-data.pages.dev/items/resources/indicite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/indicite/</guid>
-      <description> Indicite is a Unique Inorganic resource. One Indicite has a mass of 2.3 and is worth 108 credits. It has a symbol of Ie and can be stored in Solid containers.
-Purchase Production Extractor - Indicite Extractor - Indicite - Commercial Extractor - Indicite - Industrial Purchase Indicite can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Indicite flowchart TDIndiciteExtractorPower[Power x 5]IndiciteExtractor[Extractor - Indicite]IndiciteStorage[Storage - Solid]IndiciteExtractorPower --&gt; IndiciteExtractorIndiciteExtractor --&gt; IndiciteStorageExtractor - Indicite - Commercial flowchart TDIndiciteExtractorPower[Power x 10]IndiciteExtractor[Extractor - Indicite]IndiciteStorage[Storage - Solid]IndiciteExtractorPower --&gt; IndiciteExtractorIndiciteExtractor --&gt; IndiciteStorageExtractor - Indicite - Industrial flowchart TDIndiciteExtractorPower[Power x 20]IndiciteExtractor[Extractor - Indicite]IndiciteStorage[Storage - Solid]IndiciteExtractorPower --&gt; IndiciteExtractorIndiciteExtractor --&gt; IndiciteStorage</description>
-    </item>
-    
-    <item>
-      <title>Ionic Liquids</title>
-      <link>https://starfield-data.pages.dev/items/resources/ionic-liquids/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/ionic-liquids/</guid>
-      <description> Ionic Liquids is a Exotic Inorganic resource. One Ionic Liquids has a mass of 0.8 and is worth 23 credits. It has a symbol of IL and can be stored in Liquid containers.
-Purchase Production Extractor - Ionic Liquids Extractor - Ionic Liquids - Commercial Extractor - Ionic Liquids - Industrial Purchase Ionic Liquids can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Ionic Liquids flowchart TDIonicLiquidsExtractorPower[Power x 5]IonicLiquidsExtractor[Extractor - Ionic Liquids]IonicLiquidsStorage[Storage - Liquid]IonicLiquidsExtractorPower --&gt; IonicLiquidsExtractorIonicLiquidsExtractor --&gt; IonicLiquidsStorageExtractor - Ionic Liquids - Commercial flowchart TDIonicLiquidsExtractorPower[Power x 10]IonicLiquidsExtractor[Extractor - Ionic Liquids]IonicLiquidsStorage[Storage - Liquid]IonicLiquidsExtractorPower --&gt; IonicLiquidsExtractorIonicLiquidsExtractor --&gt; IonicLiquidsStorageExtractor - Ionic Liquids - Industrial flowchart TDIonicLiquidsExtractorPower[Power x 20]IonicLiquidsExtractor[Extractor - Ionic Liquids]IonicLiquidsStorage[Storage - Liquid]IonicLiquidsExtractorPower --&gt; IonicLiquidsExtractorIonicLiquidsExtractor --&gt; IonicLiquidsStorage</description>
-    </item>
-    
-    <item>
-      <title>Iridium</title>
-      <link>https://starfield-data.pages.dev/items/resources/iridium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/iridium/</guid>
-      <description> Iridium is a Uncommon Inorganic resource. One Iridium has a mass of 0.7 and is worth 14 credits. It has a symbol of Ir and can be stored in Solid containers.
-Purchase Production Extractor - Iridium Extractor - Iridium - Commercial Extractor - Iridium - Industrial Purchase Iridium can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Iridium flowchart TDIridiumExtractorPower[Power x 5]IridiumExtractor[Extractor - Iridium]IridiumStorage[Storage - Solid]IridiumExtractorPower --&gt; IridiumExtractorIridiumExtractor --&gt; IridiumStorageExtractor - Iridium - Commercial flowchart TDIridiumExtractorPower[Power x 10]IridiumExtractor[Extractor - Iridium]IridiumStorage[Storage - Solid]IridiumExtractorPower --&gt; IridiumExtractorIridiumExtractor --&gt; IridiumStorageExtractor - Iridium - Industrial flowchart TDIridiumExtractorPower[Power x 20]IridiumExtractor[Extractor - Iridium]IridiumStorage[Storage - Solid]IridiumExtractorPower --&gt; IridiumExtractorIridiumExtractor --&gt; IridiumStorage</description>
-    </item>
-    
-    <item>
-      <title>Iron</title>
-      <link>https://starfield-data.pages.dev/items/resources/iron/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/iron/</guid>
-      <description> Iron is a Common Inorganic resource. One Iron has a mass of 0.6 and is worth 8 credits. It has a symbol of Fe and can be stored in Solid containers.
-Purchase Production Extractor - Iron Extractor - Iron - Commercial Extractor - Iron - Industrial Purchase Iron can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Iron flowchart TDIronExtractorPower[Power x 5]IronExtractor[Extractor - Iron]IronStorage[Storage - Solid]IronExtractorPower --&gt; IronExtractorIronExtractor --&gt; IronStorageExtractor - Iron - Commercial flowchart TDIronExtractorPower[Power x 10]IronExtractor[Extractor - Iron]IronStorage[Storage - Solid]IronExtractorPower --&gt; IronExtractorIronExtractor --&gt; IronStorageExtractor - Iron - Industrial flowchart TDIronExtractorPower[Power x 20]IronExtractor[Extractor - Iron]IronStorage[Storage - Solid]IronExtractorPower --&gt; IronExtractorIronExtractor --&gt; IronStorage</description>
-    </item>
-    
-    <item>
-      <title>Lead</title>
-      <link>https://starfield-data.pages.dev/items/resources/lead/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/lead/</guid>
-      <description> Lead is a Common Inorganic resource. One Lead has a mass of 0.7 and is worth 10 credits. It has a symbol of Pb and can be stored in Solid containers.
-Purchase Production Extractor - Lead Extractor - Lead - Commercial Extractor - Lead - Industrial Purchase Lead can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Lead flowchart TDLeadExtractorPower[Power x 5]LeadExtractor[Extractor - Lead]LeadStorage[Storage - Solid]LeadExtractorPower --&gt; LeadExtractorLeadExtractor --&gt; LeadStorageExtractor - Lead - Commercial flowchart TDLeadExtractorPower[Power x 10]LeadExtractor[Extractor - Lead]LeadStorage[Storage - Solid]LeadExtractorPower --&gt; LeadExtractorLeadExtractor --&gt; LeadStorageExtractor - Lead - Industrial flowchart TDLeadExtractorPower[Power x 20]LeadExtractor[Extractor - Lead]LeadStorage[Storage - Solid]LeadExtractorPower --&gt; LeadExtractorLeadExtractor --&gt; LeadStorage</description>
-    </item>
-    
-    <item>
-      <title>Lithium</title>
-      <link>https://starfield-data.pages.dev/items/resources/lithium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/lithium/</guid>
-      <description> Lithium is a Rare Inorganic resource. One Lithium has a mass of 0.5 and is worth 14 credits. It has a symbol of Li and can be stored in Solid containers.
-Purchase Production Extractor - Lithium Extractor - Lithium - Commercial Extractor - Lithium - Industrial Purchase Lithium can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Lithium flowchart TDLithiumExtractorPower[Power x 5]LithiumExtractor[Extractor - Lithium]LithiumStorage[Storage - Solid]LithiumExtractorPower --&gt; LithiumExtractorLithiumExtractor --&gt; LithiumStorageExtractor - Lithium - Commercial flowchart TDLithiumExtractorPower[Power x 10]LithiumExtractor[Extractor - Lithium]LithiumStorage[Storage - Solid]LithiumExtractorPower --&gt; LithiumExtractorLithiumExtractor --&gt; LithiumStorageExtractor - Lithium - Industrial flowchart TDLithiumExtractorPower[Power x 20]LithiumExtractor[Extractor - Lithium]LithiumStorage[Storage - Solid]LithiumExtractorPower --&gt; LithiumExtractorLithiumExtractor --&gt; LithiumStorage</description>
-    </item>
-    
-    <item>
-      <title>Lubricant</title>
-      <link>https://starfield-data.pages.dev/items/resources/lubricant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/lubricant/</guid>
-      <description>Lubricant is a Exotic Organic resource. One Lubricant has a mass of 0.5 and is worth 18 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Lubricant can be purchased at the following locations.
-Farming You have a few different options for farming Lubricant.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.
-flowchart TDLubricantGreenhousePower[Power x 3]LubricantGreenhouse[Greenhouse - Lubricant]LubricantStorage[Storage]Water[1 Water]Water --&gt; LubricantGreenhouseLubricantGreenhousePower --&gt; LubricantGreenhouseLubricantGreenhouse --&gt; LubricantStorageAnimal Husbandry Facility The Standard, Commercial, and Industrial Animal Husbandry Facility all have the same power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Luxury Textile</title>
-      <link>https://starfield-data.pages.dev/items/resources/luxury-textile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/luxury-textile/</guid>
-      <description>Luxury Textile is a Unique Organic resource. One Luxury Textile has a mass of 1.5 and is worth 58 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Luxury Textile can be purchased at the following locations.
-Farming You have a few different options for farming Luxury Textile.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.
-flowchart TDLuxuryTextileGreenhousePower[Power x 3]LuxuryTextileGreenhouse[Greenhouse - Luxury Textile]LuxuryTextileStorage[Storage]Water[1 Water]Water --&gt; LuxuryTextileGreenhouseLuxuryTextileGreenhousePower --&gt; LuxuryTextileGreenhouseLuxuryTextileGreenhouse --&gt; LuxuryTextileStorageAnimal Husbandry Facility The Standard, Commercial, and Industrial Animal Husbandry Facility all have the same power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Membrane</title>
-      <link>https://starfield-data.pages.dev/items/resources/membrane/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/membrane/</guid>
-      <description>Membrane is a Uncommon Organic resource. One Membrane has a mass of 0.5 and is worth 9 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Membrane can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Membrane.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Memory Substrate</title>
-      <link>https://starfield-data.pages.dev/items/resources/memory-substrate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/memory-substrate/</guid>
-      <description>Memory Substrate is a Unique Organic resource. One Memory Substrate has a mass of 1.4 and is worth 65 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Memory Substrate can be purchased at the following locations.
-Farming You have a few different options for farming Memory Substrate.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.
-flowchart TDMemorySubstrateGreenhousePower[Power x 3]MemorySubstrateGreenhouse[Greenhouse - Memory Substrate]MemorySubstrateStorage[Storage]Water[1 Water]Water --&gt; MemorySubstrateGreenhouseMemorySubstrateGreenhousePower --&gt; MemorySubstrateGreenhouseMemorySubstrateGreenhouse --&gt; MemorySubstrateStorageAnimal Husbandry Facility The Standard, Commercial, and Industrial Animal Husbandry Facility all have the same power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Mercury</title>
-      <link>https://starfield-data.pages.dev/items/resources/mercury/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/mercury/</guid>
-      <description> Mercury is a Rare Inorganic resource. One Mercury has a mass of 0.8 and is worth 22 credits. It has a symbol of Hg and can be stored in Liquid containers.
-Purchase Production Extractor - Mercury Extractor - Mercury - Commercial Extractor - Mercury - Industrial Purchase Mercury can be purchased at the following locations.
-Production Extractor - Mercury flowchart TDMercuryExtractorPower[Power x 5]MercuryExtractor[Extractor - Mercury]MercuryStorage[Storage - Liquid]MercuryExtractorPower --&gt; MercuryExtractorMercuryExtractor --&gt; MercuryStorageExtractor - Mercury - Commercial flowchart TDMercuryExtractorPower[Power x 10]MercuryExtractor[Extractor - Mercury]MercuryStorage[Storage - Liquid]MercuryExtractorPower --&gt; MercuryExtractorMercuryExtractor --&gt; MercuryStorageExtractor - Mercury - Industrial flowchart TDMercuryExtractorPower[Power x 20]MercuryExtractor[Extractor - Mercury]MercuryStorage[Storage - Liquid]MercuryExtractorPower --&gt; MercuryExtractorMercuryExtractor --&gt; MercuryStorage</description>
-    </item>
-    
-    <item>
-      <title>Metabolic Agent</title>
-      <link>https://starfield-data.pages.dev/items/resources/metabolic-agent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/metabolic-agent/</guid>
-      <description>Metabolic Agent is a Common Organic resource. One Metabolic Agent has a mass of 0.5 and is worth 9 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Metabolic Agent can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Metabolic Agent.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Neodymium</title>
-      <link>https://starfield-data.pages.dev/items/resources/neodymium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/neodymium/</guid>
-      <description> Neodymium is a Rare Inorganic resource. One Neodymium has a mass of 0.8 and is worth 20 credits. It has a symbol of Nd and can be stored in Solid containers.
-Purchase Production Extractor - Neodymium Extractor - Neodymium - Commercial Extractor - Neodymium - Industrial Purchase Neodymium can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Neodymium flowchart TDNeodymiumExtractorPower[Power x 5]NeodymiumExtractor[Extractor - Neodymium]NeodymiumStorage[Storage - Solid]NeodymiumExtractorPower --&gt; NeodymiumExtractorNeodymiumExtractor --&gt; NeodymiumStorageExtractor - Neodymium - Commercial flowchart TDNeodymiumExtractorPower[Power x 10]NeodymiumExtractor[Extractor - Neodymium]NeodymiumStorage[Storage - Solid]NeodymiumExtractorPower --&gt; NeodymiumExtractorNeodymiumExtractor --&gt; NeodymiumStorageExtractor - Neodymium - Industrial flowchart TDNeodymiumExtractorPower[Power x 20]NeodymiumExtractor[Extractor - Neodymium]NeodymiumStorage[Storage - Solid]NeodymiumExtractorPower --&gt; NeodymiumExtractorNeodymiumExtractor --&gt; NeodymiumStorage</description>
-    </item>
-    
-    <item>
-      <title>Neon</title>
-      <link>https://starfield-data.pages.dev/items/resources/neon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/neon/</guid>
-      <description> Neon is a Exotic Inorganic resource. One Neon has a mass of 0.5 and is worth 16 credits. It has a symbol of Ne and can be stored in Gas containers.
-Purchase Production Extractor - Neon Extractor - Neon - Commercial Extractor - Neon - Industrial Purchase Neon can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Neon flowchart TDNeonExtractorPower[Power x 5]NeonExtractor[Extractor - Neon]NeonStorage[Storage - Gas]NeonExtractorPower --&gt; NeonExtractorNeonExtractor --&gt; NeonStorageExtractor - Neon - Commercial flowchart TDNeonExtractorPower[Power x 10]NeonExtractor[Extractor - Neon]NeonStorage[Storage - Gas]NeonExtractorPower --&gt; NeonExtractorNeonExtractor --&gt; NeonStorageExtractor - Neon - Industrial flowchart TDNeonExtractorPower[Power x 20]NeonExtractor[Extractor - Neon]NeonStorage[Storage - Gas]NeonExtractorPower --&gt; NeonExtractorNeonExtractor --&gt; NeonStorage</description>
-    </item>
-    
-    <item>
-      <title>Neurologic</title>
-      <link>https://starfield-data.pages.dev/items/resources/neurologic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/neurologic/</guid>
-      <description>Neurologic is a Unique Organic resource. One Neurologic has a mass of 1.4 and is worth 67 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Neurologic can be purchased at the following locations.
-Farming You have a few different options for farming Neurologic.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.
-flowchart TDNeurologicGreenhousePower[Power x 3]NeurologicGreenhouse[Greenhouse - Neurologic]NeurologicStorage[Storage]Water[1 Water]Water --&gt; NeurologicGreenhouseNeurologicGreenhousePower --&gt; NeurologicGreenhouseNeurologicGreenhouse --&gt; NeurologicStorageAnimal Husbandry Facility The Standard, Commercial, and Industrial Animal Husbandry Facility all have the same power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Nickel</title>
-      <link>https://starfield-data.pages.dev/items/resources/nickel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/nickel/</guid>
-      <description> Nickel is a Common Inorganic resource. One Nickel has a mass of 0.6 and is worth 10 credits. It has a symbol of Ni and can be stored in Solid containers.
-Purchase Production Extractor - Nickel Extractor - Nickel - Commercial Extractor - Nickel - Industrial Purchase Nickel can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Nickel flowchart TDNickelExtractorPower[Power x 5]NickelExtractor[Extractor - Nickel]NickelStorage[Storage - Solid]NickelExtractorPower --&gt; NickelExtractorNickelExtractor --&gt; NickelStorageExtractor - Nickel - Commercial flowchart TDNickelExtractorPower[Power x 10]NickelExtractor[Extractor - Nickel]NickelStorage[Storage - Solid]NickelExtractorPower --&gt; NickelExtractorNickelExtractor --&gt; NickelStorageExtractor - Nickel - Industrial flowchart TDNickelExtractorPower[Power x 20]NickelExtractor[Extractor - Nickel]NickelStorage[Storage - Solid]NickelExtractorPower --&gt; NickelExtractorNickelExtractor --&gt; NickelStorage</description>
-    </item>
-    
-    <item>
-      <title>Nutrient</title>
-      <link>https://starfield-data.pages.dev/items/resources/nutrient/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/nutrient/</guid>
-      <description>Nutrient is a Common Organic resource. One Nutrient has a mass of 0.5 and is worth 5 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Nutrient can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Nutrient.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Ornamental Material</title>
-      <link>https://starfield-data.pages.dev/items/resources/ornamental-material/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/ornamental-material/</guid>
-      <description>Ornamental Material is a Uncommon Organic resource. One Ornamental Material has a mass of 0.5 and is worth 11 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Ornamental Material can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Ornamental Material.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Palladium</title>
-      <link>https://starfield-data.pages.dev/items/resources/palladium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/palladium/</guid>
-      <description> Palladium is a Exotic Inorganic resource. One Palladium has a mass of 0.7 and is worth 25 credits. It has a symbol of Pd and can be stored in Solid containers.
-Purchase Production Extractor - Palladium Extractor - Palladium - Commercial Extractor - Palladium - Industrial Purchase Palladium can be purchased at the following locations.
-Production Extractor - Palladium flowchart TDPalladiumExtractorPower[Power x 5]PalladiumExtractor[Extractor - Palladium]PalladiumStorage[Storage - Solid]PalladiumExtractorPower --&gt; PalladiumExtractorPalladiumExtractor --&gt; PalladiumStorageExtractor - Palladium - Commercial flowchart TDPalladiumExtractorPower[Power x 10]PalladiumExtractor[Extractor - Palladium]PalladiumStorage[Storage - Solid]PalladiumExtractorPower --&gt; PalladiumExtractorPalladiumExtractor --&gt; PalladiumStorageExtractor - Palladium - Industrial flowchart TDPalladiumExtractorPower[Power x 20]PalladiumExtractor[Extractor - Palladium]PalladiumStorage[Storage - Solid]PalladiumExtractorPower --&gt; PalladiumExtractorPalladiumExtractor --&gt; PalladiumStorage</description>
-    </item>
-    
-    <item>
-      <title>Pigment</title>
-      <link>https://starfield-data.pages.dev/items/resources/pigment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/pigment/</guid>
-      <description>Pigment is a Uncommon Organic resource. One Pigment has a mass of 0.5 and is worth 10 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Pigment can be purchased at the following locations.
-Farming You have a few different options for farming Pigment.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.
-flowchart TDPigmentGreenhousePower[Power x 3]PigmentGreenhouse[Greenhouse - Pigment]PigmentStorage[Storage]Water[1 Water]Water --&gt; PigmentGreenhousePigmentGreenhousePower --&gt; PigmentGreenhousePigmentGreenhouse --&gt; PigmentStorageAnimal Husbandry Facility The Standard, Commercial, and Industrial Animal Husbandry Facility all have the same power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Platinum</title>
-      <link>https://starfield-data.pages.dev/items/resources/platinum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/platinum/</guid>
-      <description> Platinum is a Rare Inorganic resource. One Platinum has a mass of 0.8 and is worth 24 credits. It has a symbol of Pt and can be stored in Solid containers.
-Purchase Production Extractor - Platinum Extractor - Platinum - Commercial Extractor - Platinum - Industrial Purchase Platinum can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Platinum flowchart TDPlatinumExtractorPower[Power x 5]PlatinumExtractor[Extractor - Platinum]PlatinumStorage[Storage - Solid]PlatinumExtractorPower --&gt; PlatinumExtractorPlatinumExtractor --&gt; PlatinumStorageExtractor - Platinum - Commercial flowchart TDPlatinumExtractorPower[Power x 10]PlatinumExtractor[Extractor - Platinum]PlatinumStorage[Storage - Solid]PlatinumExtractorPower --&gt; PlatinumExtractorPlatinumExtractor --&gt; PlatinumStorageExtractor - Platinum - Industrial flowchart TDPlatinumExtractorPower[Power x 20]PlatinumExtractor[Extractor - Platinum]PlatinumStorage[Storage - Solid]PlatinumExtractorPower --&gt; PlatinumExtractorPlatinumExtractor --&gt; PlatinumStorage</description>
-    </item>
-    
-    <item>
-      <title>Plutonium</title>
-      <link>https://starfield-data.pages.dev/items/resources/plutonium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/plutonium/</guid>
-      <description> Plutonium is a Exotic Inorganic resource. One Plutonium has a mass of 1.6 and is worth 64 credits. It has a symbol of Pu and can be stored in Solid containers.
-Purchase Production Extractor - Plutonium Extractor - Plutonium - Commercial Extractor - Plutonium - Industrial Purchase Plutonium can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Plutonium flowchart TDPlutoniumExtractorPower[Power x 5]PlutoniumExtractor[Extractor - Plutonium]PlutoniumStorage[Storage - Solid]PlutoniumExtractorPower --&gt; PlutoniumExtractorPlutoniumExtractor --&gt; PlutoniumStorageExtractor - Plutonium - Commercial flowchart TDPlutoniumExtractorPower[Power x 10]PlutoniumExtractor[Extractor - Plutonium]PlutoniumStorage[Storage - Solid]PlutoniumExtractorPower --&gt; PlutoniumExtractorPlutoniumExtractor --&gt; PlutoniumStorageExtractor - Plutonium - Industrial flowchart TDPlutoniumExtractorPower[Power x 20]PlutoniumExtractor[Extractor - Plutonium]PlutoniumStorage[Storage - Solid]PlutoniumExtractorPower --&gt; PlutoniumExtractorPlutoniumExtractor --&gt; PlutoniumStorage</description>
-    </item>
-    
-    <item>
-      <title>Polymer</title>
-      <link>https://starfield-data.pages.dev/items/resources/polymer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/polymer/</guid>
-      <description>Polymer is a Exotic Organic resource. One Polymer has a mass of 0.5 and is worth 20 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Polymer can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Polymer.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Quark-Degenerate Tissues</title>
-      <link>https://starfield-data.pages.dev/items/resources/quark-degenerate-tissues/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/quark-degenerate-tissues/</guid>
-      <description>Quark-Degenerate Tissues is a Unique Organic resource. One Quark-Degenerate Tissues has a mass of 0.3 and is worth 240 credits.
-Purchase Purchase Quark-Degenerate Tissues can be purchased at the following locations.</description>
-    </item>
-    
-    <item>
-      <title>Rothicite</title>
-      <link>https://starfield-data.pages.dev/items/resources/rothicite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/rothicite/</guid>
-      <description> Rothicite is a Unique Inorganic resource. One Rothicite has a mass of 2.2 and is worth 106 credits. It has a symbol of Rc and can be stored in Solid containers.
-Purchase Production Extractor - Rothicite Extractor - Rothicite - Commercial Extractor - Rothicite - Industrial Purchase Rothicite can be purchased at the following locations.
-Production Extractor - Rothicite flowchart TDRothiciteExtractorPower[Power x 5]RothiciteExtractor[Extractor - Rothicite]RothiciteStorage[Storage - Solid]RothiciteExtractorPower --&gt; RothiciteExtractorRothiciteExtractor --&gt; RothiciteStorageExtractor - Rothicite - Commercial flowchart TDRothiciteExtractorPower[Power x 10]RothiciteExtractor[Extractor - Rothicite]RothiciteStorage[Storage - Solid]RothiciteExtractorPower --&gt; RothiciteExtractorRothiciteExtractor --&gt; RothiciteStorageExtractor - Rothicite - Industrial flowchart TDRothiciteExtractorPower[Power x 20]RothiciteExtractor[Extractor - Rothicite]RothiciteStorage[Storage - Solid]RothiciteExtractorPower --&gt; RothiciteExtractorRothiciteExtractor --&gt; RothiciteStorage</description>
-    </item>
-    
-    <item>
-      <title>Sealant</title>
-      <link>https://starfield-data.pages.dev/items/resources/sealant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/sealant/</guid>
-      <description>Sealant is a Common Organic resource. One Sealant has a mass of 0.5 and is worth 6 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Sealant can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Sealant.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Sedative</title>
-      <link>https://starfield-data.pages.dev/items/resources/sedative/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/sedative/</guid>
-      <description>Sedative is a Rare Organic resource. One Sedative has a mass of 0.5 and is worth 12 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Sedative can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Sedative.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Silver</title>
-      <link>https://starfield-data.pages.dev/items/resources/silver/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/silver/</guid>
-      <description> Silver is a Uncommon Inorganic resource. One Silver has a mass of 0.6 and is worth 20 credits. It has a symbol of Ag and can be stored in Solid containers.
-Purchase Production Extractor - Silver Extractor - Silver - Commercial Extractor - Silver - Industrial Purchase Silver can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Silver flowchart TDSilverExtractorPower[Power x 5]SilverExtractor[Extractor - Silver]SilverStorage[Storage - Solid]SilverExtractorPower --&gt; SilverExtractorSilverExtractor --&gt; SilverStorageExtractor - Silver - Commercial flowchart TDSilverExtractorPower[Power x 10]SilverExtractor[Extractor - Silver]SilverStorage[Storage - Solid]SilverExtractorPower --&gt; SilverExtractorSilverExtractor --&gt; SilverStorageExtractor - Silver - Industrial flowchart TDSilverExtractorPower[Power x 20]SilverExtractor[Extractor - Silver]SilverStorage[Storage - Solid]SilverExtractorPower --&gt; SilverExtractorSilverExtractor --&gt; SilverStorage</description>
-    </item>
-    
-    <item>
-      <title>Solvent</title>
-      <link>https://starfield-data.pages.dev/items/resources/solvent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/solvent/</guid>
-      <description>Solvent is a Exotic Organic resource. One Solvent has a mass of 0.5 and is worth 19 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Solvent can be purchased at the following locations.
-Farming You have a few different options for farming Solvent.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.
-flowchart TDSolventGreenhousePower[Power x 3]SolventGreenhouse[Greenhouse - Solvent]SolventStorage[Storage]Water[1 Water]Water --&gt; SolventGreenhouseSolventGreenhousePower --&gt; SolventGreenhouseSolventGreenhouse --&gt; SolventStorageAnimal Husbandry Facility The Standard, Commercial, and Industrial Animal Husbandry Facility all have the same power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Spice</title>
-      <link>https://starfield-data.pages.dev/items/resources/spice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/spice/</guid>
-      <description>Spice is a Uncommon Organic resource. One Spice has a mass of 0.5 and is worth 11 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Spice can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Spice.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Stimulant</title>
-      <link>https://starfield-data.pages.dev/items/resources/stimulant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/stimulant/</guid>
-      <description>Stimulant is a Exotic Organic resource. One Stimulant has a mass of 0.5 and is worth 20 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Stimulant can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Stimulant.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Structural Material</title>
-      <link>https://starfield-data.pages.dev/items/resources/structural-material/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/structural-material/</guid>
-      <description>Structural Material is a Common Organic resource. One Structural Material has a mass of 0.5 and is worth 7 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Structural Material can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Structural Material.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Tantalum</title>
-      <link>https://starfield-data.pages.dev/items/resources/tantalum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/tantalum/</guid>
-      <description> Tantalum is a Rare Inorganic resource. One Tantalum has a mass of 0.9 and is worth 23 credits. It has a symbol of Ta and can be stored in Solid containers.
-Purchase Production Extractor - Tantalum Extractor - Tantalum - Commercial Extractor - Tantalum - Industrial Purchase Tantalum can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Tantalum flowchart TDTantalumExtractorPower[Power x 5]TantalumExtractor[Extractor - Tantalum]TantalumStorage[Storage - Solid]TantalumExtractorPower --&gt; TantalumExtractorTantalumExtractor --&gt; TantalumStorageExtractor - Tantalum - Commercial flowchart TDTantalumExtractorPower[Power x 10]TantalumExtractor[Extractor - Tantalum]TantalumStorage[Storage - Solid]TantalumExtractorPower --&gt; TantalumExtractorTantalumExtractor --&gt; TantalumStorageExtractor - Tantalum - Industrial flowchart TDTantalumExtractorPower[Power x 20]TantalumExtractor[Extractor - Tantalum]TantalumStorage[Storage - Solid]TantalumExtractorPower --&gt; TantalumExtractorTantalumExtractor --&gt; TantalumStorage</description>
-    </item>
-    
-    <item>
-      <title>Tasine</title>
-      <link>https://starfield-data.pages.dev/items/resources/tasine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/tasine/</guid>
-      <description> Tasine is a Unique Inorganic resource. One Tasine has a mass of 1.2 and is worth 52 credits. It has a symbol of Tsn and can be stored in Liquid containers.
-Purchase Production Extractor - Tasine Extractor - Tasine - Commercial Extractor - Tasine - Industrial Purchase Tasine can be purchased at the following locations.
-Production Extractor - Tasine flowchart TDTasineExtractorPower[Power x 5]TasineExtractor[Extractor - Tasine]TasineStorage[Storage - Liquid]TasineExtractorPower --&gt; TasineExtractorTasineExtractor --&gt; TasineStorageExtractor - Tasine - Commercial flowchart TDTasineExtractorPower[Power x 10]TasineExtractor[Extractor - Tasine]TasineStorage[Storage - Liquid]TasineExtractorPower --&gt; TasineExtractorTasineExtractor --&gt; TasineStorageExtractor - Tasine - Industrial flowchart TDTasineExtractorPower[Power x 20]TasineExtractor[Extractor - Tasine]TasineStorage[Storage - Liquid]TasineExtractorPower --&gt; TasineExtractorTasineExtractor --&gt; TasineStorage</description>
-    </item>
-    
-    <item>
-      <title>Tetrafluorides</title>
-      <link>https://starfield-data.pages.dev/items/resources/tetrafluorides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/tetrafluorides/</guid>
-      <description> Tetrafluorides is a Rare Inorganic resource. One Tetrafluorides has a mass of 0.7 and is worth 18 credits. It has a symbol of xF4 and can be stored in Gas containers.
-Purchase Production Extractor - Tetrafluorides Extractor - Tetrafluorides - Commercial Extractor - Tetrafluorides - Industrial Purchase Tetrafluorides can be purchased at the following locations.
-Production Extractor - Tetrafluorides flowchart TDTetrafluoridesExtractorPower[Power x 5]TetrafluoridesExtractor[Extractor - Tetrafluorides]TetrafluoridesStorage[Storage - Gas]TetrafluoridesExtractorPower --&gt; TetrafluoridesExtractorTetrafluoridesExtractor --&gt; TetrafluoridesStorageExtractor - Tetrafluorides - Commercial flowchart TDTetrafluoridesExtractorPower[Power x 10]TetrafluoridesExtractor[Extractor - Tetrafluorides]TetrafluoridesStorage[Storage - Gas]TetrafluoridesExtractorPower --&gt; TetrafluoridesExtractorTetrafluoridesExtractor --&gt; TetrafluoridesStorageExtractor - Tetrafluorides - Industrial flowchart TDTetrafluoridesExtractorPower[Power x 20]TetrafluoridesExtractor[Extractor - Tetrafluorides]TetrafluoridesStorage[Storage - Gas]TetrafluoridesExtractorPower --&gt; TetrafluoridesExtractorTetrafluoridesExtractor --&gt; TetrafluoridesStorage</description>
-    </item>
-    
-    <item>
-      <title>Titanium</title>
-      <link>https://starfield-data.pages.dev/items/resources/titanium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/titanium/</guid>
-      <description> Titanium is a Rare Inorganic resource. One Titanium has a mass of 0.5 and is worth 12 credits. It has a symbol of Ti and can be stored in Solid containers.
-Purchase Production Extractor - Titanium Extractor - Titanium - Commercial Extractor - Titanium - Industrial Purchase Titanium can be purchased at the following locations.
-Production Extractor - Titanium flowchart TDTitaniumExtractorPower[Power x 5]TitaniumExtractor[Extractor - Titanium]TitaniumStorage[Storage - Solid]TitaniumExtractorPower --&gt; TitaniumExtractorTitaniumExtractor --&gt; TitaniumStorageExtractor - Titanium - Commercial flowchart TDTitaniumExtractorPower[Power x 10]TitaniumExtractor[Extractor - Titanium]TitaniumStorage[Storage - Solid]TitaniumExtractorPower --&gt; TitaniumExtractorTitaniumExtractor --&gt; TitaniumStorageExtractor - Titanium - Industrial flowchart TDTitaniumExtractorPower[Power x 20]TitaniumExtractor[Extractor - Titanium]TitaniumStorage[Storage - Solid]TitaniumExtractorPower --&gt; TitaniumExtractorTitaniumExtractor --&gt; TitaniumStorage</description>
-    </item>
-    
-    <item>
-      <title>Toxin</title>
-      <link>https://starfield-data.pages.dev/items/resources/toxin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/toxin/</guid>
-      <description>Toxin is a Common Organic resource. One Toxin has a mass of 0.5 and is worth 8 credits.
-Purchase Farming Greenhouse Animal Husbandry Facility Purchase Toxin can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Farming You have a few different options for farming Toxin.
-Greenhouse The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.</description>
-    </item>
-    
-    <item>
-      <title>Tungsten</title>
-      <link>https://starfield-data.pages.dev/items/resources/tungsten/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/tungsten/</guid>
-      <description> Tungsten is a Common Inorganic resource. One Tungsten has a mass of 0.7 and is worth 16 credits. It has a symbol of W and can be stored in Solid containers.
-Purchase Production Extractor - Tungsten Extractor - Tungsten - Commercial Extractor - Tungsten - Industrial Purchase Tungsten can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Tungsten flowchart TDTungstenExtractorPower[Power x 5]TungstenExtractor[Extractor - Tungsten]TungstenStorage[Storage - Solid]TungstenExtractorPower --&gt; TungstenExtractorTungstenExtractor --&gt; TungstenStorageExtractor - Tungsten - Commercial flowchart TDTungstenExtractorPower[Power x 10]TungstenExtractor[Extractor - Tungsten]TungstenStorage[Storage - Solid]TungstenExtractorPower --&gt; TungstenExtractorTungstenExtractor --&gt; TungstenStorageExtractor - Tungsten - Industrial flowchart TDTungstenExtractorPower[Power x 20]TungstenExtractor[Extractor - Tungsten]TungstenStorage[Storage - Solid]TungstenExtractorPower --&gt; TungstenExtractorTungstenExtractor --&gt; TungstenStorage</description>
-    </item>
-    
-    <item>
-      <title>Uranium</title>
-      <link>https://starfield-data.pages.dev/items/resources/uranium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/uranium/</guid>
-      <description> Uranium is a Common Inorganic resource. One Uranium has a mass of 0.7 and is worth 14 credits. It has a symbol of U and can be stored in Solid containers.
-Purchase Production Extractor - Uranium Extractor - Uranium - Commercial Extractor - Uranium - Industrial Purchase Uranium can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Uranium flowchart TDUraniumExtractorPower[Power x 5]UraniumExtractor[Extractor - Uranium]UraniumStorage[Storage - Solid]UraniumExtractorPower --&gt; UraniumExtractorUraniumExtractor --&gt; UraniumStorageExtractor - Uranium - Commercial flowchart TDUraniumExtractorPower[Power x 10]UraniumExtractor[Extractor - Uranium]UraniumStorage[Storage - Solid]UraniumExtractorPower --&gt; UraniumExtractorUraniumExtractor --&gt; UraniumStorageExtractor - Uranium - Industrial flowchart TDUraniumExtractorPower[Power x 20]UraniumExtractor[Extractor - Uranium]UraniumStorage[Storage - Solid]UraniumExtractorPower --&gt; UraniumExtractorUraniumExtractor --&gt; UraniumStorage</description>
-    </item>
-    
-    <item>
-      <title>Vanadium</title>
-      <link>https://starfield-data.pages.dev/items/resources/vanadium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/vanadium/</guid>
-      <description> Vanadium is a Rare Inorganic resource. One Vanadium has a mass of 0.7 and is worth 24 credits. It has a symbol of V and can be stored in Solid containers.
-Purchase Production Extractor - Vanadium Extractor - Vanadium - Commercial Extractor - Vanadium - Industrial Purchase Vanadium can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Vanadium flowchart TDVanadiumExtractorPower[Power x 5]VanadiumExtractor[Extractor - Vanadium]VanadiumStorage[Storage - Solid]VanadiumExtractorPower --&gt; VanadiumExtractorVanadiumExtractor --&gt; VanadiumStorageExtractor - Vanadium - Commercial flowchart TDVanadiumExtractorPower[Power x 10]VanadiumExtractor[Extractor - Vanadium]VanadiumStorage[Storage - Solid]VanadiumExtractorPower --&gt; VanadiumExtractorVanadiumExtractor --&gt; VanadiumStorageExtractor - Vanadium - Industrial flowchart TDVanadiumExtractorPower[Power x 20]VanadiumExtractor[Extractor - Vanadium]VanadiumStorage[Storage - Solid]VanadiumExtractorPower --&gt; VanadiumExtractorVanadiumExtractor --&gt; VanadiumStorage</description>
-    </item>
-    
-    <item>
-      <title>Veryl</title>
-      <link>https://starfield-data.pages.dev/items/resources/veryl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/veryl/</guid>
-      <description> Veryl is a Unique Inorganic resource. One Veryl has a mass of 0.9 and is worth 40 credits. It has a symbol of Vr and can be stored in Gas containers.
-Purchase Production Extractor - Veryl Extractor - Veryl - Commercial Extractor - Veryl - Industrial Purchase Veryl can be purchased at the following locations.
-Production Extractor - Veryl flowchart TDVerylExtractorPower[Power x 5]VerylExtractor[Extractor - Veryl]VerylStorage[Storage - Gas]VerylExtractorPower --&gt; VerylExtractorVerylExtractor --&gt; VerylStorageExtractor - Veryl - Commercial flowchart TDVerylExtractorPower[Power x 10]VerylExtractor[Extractor - Veryl]VerylStorage[Storage - Gas]VerylExtractorPower --&gt; VerylExtractorVerylExtractor --&gt; VerylStorageExtractor - Veryl - Industrial flowchart TDVerylExtractorPower[Power x 20]VerylExtractor[Extractor - Veryl]VerylStorage[Storage - Gas]VerylExtractorPower --&gt; VerylExtractorVerylExtractor --&gt; VerylStorage</description>
-    </item>
-    
-    <item>
-      <title>Vytinium</title>
-      <link>https://starfield-data.pages.dev/items/resources/vytinium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/vytinium/</guid>
-      <description> Vytinium is a Unique Inorganic resource. One Vytinium has a mass of 2.5 and is worth 116 credits. It has a symbol of Vy and can be stored in Solid containers.
-Purchase Production Extractor - Vytinium Extractor - Vytinium - Commercial Extractor - Vytinium - Industrial Purchase Vytinium can be purchased at the following locations.
-Production Extractor - Vytinium flowchart TDVytiniumExtractorPower[Power x 5]VytiniumExtractor[Extractor - Vytinium]VytiniumStorage[Storage - Solid]VytiniumExtractorPower --&gt; VytiniumExtractorVytiniumExtractor --&gt; VytiniumStorageExtractor - Vytinium - Commercial flowchart TDVytiniumExtractorPower[Power x 10]VytiniumExtractor[Extractor - Vytinium]VytiniumStorage[Storage - Solid]VytiniumExtractorPower --&gt; VytiniumExtractorVytiniumExtractor --&gt; VytiniumStorageExtractor - Vytinium - Industrial flowchart TDVytiniumExtractorPower[Power x 20]VytiniumExtractor[Extractor - Vytinium]VytiniumStorage[Storage - Solid]VytiniumExtractorPower --&gt; VytiniumExtractorVytiniumExtractor --&gt; VytiniumStorage</description>
-    </item>
-    
-    <item>
-      <title>Vytinium Fuel Rod</title>
-      <link>https://starfield-data.pages.dev/items/resources/vytinium-fuel-rod/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/vytinium-fuel-rod/</guid>
-      <description>Vytinium Fuel Rod is a Rare Manufactured resource. One Vytinium Fuel Rod has a mass of 11 and is worth 836 credits.
-Purchase Supply Chain Purchase Vytinium Fuel Rod can be purchased at the following locations.
-Supply Chain Source</description>
-    </item>
-    
-    <item>
-      <title>Water</title>
-      <link>https://starfield-data.pages.dev/items/resources/water/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/water/</guid>
-      <description> Water is a Common Inorganic resource. One Water has a mass of 0.5 and is worth 4 credits. It has a symbol of H₂O and can be stored in Liquid containers.
-Purchase Production Extractor - Water Extractor - Water - Commercial Extractor - Water - Industrial Purchase Water can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Water flowchart TDWaterExtractorPower[Power x 5]WaterExtractor[Extractor - Water]WaterStorage[Storage - Liquid]WaterExtractorPower --&gt; WaterExtractorWaterExtractor --&gt; WaterStorageExtractor - Water - Commercial flowchart TDWaterExtractorPower[Power x 10]WaterExtractor[Extractor - Water]WaterStorage[Storage - Liquid]WaterExtractorPower --&gt; WaterExtractorWaterExtractor --&gt; WaterStorageExtractor - Water - Industrial flowchart TDWaterExtractorPower[Power x 20]WaterExtractor[Extractor - Water]WaterStorage[Storage - Liquid]WaterExtractorPower --&gt; WaterExtractorWaterExtractor --&gt; WaterStorage</description>
-    </item>
-    
-    <item>
-      <title>Xenon</title>
-      <link>https://starfield-data.pages.dev/items/resources/xenon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/xenon/</guid>
-      <description> Xenon is a Exotic Inorganic resource. One Xenon has a mass of 0.8 and is worth 27 credits. It has a symbol of Xe and can be stored in Gas containers.
-Purchase Production Extractor - Xenon Extractor - Xenon - Commercial Extractor - Xenon - Industrial Purchase Xenon can be purchased at the following locations.
-Production Extractor - Xenon flowchart TDXenonExtractorPower[Power x 5]XenonExtractor[Extractor - Xenon]XenonStorage[Storage - Gas]XenonExtractorPower --&gt; XenonExtractorXenonExtractor --&gt; XenonStorageExtractor - Xenon - Commercial flowchart TDXenonExtractorPower[Power x 10]XenonExtractor[Extractor - Xenon]XenonStorage[Storage - Gas]XenonExtractorPower --&gt; XenonExtractorXenonExtractor --&gt; XenonStorageExtractor - Xenon - Industrial flowchart TDXenonExtractorPower[Power x 20]XenonExtractor[Extractor - Xenon]XenonStorage[Storage - Gas]XenonExtractorPower --&gt; XenonExtractorXenonExtractor --&gt; XenonStorage</description>
-    </item>
-    
-    <item>
-      <title>Ytterbium</title>
-      <link>https://starfield-data.pages.dev/items/resources/ytterbium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://starfield-data.pages.dev/items/resources/ytterbium/</guid>
-      <description> Ytterbium is a Exotic Inorganic resource. One Ytterbium has a mass of 1.2 and is worth 38 credits. It has a symbol of Yb and can be stored in Solid containers.
-Purchase Production Extractor - Ytterbium Extractor - Ytterbium - Commercial Extractor - Ytterbium - Industrial Purchase Ytterbium can be purchased at the following locations.
-Jae Montreal at New Homestead on Titan in Sol (Store) Production Extractor - Ytterbium flowchart TDYtterbiumExtractorPower[Power x 5]YtterbiumExtractor[Extractor - Ytterbium]YtterbiumStorage[Storage - Solid]YtterbiumExtractorPower --&gt; YtterbiumExtractorYtterbiumExtractor --&gt; YtterbiumStorageExtractor - Ytterbium - Commercial flowchart TDYtterbiumExtractorPower[Power x 10]YtterbiumExtractor[Extractor - Ytterbium]YtterbiumStorage[Storage - Solid]YtterbiumExtractorPower --&gt; YtterbiumExtractorYtterbiumExtractor --&gt; YtterbiumStorageExtractor - Ytterbium - Industrial flowchart TDYtterbiumExtractorPower[Power x 20]YtterbiumExtractor[Extractor - Ytterbium]YtterbiumStorage[Storage - Solid]YtterbiumExtractorPower --&gt; YtterbiumExtractorYtterbiumExtractor --&gt; YtterbiumStorage</description>
-    </item>
-    
-  </channel>
-</rss>
