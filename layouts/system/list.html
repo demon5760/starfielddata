@@ -10,14 +10,18 @@
         {{ end }}
         <div class="page-list">
           Data available for {{ .Pages | len }} systems.
-            <table>
+            <table class="data_table">
+              <thead>
               <tr>
                 <th>Name</th>
                 <th>Level</th>
                 <th>Planets</th>
                 <th>Moons</th>
-                <th>Resources <br /> Unique/Total</th>
+                <th>Resources <br />Unique</th>
+                <th>Resources<br />Total</th>
               </tr>
+            </thead>
+            <tbody>
             {{ range .Pages }}
             {{ $system := index $.Site.Data.systems .Title }}
             <tr>
@@ -25,28 +29,28 @@
               <td>{{ $system.level }}</td>
               <td>{{ $system.planets }}</td>
               <td>{{ $system.moons }}</td>
-              <td>
-                {{ $resouce_list := slice }}
-                {{ range $.Site.Data.planets }}
-                  {{ if eq .system $system.name}}
-                    {{ $resouce_list = $resouce_list | append .resources }}
-                  {{end}}
+              {{ $resouce_list := slice }}
+              {{ range $.Site.Data.planets }}
+                {{ if eq .system $system.name}}
+                  {{ $resouce_list = $resouce_list | append .resources }}
+                {{end}}
+              {{ end }}
+              {{ range $.Site.Data.moons }}
+                {{ $planet := index $.Site.Data.planets .planet }}
+                {{ if eq $planet.system  $system.name }}
+                  {{ $resouce_list = $resouce_list | append .resources }}
                 {{ end }}
-                {{ range $.Site.Data.moons }}
-                  {{ $planet := index $.Site.Data.planets .planet }}
-                  {{ if eq $planet.system  $system.name }}
-                    {{ $resouce_list = $resouce_list | append .resources }}
-                  {{ end }}
-                {{ end }}
+              {{ end }}
 
-                {{ if gt ($resouce_list | len) 0 }}
-                  {{ $resouce_list | uniq | len}} / {{ $resouce_list | len}}
-                {{ else }}
-                  Coming Soon..
-                {{ end }}
+              <td>
+                {{ $resouce_list | uniq | len}}
+              </td>
+              <td>
+                {{ $resouce_list | len}}
               </td>
             </tr>
             {{ end}}
+            </tbody>
             </table>
         </div>
       </div>
