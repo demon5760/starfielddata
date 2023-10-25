@@ -10,8 +10,11 @@
         {{ end }}
         <div class="page-list">
           <h2>Inorganic</h2>
-            <table>
+            <table class="data_table">
+              <thead>
               <tr><th>Name</th><th>Type</th><th>Value</th><th>Rarity</th><th>Mass</th><th>Sym.</th><th>State</th></tr>
+            </thead>
+            <tbody>
             {{ range .Pages }}
             {{ $resource := index $.Site.Data.resources .Title }}
             {{ if eq $resource.type "Inorganic"}}
@@ -26,10 +29,14 @@
             </tr>
             {{ end }}
             {{ end}}
+            </tbody>
             </table>
           <h2>Organic</h2>
-          <table>
+          <table class="data_table">
+            <thead>
             <tr><th>Name</th><th>Type</th><th>Value</th><th>Rarity</th><th>Mass</th></tr>
+            </thead>
+            <tbody>
           {{ range .Pages }}
           {{ $resource := index $.Site.Data.resources .Title }}
           {{ if eq $resource.type "Organic"}}
@@ -42,10 +49,14 @@
           </tr>
           {{ end }}
           {{ end}}
+          </tbody>
           </table>
           <h2>Manufactured</h2>
-          <table>
+          <table class="data_table">
+            <thead>
             <tr><th>Name</th><th>Type</th><th>Value</th><th>Rarity</th><th>Mass</th></tr>
+            </thead>
+            <tbody>
           {{ range .Pages }}
           {{ $resource := index $.Site.Data.resources .Title }}
           {{ if eq $resource.type "Manufactured"}}
@@ -58,6 +69,7 @@
           </tr>
           {{ end }}
           {{ end}}
+          </tbody>
           </table>
         </div>
       </div>
