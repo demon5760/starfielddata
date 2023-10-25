@@ -11,7 +11,7 @@ name: Alchiba X
 o2: TBD
 resources: []
 system: Alchiba
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

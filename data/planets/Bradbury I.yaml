@@ -8,14 +8,14 @@ flora_rating: TBD
 gravity: 0.65 G
 magnetosphere: TBD
 name: Bradbury I
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Helium-3
 - Iron
 - Ytterbium
 system: Bradbury
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits: []
 type: Barren

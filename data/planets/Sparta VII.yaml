@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 2.79 G
 magnetosphere: Extreme
 name: Sparta VII
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Sparta
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

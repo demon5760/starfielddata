@@ -15,7 +15,7 @@ resources:
 - Platinum
 - Water
 system: Marduk
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice

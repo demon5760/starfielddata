@@ -15,7 +15,7 @@ resources:
 - Silver
 - Uranium
 system: Masada
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits: []
 type: Rock

@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.87 G
 magnetosphere: Weak
 name: Moloch I
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Cobalt
@@ -19,7 +19,7 @@ resources:
 - Vanadium
 - Water
 system: Moloch
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

@@ -11,7 +11,7 @@ name: Leonis VIII
 o2: TBD
 resources: []
 system: Leonis
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice Giant

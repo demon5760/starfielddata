@@ -11,7 +11,7 @@ name: Bardeen VII
 o2: TBD
 resources: []
 system: Bardeen
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice Giant

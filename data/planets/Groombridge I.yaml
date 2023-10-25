@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.57 G
 magnetosphere: Weak
 name: Groombridge I
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Beryllium
@@ -17,7 +17,7 @@ resources:
 - Vanadium
 - Water
 system: Groombridge
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

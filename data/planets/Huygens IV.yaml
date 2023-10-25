@@ -21,7 +21,7 @@ resources:
 - Nickel
 - Water
 system: Huygens
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

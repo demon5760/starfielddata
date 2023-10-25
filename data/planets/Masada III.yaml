@@ -23,7 +23,7 @@ flora_rating: TBD
 gravity: 1.12 G
 magnetosphere: Average
 name: Masada III
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Argon
@@ -34,7 +34,7 @@ resources:
 - Water
 - Ytterbium
 system: Masada
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

@@ -11,7 +11,7 @@ name: Syrma VI
 o2: TBD
 resources: []
 system: Syrma
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Gas Giant

@@ -8,12 +8,12 @@ flora_rating: TBD
 gravity: 0.80 G
 magnetosphere: Average
 name: PraX
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Helium-3
 system: Valo
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

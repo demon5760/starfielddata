@@ -15,7 +15,7 @@ flora_rating: TBD
 gravity: 0.82 G
 magnetosphere: Weak
 name: Bolivar I
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Copper
@@ -24,7 +24,7 @@ resources:
 - Tungsten
 - Water
 system: Bolivar
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

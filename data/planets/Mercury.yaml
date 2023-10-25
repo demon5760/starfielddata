@@ -8,13 +8,13 @@ flora_rating: TBD
 gravity: 0.38 G
 magnetosphere: TBD
 name: Mercury
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Helium-3
 - Neodymium
 system: Sol
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits: []
 type: Barren

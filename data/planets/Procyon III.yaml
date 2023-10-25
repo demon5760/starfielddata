@@ -23,7 +23,7 @@ flora_rating: TBD
 gravity: 1.07 G
 magnetosphere: Average
 name: Procyon III
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Copper
@@ -33,7 +33,7 @@ resources:
 - Tetrafluorides
 - Water
 system: Procyon A
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

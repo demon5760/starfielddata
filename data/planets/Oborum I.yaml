@@ -30,7 +30,7 @@ resources:
 - Gold
 - Water
 system: Oborum Prime
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

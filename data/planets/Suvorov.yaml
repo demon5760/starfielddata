@@ -12,13 +12,13 @@ flora_rating: TBD
 gravity: 1.04 G
 magnetosphere: Powerful
 name: Suvorov
-o2: TBD
+o2_percent: TBD
 resources:
 - Copper
 - Fluorine
 - Water
 system: Kryx
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

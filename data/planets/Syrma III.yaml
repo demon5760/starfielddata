@@ -27,7 +27,7 @@ resources:
 - Nickel
 - Water
 system: Syrma
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

@@ -14,7 +14,7 @@ resources:
 - Iron
 - Ytterbium
 system: Maal
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

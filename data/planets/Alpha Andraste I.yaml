@@ -13,7 +13,7 @@ resources:
 - Aluminum
 - Helium-3
 system: Alpha Andraste
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits: []
 type: Barren

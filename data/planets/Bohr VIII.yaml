@@ -8,12 +8,12 @@ flora_rating: TBD
 gravity: 0.24 G
 magnetosphere: TBD
 name: Bohr VIII
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Water
 system: Bohr
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice

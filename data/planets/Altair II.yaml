@@ -17,14 +17,14 @@ flora_rating: TBD
 gravity: 1.34 G
 magnetosphere: Powerful
 name: Altair II
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Benzene
 - Uranium
 - Water
 system: Altair
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

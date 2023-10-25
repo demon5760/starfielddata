@@ -15,7 +15,7 @@ resources:
 - Silver
 - Water
 system: Katydid
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

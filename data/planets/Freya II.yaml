@@ -8,14 +8,14 @@ flora_rating: TBD
 gravity: 1.32 G
 magnetosphere: Very Strong
 name: Freya II
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Lead
 - Uranium
 - Vanadium
 system: Freya
-temp: TBD
+surface_temp: TBD
 temperature: Scorched
 traits:
 - TBD1

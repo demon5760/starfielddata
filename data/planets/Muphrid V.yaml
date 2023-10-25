@@ -11,7 +11,7 @@ name: Muphrid V
 o2: TBD
 resources: []
 system: Muphrid
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Gas Giant

@@ -19,7 +19,7 @@ resources:
 - Titanium
 - Water
 system: Alpha Andraste
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

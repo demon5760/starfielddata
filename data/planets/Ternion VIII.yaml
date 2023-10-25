@@ -14,7 +14,7 @@ resources:
 - Chlorosilanes
 - Water
 system: Alpha Ternion
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits:
 - TBD1

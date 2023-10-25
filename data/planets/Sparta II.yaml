@@ -8,14 +8,14 @@ flora_rating: TBD
 gravity: 1.67 G
 magnetosphere: Very Strong
 name: Sparta II
-o2: TBD
+o2_percent: TBD
 resources:
 - Lead
 - Titanium
 - Tungsten
 - Uranium
 system: Sparta
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

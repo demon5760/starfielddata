@@ -15,7 +15,7 @@ resources:
 - Europium
 - Helium-3
 system: Alpha Marae
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

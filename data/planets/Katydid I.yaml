@@ -11,7 +11,7 @@ name: Katydid I
 o2: TBD
 resources: []
 system: Katydid
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits: []
 type: Hot Gas Giant

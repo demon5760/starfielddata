@@ -15,7 +15,7 @@ resources:
 - Helium-3
 - Neodymium
 system: Valo
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Barren

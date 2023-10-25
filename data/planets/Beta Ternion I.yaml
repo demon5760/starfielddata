@@ -14,7 +14,7 @@ flora_rating: TBD
 gravity: 1.35 G
 magnetosphere: Powerful
 name: Beta Ternion I
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Chlorosilanes
@@ -23,7 +23,7 @@ resources:
 - Lithium
 - Water
 system: Beta Ternion
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

@@ -13,7 +13,7 @@ resources:
 - Chlorine
 - Water
 system: Masada
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits:
 - TBD1

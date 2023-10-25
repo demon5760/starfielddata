@@ -11,7 +11,7 @@ name: Kapteyn II
 o2: TBD
 resources: []
 system: Kapteyn's Star
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Gas Giant

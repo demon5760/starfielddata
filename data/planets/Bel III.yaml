@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.95 G
 magnetosphere: Average
 name: Bel III
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Chlorosilanes
@@ -18,7 +18,7 @@ resources:
 - Tetrafluorides
 - Water
 system: Bel
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

@@ -8,14 +8,14 @@ flora_rating: TBD
 gravity: 1.24 G
 magnetosphere: Average
 name: Enlil IV
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Benzene
 - Lead
 - Water
 system: Enlil
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

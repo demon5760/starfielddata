@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.90 G
 magnetosphere: Average
 name: Beta Marae III
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Copper
@@ -16,7 +16,7 @@ resources:
 - Lead
 - Water
 system: Beta Marae
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Rock

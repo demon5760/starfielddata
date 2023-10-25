@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.81 G
 magnetosphere: Average
 name: Heinlein II
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Iridium
@@ -17,7 +17,7 @@ resources:
 - Uranium
 - Vanadium
 system: Heinlein
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

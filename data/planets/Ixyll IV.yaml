@@ -17,7 +17,7 @@ resources:
 - Uranium
 - Water
 system: Ixyll
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

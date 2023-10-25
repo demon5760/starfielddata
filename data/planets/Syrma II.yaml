@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.80 G
 magnetosphere: Powerful
 name: Syrma II
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Chlorine
@@ -19,7 +19,7 @@ resources:
 - Plutonium
 - Uranium
 system: Syrma
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits: []
 type: Rock

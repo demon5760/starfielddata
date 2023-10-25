@@ -8,14 +8,14 @@ flora_rating: TBD
 gravity: 0.78 G
 magnetosphere: Weak
 name: Nikola V
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Beryllium
 - Helium-3
 - Neodymium
 system: Nikola
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

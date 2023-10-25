@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 2.83 G
 magnetosphere: Extreme
 name: Guniibuu VI
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Guniibuu
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

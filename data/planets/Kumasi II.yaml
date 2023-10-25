@@ -37,7 +37,7 @@ resources:
 - Uranium
 - Water
 system: Kumasi
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

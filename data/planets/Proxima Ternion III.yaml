@@ -17,7 +17,7 @@ flora_rating: TBD
 gravity: 1.51 G
 magnetosphere: Powerful
 name: Proxima Ternion III
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Caesium
@@ -27,7 +27,7 @@ resources:
 - Nickel
 - Water
 system: Proxima Ternion
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

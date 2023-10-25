@@ -27,7 +27,7 @@ flora_rating: TBD
 gravity: 0.88 G
 magnetosphere: Average
 name: Serpentis IV
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Benzene
@@ -38,7 +38,7 @@ resources:
 - Lithium
 - Water
 system: Serpentis
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

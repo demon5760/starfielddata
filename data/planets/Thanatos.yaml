@@ -11,7 +11,7 @@ name: Thanatos
 o2: TBD
 resources: []
 system: Olympus
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice Giant

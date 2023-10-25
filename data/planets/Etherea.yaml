@@ -11,7 +11,7 @@ name: Etherea
 o2: TBD
 resources: []
 system: Wolf
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits: []
 type: Gas Giant

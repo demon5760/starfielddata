@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.44 G
 magnetosphere: Average
 name: Leviathan II
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Beryllium
@@ -16,7 +16,7 @@ resources:
 - Helium-3
 - Neodymium
 system: Leviathan
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits: []
 type: Barren

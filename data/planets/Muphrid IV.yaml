@@ -29,7 +29,7 @@ resources:
 - Lithium
 - Water
 system: Muphrid
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

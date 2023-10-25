@@ -8,12 +8,12 @@ flora_rating: TBD
 gravity: 0.27 G
 magnetosphere: TBD
 name: Heinlein VII
-o2: TBD
+o2_percent: TBD
 resources:
 - Lead
 - Water
 system: Heinlein
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice

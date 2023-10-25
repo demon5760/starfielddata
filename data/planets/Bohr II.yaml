@@ -21,14 +21,14 @@ flora_rating: TBD
 gravity: 0.62 G
 magnetosphere: Average
 name: Bohr II
-o2: TBD
+o2_percent: TBD
 resources:
 - Copper
 - Iron
 - Nickel
 - Water
 system: Bohr
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

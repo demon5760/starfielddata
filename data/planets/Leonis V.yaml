@@ -17,7 +17,7 @@ flora_rating: TBD
 gravity: 0.61 G
 magnetosphere: Powerful
 name: Leonis V
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Argon
@@ -28,7 +28,7 @@ resources:
 - Lithium
 - Water
 system: Leonis
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits: []
 type: Rock

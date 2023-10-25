@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 4.70 G
 magnetosphere: Extreme
 name: Orphion I
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Orphion
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

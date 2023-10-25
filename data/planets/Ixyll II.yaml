@@ -25,7 +25,7 @@ flora_rating: TBD
 gravity: 0.74 G
 magnetosphere: Average
 name: Ixyll II
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Antimony
@@ -36,7 +36,7 @@ resources:
 - Iron
 - Water
 system: Ixyll
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

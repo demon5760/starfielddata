@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.38 G
 magnetosphere: Weak
 name: Freya IV
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Cobalt
@@ -19,7 +19,7 @@ resources:
 - Uranium
 - Water
 system: Freya
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

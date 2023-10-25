@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 1.81 G
 magnetosphere: Average
 name: Lantana VIII
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Lantana
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice Giant

@@ -16,7 +16,7 @@ resources:
 - Tetrafluorides
 - Water
 system: Rana
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice

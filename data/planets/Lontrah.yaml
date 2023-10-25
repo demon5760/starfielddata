@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.11 G
 magnetosphere: TBD
 name: Lontrah
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Beryllium
@@ -16,7 +16,7 @@ resources:
 - Nickel
 - Uranium
 system: Nirah
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits: []
 type: Barren

@@ -15,7 +15,7 @@ resources:
 - Tungsten
 - Water
 system: Sol
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice

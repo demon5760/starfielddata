@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 1.11 G
 magnetosphere: Average
 name: Marduk II
-o2: TBD
+o2_percent: TBD
 resources:
 - Cobalt
 - Copper
@@ -19,7 +19,7 @@ resources:
 - Uranium
 - Vanadium
 system: Marduk
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

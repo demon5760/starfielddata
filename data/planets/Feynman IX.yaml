@@ -8,13 +8,13 @@ flora_rating: TBD
 gravity: 0.69 G
 magnetosphere: Weak
 name: Feynman IX
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Europium
 - Helium-3
 system: Feynman
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

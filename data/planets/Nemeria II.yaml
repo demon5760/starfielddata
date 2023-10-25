@@ -26,7 +26,7 @@ resources:
 - Tungsten
 - Water
 system: Nemeria
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

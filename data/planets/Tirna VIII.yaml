@@ -11,7 +11,7 @@ name: Tirna VIII
 o2: TBD
 resources: []
 system: Alpha Tirna
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

@@ -8,13 +8,13 @@ flora_rating: TBD
 gravity: 1.74 G
 magnetosphere: Powerful
 name: Zosma I
-o2: TBD
+o2_percent: TBD
 resources:
 - Cobalt
 - Lead
 - Nickel
 system: Zosma
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

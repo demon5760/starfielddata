@@ -8,14 +8,14 @@ flora_rating: TBD
 gravity: 0.70 G
 magnetosphere: Powerful
 name: Copernicus I
-o2: TBD
+o2_percent: TBD
 resources:
 - Lead
 - Nickel
 - Tungsten
 - Water
 system: Copernicus
-temp: TBD
+surface_temp: TBD
 temperature: Scorched
 traits:
 - TBD1

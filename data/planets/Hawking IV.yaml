@@ -8,14 +8,14 @@ flora_rating: TBD
 gravity: 0.48 G
 magnetosphere: Weak
 name: Hawking IV
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Lead
 - Nickel
 - Water
 system: Hawking
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Rock

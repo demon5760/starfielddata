@@ -22,7 +22,7 @@ resources:
 - Lead
 - Water
 system: Copernicus
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

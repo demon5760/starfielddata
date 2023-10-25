@@ -14,7 +14,7 @@ resources:
 - Helium-3
 - Iron
 system: Sirius
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

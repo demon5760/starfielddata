@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 5.62 G
 magnetosphere: Massive
 name: Ixyll VI
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Ixyll
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

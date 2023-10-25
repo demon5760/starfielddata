@@ -8,14 +8,14 @@ flora_rating: TBD
 gravity: 0.53 G
 magnetosphere: Average
 name: Decaran II
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Beryllium
 - Europium
 - Helium-3
 system: Decaran
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

@@ -11,7 +11,7 @@ name: Delta Vulpes I
 o2: TBD
 resources: []
 system: Delta Vulpes
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits: []
 type: Hot Gas Giant

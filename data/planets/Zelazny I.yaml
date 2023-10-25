@@ -8,13 +8,13 @@ flora_rating: TBD
 gravity: 1.48 G
 magnetosphere: Powerful
 name: Zelazny I
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Lead
 - Xenon
 system: Zelazny
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

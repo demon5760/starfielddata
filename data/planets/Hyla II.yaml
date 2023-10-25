@@ -24,7 +24,7 @@ flora_rating: TBD
 gravity: 1.35 G
 magnetosphere: Average
 name: Hyla II
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Argon
@@ -35,7 +35,7 @@ resources:
 - Silver
 - Water
 system: Hyla
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

@@ -27,7 +27,7 @@ flora_rating: TBD
 gravity: 0.95 G
 magnetosphere: Weak
 name: Bardeen III
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Carboxylic Acids
@@ -38,7 +38,7 @@ resources:
 - Nickel
 - Water
 system: Bardeen
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

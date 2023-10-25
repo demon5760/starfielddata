@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 2.33 G
 magnetosphere: Strong
 name: Heisenberg VIII
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Heisenberg
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

@@ -8,13 +8,13 @@ flora_rating: TBD
 gravity: 0.98 G
 magnetosphere: Very Strong
 name: Magreth
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Helium-3
 - Lead
 system: Narion
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

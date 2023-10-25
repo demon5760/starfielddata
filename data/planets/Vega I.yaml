@@ -11,7 +11,7 @@ name: Vega I
 o2: TBD
 resources: []
 system: Vega
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits: []
 type: Gas Giant

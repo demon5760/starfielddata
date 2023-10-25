@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.77 G
 magnetosphere: Powerful
 name: Xi Ophiuchi III
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Antimony
@@ -19,7 +19,7 @@ resources:
 - Uranium
 - Ytterbium
 system: Xi Ophiuchi
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

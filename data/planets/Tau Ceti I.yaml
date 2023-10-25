@@ -19,7 +19,7 @@ resources:
 - Uranium
 - Vanadium
 system: Tau Ceti
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

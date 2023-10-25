@@ -33,7 +33,7 @@ resources:
 - Iron
 - Water
 system: Celebrai
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

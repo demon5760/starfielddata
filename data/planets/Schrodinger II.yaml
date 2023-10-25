@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 1.19 G
 magnetosphere: Powerful
 name: Schrodinger II
-o2: TBD
+o2_percent: TBD
 resources:
 - Aldumite
 - Chlorine
@@ -19,7 +19,7 @@ resources:
 - Tungsten
 - Uranium
 system: Schrodinger
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

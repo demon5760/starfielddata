@@ -19,7 +19,7 @@ flora_rating: TBD
 gravity: 0.47 G
 magnetosphere: Average
 name: Bara III
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Argon
@@ -29,7 +29,7 @@ resources:
 - Iron
 - Water
 system: Bara
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

@@ -8,13 +8,13 @@ flora_rating: TBD
 gravity: 0.77 G
 magnetosphere: Powerful
 name: Zeta Ophiuchi III
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Beryllium
 - Helium-3
 system: Zeta Ophiuchi
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

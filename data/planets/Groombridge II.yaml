@@ -17,7 +17,7 @@ resources:
 - Tungsten
 - Water
 system: Groombridge
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

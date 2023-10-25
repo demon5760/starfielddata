@@ -8,14 +8,14 @@ flora_rating: TBD
 gravity: 0.63 G
 magnetosphere: Weak
 name: Shoza I
-o2: TBD
+o2_percent: TBD
 resources:
 - Copper
 - Iridium
 - Uranium
 - Water
 system: Shoza
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

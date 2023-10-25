@@ -17,7 +17,7 @@ flora_rating: TBD
 gravity: 0.68 G
 magnetosphere: Powerful
 name: Leviathan IV
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Chlorine
@@ -27,7 +27,7 @@ resources:
 - Water
 - Ytterbium
 system: Leviathan
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

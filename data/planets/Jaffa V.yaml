@@ -11,7 +11,7 @@ name: Jaffa V
 o2: TBD
 resources: []
 system: Jaffa
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Ice Giant

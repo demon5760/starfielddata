@@ -11,7 +11,7 @@ name: Delta Vulpes V
 o2: TBD
 resources: []
 system: Delta Vulpes
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

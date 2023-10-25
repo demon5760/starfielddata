@@ -37,7 +37,7 @@ resources:
 - Tungsten
 - Water
 system: Zelazny
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

@@ -14,7 +14,7 @@ resources:
 - Nickel
 - Titanium
 system: Procyon A
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

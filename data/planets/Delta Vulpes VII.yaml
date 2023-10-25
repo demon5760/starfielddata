@@ -8,13 +8,13 @@ flora_rating: TBD
 gravity: 0.52 G
 magnetosphere: Weak
 name: Delta Vulpes VII
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Helium-3
 - Iron
 system: Delta Vulpes
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

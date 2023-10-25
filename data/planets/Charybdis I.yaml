@@ -8,13 +8,13 @@ flora_rating: TBD
 gravity: 1.54 G
 magnetosphere: Powerful
 name: Charybdis I
-o2: TBD
+o2_percent: TBD
 resources:
 - Iron
 - Lead
 - Uranium
 system: Charybdis
-temp: TBD
+surface_temp: TBD
 temperature: Scorched
 traits: []
 type: Rock

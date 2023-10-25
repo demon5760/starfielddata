@@ -8,14 +8,14 @@ flora_rating: TBD
 gravity: 1.42 G
 magnetosphere: Very Strong
 name: Rana II
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Lead
 - Silver
 - Uranium
 system: Rana
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

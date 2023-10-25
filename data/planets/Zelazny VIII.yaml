@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 2.51 G
 magnetosphere: Strong
 name: Zelazny VIII
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Zelazny
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

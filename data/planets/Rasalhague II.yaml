@@ -14,7 +14,7 @@ flora_rating: TBD
 gravity: 1.09 G
 magnetosphere: Very Strong
 name: Rasalhague II
-o2: TBD
+o2_percent: TBD
 resources:
 - Caesium
 - Chlorine
@@ -24,7 +24,7 @@ resources:
 - Nickel
 - Water
 system: Rasalhague
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

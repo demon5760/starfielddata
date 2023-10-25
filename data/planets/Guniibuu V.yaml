@@ -11,7 +11,7 @@ name: Guniibuu V
 o2: TBD
 resources: []
 system: Guniibuu
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

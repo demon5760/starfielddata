@@ -11,7 +11,7 @@ name: Kumasi VIII
 o2: TBD
 resources: []
 system: Kumasi
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

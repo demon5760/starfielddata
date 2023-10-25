@@ -14,7 +14,7 @@ resources:
 - Beryllium
 - Helium-3
 system: Volii
-temp: TBD
+surface_temp: TBD
 temperature: Scorched
 traits: []
 type: Rock

@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 2.34 G
 magnetosphere: Very Strong
 name: Kazarah
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Nirah
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits: []
 type: Gas Giant

@@ -14,7 +14,7 @@ resources:
 - Beryllium
 - Helium-3
 system: Zeta Ophiuchi
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Barren

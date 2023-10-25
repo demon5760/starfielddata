@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 3.82 G
 magnetosphere: Strong
 name: Alchiba IX
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Alchiba
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

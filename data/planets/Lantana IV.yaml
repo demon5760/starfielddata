@@ -14,7 +14,7 @@ flora_rating: TBD
 gravity: 1.11 G
 magnetosphere: Powerful
 name: Lantana IV
-o2: TBD
+o2_percent: TBD
 resources:
 - Cobalt
 - Copper
@@ -22,7 +22,7 @@ resources:
 - Nickel
 - Water
 system: Lantana
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

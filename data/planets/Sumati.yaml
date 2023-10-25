@@ -15,7 +15,7 @@ flora_rating: TBD
 gravity: 0.89 G
 magnetosphere: Very Strong
 name: Sumati
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Chlorosilanes
@@ -25,7 +25,7 @@ resources:
 - Tetrafluorides
 - Water
 system: Narion
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

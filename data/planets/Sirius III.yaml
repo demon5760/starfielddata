@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 5.90 G
 magnetosphere: Massive
 name: Sirius III
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Sirius
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Gas Giant

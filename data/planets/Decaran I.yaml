@@ -17,7 +17,7 @@ flora_rating: TBD
 gravity: 1.09 G
 magnetosphere: Weak
 name: Decaran I
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Benzene
@@ -26,7 +26,7 @@ resources:
 - Iron
 - Water
 system: Decaran
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

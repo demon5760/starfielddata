@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 1.24 G
 magnetosphere: Weak
 name: Nikola X
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Nikola
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice Giant

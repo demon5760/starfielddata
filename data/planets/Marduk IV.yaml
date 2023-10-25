@@ -26,14 +26,14 @@ flora_rating: TBD
 gravity: 1.04 G
 magnetosphere: Average
 name: Marduk IV
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Carboxylic Acids
 - Lead
 - Water
 system: Marduk
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

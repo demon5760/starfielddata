@@ -8,12 +8,12 @@ flora_rating: TBD
 gravity: 0.56 G
 magnetosphere: Weak
 name: Bel V
-o2: TBD
+o2_percent: TBD
 resources:
 - Helium-3
 - Iron
 system: Bel
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

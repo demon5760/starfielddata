@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.45 G
 magnetosphere: Very Weak
 name: Lantana VII
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Copper
@@ -17,7 +17,7 @@ resources:
 - Lead
 - Silver
 system: Lantana
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

@@ -11,7 +11,7 @@ name: Tau Ceti IX
 o2: TBD
 resources: []
 system: Tau Ceti
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice Giant

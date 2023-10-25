@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.68 G
 magnetosphere: Weak
 name: Jaffa I
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Dysprosium
@@ -18,7 +18,7 @@ resources:
 - Tungsten
 - Uranium
 system: Jaffa
-temp: TBD
+surface_temp: TBD
 temperature: Scorched
 traits:
 - TBD1

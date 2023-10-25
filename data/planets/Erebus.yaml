@@ -14,7 +14,7 @@ resources:
 - Iron
 - Uranium
 system: Olympus
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

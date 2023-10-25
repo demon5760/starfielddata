@@ -14,7 +14,7 @@ resources:
 - Europium
 - Helium-3
 system: Olympus
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

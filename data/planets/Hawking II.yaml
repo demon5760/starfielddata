@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.73 G
 magnetosphere: Weak
 name: Hawking II
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Chlorine
@@ -16,7 +16,7 @@ resources:
 - Iron
 - Water
 system: Hawking
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

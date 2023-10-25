@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 1.90 G
 magnetosphere: Average
 name: Pyraas VI
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Pyraas
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice Giant

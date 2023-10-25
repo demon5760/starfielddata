@@ -19,7 +19,7 @@ resources:
 - Tungsten
 - Water
 system: Maal
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

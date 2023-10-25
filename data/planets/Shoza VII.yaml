@@ -11,7 +11,7 @@ name: Shoza VII
 o2: TBD
 resources: []
 system: Shoza
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

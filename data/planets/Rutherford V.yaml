@@ -11,7 +11,7 @@ name: Rutherford V
 o2: TBD
 resources: []
 system: Rutherford
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Ice Giant

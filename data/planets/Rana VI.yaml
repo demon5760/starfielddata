@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 5.86 G
 magnetosphere: Massive
 name: Rana VI
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Rana
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

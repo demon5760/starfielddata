@@ -8,13 +8,13 @@ flora_rating: TBD
 gravity: 0.79 G
 magnetosphere: Weak
 name: Decaran V
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Beryllium
 - Helium-3
 system: Decaran
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

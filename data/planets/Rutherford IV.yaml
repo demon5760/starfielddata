@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 4.49 G
 magnetosphere: Extreme
 name: Rutherford IV
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Rutherford
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Gas Giant

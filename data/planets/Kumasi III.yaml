@@ -15,7 +15,7 @@ flora_rating: TBD
 gravity: 0.57 G
 magnetosphere: Average
 name: Kumasi III
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Chlorine
@@ -23,7 +23,7 @@ resources:
 - Nickel
 - Water
 system: Kumasi
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

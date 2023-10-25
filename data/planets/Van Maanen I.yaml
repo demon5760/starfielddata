@@ -13,7 +13,7 @@ resources:
 - Copper
 - Water
 system: Van Maanen's Star
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits:
 - TBD1

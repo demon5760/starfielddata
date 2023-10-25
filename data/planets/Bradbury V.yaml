@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 3.41 G
 magnetosphere: Extreme
 name: Bradbury V
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Bradbury
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Gas Giant

@@ -8,14 +8,14 @@ flora_rating: TBD
 gravity: 1.03 G
 magnetosphere: Powerful
 name: Groombridge III
-o2: TBD
+o2_percent: TBD
 resources:
 - Lead
 - Silver
 - Uranium
 - Water
 system: Groombridge
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

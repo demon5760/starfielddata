@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 1.66 G
 magnetosphere: Powerful
 name: Sparta VI
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Sparta
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

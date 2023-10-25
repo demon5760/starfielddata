@@ -11,7 +11,7 @@ name: Foucault VII
 o2: TBD
 resources: []
 system: Foucault
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

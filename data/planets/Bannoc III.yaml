@@ -8,14 +8,14 @@ flora_rating: TBD
 gravity: 1.44 G
 magnetosphere: Average
 name: Bannoc III
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Chlorosilanes
 - Copper
 - Water
 system: Bannoc
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Rock

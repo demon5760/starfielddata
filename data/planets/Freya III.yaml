@@ -21,7 +21,7 @@ flora_rating: TBD
 gravity: 0.82 G
 magnetosphere: Very Weak
 name: Freya III
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Benzene
@@ -32,7 +32,7 @@ resources:
 - Silver
 - Water
 system: Freya
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

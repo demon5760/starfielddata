@@ -15,7 +15,7 @@ resources:
 - Benzene
 - Water
 system: Volii
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits: []
 type: Rock

@@ -21,7 +21,7 @@ flora_rating: TBD
 gravity: 0.52 G
 magnetosphere: Weak
 name: Bel I
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Carboxylic Acids
@@ -31,7 +31,7 @@ resources:
 - Nickel
 - Water
 system: Bel
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

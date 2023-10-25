@@ -11,7 +11,7 @@ name: Zosma III
 o2: TBD
 resources: []
 system: Zosma
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Ice Giant

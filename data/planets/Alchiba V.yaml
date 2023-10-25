@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.52 G
 magnetosphere: Powerful
 name: Alchiba V
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Iridium
@@ -16,7 +16,7 @@ resources:
 - Uranium
 - Water
 system: Alchiba
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Rock

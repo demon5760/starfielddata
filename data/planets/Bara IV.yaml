@@ -8,13 +8,13 @@ flora_rating: TBD
 gravity: 0.39 G
 magnetosphere: Weak
 name: Bara IV
-o2: TBD
+o2_percent: TBD
 resources:
 - Helium-3
 - Iron
 - Tantalum
 system: Bara
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

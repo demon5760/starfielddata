@@ -11,7 +11,7 @@ name: Jupiter
 o2: TBD
 resources: []
 system: Sol
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Gas Giant

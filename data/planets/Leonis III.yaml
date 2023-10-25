@@ -20,14 +20,14 @@ flora_rating: TBD
 gravity: 0.80 G
 magnetosphere: Average
 name: Leonis III
-o2: TBD
+o2_percent: TBD
 resources:
 - Iridium
 - Plutonium
 - Uranium
 - Water
 system: Leonis
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

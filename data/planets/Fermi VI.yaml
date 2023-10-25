@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.57 G
 magnetosphere: Very Weak
 name: Fermi VI
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Chlorine
@@ -19,7 +19,7 @@ resources:
 - Tantalum
 - Water
 system: Fermi
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Rock

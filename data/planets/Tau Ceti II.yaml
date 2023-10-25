@@ -15,7 +15,7 @@ flora_rating: TBD
 gravity: 1.00 G
 magnetosphere: Average
 name: Tau Ceti II
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Argon
@@ -23,7 +23,7 @@ resources:
 - Iron
 - Water
 system: Tau Ceti
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

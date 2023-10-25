@@ -19,7 +19,7 @@ resources:
 - Nickel
 - Water
 system: Marduk
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits:
 - TBD1

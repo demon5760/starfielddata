@@ -14,7 +14,7 @@ resources:
 - Beryllium
 - Helium-3
 system: Decaran
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

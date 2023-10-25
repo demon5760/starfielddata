@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 1.51 G
 magnetosphere: Very Strong
 name: Al-Battani III
-o2: TBD
+o2_percent: TBD
 resources:
 - Copper
 - Fluorine
@@ -16,7 +16,7 @@ resources:
 - Nickel
 - Palladium
 system: Al-Battani
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

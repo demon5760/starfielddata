@@ -11,7 +11,7 @@ name: Heinlein VI
 o2: TBD
 resources: []
 system: Heinlein
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

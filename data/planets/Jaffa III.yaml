@@ -17,7 +17,7 @@ flora_rating: TBD
 gravity: 1.80 G
 magnetosphere: Average
 name: Jaffa III
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Chlorosilanes
@@ -28,7 +28,7 @@ resources:
 - Vanadium
 - Water
 system: Jaffa
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

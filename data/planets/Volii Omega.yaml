@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 4.93 G
 magnetosphere: Massive
 name: Volii Omega
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Volii
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

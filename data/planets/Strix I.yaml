@@ -22,7 +22,7 @@ flora_rating: TBD
 gravity: 1.55 G
 magnetosphere: Average
 name: Strix I
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Aluminum
@@ -33,7 +33,7 @@ resources:
 - Uranium
 - Water
 system: Strix
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

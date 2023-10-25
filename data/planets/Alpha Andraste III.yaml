@@ -24,7 +24,7 @@ flora_rating: TBD
 gravity: 1.44 G
 magnetosphere: Powerful
 name: Alpha Andraste III
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Chlorine
@@ -33,7 +33,7 @@ resources:
 - Water
 - Xenon
 system: Alpha Andraste
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

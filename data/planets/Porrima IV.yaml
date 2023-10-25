@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 2.17 G
 magnetosphere: Strong
 name: Porrima IV
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Porrima
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Gas Giant

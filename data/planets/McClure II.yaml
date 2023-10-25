@@ -17,7 +17,7 @@ flora_rating: TBD
 gravity: 0.40 G
 magnetosphere: Average
 name: McClure II
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Chlorosilanes
@@ -25,7 +25,7 @@ resources:
 - Lithium
 - Water
 system: McClure
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

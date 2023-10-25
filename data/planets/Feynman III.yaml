@@ -20,7 +20,7 @@ flora_rating: TBD
 gravity: 1.63 G
 magnetosphere: Powerful
 name: Feynman III
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Chlorine
@@ -31,7 +31,7 @@ resources:
 - Vanadium
 - Water
 system: Feynman
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

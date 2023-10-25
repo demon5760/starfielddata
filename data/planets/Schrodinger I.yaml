@@ -13,7 +13,7 @@ resources:
 - Aluminum
 - Helium-3
 system: Schrodinger
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits: []
 type: Barren

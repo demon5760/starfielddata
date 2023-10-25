@@ -11,7 +11,7 @@ name: Masada IX
 o2: TBD
 resources: []
 system: Masada
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice Giant

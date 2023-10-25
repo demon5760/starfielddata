@@ -15,7 +15,7 @@ resources:
 - Tantalum
 - Ytterbium
 system: Fermi
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

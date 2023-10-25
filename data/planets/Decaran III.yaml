@@ -19,7 +19,7 @@ resources:
 - Uranium
 - Water
 system: Decaran
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits:
 - TBD1

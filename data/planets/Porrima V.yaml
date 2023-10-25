@@ -11,7 +11,7 @@ name: Porrima V
 o2: TBD
 resources: []
 system: Porrima
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

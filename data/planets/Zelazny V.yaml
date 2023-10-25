@@ -19,7 +19,7 @@ resources:
 - Water
 - Xenon
 system: Zelazny
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Rock

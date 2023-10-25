@@ -20,7 +20,7 @@ flora_rating: TBD
 gravity: 0.53 G
 magnetosphere: Average
 name: Copernicus II
-o2: TBD
+o2_percent: TBD
 resources:
 - Benzene
 - Copper
@@ -31,7 +31,7 @@ resources:
 - Titanium
 - Water
 system: Copernicus
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

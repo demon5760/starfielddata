@@ -13,7 +13,7 @@ resources:
 - Helium-3
 - Iron
 system: Porrima
-temp: TBD
+surface_temp: TBD
 temperature: Scorched
 traits:
 - TBD1

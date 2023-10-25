@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 0.85 G
 magnetosphere: Weak
 name: Rana IX
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Rana
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice Giant

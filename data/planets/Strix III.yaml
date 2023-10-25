@@ -11,7 +11,7 @@ name: Strix III
 o2: TBD
 resources: []
 system: Strix
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Gas Giant

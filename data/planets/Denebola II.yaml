@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 3.89 G
 magnetosphere: Extreme
 name: Denebola II
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Denebola
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Gas Giant

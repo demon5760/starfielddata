@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 1.72 G
 magnetosphere: Weak
 name: Bessel I
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Bessel
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Ice Giant

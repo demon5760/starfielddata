@@ -11,7 +11,7 @@ name: Maheo V
 o2: TBD
 resources: []
 system: Maheo
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

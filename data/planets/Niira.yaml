@@ -14,7 +14,7 @@ flora_rating: TBD
 gravity: 0.61 G
 magnetosphere: Weak
 name: Niira
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Benzene
@@ -25,7 +25,7 @@ resources:
 - Nickel
 - Water
 system: Narion
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

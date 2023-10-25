@@ -25,7 +25,7 @@ resources:
 - Uranium
 - Water
 system: Maal
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

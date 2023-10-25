@@ -19,7 +19,7 @@ flora_rating: TBD
 gravity: 1.16 G
 magnetosphere: Powerful
 name: Charybdis III
-o2: TBD
+o2_percent: TBD
 resources:
 - Caesium
 - Chlorine
@@ -27,7 +27,7 @@ resources:
 - Copper
 - Water
 system: Charybdis
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

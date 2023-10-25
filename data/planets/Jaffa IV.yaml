@@ -18,7 +18,7 @@ resources:
 - Vanadium
 - Water
 system: Jaffa
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

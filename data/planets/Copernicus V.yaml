@@ -16,7 +16,7 @@ resources:
 - Nickel
 - Water
 system: Copernicus
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

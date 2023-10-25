@@ -8,13 +8,13 @@ flora_rating: TBD
 gravity: 0.22 G
 magnetosphere: TBD
 name: Tirna IX
-o2: TBD
+o2_percent: TBD
 resources:
 - Copper
 - Tetrafluorides
 - Water
 system: Alpha Tirna
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice

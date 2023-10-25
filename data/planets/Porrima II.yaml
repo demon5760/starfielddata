@@ -26,7 +26,7 @@ resources:
 - Lithium
 - Water
 system: Porrima
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

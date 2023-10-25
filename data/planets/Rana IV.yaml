@@ -15,7 +15,7 @@ flora_rating: TBD
 gravity: 1.17 G
 magnetosphere: Very Strong
 name: Rana IV
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Benzene
@@ -24,7 +24,7 @@ resources:
 - Silver
 - Water
 system: Rana
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

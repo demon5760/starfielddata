@@ -20,7 +20,7 @@ resources:
 - Fluorine
 - Water
 system: Eridani
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

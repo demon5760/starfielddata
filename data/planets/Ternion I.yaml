@@ -15,7 +15,7 @@ resources:
 - Europium
 - Helium-3
 system: Alpha Ternion
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

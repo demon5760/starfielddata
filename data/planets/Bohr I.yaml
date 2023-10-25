@@ -8,14 +8,14 @@ flora_rating: TBD
 gravity: 0.49 G
 magnetosphere: Weak
 name: Bohr I
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Lead
 - Mercury
 - Silver
 system: Bohr
-temp: TBD
+surface_temp: TBD
 temperature: Scorched
 traits:
 - TBD1

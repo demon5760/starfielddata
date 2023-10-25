@@ -8,14 +8,14 @@ flora_rating: TBD
 gravity: 0.59 G
 magnetosphere: Very Strong
 name: Copernicus VI
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Europium
 - Helium-3
 - Neodymium
 system: Copernicus
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Barren

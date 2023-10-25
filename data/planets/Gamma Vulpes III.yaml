@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 1.64 G
 magnetosphere: Weak
 name: Gamma Vulpes III
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Gamma Vulpes
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice Giant

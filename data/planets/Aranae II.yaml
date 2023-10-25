@@ -8,12 +8,12 @@ flora_rating: TBD
 gravity: 0.73 G
 magnetosphere: Weak
 name: Aranae II
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Helium-3
 system: Aranae
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

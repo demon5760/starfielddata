@@ -18,7 +18,7 @@ flora_rating: TBD
 gravity: 1.21 G
 magnetosphere: Weak
 name: Magnar
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Argon
@@ -29,7 +29,7 @@ resources:
 - Silver
 - Water
 system: Delta Pavonis
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

@@ -8,13 +8,13 @@ flora_rating: TBD
 gravity: 1.18 G
 magnetosphere: Powerful
 name: Pyraas V
-o2: TBD
+o2_percent: TBD
 resources:
 - Copper
 - Lead
 - Water
 system: Pyraas
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

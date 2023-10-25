@@ -16,7 +16,7 @@ resources:
 - Mercury
 - Water
 system: Alpha Ternion
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

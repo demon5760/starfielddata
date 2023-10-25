@@ -13,7 +13,7 @@ resources:
 - Helium-3
 - Iron
 system: Rasalhague
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

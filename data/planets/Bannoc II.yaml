@@ -27,7 +27,7 @@ resources:
 - Vanadium
 - Water
 system: Bannoc
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

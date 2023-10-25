@@ -15,7 +15,7 @@ resources:
 - Fluorine
 - Water
 system: Maheo
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice

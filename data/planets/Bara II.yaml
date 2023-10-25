@@ -14,7 +14,7 @@ resources:
 - Iron
 - Uranium
 system: Bara
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits: []
 type: Rock

@@ -8,12 +8,12 @@ flora_rating: TBD
 gravity: 0.71 G
 magnetosphere: TBD
 name: Newton I
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Helium-3
 system: Newton
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits: []
 type: Barren

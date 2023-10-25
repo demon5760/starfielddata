@@ -24,7 +24,7 @@ flora_rating: TBD
 gravity: 1.30 G
 magnetosphere: Weak
 name: Guniibuu II
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Beryllium
@@ -35,7 +35,7 @@ resources:
 - Iron
 - Water
 system: Guniibuu
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

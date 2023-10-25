@@ -25,7 +25,7 @@ flora_rating: TBD
 gravity: 1.13 G
 magnetosphere: Average
 name: Pyraas II
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Chlorine
@@ -36,7 +36,7 @@ resources:
 - Uranium
 - Water
 system: Pyraas
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits: []
 type: Rock

@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 1.00 G
 magnetosphere: Average
 name: Marduk III
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Chlorosilanes
@@ -16,7 +16,7 @@ resources:
 - Lead
 - Uranium
 system: Marduk
-temp: TBD
+surface_temp: TBD
 temperature: Hot
 traits:
 - TBD1

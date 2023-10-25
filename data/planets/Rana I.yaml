@@ -19,7 +19,7 @@ resources:
 - Uranium
 - Vanadium
 system: Rana
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

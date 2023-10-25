@@ -30,7 +30,7 @@ resources:
 - Tantalum
 - Water
 system: Enlil
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

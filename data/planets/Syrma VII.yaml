@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 2.60 G
 magnetosphere: Extreme
 name: Syrma VII
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Syrma
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

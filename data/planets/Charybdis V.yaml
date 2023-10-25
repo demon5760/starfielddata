@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.47 G
 magnetosphere: Weak
 name: Charybdis V
-o2: TBD
+o2_percent: TBD
 resources:
 - Antimony
 - Chlorine
@@ -19,7 +19,7 @@ resources:
 - Tungsten
 - Water
 system: Charybdis
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Rock

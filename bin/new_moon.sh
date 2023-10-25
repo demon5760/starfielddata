@@ -15,8 +15,8 @@ magnetosphere:
 fauna_rating: 
 flora_rating: 
 water: 
-o2: 
-temp: 
+o2_percent: 
+surface_temp: 
 flora: {}
 fauna: {}
 traits:

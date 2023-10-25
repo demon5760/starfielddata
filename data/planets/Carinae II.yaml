@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.89 G
 magnetosphere: Average
 name: Carinae II
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Argon
@@ -17,7 +17,7 @@ resources:
 - Neon
 - Water
 system: Carinae
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits:
 - TBD1

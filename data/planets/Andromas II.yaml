@@ -16,7 +16,7 @@ flora_rating: TBD
 gravity: 1.50 G
 magnetosphere: Powerful
 name: Andromas II
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Carboxylic Acids
@@ -27,7 +27,7 @@ resources:
 - Nickel
 - Water
 system: Andromas
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

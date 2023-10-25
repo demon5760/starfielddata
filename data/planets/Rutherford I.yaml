@@ -8,13 +8,13 @@ flora_rating: TBD
 gravity: 0.96 G
 magnetosphere: TBD
 name: Rutherford I
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Beryllium
 - Helium-3
 system: Rutherford
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

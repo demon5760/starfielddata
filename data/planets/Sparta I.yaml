@@ -18,7 +18,7 @@ resources:
 - Uranium
 - Vanadium
 system: Sparta
-temp: TBD
+surface_temp: TBD
 temperature: Scorched
 traits:
 - TBD1

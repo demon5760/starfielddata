@@ -16,7 +16,7 @@ resources:
 - Uranium
 - Vanadium
 system: Muphrid
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

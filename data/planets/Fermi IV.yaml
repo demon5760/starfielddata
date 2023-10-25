@@ -19,7 +19,7 @@ resources:
 - Vanadium
 - Water
 system: Fermi
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

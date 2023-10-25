@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 2.71 G
 magnetosphere: Strong
 name: Nirah Prime
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Nirah
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

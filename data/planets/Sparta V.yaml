@@ -19,7 +19,7 @@ resources:
 - Uranium
 - Water
 system: Sparta
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

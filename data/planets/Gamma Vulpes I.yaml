@@ -32,7 +32,7 @@ resources:
 - Lithium
 - Water
 system: Gamma Vulpes
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

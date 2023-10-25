@@ -15,7 +15,7 @@ resources:
 - Nickel
 - Water
 system: Delta Vulpes
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

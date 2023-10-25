@@ -17,7 +17,7 @@ resources:
 - Lead
 - Water
 system: Al-Battani
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

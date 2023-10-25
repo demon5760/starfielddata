@@ -16,7 +16,7 @@ flora_rating: TBD
 gravity: 1.64 G
 magnetosphere: Average
 name: Shoza IV
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Benzene
@@ -27,7 +27,7 @@ resources:
 - Platinum
 - Water
 system: Shoza
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

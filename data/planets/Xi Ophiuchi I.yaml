@@ -14,7 +14,7 @@ resources:
 - Beryllium
 - Helium-3
 system: Xi Ophiuchi
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits: []
 type: Barren

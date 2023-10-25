@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 1.63 G
 magnetosphere: Very Strong
 name: Enlil I
-o2: TBD
+o2_percent: TBD
 resources:
 - Cobalt
 - Lead
@@ -16,7 +16,7 @@ resources:
 - Platinum
 - Uranium
 system: Enlil
-temp: TBD
+surface_temp: TBD
 temperature: Scorched
 traits:
 - TBD1

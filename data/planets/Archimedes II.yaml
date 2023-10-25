@@ -15,13 +15,13 @@ flora_rating: TBD
 gravity: 0.46 G
 magnetosphere: Average
 name: Archimedes II
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Uranium
 - Water
 system: Archimedes
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits: []
 type: Rock

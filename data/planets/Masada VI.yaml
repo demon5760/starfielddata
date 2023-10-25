@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 0.99 G
 magnetosphere: Weak
 name: Masada VI
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Masada
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice Giant

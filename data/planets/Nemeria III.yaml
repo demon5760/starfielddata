@@ -8,13 +8,13 @@ flora_rating: TBD
 gravity: 0.89 G
 magnetosphere: Weak
 name: Nemeria III
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Beryllium
 - Helium-3
 system: Nemeria
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Barren

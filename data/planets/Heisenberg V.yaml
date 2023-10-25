@@ -19,7 +19,7 @@ resources:
 - Uranium
 - Water
 system: Heisenberg
-temp: TBD
+surface_temp: TBD
 temperature: Frozen
 traits:
 - TBD1

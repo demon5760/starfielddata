@@ -31,7 +31,7 @@ resources:
 - Lithium
 - Water
 system: Rutherford
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

@@ -8,13 +8,13 @@ flora_rating: TBD
 gravity: 0.09 G
 magnetosphere: TBD
 name: Porrima VI
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Lithium
 - Water
 system: Porrima
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice

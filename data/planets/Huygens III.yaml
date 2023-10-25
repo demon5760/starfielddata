@@ -23,7 +23,7 @@ flora_rating: TBD
 gravity: 0.87 G
 magnetosphere: Average
 name: Huygens III
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Caesium
@@ -33,7 +33,7 @@ resources:
 - Lead
 - Water
 system: Huygens
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

@@ -8,12 +8,12 @@ flora_rating: TBD
 gravity: 0.29 G
 magnetosphere: TBD
 name: Nemeria VII
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Water
 system: Nemeria
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Ice

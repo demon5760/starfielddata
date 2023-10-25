@@ -15,7 +15,7 @@ resources:
 - Lead
 - Uranium
 system: Arcturus
-temp: TBD
+surface_temp: TBD
 temperature: Inferno
 traits:
 - TBD1

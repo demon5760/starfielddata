@@ -18,7 +18,7 @@ resources:
 - Tetrafluorides
 - Water
 system: Tau Ceti
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1

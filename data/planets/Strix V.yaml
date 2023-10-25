@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 1.28 G
 magnetosphere: Powerful
 name: Strix V
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Iridium
@@ -18,7 +18,7 @@ resources:
 - Water
 - Xenon
 system: Strix
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Rock

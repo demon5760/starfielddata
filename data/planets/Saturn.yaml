@@ -8,10 +8,10 @@ flora_rating: TBD
 gravity: 1.14 G
 magnetosphere: Weak
 name: Saturn
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Sol
-temp: TBD
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

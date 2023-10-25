@@ -33,7 +33,7 @@ resources:
 - Water
 - Xenon
 system: Khayyam
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

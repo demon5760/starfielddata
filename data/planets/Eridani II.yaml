@@ -22,7 +22,7 @@ flora_rating: TBD
 gravity: 0.86 G
 magnetosphere: Average
 name: Eridani II
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Cobalt
@@ -33,7 +33,7 @@ resources:
 - Nickel
 - Water
 system: Eridani
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits:
 - TBD1

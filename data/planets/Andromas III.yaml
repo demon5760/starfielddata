@@ -24,7 +24,7 @@ resources:
 - Neon
 - Water
 system: Andromas
-temp: TBD
+surface_temp: TBD
 temperature: Temperate
 traits: []
 type: Rock

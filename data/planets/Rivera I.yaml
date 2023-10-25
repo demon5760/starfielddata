@@ -31,7 +31,7 @@ resources:
 - Uranium
 - Water
 system: Rivera
-temp: TBD
+surface_temp: TBD
 temperature: Cold
 traits:
 - TBD1
