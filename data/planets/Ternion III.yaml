@@ -1,19 +1,53 @@
-atmosphere: HIGH O2
+atmosphere: High O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
+  Pack Bladeback:
+    temperament: Defensive
+    resource: Aromatic
+    biomes:
+      - Savanna
+      - Volcanic
+    health: 345
+    abilities: []
+
+  Flocking Eyespine Scavenger:
+    temperament: Wary
+    resource: Nutrient
+    non_lethal_harvest: true
+    biomes:
+      - Savanna
+      - Volcanic
+    health: 200
+    output_production_allowed: true
+
+  Grabber Grazer:
+    temperament: Skittish
+    resource: Nutrient
+    biomes:
+      - Savanna
+      - Volcanic
+    health: 20
+
   TBD4: {}
   TBD5: {}
   TBD6: {}
   TBD7: {}
   TBD8: {}
   TBD9: {}
-fauna_rating: TBD
+fauna_rating: Abundant
 flora:
-  TBD1: {}
+  Duster Shrub:
+    resource: Nutrient
+    biomes:
+      - Mountains
+      - Volcanic
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+
   TBD2: {}
   TBD3: {}
   TBD4: {}
@@ -22,11 +56,11 @@ flora:
   TBD7: {}
   TBD8: {}
   TBD9: {}
-flora_rating: TBD
+flora_rating: Abundant
 gravity: 1.44 G
 magnetosphere: Powerful
 name: Ternion III
-o2_percent: TBD
+o2_percent: 24
 resources:
 - Argon
 - Carboxylic Acids
@@ -36,7 +70,7 @@ resources:
 - Tungsten
 - Water
 system: Alpha Ternion
-surface_temp: TBD
+surface_temp: 5
 temperature: Temperate
 traits:
 - TBD1
