@@ -40,17 +40,21 @@
           <li>Atmosphere: {{ partial "util/tbd_data_resolver.html" $moon.atmosphere }}</li>
           <li>Magnetosphere: {{ partial "util/tbd_data_resolver.html" $moon.magnetosphere }}</li>
           <li>Water: {{ $moon.water }}</li>
-          <li>
-            {{ $o2 := partial "util/tbd_data_resolver.html" $moon.o2_percent }}
-            O2: {{ $o2 }}{{if hasPrefix $o2 "N/" }}&percnt;{{end}}
-          </li>
-          <li>
-            {{ $surface_temp := partial "util/tbd_data_resolver.html" $moon.surface_temp}}
-            Surface Temp: {{ $surface_temp }}{{if hasPrefix $surface_temp "N/" }}&deg;{{end}}
 
-          </li>
+          {{ $o2 := partial "util/tbd_data_resolver.html" $moon.o2_percent }}
+          {{if not (strings.Contains $o2 "N/A")}}
+            <li>
+              O2: {{ $o2 }}&percnt;
+            </li>
+          {{ end }}
+
+          {{ $surface_temp := partial "util/tbd_data_resolver.html" $moon.surface_temp}}
+          {{if not (strings.Contains $surface_temp "N/A") }}
+            <li>
+              Surface Temp: {{ $surface_temp }}&deg;
+            </li>
+          {{end}}
         </ul>
-
         
         {{ if $moon.traits }}
         <h2>Traits</h2>
