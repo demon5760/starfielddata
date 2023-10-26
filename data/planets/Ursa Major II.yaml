@@ -1,6 +1,7 @@
-atmosphere: STD O2
+atmosphere: Standard O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
   TBD1: {}
   TBD2: {}
@@ -10,7 +11,7 @@ fauna:
   TBD6: {}
   TBD7: {}
   TBD8: {}
-fauna_rating: TBD
+fauna_rating: Moderate
 flora:
   TBD1: {}
   TBD2: {}
@@ -20,7 +21,7 @@ flora:
   TBD6: {}
   TBD7: {}
   TBD8: {}
-flora_rating: TBD
+flora_rating: Moderate
 gravity: 0.58 G
 magnetosphere: Average
 name: Ursa Major II
@@ -38,7 +39,7 @@ surface_temp: TBD
 system: Ursae Majoris
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+- Psychotropic Bitoa - Fungal Growths - Fungal
+- Global Glacial Recession
 type: Rock
 water: Radioactive

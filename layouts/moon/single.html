@@ -99,7 +99,7 @@
                 {{ end }}
               </td>
               <td>
-                {{ if $flora_details.output_production_allowed }}
+                {{ if $flora_details.outpost_production_allowed }}
                 &check;
                 {{ end }}
               </td>
@@ -136,7 +136,7 @@
               <th>Resource</th>
               <th>Farmable</th>
               <th>Non Lethal Harvest</th>
-              <th>Temperment</th>
+              <th>Temperament</th>
               <th>Biomes</th>
             </tr>
             {{ range $fauna_name, $fauna_details := $moon.fauna }}
@@ -152,7 +152,7 @@
                   {{ end }}
                 </td>
                 <td>
-                  {{ if $fauna_details.output_production_allowed }}
+                  {{ if $fauna_details.outpost_production_allowed }}
                   &check;
                   {{ end }}
                 </td>
@@ -161,7 +161,7 @@
                   &check;
                   {{ end }}
                 </td>
-                <td>{{$fauna_details.temperment }} </td>
+                <td>{{$fauna_details.temperament }} </td>
                 <td>
                   <ul>
                   {{ range $fauna_details.biomes }}

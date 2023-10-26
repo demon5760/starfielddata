@@ -1,21 +1,107 @@
-atmosphere: THIN O2
+atmosphere: Thin O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-fauna_rating: TBD
+  Herding Rockhound Grazer:
+    temperament: Wary
+    resource: Metabolic Agent
+    biomes:
+      - Volcanic
+      - Mountains
+      - Hills
+    health: 270
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Hunting Crocalypse:
+    temperament: Territorial
+    resource: Adhesive
+    biomes:
+      - Volcanic
+      - Mountains
+      - Hills
+    health: 760
+    abilities:
+      - Ranged mouth attack
+
+  Thorn Filterer:
+    temperament: Wary
+    resource: Toxin
+    biomes:
+      - Volcanic
+      - Mountains
+      - Frozen Mountains
+      - Hills
+      - Coniferous Forest
+      - Deciduous Forest
+    health: 20
+
+  Leafbug Scavenger:
+    temperament: Peaceful
+    resource: Polymer
+    non_lethal_harvest: true
+    biomes:
+      - Confierous Forest
+      - Deciduous Forest
+    health: 540
+    abilities: Ranged mouth attack
+
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Crimson Courtstalk:
+    resource: Nutrient
+    biomes:
+      - Volcanic
+      - Mountains
+      - Hills
+      - Coniferous Forest
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Spiny Ghost Cactus:
+    resource: Fiber
+    biomes:
+      - Volcanic
+      - Mountains
+      - Hills
+      - Coniferous Forest
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Terra Root:
+    resource: Structural
+    biomes:
+      - Mountains
+      - Hills
+      - Coniferous Forest
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+    
+flora_rating: Marginal
 gravity: 0.75 G
 magnetosphere: Very Strong
 name: Nemeria II
-o2: TBD
+o2_percent: 18
 resources:
 - Argon
 - Benzene
@@ -26,11 +112,11 @@ resources:
 - Tungsten
 - Water
 system: Nemeria
-surface_temp: TBD
+surface_temp: 11
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Global Glacial Recession - Melted Glacier - Glacial Remnant
+- Psychotropic Biota - Lush Grove - Fungal Grotto
+- Sentien Microbial Colonies - Sentient Microbial Colony - Microbial Community
 type: Rock
 water: Chemical

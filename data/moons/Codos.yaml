@@ -21,7 +21,7 @@ flora:
       - Standard Helix
       - Silicon-based
     reproduction: Flowering
-    output_production_allowed: true
+    outpost_production_allowed: true
     required_inputs:
       - Water
 
@@ -44,7 +44,7 @@ flora:
       - Standard Helix
       - Silicon-based
     reproduction: Complex
-    output_production_allowed: true
+    outpost_production_allowed: true
     required_inputs:
       - Water
 
@@ -56,20 +56,20 @@ flora:
       - Standard Helix
       - Silicon-based
     reproduction: Cuttings
-    output_production_allowed: true
+    outpost_production_allowed: true
     required_inputs:
       - Water
 
 fauna:
   Herding Cagebrain Grazer:
-    temperment: Peaceful
+    temperament: Peaceful
     resource: Nutrient
     biomes:
       - Swamp
     health: 70
 
   Flocking Hornface Grazer:
-    temperment: Territorial
+    temperament: Territorial
     resource: Sealant
     non_lethal_harvest: true
     biomes:
@@ -79,7 +79,7 @@ fauna:
     abilities: []
   
   Beetle Geophage:
-    temperment: Wary
+    temperament: Wary
     resource: Cosmetic
     biomes:
       - Mountains
@@ -89,7 +89,7 @@ fauna:
     health: 20
 
   Hunting Boneshell:
-    temperment: Wary
+    temperament: Wary
     resource: Membrane
     biomes:
       - Mountains

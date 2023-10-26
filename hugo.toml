@@ -31,6 +31,10 @@ googleAnalytics = 'G-MS58PM494H'
     name = 'Bookmarks'
     pageRef = '/bookmarks'
     weight = 100
+[[menu.main]]
+    name = 'Help'
+    pageRef = '/help'
+    weight = 105
 
 [taxonomies]
   # defaults

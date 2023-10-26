@@ -21,7 +21,7 @@ flora:
       - Double Helix
       - HF-based
     reproduction: Cuttings
-    output_production_allowed: true
+    outpost_production_allowed: true
     required_inputs:
       - Water
     genetic2:
@@ -57,7 +57,7 @@ flora:
       - Double Helix
       - Carbon-based
     reproduction: Self-cloning
-    output_production_allowed: true
+    outpost_production_allowed: true
     required_inputs:
       - Water
 
@@ -69,13 +69,13 @@ flora:
       - Double Helix
       - Carbon-based
     reproduction: Spores
-    output_production_allowed: true
+    outpost_production_allowed: true
     required_inputs:
       - Water
 
 fauna:
   Grazing Ensifer:
-    temperment: Wary
+    temperament: Wary
     resource: Toxin
     biomes:
       - Coniferous Forest
@@ -85,26 +85,26 @@ fauna:
       - Energy damage
       - Physical damage
   Crawling Eurypterid:
-    temperment: Wary
+    temperament: Wary
     resource: Aromatic
     biomes:
       - Coniferous Forest
       - Frozen Plains
     health: 20
-    output_production_allowed: true
+    outpost_production_allowed: true
 
   Elk Crangon:
-    temperment: Wary
+    temperament: Wary
     resource: Nutrient
     biomes:
       - Frozen Plains
       - Savanna
     health: 50
     non_lethal_harvest: true
-    output_production_allowed: true
+    outpost_production_allowed: true
 
   Ashta:
-    temperment: Fearless
+    temperament: Fearless
     resource: Antimicrobial
     biomes:
       - Frozen Plains
@@ -114,14 +114,14 @@ fauna:
     abilities: []
 
   Mossgnath:
-    temperment: Defensive
+    temperament: Defensive
     resource: Hallucinogen
     biomes:
       - Savanna
     health: 360
 
   Rainbow Agnathan:
-    temperment: Defensive
+    temperament: Defensive
     resource: Solvent
     biomes:
       - Ocean
@@ -130,7 +130,7 @@ fauna:
       - Laceration damage
 
   Buzzrunner:
-    temperment: Defensive
+    temperament: Defensive
     resource: Sealant
     biomes:
       - Coniferous Forest
@@ -139,7 +139,7 @@ fauna:
       - Fast attacks
 
   Dropsalm:
-    temperment: Defensive
+    temperament: Defensive
     resource: Structural
     biomes:
       - Coniferous Forest
@@ -148,7 +148,7 @@ fauna:
       - Venomous
 
   Baleen Rotifer:
-    temperment: Peaceful
+    temperament: Peaceful
     resource: Antimicrobial
     biomes:
       - Frozen Plains
@@ -156,7 +156,7 @@ fauna:
     health: 20
 
   Flying Leech:
-    temperment: Peaceful
+    temperament: Peaceful
     resource: Cosmetic
     biomes:
       - Frozen Plains

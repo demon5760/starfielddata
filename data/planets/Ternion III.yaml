@@ -20,7 +20,7 @@ fauna:
       - Savanna
       - Volcanic
     health: 200
-    output_production_allowed: true
+    outpost_production_allowed: true
 
   Grabber Grazer:
     temperament: Skittish

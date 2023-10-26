@@ -4,7 +4,7 @@ credits:
   - Demon5760
 fauna:
   Herding Clickbeetle Grazer:
-    temperment: Wary
+    temperament: Wary
     resource: Aromatic
     biomes:
       - Mountains
@@ -12,7 +12,7 @@ fauna:
     health: 50
 
   Pack Exocrawler:
-    temperment: Territorial
+    temperament: Territorial
     resource: Cosmetic
     non_lethal_harvest: true
     biomes:
@@ -21,7 +21,7 @@ fauna:
     health: 170
 
   Thorn Grazer:
-    temperment: Skittish
+    temperament: Skittish
     resource: Antimicrobial
     biomes:
       - Mountains
@@ -81,7 +81,7 @@ flora:
       - XNA
       - H2S-based
     reproduction: Complex
-    output_production_allowed: true
+    outpost_production_allowed: true
     required_inputs:
       - Water
 
@@ -113,7 +113,7 @@ flora:
       - XNA
       - H2S-based
     reproduction: Cuttings
-    output_production_allowed: true
+    outpost_production_allowed: true
     required_inputs:
       - Water
 
@@ -126,7 +126,7 @@ flora:
     genetics:
       - Standard Helix
       - Silicon-based
-    output_production_allowed: true
+    outpost_production_allowed: true
     required_inputs:
       - Water
     
@@ -158,7 +158,7 @@ flora:
       - XNA
       - H2S-based
     reproduction: Flowering
-    output_production_allowed: true
+    outpost_production_allowed: true
     required_inputs:
       - Water
 

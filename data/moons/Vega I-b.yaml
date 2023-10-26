@@ -1,20 +1,21 @@
-atmosphere: '-0'
+atmosphere: None
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.23 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Vega I-b
-o2_percent: TBD
+o2_percent: 0
 planet: Vega I
 resources:
-- Aluminum
-- Helium-3
-surface_temp: TBD
+  - Aluminum
+  - Helium-3
+surface_temp: 27
 temperature: Temperate
 traits: []
 type: Barren
-water: '-0'
+water: None

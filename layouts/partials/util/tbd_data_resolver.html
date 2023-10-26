@@ -1,7 +1,7 @@
 {{ $span_class := "" }}
 {{ $value := string . }}
 
-{{ if eq $value "" }}
+{{ if or (eq $value "") (eq $value "-0") }}
     {{ $value = "TBD" }}
 {{ end }}
 
