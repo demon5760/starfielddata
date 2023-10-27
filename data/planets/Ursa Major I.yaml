@@ -1,24 +1,74 @@
-atmosphere: STD CO2
+atmosphere: Standard CO2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
-flora: {}
-flora_rating: TBD
+fauna_rating: None
+flora:
+  Mustard Bugweed:
+    resource: Sealant
+    biomes:
+      - Plateau
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Red Stinging Nettle:
+    resource: Toxin
+    biomes:
+      - Plateau
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Cuttings
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Ginger Cage Vine:
+    resource: Metabolic Agent
+    biomes:
+      - Plateau
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+
+  Sweet Fumewort:
+    resource: Structural
+    biomes:
+      - Plateau
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+flora_rating: Primordial
 gravity: 0.66 G
 magnetosphere: Average
 name: Ursa Major I
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Copper
 - Fluorine
 - Uranium
-surface_temp: TBD
+surface_temp: 27
 system: Ursae Majoris
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Pelted Fields - Meteor Shower Impact Site - Stony Meteorite
+- Solar Strom Seasons - Brunt Plateau - Iron Meteorite
+- Prismatic Plumes - Crystalline Minerals - Crystalline Pools
 type: Rock
-water: '-0'
+water: None
