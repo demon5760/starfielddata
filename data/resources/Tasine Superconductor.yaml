@@ -1,18 +1,18 @@
-name: Power Circuit
+name: Tasine Superconductor
 type: Manufactured
-rarity: Exotic
-mass: 3.80
-value: 195
+rarity: Unique
+mass: 5
+value: 299
 crafting:
   Industrial Workbench:
-    - Palladium: 4
-      Positron Battery: 1
+    - Palladium: 2
       Paramagnon Conductor: 1
       Polymer: 2
+      Tasine: 4
   Simple Fabricator:
-    - Palladium: 4
-      Positron Battery: 1
+    - Palladium: 2
       Paramagnon Conductor: 1
       Polymer: 2
+      Tasine: 4
 credits:
   - Demon5760

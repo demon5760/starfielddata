@@ -1,0 +1,18 @@
+name: Rothicite Magnet
+type: Manufactured
+rarity: Unique
+mass: 4.6
+value: 295
+crafting:
+  Industrial Workbench:
+    - Lithium: 2
+      Rothicite: 4
+      Semimetal Wafer: 1
+      Supercooled Magnet: 1
+  Simple Fabricator:
+    - Lithium: 2
+      Rothicite: 4
+      Semimetal Wafer: 1
+      Supercooled Magnet: 1
+credits:
+  - Demon5760

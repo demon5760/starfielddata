@@ -1,0 +1,18 @@
+name: Substrate Molecule Sieve
+type: Manufactured
+rarity: Unique
+mass: 4.5
+value: 274
+crafting:
+  Industrial Workbench:
+    - Biosuppressant: 2
+      Memory Substrate: 3
+      Molecular Sieve: 1
+      Sterile Nanotubes: 2
+  Simple Fabricator:
+    - Biosuppressant: 2
+      Memory Substrate: 3
+      Molecular Sieve: 1
+      Sterile Nanotubes: 2
+credits:
+  - Demon5760

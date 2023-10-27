@@ -6,13 +6,15 @@ hugo new content --kind resource "items/resources/${RESOURCE_NAME}.md"
 cat << EOF > "data/resources/${RESOURCE_NAME}.yaml"
 name: ${RESOURCE_NAME}
 type: Manufactured
-rarity: 
+rarity: Rare
 mass: 
 value: 
 crafting:
   Industrial Workbench:
-    - Aluminum: 1
-      Iron: 1
+    - TBD: 1
+      TBD2: 1
+      TBD3: 1
+      TBD4: 1
   Simple Fabricator:
     - Aluminum: 1
       Iron: 1

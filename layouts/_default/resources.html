@@ -54,7 +54,7 @@
           <h2>Manufactured</h2>
           <table class="data_table">
             <thead>
-            <tr><th>Name</th><th>Type</th><th>Value</th><th>Rarity</th><th>Mass</th></tr>
+            <tr><th>Name</th><th>Type</th><th>Value</th><th>Rarity</th><th>Mass</th><th>Crafting</th></tr>
             </thead>
             <tbody>
           {{ range .Pages }}
@@ -66,6 +66,21 @@
             <td>{{ $resource.value }}</td>
             <td>{{ $resource.rarity }}</td>
             <td>{{ $resource.mass }}</td>
+            <td>
+              {{ if $resource.crafting }}
+                {{ if index $resource.crafting "Industrial Workbench" }}
+                  {{ $recipes := index $resource.crafting "Industrial Workbench" }}
+                  {{ $first_recipe := index $recipes 0}}
+                  <ul>
+                    {{ range $material, $qty := $first_recipe }}
+                      <li> {{ $qty }} {{ $material }}</li>
+                    {{ end }}
+                  </ul>
+                  
+                {{ end }}
+                
+              {{ end }}
+            </td>
           </tr>
           {{ end }}
           {{ end}}

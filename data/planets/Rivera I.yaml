@@ -20,7 +20,7 @@ flora_rating: TBD
 gravity: 1.81 G
 magnetosphere: Weak
 name: Rivera I
-o2: TBD
+o2_percent: 0
 resources:
 - Argon
 - Benzene
@@ -31,10 +31,10 @@ resources:
 - Uranium
 - Water
 system: Rivera
-surface_temp: TBD
+surface_temp: -10
 temperature: Cold
 traits:
-- TBD1
-- TBD2
+  - Emerging Tectonics - Emerging Tectonics - Hot Spring Terraces
+  - Aeriform Life - Aeriform Life - Fermentation Vents
 type: Rock
 water: Heavy Metal

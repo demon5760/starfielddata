@@ -1,13 +1,18 @@
 name: Aldumite Drilling Rig
 type: Manufactured
-rarity: Rare
-mass: 7.00
+rarity: Unique
+mass: 7
 value: 421
 crafting:
-  Aldumite: 4
-  Caesium: 2
-  Drilling Rig: 1
-  Microsecond Regulator: 1
+  Industrial Workbench:
+    - Aldumite: 4
+      Caesium: 2
+      Drilling Rig: 1
+      Microsecond Regulator: 1
+  Simple Fabricator:
+    - Aldumite: 4
+      Caesium: 2
+      Drilling Rig: 1
+      Microsecond Regulator: 1
 credits:
   - Demon5760
-
