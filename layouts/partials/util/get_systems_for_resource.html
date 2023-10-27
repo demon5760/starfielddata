@@ -1,0 +1,18 @@
+{{/* 
+    Given a resource name, return all system names that resource can be found in.
+*/}}
+
+{{ $resource_name := index . 0 }}
+{{ $data := index . 1 }}
+
+{{ $system_names := slice }}
+
+{{ range $data.planets }}
+    {{ if in .resources $resource_name }}
+        {{ if not (in $system_names $resource_name )}}
+            {{ $system_names = $system_names | append .system}}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{ return $system_names}}

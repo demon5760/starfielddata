@@ -1,0 +1,15 @@
+{{ $resource_name := index . 0 }}
+{{ $site := index . 1 }}
+{{ $recipe := ""}}
+
+{{ $resource := index $site.Data.resources $resource_name}}
+{{ if $resource }}
+    {{ if $resource.crafting }}
+        {{ if index $resource.crafting "Industrial Workbench" }}
+            {{ $recipes :=  index $resource.crafting "Industrial Workbench" }}
+            {{ $recipe = index $recipes 0 }}
+        {{ end }}
+
+    {{ end }}
+{{ end }}
+{{ return $recipe }}

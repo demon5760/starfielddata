@@ -17,6 +17,7 @@
 
       </article>
       <div>
+        {{ if not (eq $resource.type "Manufactured" )}}
         <h2>Locations</h2>
         {{ $resource.name }} can be found on the following planets and moons.
 
@@ -59,7 +60,96 @@
           {{ end }}
 
         </table>
+        {{end}}
 
+        {{ if eq $resource.type "Manufactured"}}
+          {{ if $resource.crafting }}
+            {{ if index $resource.crafting "Simple Fabricator" }}
+              <h3>Resource Tree</h3>
+                {{ $recipes := index $resource.crafting "Industrial Workbench" }}
+                {{ $first_recipe := index $recipes 0}}
+                {{ $totals := newScratch }}
+                {{ $potential_systems := slice}}
+                {{ range $.Site.Data.systems }}
+                  {{ $potential_systems = $potential_systems | append .name }}
+                {{ end }}
+                <ul>
+
+                {{ range $material_name, $qty := $first_recipe }}
+                  {{ $totals.Add $material_name $qty}}
+                  <li>
+                    {{ $material_name }} ({{ $qty }})
+                    {{ $recipe := partial "util/get_recipe.html" (slice $material_name $.Site) }}
+                    {{ if $recipe }}
+                      <ul>
+                        {{ range $material_name, $qty := $recipe }}
+                          {{ $totals.Add $material_name $qty}}
+                          <li>{{ $material_name }} ({{ $qty}})
+                            {{ if partial "util/get_recipe.html" (slice $material_name $.Site) }}
+                              <ul>
+                                {{ $totals.Add $material_name $qty}}
+                              {{ range $material_name, $qty := partial "util/get_recipe.html" (slice $material_name $.Site) }}
+                                {{ $totals.Add $material_name $qty}}
+                                <li>{{ $material_name }} ({{ $qty}})
+                                  {{ if partial "util/get_recipe.html" (slice $material_name $.Site) }}
+                                    <ul>
+                                      {{ range $material_name, $qty := partial "util/get_recipe.html" (slice $material_name $.Site) }}
+                                        {{ $totals.Add $material_name $qty}}
+                                        <li>{{ $material_name }} ({{ $qty}})
+                                          {{ if partial "util/get_recipe.html" (slice $material_name $.Site) }}
+                                            <ul>
+                                              {{ range $material_name, $qty := partial "util/get_recipe.html" (slice $material_name $.Site) }}
+                                                {{ $totals.Add $material_name $qty}}
+                                                <li>{{ $material_name }}s</li>
+                                              {{ end }}
+                                            </ul>
+                                          {{ end }}
+                                        </li>
+                                      {{ end }}
+                                    </ul>
+                                  {{ end }}
+                                </li>
+                              {{ end }}
+                              </ul>
+                            {{ end }}
+
+                          </li>
+                        {{ end }}
+                      </ul>
+                    {{ end }}
+                  </li>
+                {{ end }}
+                </ul>
+
+                <table>
+                <tr><th>Name</th><th>Qty</th></tr>
+                {{ range $material_name, $qty := $totals.Values }}
+                  {{ $resource_systems := partial "util/get_systems_for_resource.html" (slice $material_name $.Site.Data) }}
+                  
+                  {{ $resource1 := index $.Site.Data.resources  $material_name}}
+                  {{ if not (eq $resource1.type "Manufactured")}}
+                    {{ $potential_systems = $potential_systems | intersect $resource_systems }}
+                  {{ end }}
+                <tr>
+                  <td>{{ $material_name }}</td>  
+                  <td> {{ $qty }} </td>
+                </tr>
+                  
+                {{ end }}
+                </table>
+                {{ if $potential_systems }}
+                  The following systems have all the necessary resources to setup a supply chain within the system:
+                  <ul>
+                    {{ range $potential_systems }}
+                      <li>{{ partial "util/get_location_link" (slice . $.Site ) }}</li>
+                    {{ end }}
+                  </ul>
+                {{ end }}
+                
+            {{ end }}
+            
+          {{ end}}
+        {{end}}
       </div>
      
       {{ partial "page_credits.html" (slice $.Site.Data.sources $credits) }}
