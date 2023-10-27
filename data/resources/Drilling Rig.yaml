@@ -1,0 +1,16 @@
+name: Drilling Rig
+type: Manufactured
+rarity: Rare
+mass: 5.00
+value: 143
+crafting:
+  Industrial Workbench:
+    - Reactive Gauge: 1
+      Lubricant: 2
+      Tungsten: 3
+  Simple Fabricator:
+    - Reactive Gauge: 1
+      Lubricant: 2
+      Tungsten: 3
+credits:
+  - Demon5760

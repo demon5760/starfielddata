@@ -1,0 +1,16 @@
+name: Control Rod
+type: Manufactured
+rarity: Exotic
+mass: 4.50
+value: 180
+crafting:
+  Industrial Workbench:
+    - Dysprosium: 3
+      Isotopic Coolant: 1
+      Austenitic Manifold: 1
+  Simple Fabricator:
+    - Dysprosium: 3
+      Isotopic Coolant: 1
+      Austenitic Manifold: 1
+credits:
+  - Demon5760

@@ -1,0 +1,18 @@
+name: Microsecond Regulator
+type: Manufactured
+rarity: Exotic
+mass: 4.30
+value: 212
+crafting:
+  Industrial Workbench:
+    - Supercooled Magnet: 1
+      Tau Grade Rheostat: 1
+      Lithium: 2
+      Europium: 4
+  Simple Fabricator:
+    - Supercooled Magnet: 1
+      Tau Grade Rheostat: 1
+      Lithium: 2
+      Europium: 4
+credits:
+  - Demon5760

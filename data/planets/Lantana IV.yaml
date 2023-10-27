@@ -1,20 +1,80 @@
-atmosphere: STD O2
+atmosphere: Standard O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-fauna_rating: TBD
+  Flocking Shardhopper Geophage:
+    temperament: Wary
+    resource: Ornamental
+    non_lethal_harvet: true
+    biomes:
+      - Frozen Plains
+    health: 120
+    abilities: []
+
+  Hunting Ikuradon:
+    temperament: Wary
+    resource: Structural
+    non_lethal_harvet: true
+    biomes:
+      - Frozen Plains
+    health: 1140
+  
+  Spikeworm Grazer:
+    temperament: Wary
+    resource: Toxin
+    biomes:
+      - Deciduous Forest
+      - Frozen Plains
+    health: 20
+
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Cold Cave Nettle:
+    resource: Sealant
+    biomes:
+      - Deciduous Forest
+      - Frozen Plains
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Ice Creeper:
+    resource: Nutrient
+    biomes:
+      - Deciduous Forest
+      - Frozen Plains
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Flowering
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+    
+  Jagged Heart Leaf:
+    resource: Toxin
+    biomes:
+      - Deciduous Forest
+      - Frozen Plains
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Cuttings
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+      
+
+flora_rating: Marginal
 gravity: 1.11 G
 magnetosphere: Powerful
 name: Lantana IV
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Cobalt
 - Copper
@@ -22,9 +82,9 @@ resources:
 - Nickel
 - Water
 system: Lantana
-surface_temp: TBD
+surface_temp: 27
 temperature: Temperate
 traits:
-- TBD1
+- Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
 type: Rock
 water: Biological

@@ -1,9 +1,5 @@
 name: Trident Luxury Lines Staryard
 planet: Akila
 npcs:
-  Jia Chen:
-    notes: Deliver Missions - Selling random resource - 2x normal prices. Not really worth it...
-  Gladys Coffin:
-    notes: 
-    missions:
-      - Fueling Greatness
+  - Jia Chen
+  - Gladys Coffin

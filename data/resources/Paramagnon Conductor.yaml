@@ -1,0 +1,16 @@
+name: Paramagnon Conductor
+type: Manufactured
+rarity: Rare
+mass: 4.00
+value: 153
+crafting:
+  Industrial Workbench:
+    - Neodymium: 1
+      Zero Wire: 3
+      Gold: 1
+  Simple Fabricator:
+    - Neodymium: 1
+      Zero Wire: 3
+      Gold: 1
+credits:
+  - Demon5760

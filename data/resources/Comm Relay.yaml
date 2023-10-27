@@ -1,0 +1,14 @@
+name: Comm Relay
+type: Manufactured
+rarity: Uncommon
+mass: 3.50
+value: 117
+crafting:
+  Industrial Workbench:
+    - Tau Grade Rheostat: 1
+      Beryllium: 1
+  Simple Fabricator:
+    - Tau Grade Rheostat: 1
+      Beryllium: 1
+credits:
+  - Demon5760

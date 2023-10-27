@@ -1,0 +1,14 @@
+name: Tau Grade Rheostat
+type: Manufactured
+rarity: Uncommon
+mass: 2.60
+value: 82
+crafting:
+  Industrial Workbench:
+    - Copper: 1
+      Beryllium: 1
+  Simple Fabricator:
+    - Copper: 1
+      Beryllium: 1
+credits:
+  - Demon5760

@@ -11,14 +11,6 @@ One {{ $resource_name }} has a mass of {{ $resource.mass }} and is worth {{ $res
 
 {{ .Page.TableOfContents }}
 
-{{ if $resource.crafting }}
-You can craft `1` {{ $resource.name }} using these resources:
-
-{{ range $res_name, $res_qty := $resource.crafting }}
-- `{{ $res_qty }}` {{ $res_name }}
-{{ end }}
-{{ end }}
-
 ---
 
 ## Purchase

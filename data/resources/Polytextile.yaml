@@ -1,0 +1,14 @@
+name: Polytextile
+type: Manufactured
+rarity: Uncommon
+mass: 2.00
+value: 25
+crafting:
+  Industrial Workbench:
+    - Cosmetic: 1
+      Fiber: 2
+  Simple Fabricator:
+    - Cosmetic: 1
+      Fiber: 2
+credits:
+  - Demon5760

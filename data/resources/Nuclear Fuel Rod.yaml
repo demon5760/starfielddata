@@ -1,0 +1,16 @@
+name: Nuclear Fuel Rod
+type: Manufactured
+rarity: Exotic
+mass: 5.00
+value: 225
+crafting:
+  Industrial Workbench:
+    - Uranium: 3
+      Solvent: 2
+      Semimetal Wafer: 1
+  Simple Fabricator:
+    - Uranium: 3
+      Solvent: 2
+      Semimetal Wafer: 1
+credits:
+  - Demon5760

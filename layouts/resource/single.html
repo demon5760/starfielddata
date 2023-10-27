@@ -18,75 +18,48 @@
       </article>
       <div>
         <h2>Locations</h2>
-        {{ $resource.name }} can be found on on the following planets and moons.
+        {{ $resource.name }} can be found on the following planets and moons.
 
         <table>
           <tr>
             <th>Name</th>
             <th>System</th>
           </tr>
-          {{ range $.Site.Data.planets }}
+          {{ $bodies := merge $.Site.Data.moons $.Site.Data.planets }}
+          {{ range $bodies }}
+            {{ $farmable := false}}
+
+            {{ range .flora }}
+              
+              {{ if eq .resource $resource_name }}
+                {{ if .outpost_production_allowed }}
+                  {{ $farmable = true}}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+
             {{ if in .resources $resource.name }}
-              {{ $planet_page_file := printf "/locations/planets/%s" .name }}
-              {{ $planet_page := $.Site.GetPage $planet_page_file }}
+              {{ $farmable = true}}
+            {{end }}
 
-              {{ $system_page_file := printf "/locations/systems/%s" .system }}
-              {{ $system_page := $.Site.GetPage $system_page_file }}
-
+            {{ if $farmable }}
               <tr>
                 <td>
-                  {{ if $planet_page }}
-                    <a href="{{ $planet_page.Permalink }}">{{.name}}</a>
-                  {{ else }}
-                    {{.name}}
-                  {{ end }}
-                  
+                    {{ partial "util/get_location_link.html" ( slice .name $.Site) }}
                 </td>
                 <td>
-                  {{ if $system_page }}
-                    <a href="{{ $system_page.Permalink }}">{{.system}}</a>
-                  {{ else }}
-                    {{.system}}
-                  {{ end }}
-                  
+                  {{ $system_name := partial "util/get_system_name.html" ( slice .name $.Site) }}
+                  {{ partial "util/get_location_link.html" ( slice $system_name $.Site) }}
                 </td>
               </tr>
-            {{end }}
+            {{ end }}
+
+
+
           {{ end }}
 
-          {{ range $.Site.Data.moons }}
-          {{ if in .resources $resource.name }}
-            {{ $planet_name := .planet }}
-            
-            {{ $moon_page_file := printf "/locations/moons/%s" .name }}
-            {{ $moon_page := $.Site.GetPage $moon_page_file }}
-
-            
-            {{ $planet := index $.Site.Data.planets $planet_name  }}
-            {{ $system_page_file := printf "/locations/systems/%s" $planet.system }}
-            {{ $system_page := $.Site.GetPage $system_page_file }}
-
-            <tr>
-              <td>
-                {{ if $moon_page }}
-                  <a href="{{ $moon_page.Permalink }}">{{.name}}</a>
-                {{ else }}
-                  {{.name}}
-                {{ end }}
-                
-              </td>
-              <td>
-                {{ if $system_page }}
-                  <a href="{{ $system_page.Permalink }}">{{$planet.system}}</a>
-                {{ else }}
-                  {{.system}}
-                {{ end }}
-                
-              </td>
-            </tr>
-          {{end }}
-        {{ end }}
         </table>
+
       </div>
      
       {{ partial "page_credits.html" (slice $.Site.Data.sources $credits) }}

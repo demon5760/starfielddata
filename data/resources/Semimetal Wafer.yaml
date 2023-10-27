@@ -1,0 +1,16 @@
+name: Semimetal Wafer
+type: Manufactured
+rarity: Rare
+mass: 3.50
+value: 149
+crafting:
+  Industrial Workbench:
+    - Zero Wire: 1
+      Gold: 2
+      Antimony: 2
+  Simple Fabricator:
+    - Zero Wire: 1
+      Gold: 2
+      Antimony: 2
+credits:
+  - Demon5760

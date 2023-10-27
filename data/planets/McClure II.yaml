@@ -1,23 +1,107 @@
-atmosphere: THIN O2
+atmosphere: Thin O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-fauna_rating: TBD
+  Herding Vuvuzelisk Scavenger:
+    temperament: Peaceful
+    resource: Membrane
+    biomes:
+      - Coniferous Forest
+    health: 195
+    outpost_production_allowed: true
+
+  Milliwhale Filterer:
+    temperament: Peaceful
+    resource: Toxin
+    biomes:
+      - Coniferous Forest
+      - Frozen Plains
+    health: 20
+    outpost_production_allowed: true
+
+  Shoaling Unishark Scavenger:
+    temperament: Defensive
+    resource: Nutrient
+    biomes:
+      - Ocean
+    health: 390
+
+  Hunting Sailgator:
+    temperament: Wary
+    resource: Solvent
+    biomes:
+      - Coniferous Forest
+    health: 310
+    abilities:
+      - Ranged mouth attack
+
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Forest Wisp:
+    resource: Fiber
+    biomes:
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Cabon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Christina Bloom:
+    resource: Sealant
+    biomes:
+      - Coniferous Forest
+      - Frozen Plains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-fertilization
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+    
+  Glossy Stickweed:
+    resource: Structural
+    biomes:
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+    
+  Broadleaf Rose:
+    resource: Pigment
+    biomes:
+      - Coniferous Forest
+      - Frozen Plains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Sub-zero Silkweed:
+    resource: Metabolic Agent
+    biomes:
+      - Frozen Plains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Complex
+
+flora_rating: Moderate
 gravity: 0.40 G
 magnetosphere: Average
 name: McClure II
-o2_percent: TBD
+o2_percent: 18
 resources:
 - Chlorine
 - Chlorosilanes
@@ -25,9 +109,9 @@ resources:
 - Lithium
 - Water
 system: McClure
-surface_temp: TBD
+surface_temp: -11
 temperature: Cold
 traits:
-- TBD1
+  - Aeriform Life - Aeriform Life - Fermentation Vents
 type: Rock
 water: Safe

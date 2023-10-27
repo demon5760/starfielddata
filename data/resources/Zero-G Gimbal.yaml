@@ -1,0 +1,16 @@
+name: Zero-G Gimbal
+type: Manufactured
+rarity: Rare
+mass: 2.80
+value: 93
+crafting:
+  Industrial Workbench:
+    - Isocentered Magnet: 1
+      Tantalum: 2
+      Lubricant: 2
+  Simple Fabricator:
+    - Isocentered Magnet: 1
+      Tantalum: 2
+      Lubricant: 2
+credits:
+  - Demon5760

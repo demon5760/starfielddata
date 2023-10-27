@@ -1,0 +1,14 @@
+name: Isotopic Coolant
+type: Manufactured
+rarity: Common
+mass: 0.80
+value: 25 
+crafting:
+  Industrial Workbench:
+    - Ionic Liquids: 1
+      Tetrafluorides: 1
+  Simple Fabricator:
+    - Ionic Liquids: 1
+      Tetrafluorides: 1
+credits:
+  - Demon5760

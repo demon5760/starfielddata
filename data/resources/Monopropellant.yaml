@@ -1,0 +1,16 @@
+name: Monopropellant
+type: Manufactured
+rarity: Uncommon
+mass: 3.50
+value: 76
+crafting:
+  Industrial Workbench:
+    - Reactive Gauge: 1
+      Alkanes: 2
+      Mag Pressure Tanke: 1
+  Simple Fabricator:
+    - Reactive Gauge: 1
+      Alkanes: 2
+      Mag Pressure Tanke: 1
+credits:
+  - Demon5760

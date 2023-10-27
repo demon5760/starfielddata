@@ -1,0 +1,17 @@
+name: Austenitic Manifold
+type: Manufactured
+rarity: Uncommon
+mass: 4.30
+value: 79
+crafting:
+  Industrial Workbench:
+    - Reactive Gauge: 1
+      Nickel: 2
+      Iron: 2
+  Simple Fabricator:
+    - Reactive Gauge: 1
+      Nickel: 2
+      Iron: 2
+credits:
+  - Demon5760
+

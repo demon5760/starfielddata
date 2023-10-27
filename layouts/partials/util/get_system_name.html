@@ -1,0 +1,26 @@
+{{/* 
+    Given the name of a location, find out what system it is in.
+*/}}
+
+{{ $location_name := index . 0 }}
+{{ $site := index . 1 }}
+
+{{ $system_name := "Unknown"}}
+{{ $page_file := "" }}
+
+{{ if $location_name }}
+    {{ if index $site.Data.moons $location_name }}
+        {{ $moon := index $site.Data.moons $location_name }}
+        {{ $planet_name := $moon.planet}}
+        {{ $planet := index $site.Data.planets $planet_name }}
+        {{ if $planet }}
+            {{ $system_name = $planet.system }}
+        {{ end }}
+    {{ else if index $site.Data.planets $location_name }}
+        {{ $planet := index $site.Data.planets $location_name }}
+        {{ if $planet }}
+            {{ $system_name = $planet.system }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+{{ return $system_name }}

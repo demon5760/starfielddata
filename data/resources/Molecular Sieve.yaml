@@ -1,0 +1,16 @@
+name: Molecular Sieve
+type: Manufactured
+rarity: Rare
+mass: 3.00
+value: 91
+crafting:
+  Industrial Workbench:
+    - Ionic Liquids: 2
+      Membrane: 2
+      Mag Pressure Tank: 1
+  Simple Fabricator:
+    - Ionic Liquids: 2
+      Membrane: 2
+      Mag Pressure Tank: 1
+credits:
+  - Demon5760

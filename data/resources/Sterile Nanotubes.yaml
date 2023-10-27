@@ -1,0 +1,16 @@
+name: Sterile Nanotubes
+type: Manufactured
+rarity: Exotic
+mass: 3.00
+value: 130
+crafting:
+  Industrial Workbench:
+    - Vanadium: 2
+      Molecular Sieve: 1
+      Solvent: 2
+  Simple Fabricator:
+    - Vanadium: 2
+      Molecular Sieve: 1
+      Solvent: 2
+credits:
+  - Demon5760

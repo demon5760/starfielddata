@@ -1,0 +1,14 @@
+name: Zero Wire
+type: Manufactured
+rarity: Common
+mass: 1.70
+value: 52
+crafting:
+  Industrial Workbench:
+    - Silver: 1
+      Copper: 1
+  Simple Fabricator:
+    - Silver: 1
+      Copper: 1
+credits:
+  - Demon5760

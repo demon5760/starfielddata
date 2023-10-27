@@ -1,0 +1,14 @@
+name: Mag Pressure Tank
+type: Manufactured
+rarity: Uncommon
+mass: 1.50
+value: 25
+crafting:
+  Industrial Workbench:
+    - Nickel: 1
+      Aluminum: 1
+  Simple Fabricator:
+    - Nickel: 1
+      Aluminum: 1
+credits:
+  - Demon5760

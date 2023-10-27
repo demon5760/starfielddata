@@ -1,22 +1,23 @@
-atmosphere: '-0'
+atmosphere: None
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.09 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Lantana III-a
-o2_percent: TBD
+o2_percent: 0
 planet: Lantana III
 resources:
 - Aluminum
 - Beryllium
 - Helium-3
-surface_temp: TBD
+surface_temp: 39
 temperature: Temperate
 traits:
-- TBD1
+  - Bolide Bombardment - Meteorite Crater - Impact Crater
 type: Barren
-water: '-0'
+water: None

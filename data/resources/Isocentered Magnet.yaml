@@ -1,0 +1,14 @@
+name: Isocentered Magnet
+type: Manufactured
+rarity: Common
+mass: 1.80
+value: 36
+crafting:
+  Industrial Workbench:
+    - Cobalt: 1
+      Nickel: 1
+  Simple Fabricator:
+    - Aluminum: 1
+      Iron: 1
+credits:
+  - Demon5760

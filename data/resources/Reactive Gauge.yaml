@@ -1,0 +1,14 @@
+name: Reactive Gauge
+type: Manufactured
+rarity: Common
+mass: 1.50
+value: 25
+crafting:
+  Industrial Workbench:
+    - Aluminum: 2
+      Copper: 1
+  Simple Fabricator:
+    - Aluminum: 2
+      Copper: 1
+credits:
+  - Demon5760
