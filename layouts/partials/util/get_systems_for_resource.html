@@ -3,14 +3,52 @@
 */}}
 
 {{ $resource_name := index . 0 }}
-{{ $data := index . 1 }}
+{{ $site := index . 1 }}
+{{ $data := $site.Data}}
 
 {{ $system_names := slice }}
 
 {{ range $data.planets }}
+    {{ $planet := . }}
     {{ if in .resources $resource_name }}
-        {{ if not (in $system_names $resource_name )}}
+        {{ if not (in $system_names .system )}}
             {{ $system_names = $system_names | append .system}}
+        {{ end }}
+    {{ end }}
+    {{ $ff := .flora | merge .fauna }}
+    {{ if $ff }}
+        
+        {{ range $ff }}
+            {{ if eq .resource $resource_name }}
+                {{ if .outpost_production_allowed }}
+                    {{ if not (in $system_names $planet.system )}}
+                        {{ $system_names = $system_names | append $planet.system}}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{ range $data.moons }}
+    {{ $planet := index $data.Planets .planet }}
+    {{ if in .resources $resource_name }}
+        {{ $system_name := partial "util/get_system_name" (slice .name $site )}}
+        {{ if not (in $system_names $system_name )}}
+            {{ $system_names = $system_names | append $system_name}}
+        {{ end }}
+    {{ end }}
+    {{ $ff := .flora | merge .fauna }}
+    {{ if $ff }}
+        {{ range $ff }}
+            {{ if eq .resource $resource_name }}
+                {{ if .outpost_production_allowed }}
+
+                    {{ if not (in $system_names $planet.system )}}
+                        {{ $system_names = $system_names | append $planet.system}}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
         {{ end }}
     {{ end }}
 {{ end }}

@@ -66,6 +66,9 @@
           {{ if $resource.crafting }}
             {{ if index $resource.crafting "Simple Fabricator" }}
               <h3>Resource Tree</h3>
+              <div>
+                <div style="float:left; padding-right:15px">
+
                 {{ $recipes := index $resource.crafting "Industrial Workbench" }}
                 {{ $first_recipe := index $recipes 0}}
                 {{ $totals := newScratch }}
@@ -120,11 +123,12 @@
                   </li>
                 {{ end }}
                 </ul>
-
+                </div>
+                <div sytle="float:left">
                 <table>
                 <tr><th>Name</th><th>Qty</th></tr>
                 {{ range $material_name, $qty := $totals.Values }}
-                  {{ $resource_systems := partial "util/get_systems_for_resource.html" (slice $material_name $.Site.Data) }}
+                  {{ $resource_systems := partial "util/get_systems_for_resource.html" (slice $material_name $.Site) }}
                   
                   {{ $resource1 := index $.Site.Data.resources  $material_name}}
                   {{ if not (eq $resource1.type "Manufactured")}}
@@ -137,17 +141,23 @@
                   
                 {{ end }}
                 </table>
+                </div>
+                <div style="float:none" />
                 {{ if $potential_systems }}
+                <hr />
+                <div>
+                  <div><span class="beta">Beta Feature</span> These results have not been fully tested.</div>
                   The following systems have all the necessary resources to setup a supply chain within the system:
                   <ul>
                     {{ range $potential_systems }}
                       <li>{{ partial "util/get_location_link" (slice . $.Site ) }}</li>
                     {{ end }}
                   </ul>
+                </div>
                 {{ end }}
                 
             {{ end }}
-            
+            </div>
           {{ end}}
         {{end}}
       </div>

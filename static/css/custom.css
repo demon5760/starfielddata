@@ -5,3 +5,8 @@
 .missing_data {
     background-color:yellow
 }
+
+.beta {
+    background-color:yellow;
+    font-weight: bolder;
+}

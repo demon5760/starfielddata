@@ -1,22 +1,81 @@
-atmosphere: HIGH O2
+atmosphere: High O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
+  Herding Glowhands Grazer:
+    temperament: Defensive
+    resource: Biosuppresant
+    biomes:
+      - Deciduous Forest
+      - Plateau
+      - Coniferous Forest
+      - Savanna
+      - Mountains
+    health: 270
+
+  Hunting Landshark:
+    temperament: Fearless
+    resource: Ornamental
+    biomes:
+      - Deciduous Forest
+      - Plateau
+      - Coniferous Forest
+      - Savanna
+      - Mountains
+    health: 415
+    abilities:
+      - Venomous
+
   TBD3: {}
-fauna_rating: TBD
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
+  Christina Bloom:
+    resource: Structural
+    biomes:
+      - Plateau
+      - Coniferous Forest
+      - Savanna
+      - Mountains
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Starburt Silkweed:
+    resource: Fiber
+    biomes:
+      - Deciduous Forest
+      - Plateau
+      - Coniferous Forest
+      - Savanna
+      - Mountains
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Cliff Laurel:
+    resource: Nutrient
+    biomes:
+      - Plateau
+      - Coniferous Forest
+      - Mountains
+    genetics:
+      - Standard-Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
   TBD4: {}
   TBD5: {}
-flora_rating: TBD
+flora_rating: Marginal
 gravity: 1.64 G
 magnetosphere: Average
 name: Shoza IV
-o2_percent: TBD
+o2_percent: 24
 resources:
 - Argon
 - Benzene
@@ -27,7 +86,7 @@ resources:
 - Platinum
 - Water
 system: Shoza
-surface_temp: TBD
+surface_temp: 8
 temperature: Temperate
 traits:
 - TBD1

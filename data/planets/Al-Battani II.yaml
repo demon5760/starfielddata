@@ -1,6 +1,7 @@
-atmosphere: STD O2 (TOX)
+atmosphere: Standard O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
   TBD1: {}
   TBD2: {}
@@ -9,16 +10,16 @@ fauna:
   TBD5: {}
   TBD6: {}
   TBD7: {}
-fauna_rating: TBD
+fauna_rating: Moderate
 flora:
   TBD1: {}
   TBD2: {}
   TBD3: {}
-flora_rating: TBD
+flora_rating: Marginal
 gravity: 0.84 G
 magnetosphere: Weak
 name: Al-Battani II
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Alkanes
 - Copper
@@ -28,9 +29,9 @@ resources:
 - Nickel
 - Water
 system: Al-Battani
-surface_temp: TBD
+surface_temp: 15
 temperature: Temperate
 traits:
-- TBD1
+- Global Glacial Recession - Melted Glacier - Glacial Remnant
 type: Rock
 water: Safe
