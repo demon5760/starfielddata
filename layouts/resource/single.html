@@ -81,29 +81,29 @@
                 {{ range $material_name, $qty := $first_recipe }}
                   {{ $totals.Add $material_name $qty}}
                   <li>
-                    {{ $material_name }} ({{ $qty }})
+                    {{ partial "util/get_resource_link.html" (slice $material_name $.Site) }} ({{ $qty }})
                     {{ $recipe := partial "util/get_recipe.html" (slice $material_name $.Site) }}
                     {{ if $recipe }}
                       <ul>
                         {{ range $material_name, $qty := $recipe }}
                           {{ $totals.Add $material_name $qty}}
-                          <li>{{ $material_name }} ({{ $qty}})
+                          <li>{{ partial "util/get_resource_link.html" (slice $material_name $.Site) }} ({{ $qty}})
                             {{ if partial "util/get_recipe.html" (slice $material_name $.Site) }}
                               <ul>
                                 {{ $totals.Add $material_name $qty}}
                               {{ range $material_name, $qty := partial "util/get_recipe.html" (slice $material_name $.Site) }}
                                 {{ $totals.Add $material_name $qty}}
-                                <li>{{ $material_name }} ({{ $qty}})
+                                <li>{{ partial "util/get_resource_link.html" (slice $material_name $.Site) }} ({{ $qty}})
                                   {{ if partial "util/get_recipe.html" (slice $material_name $.Site) }}
                                     <ul>
                                       {{ range $material_name, $qty := partial "util/get_recipe.html" (slice $material_name $.Site) }}
                                         {{ $totals.Add $material_name $qty}}
-                                        <li>{{ $material_name }} ({{ $qty}})
+                                        <li>{{ partial "util/get_resource_link.html" (slice $material_name $.Site) }} ({{ $qty}})
                                           {{ if partial "util/get_recipe.html" (slice $material_name $.Site) }}
                                             <ul>
                                               {{ range $material_name, $qty := partial "util/get_recipe.html" (slice $material_name $.Site) }}
                                                 {{ $totals.Add $material_name $qty}}
-                                                <li>{{ $material_name }}s</li>
+                                                <li>{{ partial "util/get_resource_link.html" (slice $material_name $.Site) }} ({{ $qty}})</li>
                                               {{ end }}
                                             </ul>
                                           {{ end }}
@@ -135,7 +135,7 @@
                     {{ $potential_systems = $potential_systems | intersect $resource_systems }}
                   {{ end }}
                 <tr>
-                  <td>{{ $material_name }}</td>  
+                  <td>{{ partial "util/get_resource_link.html" (slice $material_name $.Site) }}</td>  
                   <td> {{ $qty }} </td>
                 </tr>
                   

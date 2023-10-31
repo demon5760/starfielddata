@@ -1,0 +1,11 @@
+{{ $resource_name := index . 0 }}
+{{ $site := index . 1 }}
+{{ $output := $resource_name }}
+
+{{ $resource_page_file := printf "/items/resources/%s" $resource_name }}
+{{ $resource_page := $site.GetPage $resource_page_file }}
+{{ if $resource_page }}
+    {{ $output = printf "<a href='%s'>%s</a>" $resource_page.Permalink $resource_name }}
+{{ end }}
+
+{{ return ($output | safeHTML )}}

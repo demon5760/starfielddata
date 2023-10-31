@@ -1,21 +1,95 @@
-atmosphere: STD M
+atmosphere: Standard M
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-fauna_rating: TBD
+  Coralheart Filterer:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Frozen Plains
+      - Deciduous Forest
+      - Confierous Forest
+      - Mountains
+    health: 20
+
+  Schooling Kronosarus Grazer:
+    temperament: Wary
+    resource: Cosmetic
+    biomes:
+      - Ocean
+    health: 50
+
+  Herding Boneback Scavenger:
+    temperament: Wary
+    resource: Hypercatalyst
+    biomes:
+      - Deciduous Forest
+      - Confierous Forest
+      - Mountains
+    health: 70
+
+  Hunting Crab:
+    temperament: Defensive
+    resource: Toxin
+    biomes:
+      - Deciduous Forest
+      - Confierous Forest
+      - Mountains
+    health: 680
+    abilities:
+      - Ranged mouth attack
+
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Cliffberry:
+    resource: Nutrient
+    biomes:
+      - Frozen Plains
+      - Deciduous Forest
+      - Confierous Forest
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Abyss Pine Seedling:
+    resource: Nutrient
+    biomes:
+      - Deciduous Forest
+      - Confierous Forest
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Blue Weeping Shrub:
+    resource: Hypercatalyst
+    biomes:
+      - Deciduous Forest
+      - Confierous Forest
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Self-fertilization
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+flora_rating: Marginal
 gravity: 0.89 G
 magnetosphere: Very Strong
 name: Sumati
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Chlorine
 - Chlorosilanes
@@ -25,11 +99,11 @@ resources:
 - Tetrafluorides
 - Water
 system: Narion
-surface_temp: TBD
+surface_temp: 7
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+  - Diseased Biosphere - Diseased Biosphere - Infected Grove
+  - Global Glacial Recession - Metled Glacier - Glacial Remnant
+  - Psychotropic Biota - Fungal Growths - Fungal Grotto
 type: Rock
 water: Safe

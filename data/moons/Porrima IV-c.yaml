@@ -1,21 +1,99 @@
 atmosphere: Thin CO2
 credits:
-  - Starfield Sheet 1
+    - Starfield Sheet 1
+    - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-fauna_rating: TBD
+  Herding Tongueface Herbivore:
+    temperament: Peaceful
+    resource: Sealant
+    biomes:
+      - Frozen Mountains
+      - Coniferous Forest
+    health: 150
+    resistances:
+      - Blast damage
+      - Physical damage
+
+  Pack Ankylosaurus:
+    temperament: Defensive
+    resource: Cosmetic
+    biomes:
+      - Frozen Mountains
+      - Coniferous Forest
+    health: 135
+    resistances:
+      - Energy damage
+    abilities:
+      - Ranged mouth attack
+
+  Trident Geophage:
+    temperament: Peaceful
+    resource: Antimicrobial
+    biomes:
+      - Frozen Mountains
+      - Mountains
+      - Coniferous Forest
+    health: 20
+    non_lethal_harvest: true
+
+  Puffball Filterer:
+    temperament: Peaceful
+    resource: Antimicrobial
+    biomes:
+      - Frozen Mountains
+      - Mountains
+      - Coniferous Forest
+    health: 20
+    non_lethal_harvest: true
+
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Stunted Pine:
+    resource: Fiber
+    biomes:
+      - Frozen Mountains
+      - Mountains
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Cold Cave Nettle:
+    resource: Nutrient
+    biomes:
+      - Frozen Mountains
+      - Mountains
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Terra Root:
+    resource: Cosmetic
+    biomes:
+      - Mountains
+      - Coniferous Forest
+    genetics:
+      - XNA
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+flora_rating: Marginal
 gravity: 0.52 G
 magnetosphere: Weak
 name: Porrima IV-c
-o2_percent: TBD
+o2_percent: 0
 planet: Porrima IV
 resources:
 - Alkanes
@@ -26,10 +104,10 @@ resources:
 - Iron
 - Neon
 - Water
-surface_temp: TBD
+surface_temp: -11
 temperature: Cold
 traits:
-- TBD1
-- TBD2
+- Amphibious Foothold - Amphibious Thicket - Remains of Amphibious Lifeforms
+- Psychotropic Biota - Fungal Growths - Fungal Grotto
 type: Rock
 water: Radioactive

@@ -1,14 +1,15 @@
 atmosphere: EXTR M
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 2.18 G
 magnetosphere: Average
 name: Groombridge II
-o2: TBD
+o2_percent: 0
 resources:
 - Alkanes
 - Copper
@@ -17,11 +18,11 @@ resources:
 - Tungsten
 - Water
 system: Groombridge
-surface_temp: TBD
+surface_temp: -66
 temperature: Frozen
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Sonorous Lithosphere - Crystal Columns - Oscilating Crystals
+- Frozen Ecosystem - Frozen Crevasse - Uplifted Fossils
+- Prismatic Plumes - Crystalline Minerals - Crystalline Pools
 type: Rock
 water: Safe
