@@ -1,30 +1,152 @@
 atmosphere: THIN CO2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
+  Flocking Shroomhead Grazer:
+    temperament: Defensive
+    resource: Ornamental
+    biomes:
+      - Coniferous Forest
+      - Deciduos Forest
+      - Tropical Forest
+      - Mountains
+    health: 400
+    abilities:
+      - Venomous
+      - Ranged mouth attack
+
+  Cassowary Grazer:
+    temperament: Peaceful
+    resource: Nutrient
+    non_lethal_harvest: true
+    biomes:
+      - Coniferous Forest
+      - Deciduos Forest
+      - Tropical Forest
+      - Mountains
+      - Savanna
+    health: 20
+
+  Hunting Brightcage:
+    temperament: Territorial
+    resource: Stimulant
+    non_lethal_harvest: true
+    biomes:
+      - Coniferous Forest
+      - Deciduos Forest
+      - Tropical Forest
+      - Mountains
+    health: 310
+    abilities:
+      - Venomous
+
   TBD3: {}
   TBD4: {}
   TBD5: {}
   TBD6: {}
-fauna_rating: TBD
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD10: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
+  Blue Weeping Shrub:
+    resource: Aromatic
+    biomes:
+      - Coniferous Forest
+      - Deciduous Forest
+      - Tropical Forest
+      - Savanna
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-fertilization
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Spirit Laurel:
+    resource: Sealant
+    biomes:
+      - Deciduous Forest
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-fertilization
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Forest Wisp:
+    resource: Ornamental
+    biomes:
+      - Coniferous Forest
+      - Deciduous Forest
+      - Mountains
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Leafy Morningstar:
+    resource: Antimicrobial
+    biomes:
+      - Coniferous Forest
+      - Deciduous Forest
+      - Tropical Forest
+      - Savanna
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Glossy Stickweed:
+    resource: Sealant
+    biomes:
+      - Coniferous Forest
+      - Deciduous Forest
+      - Mountains
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Firecracker Vine:
+    resource: Ornamental
+    biomes:
+      - Deciduous Forest
+      - Tropical Forest
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-cloning
+
+  Aurora Palm:
+    resource: Nutrient
+    biomes:
+      - Coniferous Forest
+      - Deciduous Forest
+      - Mountains
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Spores
+
+
   TBD7: {}
   TBD8: {}
   TBD9: {}
-flora_rating: TBD
+flora_rating: Moderate
 gravity: 0.48 G
 magnetosphere: Weak
 name: Groombridge VIII-a
-o2_percent: TBD
+o2_percent: 0
 planet: Groombridge VIII
 resources:
 - Argon
@@ -33,9 +155,9 @@ resources:
 - Chlorine
 - Lead
 - Water
-surface_temp: TBD
+surface_temp: 38
 temperature: Temperate
 traits:
-- TBD1
+  - Psychotropic Biota - Fungal Growths - Fungal Grotto
 type: Rock
 water: Biological

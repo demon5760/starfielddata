@@ -12,5 +12,7 @@ flora: {}
 fauna: {}
 traits: []
 resources: []
+surface_temp: N/A
+o2_percent: N/A
 credits:
   - Demon5760

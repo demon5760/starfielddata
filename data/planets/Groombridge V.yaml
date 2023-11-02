@@ -1,17 +1,18 @@
 atmosphere: H2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 2.37 G
 magnetosphere: Strong
 name: Groombridge V
-o2_percent: TBD
+o2_percent: N/A
 resources: []
 system: Groombridge
-surface_temp: TBD
+surface_temp: N/A
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

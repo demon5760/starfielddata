@@ -8,7 +8,7 @@ crafting:
     - Ionic Liquids: 2
       Membrane: 2
       Mag Pressure Tank: 1
-  Simple Fabricator:
+  Compound Fabricator:
     - Ionic Liquids: 2
       Membrane: 2
       Mag Pressure Tank: 1
