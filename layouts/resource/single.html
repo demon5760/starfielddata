@@ -65,7 +65,6 @@
 
         {{ if eq $resource.type "Manufactured"}}
           {{ if $resource.crafting }}
-            {{ if index $resource.crafting "Simple Fabricator" }}
               <h3>Resource Tree</h3>
               <div>
                 <div style="float:left; padding-right:15px">
@@ -157,10 +156,9 @@
                 </div>
                 {{ end }}
                 
-            {{ end }}
-            </div>
           {{ end}}
         {{end}}
+      </div>
       </div>
      
       {{ partial "page_credits.html" (slice $.Site.Data.sources $credits) }}
