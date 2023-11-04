@@ -7,9 +7,9 @@ flora: {}
 flora_rating: TBD
 gravity: 0.12 G
 magnetosphere: '-0'
-name: Orphion I-a
+name: Ophion I-a
 o2_percent: TBD
-planet: Orphion I
+planet: Ophion I
 resources:
 - Copper
 - Fluorine

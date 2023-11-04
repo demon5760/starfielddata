@@ -1,20 +1,115 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-fauna_rating: TBD
+  Flocking Bonefrill Grazer:
+    temperament: Peaceful
+    resource: Aromatic
+    biomes:
+      - Hills
+      - Deciduous Forest
+      - Mountains
+    health: 145
+
+  Noid Filterer:
+    temperament: Skittish
+    resource: Metabolic Agent
+    biomes:
+      - Frozen Dunes
+      - Hills
+      - Deciduous Forest
+      - Mountains
+    health: 20
+
+  Hunting Shieldshell:
+    temperament: Defensive
+    resource: Lubricant
+    biomes:
+      - Hills
+      - Deciduous Forest
+      - Mountains
+    health: 275
+    abilities: Ranged mouth attack
+    
+  Miliwhale Geophage:
+    temperament: Peaceful
+    resource: Toxin
+    non_lethal_harvest: true
+    biomes:
+      - Swamp
+    health: 20
+
+  Pack Scarab:
+    temperament: Defensive
+    resource: Sealant
+    biomes:
+      - Swamp
+    health: 170
+
+  Clawback Herbivore:
+    temperament: Wary
+    resource: Polymer
+    biomes:
+      - Swamp
+    health: 170
+
+  Shoaling Lurefish Scavenger:
+    temperament: Territorial
+    resource: Membrane
+    biomes:
+      - Swamp
+      - Ocean
+    health: 95
+
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Explorer's Coleus:
+    resource: Nutrient
+    biomes:
+      - Frozen Dunes
+      - Hills
+      - Deciduous Forest
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    reproduction2: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Spiral Creeper:
+    resource: Structural
+    biomes:
+      - Swamp
+      - Hills
+      - Deciduous Forest
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Sweet Yellow Creeper:
+    resource: Fiber
+    biomes:
+      - Hills
+      - Deciduous Forest
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+flora_rating: Marginal
 gravity: 0.85 G
 magnetosphere: Average
 name: Muphrid IV
@@ -32,8 +127,8 @@ system: Muphrid
 surface_temp: TBD
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+  - Global Glacial Recession - Melted Glacier
+  - Ecological Consortium - Ecological Consortium - Hive Structures
+  - Amphibious Foothold - Amphibious Thicket - Remains Of Amphibious Lifeforms
 type: Rock
 water: Radioactive

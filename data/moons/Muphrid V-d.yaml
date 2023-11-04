@@ -1,14 +1,15 @@
 atmosphere: THIN CO2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.39 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Muphrid V-d
-o2_percent: TBD
+o2_percent: 0
 planet: Muphrid V
 resources:
 - Aluminum
@@ -19,11 +20,11 @@ resources:
 - Helium-3
 - Nickel
 - Water
-surface_temp: TBD
+surface_temp: -48
 temperature: Cold
 traits:
-- TBD1
-- TBD2
-- TBD3
+  - Pelted Fields - Meteor Shower Impact Site - Stony Meteorite
+  - Crystalline Crust - Crystalline Matrix - Crystalline Nucleation Nodule
+  - Slushy Subsurface Seas - Subsurface Seas - Organonitrogen Vent
 type: Rock
 water: Safe

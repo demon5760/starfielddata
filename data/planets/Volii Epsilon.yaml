@@ -1,14 +1,36 @@
 atmosphere: THIN M
 credits:
-- Starfield Sheet 1
-fauna: {}
-fauna_rating: TBD
+  - Starfield Sheet 1
+  - Demon5760
+fauna:
+  Flocking Trident Grazer:
+    temperament: Peaceful
+    resource: Lubricant
+    biomes:
+      - Mountains
+      - Coniferous Forest
+      - Savanna
+    health: 240
+    outpost_production_allowed: true
+
+  Carasnail Grazer:
+    temperament: Peaceful
+    resource: structural
+    biomes:
+      - Frozen Cevasses
+      - Mountains
+      - Coniferous Forest
+      - Savanna
+    health: 24200
+    outpost_production_allowed: true
+
+fauna_rating: Primordial
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.46 G
 magnetosphere: Weak
 name: Volii Epsilon
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Chlorine
 - Chlorosilanes
@@ -18,9 +40,9 @@ resources:
 - Lead
 - Water
 system: Volii
-surface_temp: TBD
+surface_temp: -16
 temperature: Cold
 traits:
-- TBD1
+  - Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
 type: Rock
 water: Chemical

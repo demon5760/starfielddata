@@ -1,22 +1,98 @@
 atmosphere: EXTR O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-fauna_rating: TBD
+  Canard Filterer:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    non_lethal_harvest: true
+    biomes:
+      - Frozen Mountains
+      - Hills
+      - Savanna
+    health:
+      20
+
+  Herding Snail Grazer:
+    temperament: Peaceful
+    resource: Sealant
+    biomes:
+      - Hills
+      - Savanna
+    health:
+      50
+
+  Pack Brainsprout:
+    temperament: Fearless
+    resource: Antimicrobial
+    biomes:
+      - Hills
+      - Savanna
+    health:
+      275
+    resistances: []
+
+  Schooling Seahag Grazer:
+    temperament: Wary
+    resource: Toxin
+    biomes:
+      - Ocean
+    health:
+      150
+
+  Hunting Sharkwhale:
+    temperament: Defensive
+    resource: Cosmetic
+    biomes:
+      - Ocean
+    health:
+      550
+    abilities:
+      - Laceration damage
+      - Extra Health
+      - Increased armor penetration
+
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Fallen Star Palm:
+    resource: Sealant
+    biomes:
+      - Savanna
+    genetics:
+      - Standard Helix
+    reproduction: Complex
+
+  Augustus Creeper:
+    resource: Hallucinogen
+    biomes:
+      - Hills
+      - Savanna
+    genetics:
+      - Chiral Opposite
+      - HF-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Warren Nettle:
+    resource: Fiber
+    biomes:
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+flora_rating: Marginal
 gravity: 1.50 G
 magnetosphere: Powerful
 name: Andromas II
-o2_percent: TBD
+o2_percent: 24
 resources:
 - Argon
 - Carboxylic Acids
@@ -27,9 +103,9 @@ resources:
 - Nickel
 - Water
 system: Andromas
-surface_temp: TBD
+surface_temp: 25
 temperature: Temperate
 traits:
-- TBD1
+  - Aeriform Life
 type: Rock
 water: Chemical
