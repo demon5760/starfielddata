@@ -1,30 +1,85 @@
 atmosphere: STD M (COR)
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-fauna_rating: TBD
+  Herding Roundshell Scavenger:
+    temperament: Defensive
+    resource: Hallucinogen
+    biomes:
+      - Coniferous Forest
+    health: 195
+
+  Hunting Crab:
+    temperament: Fearless
+    resource: Pigment
+    biomes:
+      - Coniferous Forest
+    health: 310
+
+  Beetle Scavenger:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    non_lethal_harvest: true
+    biomes:
+      - Coniferous Forest
+      - Frozen Mountains
+    health: 20
+
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Sweet Canis Vine:
+    resource: Nutrient
+    biomes:
+      - Frozen Mountains
+      - Coniferous Forest
+    genetics:
+      - Stadard Helix
+      - Methane-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Starburst Silkweed:
+    resource: Toxin
+    biomes:
+      - Coniferous Forest
+    genetics:
+      - Stadard Helix
+      - Methane-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Golden Creeper:
+    resource: Sealant
+    biomes:
+      - Coniferous Forest
+    genetics:
+      - Stadard Helix
+      - Methane-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+flora_rating: Marginal
 gravity: 0.80 G
 magnetosphere: Weak
 name: Eridani IV
-o2: TBD
+o2_percent: 0
 resources:
 - Argon
 - Fluorine
 - Water
 system: Eridani
-surface_temp: TBD
+surface_temp: -16
 temperature: Cold
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Ecological Consortium
+- Aeriform Life - Aeriform Life - Fermentation Vents
+- Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
 type: Rock
 water: Chemical

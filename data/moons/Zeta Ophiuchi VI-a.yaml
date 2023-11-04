@@ -1,14 +1,45 @@
 atmosphere: STD M
 credits:
-- Starfield Sheet 1
-fauna: {}
-fauna_rating: TBD
+  - Starfield Sheet 1
+  - Demon5760
+fauna:
+  Herding Brightcage Geophage:
+    temperament: Wary
+    resource: Spice
+    biomes:
+      - Volcanic
+      - Mountains
+      - Rocky Desert
+    health: 295
+    resistances:
+      - Blast damage
+      - Energy damage
+      - Physical damage
+    abilities:
+      - Ranged mouth attack
+
+  Pack Nailtail:
+    temperament: Wary
+    resource: Analgesic
+    non_lethal_harvest: true
+    biomes:
+      - Volcanic
+      - Mountains
+      - Rocky Desert
+    health: 135
+    resistances:
+      - Reflects melee damage
+    abilities:
+      - Camouflaged
+      - Ranged mouth attack
+
+fauna_rating: Primordial
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.65 G
 magnetosphere: Very Weak
 name: Zeta Ophiuchi VI-a
-o2_percent: TBD
+o2_percent: 0
 planet: Zeta Ophiuchi VI
 resources:
 - Antimony
@@ -19,9 +50,9 @@ resources:
 - Lead
 - Uranium
 - Water
-surface_temp: TBD
+surface_temp: -155
 temperature: Deep Freeze
 traits:
-- TBD1
+  - Emerging Tectonics - Emerging Tectonics - Hot Spring Terraces
 type: Rock
 water: Biological

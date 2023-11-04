@@ -1,38 +1,127 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-fauna_rating: TBD
+  Flocking Brightcage Geophage:
+    temperament: Defensive
+    resource: Pigment
+    biomes:
+      - Frozen Dunes
+      - Sandy Desert
+    health: 95
+
+  Scepter Filterer:
+    temperament: Peaceful
+    resource: Aromatic
+    biomes:
+      - Frozen Dunes
+      - Sandy Desert
+    health: 20
+
+  Trident Herbivore:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Sandy Desert
+    health: 20
+
+  Hunting Vuvuzelisk:
+    temperament: Fearless
+    resource: Toxin
+    biomes:
+      - Sandy Desert
+      - Frozen Dunes
+    health: 930
+
+  Hunting Coralcrab:
+    temperament: Wary
+    resource: Stimulant
+    biomes:
+      - Sandy Desert
+      - Frozen Dunes
+    health: 100
+    abilities: []
+  
+  Pack Trapmaw:
+    temperament: Fearless
+    resource: Amino Acids
+    biomes:
+      - Frozen Dunes
+    health: 100
+    abilities: []
+
+fauna_rating: Abundant
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Boreas Root:
+    resource: Metabolic Agent
+    biomes:
+      - Frozen Dunes
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+
+  Sub-zero Silkweed:
+    resource: Fiber
+    biomes:
+      - Frozen Dunes
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+
+  Dunetangle:
+    resource: Structural
+    biomes:
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+
+  Sweet Fumewort:
+    resource: Sealant
+    biomes:
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Spiny Bell Cactus:
+    resource: Cosmetic
+    biomes:
+      - Sandy Desert
+    genetics:
+      - XNA
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+flora_rating: Abundant
 gravity: 1.94 G
 magnetosphere: Average
 name: Eridani III
-o2_percent: TBD
+o2_percent: 24
 resources:
-- Argon
-- Iridium
-- Plutonium
-- Uranium
-- Vanadium
-- Water
+  - Argon
+  - Iridium
+  - Plutonium
+  - Uranium
+  - Vanadium
+  - Water
 system: Eridani
-surface_temp: TBD
+surface_temp: 0
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Global Glacial Recession
+- Ecological Consortium
+- Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
 type: Rock
 water: Heavy Metal

@@ -1,25 +1,27 @@
-atmosphere: TBD
+atmosphere: None
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.21 G
-magnetosphere: TBD
+magnetosphere: None
 name: Procyon B I
-o2: TBD
+o2_percent: 0
 resources:
 - Aluminum
 - Helium-3
 - Neodymium
 system: Procyon B
-surface_temp: TBD
+surface_temp: 193
 temperature: Scorched
 traits:
-- TBD1
-- TBD2
-- TBD3
-- TBD4
+  - Boiled Seas
+  - Gravitational Anomaly
+  - Continual Conductor - Conductive Ridge - Crystalline Briars
+  - Prismatic Plumes - Crystalline Minerals - Crystalline Pools
+  - Energetic Rifting - Thermal Craters - Fumarole Field
 type: Barren
 water: None

@@ -1,28 +1,159 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-fauna_rating: TBD
+  Herding Vuvuzelisk Grazer:
+    temperament: Wary
+    resource: Structural
+    biomes:
+      - Rocky Desert
+      - Mountains
+    health: 210
+    resistances:
+      - Blast damage
+      - Physical damage
+
+  Spaceroach Filterer:
+    temperament: Peaceful
+    resource: Fiber
+    non_lethal_harvest: true
+    biomes:
+      - Rocky Desert
+      - Frozen Hills
+      - Mountains
+    health: 20
+
+  Hunting Bighorn:
+    temperament: Territorial
+    resource: Sealant
+    biomes:
+      - Rocky Desert
+      - Mountains
+    health: 310
+
+  Glider Scavenger:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Rocky Desert
+      - Mountains
+      - Hills
+    health: 20
+
+  Jellyfin Filter:
+    temperament: Peaceful
+    resource: Pigment
+    non_lethal_harvest: true
+    biomes:
+      - Tropical Forest
+      - Hills
+    health: 170
+
+  Hunting Leafstrider:
+    temperament: Territorial
+    resource: Nutrient
+    biomes:
+      - Tropical Forest
+      - Hills
+    health: 340
+
+  Pinecone Scavenger:
+    temperament: Peaceful
+    resource: Toxin
+    non_lethal_harvest: true
+    biomes:
+      - Tropical Forest
+      - Hills
+    health: 20
+
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-flora_rating: TBD
+  Cliff Laurel:
+    resource: Structural
+    biomes:
+      - Rocky Desert
+      - Mountains
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Red Latticebulb:
+    resource: Sealant
+    biomes:
+      - Mountains
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+
+  Bitter Goldenglow:
+    resource: Fiber
+    biomes:
+      - Rocky Desert
+      - Mountains
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+
+  Augustus Creeper:
+    resource: Pigment
+    biomes:
+      - Rocky Desert
+      - Mountains
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Autumn Junglebloom:
+    resource: Metabolic Agent
+    biomes:
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    reproduction2: Self-cloning
+
+  Sweet Goldenglow:
+    resource: Nutrient
+    biomes:
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+
+  Tropical Maw Palm:
+    resource: Membrane
+    biomes:
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+flora_rating: Moderate
 gravity: 0.86 G
 magnetosphere: Average
 name: Eridani II
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Chlorine
 - Cobalt
@@ -33,11 +164,11 @@ resources:
 - Nickel
 - Water
 system: Eridani
-surface_temp: TBD
+surface_temp: 32
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+  - Psychotropic Biota - Fungal Growths - Fungal Grotto
+  - Diseased Biosphere - Diseased Biosphere - Infected Grove
+  - Ecological Consortium - Ecological Consortium - Hive Structures
 type: Rock
 water: Safe
