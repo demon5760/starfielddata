@@ -2,7 +2,7 @@ name: Tirna V
 system: Alpha Tirna
 type: Rock
 gravity: 0.89 G
-temperature: Fozen
+temperature: Frozen
 atmosphere: Standard N2
 magnetosphere: Average
 fauna_rating: None
