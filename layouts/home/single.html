@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ $home_name := .Page.Title }}
 {{ $home := index $.Site.Data.homes $home_name }}
+{{ $data_file := printf "data/homes/%s.yaml" $home_name }}
 
 {{ $city := "" }}
 {{ if $home.city }}
@@ -102,6 +103,7 @@
       </div>
      
       {{ partial "page_credits.html" (slice $.Site.Data.sources $credits) }}
+      {{ partial "last_updated.html" $data_file }}
     </div>
   </div>
 </div>

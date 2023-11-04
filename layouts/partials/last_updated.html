@@ -1,0 +1,8 @@
+    {{ if os.FileExists . }}
+        {{ $f := os.Stat . }}
+        <div>
+            <span style="font-size: smaller;">Data Last Updated: {{ $f.ModTime.Format "2 Jan 2006" }}</span>
+        </div>
+    {{ else }}
+        {{ warnf printf "%s not found " . }}
+    {{ end }}

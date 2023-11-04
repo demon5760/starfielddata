@@ -1,6 +1,7 @@
 {{ define "main" }}
 
 {{ $system := index $.Site.Data.systems .Title }}
+{{ $data_file := printf "data/systems/%s.yaml" $system.name }}
 
 {{ $credits := slice }}
 {{ if $system.credits }}
@@ -130,6 +131,7 @@
           </table>
       </article>
       {{ partial "page_credits.html" (slice $.Site.Data.sources $credits .Title) }}
+      {{ partial "last_updated.html" $data_file }}
     </div>
   </div>
 </div>

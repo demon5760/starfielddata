@@ -3,6 +3,8 @@
 {{ $moon_name := .Page.Title }}
 {{ $moon := index $.Site.Data.moons $moon_name }}
 
+{{ $data_file := printf "data/moons/%s.yaml" $moon_name }}
+
 {{ $planet_name := $moon.planet }}
 {{ $planet := index $.Site.Data.planets $planet_name }}
 {{ $planet_page_file := printf "/locations/planets/%s" $planet_name }}
@@ -181,6 +183,7 @@
         {{ end }}
       </div>
       {{ partial "page_credits.html" (slice $.Site.Data.sources $credits .Title) }}
+      {{ partial "last_updated.html" $data_file }}
     </div>
   </div>
 </div>

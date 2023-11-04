@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ $resource_name := .Page.Title }}
 {{ $resource := index $.Site.Data.resources $resource_name }}
+{{ $data_file := printf "data/resources/%s.yaml" $resource_name }}
 
 {{ $credits := slice }}
 {{ if $resource.credits }}
@@ -163,6 +164,7 @@
       </div>
      
       {{ partial "page_credits.html" (slice $.Site.Data.sources $credits) }}
+      {{ partial "last_updated.html" $data_file }}
     </div>
   </div>
 </div>

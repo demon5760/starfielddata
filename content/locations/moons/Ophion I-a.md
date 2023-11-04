@@ -1,5 +1,5 @@
 
 +++
-title = "Orphion I-a"
+title = "Ophion I-a"
 type = 'moon'
 +++

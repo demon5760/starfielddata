@@ -1,5 +1,5 @@
 
 +++
-title = "Orphion I"
+title = "Ophion I"
 type = 'planet'
 +++
