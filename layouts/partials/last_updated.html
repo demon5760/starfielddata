@@ -1,5 +1,5 @@
 {{ $file_path := string .}}    
-{{ if os.FileExists $file_path }}
+{{ if not os.FileExists $file_path }}
     {{ $f := os.Stat $file_path }}
     <div>
         <span style="font-size: smaller;">Data Last Updated: {{ $f.ModTime.Format "2 Jan 2006" }}</span>
