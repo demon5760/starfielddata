@@ -1,5 +1,5 @@
 +++
-title = 'Zero G Gimbal'
+title = 'Zero-G Gimbal'
 type = 'resource'
 sc_mermaid_pako = ''
 +++
