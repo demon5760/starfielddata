@@ -1,9 +1,12 @@
-{{ $file_path := string .}}    
-{{ if not os.FileExists $file_path }}
-    {{ $f := os.Stat $file_path }}
-    <div>
-        <span style="font-size: smaller;">Data Last Updated: {{ $f.ModTime.Format "2 Jan 2006" }}</span>
-    </div>
-{{ else }}
-    {{ warnf (printf "'%s' not found " $file_path) }}
+{{ $file_path := string .}}  
+{{ $enabled := false }} 
+{{ if $enabled }} 
+    {{ if os.FileExists $file_path }}
+        {{ $f := os.Stat $file_path }}
+        <div>
+            <span style="font-size: smaller;">Data Last Updated: {{ $f.ModTime.Format "2 Jan 2006" }}</span>
+        </div>
+    {{ else }}
+        {{ warnf (printf "'%s' not found " $file_path) }}
+    {{ end }}
 {{ end }}
