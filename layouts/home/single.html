@@ -50,6 +50,8 @@
 
         {{ if $home.planet }}
           {{ $body_name = $home.planet}}
+          {{ $planet := index $.Site.Data.planets $body_name }}
+          {{ $system_link = partial "util/get_location_link.html" ( slice $planet.system $.Site) }}
         {{ end }}
         {{ if $body_name }}
           {{ $body_link = partial "util/get_location_link.html" ( slice $body_name $.Site) }}
