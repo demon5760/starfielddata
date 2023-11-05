@@ -1,16 +1,40 @@
 atmosphere: THIN O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
 fauna:
-  TBD1: {}
+  Coralheart Filterer:
+    temperament: Wary
+    resource: Sealant
+    biomes:
+      - Frozen Crevasses
+      - Coniferous Forest
+      - Deciduous Forest
+      - Tropical Forest
+      - Mountains
+      - Volcanic
+    health: 20
+
   TBD2: {}
   TBD3: {}
-fauna_rating: TBD
+fauna_rating: Marginal
 flora:
-  TBD1: {}
+  Cliff Laurel:
+    resource: Nutrient
+    biomes:
+      - Coniferous Forest
+      - Deciduous Forest
+      - Tropical Forest
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
   TBD2: {}
   TBD3: {}
-flora_rating: TBD
+flora_rating: Marginal
 gravity: 0.55 G
 magnetosphere: Average
 name: Newton III
@@ -28,6 +52,7 @@ system: Newton
 surface_temp: TBD
 temperature: Temperate
 traits:
-- TBD1
+  - Gravitional Anomoly
+  - TBD
 type: Rock
 water: Chemical

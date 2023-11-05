@@ -1,21 +1,23 @@
-atmosphere: TBD
+atmosphere: None
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.03 G
-magnetosphere: TBD
+magnetosphere: None
 name: Van Maanen I
-o2: TBD
+o2_percent: 0
 resources:
 - Copper
 - Water
 system: Van Maanen's Star
-surface_temp: TBD
+surface_temp: -237
 temperature: Deep Freeze
 traits:
-- TBD1
+  - Gaseous Font - Volcanic Vents - Outgassing Field
+  - Gravitional Anomoly
 type: Ice
 water: None
