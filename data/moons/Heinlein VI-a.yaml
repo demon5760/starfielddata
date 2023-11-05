@@ -1,10 +1,16 @@
 atmosphere: STD M
 credits:
 - Starfield Sheet 1
-fauna: {}
-fauna_rating: TBD
-flora: {}
-flora_rating: TBD
+fauna: 
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+fauna_rating: Primordial
+flora: 
+  TBD1: {}
+flora_rating: Primordial
 gravity: 0.53 G
 magnetosphere: Weak
 name: Heinlein VI-a

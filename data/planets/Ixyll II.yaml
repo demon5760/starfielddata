@@ -56,24 +56,12 @@ flora:
     required_inputs:
       - Water
 
-  Spirit Laurel:
-    resource: Ornamental
-    biomes:
-      - Savanna
-      - Mountains
-      - Wetlands
-      - Deciduous Forest
-      - Volcanic
-      - Hills
-    genetics:
-      - Standard Helix
-      - Carbon-based
-    reproduction: Self-fertilization
-
+  TBD4: {}
   TBD5: {}
   TBD6: {}
   TBD7: {}
   TBD8: {}
+
 flora_rating: Moderate
 gravity: 0.74 G
 magnetosphere: Average

@@ -24,7 +24,7 @@ surface_temp: 192
 temperature: Scorched
 traits:
 - Energetic Rifting - Thermal Crater - Fumarole Field
-- Gravitational Anomaly - Gravitational Anomaly - Gravitational Anomaly 
+- Gravitational Anomaly
 - Prismatic Plumes - Crystalline Minerals - Crystalline Pools
 type: Rock
 water: None

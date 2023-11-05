@@ -3,8 +3,12 @@ credits:
 - Starfield Sheet 1
 fauna: {}
 fauna_rating: TBD
-flora: {}
-flora_rating: TBD
+flora: 
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+flora_rating: Primordial
 gravity: 0.37 G
 magnetosphere: Weak
 name: Alpha Andraste II

@@ -7,7 +7,8 @@ contribute back to those sources.
 import pandas as pd
 import logging
 from pprint import pprint
-logging.basicConfig(level=logging.DEBUG)
+import sys
+logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 
 import local_data
 
@@ -88,7 +89,11 @@ class StarfieldSheetProcessor:
             self.__compare_values(body_name, "Atmosphere", row["Atmosphere"],  body["atmosphere"])
             self.__compare_values(body_name, "Magnetosphere", row["Magnetosphere"], body["magnetosphere"])
             self.__compare_values(body_name, "Water", row["Water"], body["water"])
-            self.__compare_values(body_name, "Traits", row["Traits"], len(body["traits"]))
+            
+            l_trait_count = len(body["traits"])
+            if "Gravitational Anomaly" in body["traits"]:
+                l_trait_count = len(body["traits"]) - 1
+            self.__compare_values(body_name, "Traits", row["Traits"], l_trait_count)
 
             if row["Fauna"].lower().startswith("pri "):
                 if body["fauna_rating"] != "Primordial":

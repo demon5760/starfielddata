@@ -180,6 +180,7 @@ system: Guniibuu
 surface_temp: 21
 temperature: Temperate
 traits:
-- Global Glacial Recession - Melted Glacier - Glacial Remnant
+  - Global Glacial Recession - Melted Glacier - Glacial Remnant
+  - TBD2
 type: Rock
 water: Radioactive
