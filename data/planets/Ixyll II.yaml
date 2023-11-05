@@ -1,8 +1,15 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
+  Pack Glowhands:
+    temperament: Fearless
+    resource: Hypercatalyst
+    lives_underground: true
+    health: 310
+    resistances: []
+    abilities: []
   TBD2: {}
   TBD3: {}
   TBD4: {}
@@ -11,21 +18,67 @@ fauna:
   TBD7: {}
   TBD8: {}
   TBD9: {}
-fauna_rating: TBD
+fauna_rating: Abundant
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
+  Spirit Laurel:
+    resource: Structural
+    biomes:
+      - Wetlands
+      - Decidious Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-fertilization
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Spitting Pokeweed:
+    resource: Nutrient
+    biomes:
+      - Wetlands
+      - Decidious Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Complex
+
+  Sweet Yellow Creeper:
+    resource: Sealant
+    biomes:
+      - Wetlands
+      - Decidious Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Flowering
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Spirit Laurel:
+    resource: Ornamental
+    biomes:
+      - Savanna
+      - Mountains
+      - Wetlands
+      - Deciduous Forest
+      - Volcanic
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-fertilization
+
   TBD5: {}
   TBD6: {}
   TBD7: {}
   TBD8: {}
-flora_rating: TBD
+flora_rating: Moderate
 gravity: 0.74 G
 magnetosphere: Average
 name: Ixyll II
-o2_percent: TBD
+o2_percent: 18
 resources:
 - Alkanes
 - Antimony
@@ -36,10 +89,10 @@ resources:
 - Iron
 - Water
 system: Ixyll
-surface_temp: TBD
+surface_temp: 14
 temperature: Temperate
 traits:
-- TBD1
+- Amphibious Foothold
 - TBD2
 type: Rock
 water: Safe
