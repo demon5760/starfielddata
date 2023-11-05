@@ -131,6 +131,22 @@
         {{ else }}
           {{ .Page.Title }} has no fauna.
         {{ end }}
+
+        {{ $city_names := partial "util/get_cities_on_body.html" .Page }}
+        {{ if $city_names }}
+          {{ if gt ($city_names | len ) 0 }}
+            <div id="cities">
+            <h2>Cities</h2>
+            The following cities are located on {{ .Page.Title }}
+            <ul>
+              {{ range $city_names }}
+                <li>{{ partial "util/get_location_link.html" (slice . $.Site) }}</li>
+              {{ end }}
+            </ul>
+            </div>
+          {{ end }}
+        {{ end }}
+
       </div>
       {{ partial "page_credits.html" (slice $.Site.Data.sources $credits .Title) }}
       {{ partial "last_updated.html" $data_file }}

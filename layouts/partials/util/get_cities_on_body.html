@@ -1,0 +1,12 @@
+{{ $city_names := slice }}
+{{ $body_name := .Title }}
+
+{{ range .Site.Data.cities }}
+    {{ if .planet }}
+        {{ if eq .planet $body_name }}
+            {{ $city_names = $city_names | append .name }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{ return $city_names }}

@@ -127,6 +127,21 @@
           {{ .Page.Title }} has no fauna.
         {{ end }}
 
+        {{ $city_names := partial "util/get_cities_on_body.html" .Page }}
+        {{ if $city_names }}
+          {{ if gt ($city_names | len ) 0 }}
+            <div id="cities">
+            <h2>Cities</h2>
+            The following cities are located on {{ .Page.Title }}
+            <ul>
+              {{ range $city_names }}
+                <li>{{ partial "util/get_location_link.html" (slice . $.Site) }}</li>
+              {{ end }}
+            </ul>
+            </div>
+          {{ end }}
+        {{ end }}
+        
         <h2>Moons</h2>
         <ul>
           {{ range $.Site.Data.moons }}
