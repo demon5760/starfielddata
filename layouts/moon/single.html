@@ -80,59 +80,9 @@
         </ul>
 
         <h2>Flora</h2>
-        {{ if gt ($moon.flora | len) 0 }}
-          {{ .Page.Title }} is home to {{ $moon.flora | len }} species of flora.
-          <table>
-            <tr>
-              <th>Name</th>
-              <th>Resource</th>
-              <th>Farmable</th>
-              <th>Biomes</th>
-              <th>Reproduction</th>
-              <th>Genetics</th>
-              
-            </tr>
-            {{ range $flora_name, $flora_details := $moon.flora }}
-            <tr>
-              <td>{{ $flora_name }}</td>
-              <td>
-                {{ $resource_page_file := printf "/items/resources/%s" $flora_details.resource }}
-                {{ $resource_page := $.Site.GetPage $resource_page_file }}
-                {{ if $resource_page }}
-                  <a href="{{ $resource_page.Permalink }}">{{ $flora_details.resource }}</a>
-                {{ else }}
-                  {{ $flora_details.resource }}
-                {{ end }}
-              </td>
-              <td>
-                {{ if $flora_details.outpost_production_allowed }}
-                &check;
-                {{ end }}
-              </td>
-              <td>
-                <ul>
-                {{ range $flora_details.biomes }}
-                  <li>{{ . }}</li>
-                {{end}}
-              </ul>
-              </td>
-              <td>{{ $flora_details.reproduction }}</td>
-              <td>
-                <ul>
-                {{ range $flora_details.genetics }}
-                  <li>{{ . }}</li>
-                {{end}}
-              </ul>
-              </td>
-            </tr>
-            {{ end }}
-          </table>
-        {{ else }}
-          {{ .Page.Title }} has no flora.
-        {{ end }}
+        {{ partial "flora_table.html" . }}
 
-
-
+       
         <h2>Fauna</h2>
         {{ if gt ($moon.fauna | len) 0 }}
           {{ .Page.Title }} is home to {{ $moon.fauna | len }} species of fauna.

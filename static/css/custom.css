@@ -10,3 +10,8 @@
     background-color:yellow;
     font-weight: bolder;
 }
+
+.keyword {
+    font-family: "Courier New", monospace;
+    background-color: whitesmoke;
+}

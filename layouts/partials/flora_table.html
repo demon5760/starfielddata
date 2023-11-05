@@ -1,0 +1,62 @@
+{{ $page := . }}
+{{ $location_name := .Title }}
+{{ $location_type_data := index .Site.Data ((.Type |pluralize )) }}
+{{ $location_data := index $location_type_data $location_name}}
+
+{{ $flora_rating := index $location_data "flora_rating"}}
+{{ if not (eq $flora_rating "TBD") }}
+    {{ $flora_rating = lower $flora_rating}}
+{{ end }}
+{{ if eq $flora_rating "none" }}
+    {{ $flora_rating = "no" }}
+{{ end }}
+
+{{ $flora_qty := $location_data.flora | len }}
+
+<div id="flora">
+    {{ $location_name }} has {{ partial "util/tbd_data_resolver.html" $flora_rating }} flora.
+
+    {{ if gt $flora_qty 0 }}
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Resource</th>
+                <th>Farmable</th>
+                <th>Biomes</th>
+                <th>Reproduction</th>
+                <th>Genetics</th>
+                </tr>
+        </thead>
+        <tbody>
+            {{ range $flora_name, $flora_details := $location_data.flora }}
+                <tr>
+                    <td>{{ $flora_name }}</td>
+                    <td>{{partial "util/get_resource_link" (slice $flora_details.resource $page.Site)}}</td>
+                    <td>
+                        {{ if $flora_details.outpost_production_allowed }}
+                        &check;
+                        {{ end }}
+                    </td>
+                    <td>
+                        <ul>
+                            {{ range $flora_details.biomes }}
+                              <li>{{ . }}</li>
+                            {{end}}
+                          </ul>
+                    </td>
+                    <td>{{ $flora_details.reproduction }}</td>
+                    <td>
+                        <ul>
+                            {{ range $flora_details.genetics }}
+                              <li>{{ . }}</li>
+                            {{end}}
+                        </ul>
+                    </td>
+                </tr>
+            {{ end }}
+        </tbody>
+    </table>
+    {{ end }}
+</div>
+
