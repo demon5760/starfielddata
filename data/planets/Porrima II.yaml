@@ -1,34 +1,121 @@
 atmosphere: EXTR O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-fauna_rating: TBD
+  Milliwhale Grazer:
+    temperament: Skittish
+    resource: Structural
+    non_lethal_harvest: true
+    biomes:
+      - Tropical Forest
+    health: 20
+
+  Herding Coassowary Scavenger:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Tropical Forest
+    health: 70
+
+  Pack Seabat:
+    temperament: Wary
+    resource: Fiber
+    biomes:
+      - Tropical Forest
+    health: 70
+
+  Herding Leafbug Grazer:
+    temperament: Wary
+    resource: Aromatic
+    biomes:
+      - Tropical Forest
+    health: 20
+    resistances: []
+    outpost_production_allowed: true
+
+  Schooling Finback Scavenger:
+    temperament: Wary
+    resource: Spice
+    biomes:
+      - Ocean
+    health: 170
+    resistances: []
+
+  Pack Bladehead:
+    temperament: Defensive
+    resource: Spice
+    non_lethal_harvest: true
+    biomes:
+      - Ocean
+    health: 310
+    abilities:
+      - Heals rapidly
+
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Dunetangle:
+    resource: Fiber
+    biomes:
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    resproduction: Self-cloning
+
+  Stinging Flutterleaf:
+    resource: Spice
+    biomes:
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    resproduction: Self-cloning
+
+  Hecate's Fireleaf:
+    resource: Sealant
+    biomes:
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    resproduction: Self-cloning
+
+  Bristle Barrel:
+    resource: Spice
+    biomes:
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    resproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Sandclaw:
+    resource: Aromatic
+    biomes:
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - HF-based
+    resproduction: Self-cloning
+
+flora_rating: Moderate
 gravity: 1.24 G
 magnetosphere: Powerful
 name: Porrima II
-o2: TBD
+o2_percent: 24
 resources:
 - Caesium
 - Chlorine
 - Lithium
 - Water
 system: Porrima
-surface_temp: TBD
+surface_temp: 32
 temperature: Temperate
 traits:
-- TBD1
+  - Ecological Consortium
 type: Rock
 water: Safe

@@ -30,12 +30,64 @@ fauna:
       - Volcanic
     health: 20
 
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-  TBD9: {}
+  Herding Blistercrab Grazer:
+    temperament: Peaceful
+    resource: Sealant
+    biomes:
+      - Coniferous Forest
+      - Deciduous Forest
+    health: 245
+    abilities:
+      - Ranged mouth attack
+    weakness: EM damage
+    outpost_production_allowed: true
+
+  Flocking Scepter Filterer:
+    temperament: Peaceful
+    resource: Spice
+    biomes:
+      - Mountains
+      - Deciduous Forest
+    health: 345
+    outpost_production_allowed: true
+
+  Flocking Leafbug Filterer:
+    temperament: Territorial
+    resource: Polymer
+    biomes:
+      - Coniferous Forest
+      - Deciduous Forest
+    health: 220
+    outpost_production_allowed: true
+
+  Pack Crab Stalker:
+    temperament: Fearless
+    resource: Metabolic Agent
+    biomes:
+      - Coniferous Forest
+      - Deciduous Forest
+    health: 310
+    abilities:
+      - Fast attacks
+
+  Hunting Seabat:
+    temperament: Wary
+    resource: Antimicrobial
+    biomes:
+      - Mountains
+      - Deciduous Forest
+    health: 485
+    abilities:
+      - Heals rapidly
+
+  Carnasail Geophage:
+    temperament: Skittish
+    resource: Ornamental
+    biomes:
+      - Mountains
+      - Deciduous Forest
+    health: 20
+
 fauna_rating: Abundant
 flora:
   Duster Shrub:
@@ -48,14 +100,100 @@ flora:
       - Carbon-based
     reproduction: Self-cloning
 
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-  TBD9: {}
+  Fallen Star Palm:
+    resource: Toxin
+    biomes:
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+
+  Spitting Goatweed:
+    resource: Metabolic Agent
+    biomes:
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Golden Creeper:
+    resource: Fiber
+    biomes:
+      - Coniferous Forest
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Forest Wisp:
+    resource: Pigment
+    biomes:
+      - Coniferous Forest
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Explorer's Coleus:
+    resource: Structural
+    biomes:
+      - Coniferous Forest
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    reproduction2: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Spitting Pokeweed:
+    resource: Polymer
+    biomes:
+      - Coniferous Forest
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+
+  Mountain Silkweed:
+    resource: Structural
+    biomes:
+      - Mountains
+      - Volcanic
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+
+  Cliffberry:
+    resource: Polymer
+    biomes:
+      - Mountains
+      - Volcanic
+    genetics:
+      - Standard Helix
+      - HF-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
 flora_rating: Abundant
 gravity: 1.44 G
 magnetosphere: Powerful
@@ -73,6 +211,6 @@ system: Alpha Ternion
 surface_temp: 5
 temperature: Temperate
 traits:
-- TBD1
+  - Ecological Consortium
 type: Rock
 water: Safe

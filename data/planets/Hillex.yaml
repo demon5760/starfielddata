@@ -1,19 +1,19 @@
-atmosphere: None
+atmosphere: TBD
 credits:
 - Starfield Sheet 1
 fauna: {}
-fauna_rating: None
+fauna_rating: TBD
 flora: {}
-flora_rating: None
+flora_rating: TBD
 gravity: 1.31 G
 magnetosphere: Very Strong
-name: Hillex
-o2: 0
+name: HilleX
+o2: TBD
 resources:
 - Aluminum
 - Helium-3
 system: Valo
-surface_temp: -217
+surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren

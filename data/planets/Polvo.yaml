@@ -1,6 +1,7 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
   TBD1: {}
   TBD2: {}
@@ -10,18 +11,18 @@ fauna:
   TBD6: {}
   TBD7: {}
   TBD8: {}
-fauna_rating: TBD
+fauna_rating: Moderate
 flora:
   TBD1: {}
   TBD2: {}
   TBD3: {}
   TBD4: {}
   TBD5: {}
-flora_rating: TBD
+flora_rating: Moderate
 gravity: 0.81 G
 magnetosphere: Average
 name: Polvo
-o2_percent: TBD
+o2_percent: 24
 resources:
 - Argon
 - Benzene
@@ -31,11 +32,11 @@ resources:
 - Vanadium
 - Water
 system: Valo
-surface_temp: TBD
+surface_temp: 28
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+  - Sentient Microbial Colonies
+  - TBD2
+  - TBD3
 type: Rock
 water: Radioactive

@@ -1,5 +1,5 @@
 
 +++
-title = "HilleX"
+title = "Hillex"
 type = 'planet'
 +++
