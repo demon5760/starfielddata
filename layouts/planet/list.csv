@@ -1,0 +1,14 @@
+name,system,type,gravity,temperature,atmosphere,magnetosphere,fauna_rating,fauna,flora_rating,flora,water,o2_percent,surface_temp,resources,traits,credits{{printf "\n"}}
+
+{{- range $.Site.Data.planets -}}
+    {{- $resources := delimit .resources ";" -}}
+    {{- $credits := delimit .credits ";" -}}
+    {{- $traits := delimit .traits ";" -}}
+    {{- $fauna := slice -}}{{- range $k, $v := .fauna -}}{{- $fauna = $fauna | append $k -}}{{end}}
+    {{- $fauna_names := delimit $fauna ";" -}}
+    {{- $flora := slice -}}{{- range $k, $v := .flora -}}{{- $flora = $flora | append $k -}}{{end}}
+    {{- $flora_names := delimit $flora ";" -}}
+    {{ delimit (slice .name .system .type .gravity .temperature .atmosphere .magnetosphere 
+        .fauna_rating (.fauna | len) .flora_rating (.flora | len ) .water .o2_percent .surface_temp (.resources | len ) (.traits | len ) $credits) ","
+    }}
+{{end}}
