@@ -14,11 +14,3 @@ folks can build some automation/tooling on top of the data.
 In the near future, once I have accumulated a more complete data set I plan to provide a number
 of links that can be used to grab the data powering the site.
 
-## Systems
-Available data about systems.
-
-* [csv](/locations/systems/index.csv)
-* `.json` - Stay tuned
-
-## Other
-Stay tuned...

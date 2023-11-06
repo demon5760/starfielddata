@@ -1,0 +1,2 @@
+{{ $data := index $.Site.Data (.Param "data_class" | lower ) }}
+{{ $data | jsonify}}

@@ -1,7 +1,7 @@
 +++
 title = 'Systems'
 type = 'system'
-outputs = ['html', 'csv']
+outputs = ['html', 'csv', 'json']
 [menu]
   [menu.main]
     parent = 'Locations'
