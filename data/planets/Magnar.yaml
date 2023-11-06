@@ -1,24 +1,140 @@
 atmosphere: EXTR M
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-fauna_rating: TBD
+  Flocking Horsamander Scavenger:
+    temperament: Defensive
+    resource: Cosmetic
+    biomes:
+      - Frozen Plains
+      - Mountains
+      - Savanna
+      - Hills
+    health: 120
+    outpost_production_allowed: true
+    abilities:
+      - Staggering attacks
+  
+  Hunting Toadface:
+    temperament: Defensive
+    resource: Biosuppressant
+    non_lethal_harvest: true
+    biomes:
+      - Swamp
+      - Frozen Plains
+      - Mountains
+      - Savanna
+      - Hills
+    health: 345
+    abilities: []
+  
+  Beetle Scavenger:
+    temperament: Peacefule
+    resource: Metabolic Agent
+    biomes:
+      - Swamp
+      - Frozen Plains
+      - Mountains
+      - Savanna
+      - Hills
+    health: 20
+    outpost_production_allowed: true
+  
+  Herding Bonemane Grazer:
+    temperament: Territorial
+    resource: Membrane
+    non_lethal_harvest: false
+    biomes:
+      - Swamp
+      - Savanna
+    health: 70
+    outpost_production_allowed: true
+  
+  Swarming Saturnine:
+    temperament: Wary
+    resource: Toxin
+    non_lethal_harvest: false
+    biomes:
+      - Ocean
+      - Swamp
+    health: 275
+    abilities:
+      - Acidic Blood (reflects melee damage, armor piercing attacks)
+      - Laceration damage
+  
+  Pack Exocrawler:
+    temperament: Defensive
+    resource: Adhesive
+    biomes:
+      - Swamp
+      - Mountains
+      - Savanna
+      - Hills
+    health: 100
+    abilities: []
+    resistances: []
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-flora_rating: TBD
+  Star Bloom Root:
+    resource: Ornamental
+    biomes:
+      - Frozen Plains
+      - Mountains
+      - Savanna
+      - Hills
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  Weeping Fireleaf:
+    resource: Sealant
+    biomes:
+      - Swamp
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Twilight Cradleleaf:
+    resource: Fiber
+    biomes:
+      - Swamp
+      - Mountains
+      - Savanna
+      - Hills
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Crag Root:
+    resource: Nutrient 
+    biomes:
+      - Swamp
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Marginal
 gravity: 1.21 G
 magnetosphere: Weak
 name: Magnar
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Aluminum
 - Argon
@@ -29,11 +145,11 @@ resources:
 - Silver
 - Water
 system: Delta Pavonis
-surface_temp: TBD
+surface_temp: 40
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Psychotropic Biota - Fungal Growths - Fungal Grotto
+- Global Glacial Recession - Melted Glacier - Glacial Remnant
+- Diseased Biosphere - Diseased Biosphere - Infected Grove
 type: Rock
 water: Safe

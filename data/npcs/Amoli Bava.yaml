@@ -1,0 +1,14 @@
+name: Amoli Bava
+establishment: Jemison Mercantile
+vendor: true
+sells_categories:
+  - Weapons
+  - Ammo
+  - Spacesuits
+  - Packs
+  - Helmets
+  - Apparrel
+  - Aid
+  - Notes
+  - Resources
+  - Misc

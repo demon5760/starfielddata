@@ -1,27 +1,146 @@
 atmosphere: THIN M
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-fauna_rating: TBD
+  Mayfly Filterer:
+    temperament: Peaceful
+    resource: Membrane
+    non_lethal_harvest: true
+    biomes:
+      - Mountains
+      - Tropical Forest
+      - Frozen Plains
+      - Deciduous Forest
+      - Savanna
+    health: 20
+
+  Herding Cagebrain Herbivore:
+    temperament: Skittish
+    resource: Sealant
+    biomes:
+      - Tropical Forest
+      - Deciduous Forest
+    health: 250
+
+  Hunting Cricket:
+    temperament: Fearless
+    resource: Hypercatalyst
+    biomes:
+      - Tropical Forest
+      - Deciduous Forest
+    health: 285
+    abilities:
+      - Heals very rapidly
+
+  Trilobite Filterer:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Tropical Forest
+      - Deciduous Forest
+    health: 20
+
+  Flocking Trihorn Grazer:
+    temperament: Defensive
+    resource: Ornamental
+    biomes:
+      - Mountains
+      - Savanna
+    health: 95
+
+  Pack Ankylosaurus:
+    temperament: Defensive
+    resource: Analgesic
+    biomes:
+      - Mountains
+      - Savanna
+    health: 100
+
+  Beetle Filterer:
+    temperament: Skittish
+    resource: Toxin
+    biomes:
+      - Mountains
+      - Savanna
+    health: 20
+
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-flora_rating: TBD
+  Cagebrain:
+    resource: Structural
+    biomes:
+      - Tropical Forest
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Self-cloning
+
+  Sweet Root:
+    resource: Toxin
+    biomes:
+      - Mountains
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Moth Vine:
+    resource: Metabolic Agent
+    biomes:
+      - Tropical Forest
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Self-cloning
+
+  Aurora Palm:
+    resource: Fiber
+    biomes:
+      - Mountains
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Self-cloning
+
+  Cliffberry:
+    resource: Nutrient
+    biomes:
+      - Mountains
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Cliff Laurel:
+    resource: Cosmetic
+    biomes:
+      - Mountains
+      - Deciduous Forest
+    genetics:
+      - Chiral Opposite
+      - Methane-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+flora_rating: Moderate
 gravity: 0.57 G
 magnetosphere: Average
 name: Tau Ceti VIII-b
-o2_percent: TBD
+o2_percent: 0
 planet: Tau Ceti VIII
 resources:
 - Aluminum
@@ -31,11 +150,11 @@ resources:
 - Iron
 - Tantalum
 - Water
-surface_temp: TBD
+surface_temp: 22
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Ecological Consortium
+- Psychotropic Biota - Unusual Growths - Fungal Grotto
+- Gravitational Anomaly
 type: Rock
 water: Chemical
