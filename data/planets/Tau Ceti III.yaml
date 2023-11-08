@@ -1,14 +1,15 @@
 atmosphere: STD CO2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.61 G
 magnetosphere: Average
 name: Tau Ceti III
-o2: TBD
+o2_percent: 0
 resources:
 - Alkanes
 - Chlorine
@@ -18,10 +19,10 @@ resources:
 - Tetrafluorides
 - Water
 system: Tau Ceti
-surface_temp: TBD
+surface_temp: -33
 temperature: Cold
 traits:
-- TBD1
-- TBD2
+- Gravitational Anomaly
+- Crystalline Crust - Crstalline Matrix - Crystalline Nucleation Nodule
 type: Rock
 water: Heavy Metal

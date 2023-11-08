@@ -1,21 +1,22 @@
-atmosphere: '-0'
+atmosphere: None
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.25 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Guniibuu V-e
-o2_percent: TBD
+o2_percent: 0
 planet: Guniibuu V
 resources:
 - Chlorine
 - Water
-surface_temp: TBD
+surface_temp: -184
 temperature: Deep Freeze
 traits:
-- TBD1
+  - Corraline Landmass - Coral Pond - Coraline Mineral Pool
 type: Ice
 water: Safe

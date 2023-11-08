@@ -1,0 +1,6 @@
+title: Grunt Issue 6
+effect: Ballistic weapons permanently do an additional 5% more critical damage.
+mass: 0.00
+value: 100
+credits:
+  - Demon5760
