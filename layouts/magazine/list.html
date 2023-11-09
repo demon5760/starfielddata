@@ -1,0 +1,34 @@
+{{ define "main" }}
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        {{ with .Content }}
+         <div class="well">
+            {{.}}
+          </div>
+
+        {{ end }}
+        <div class="list">
+          <table class="data_table">
+            <thead>
+              <tr>
+                <th>Title</th><th>Mass</th><th>Value</th><th>Effect</th><th>Location</th>
+              </tr>
+            </thead>
+            <tbody>
+              {{ range $.Site.Data.magazines }}
+                <tr>
+                  <td>{{ .title }} </td>
+                  <td>{{ .mass }}</td>
+                  <td>{{ .value }}</td>
+                  <td>{{ .effect }}</td>
+                  <td>{{ .location }}</td>
+                </tr>
+              {{ end }}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}
