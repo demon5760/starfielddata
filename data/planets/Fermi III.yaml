@@ -1,28 +1,154 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-fauna_rating: TBD
+  Herding Clawback Scavenger:
+    temperament: Wary
+    resource: Structural
+    biomes:
+      - Sandy Desert
+      - Mountains
+    health: 70
+  
+  Swarming Cockroach:
+    temperament: Territorial
+    resource: Metabolic Agent
+    biomes:
+      - Sandy Desert
+      - Mountains
+    health: 450
+  
+  Shardhopper Herbivore:
+    temperament: Peaceful
+    resource: Amino Acids
+    non_lethal_harvest: true
+    biomes:
+      - Deciduous Forest
+    health: 420
+  
+  Hunting Exorunner:
+    temperament: Wary
+    resource: Hypercatalyst
+    biomes:
+      - Deciduous Forest
+    health: 625
+  
+  Herding Clawback Scavenger:
+    temperament: Wary
+    resource: Structural
+    biomes:
+      - Sandy Desert
+      - Mountains
+    health: 70
+  
+  Vampire Geophage:
+    temperament: Peaceful
+    resource: Membrane
+    biomes:
+      - Deciduous Forest
+      - Sandy Desert
+    health: 20
+  
+  Schooling Kronosauros Scavenger:
+    temperament: Wary
+    resource: Toxin
+    biomes:
+      - Ocean
+    health: 395
+  
+  Fingerface Ge0phage:
+    temperament: Wary
+    resource: Sealant
+    biomes:
+      - Frozen Mountains
+      - Sandy Desert
+      - Mountains
+    health: 20
+  
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-flora_rating: TBD
+  Crag Root:
+    resource: Spice 
+    biomes:
+      - Deciduous Forest
+      - Mountains
+    genetics:
+      - XNA
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Stunted Pin:
+    resource: Nutrient 
+    biomes:
+      - Deciduous Forest
+      - Sandy Desert
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Spirit Laurel:
+    resource: Fiber
+    biomes:
+      - Deciduous Forest
+      - Sandy Desert
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Spiral Creeper:
+    resource: Cosmetic
+    biomes:
+      - Deciduous Forest
+      - Mountains
+    genetics:
+      - XNA
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Sweet Fumewort:
+    resource: Structural
+    biomes:
+      - Sandy Desert
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Wanderer's Husk:
+    resource: Sealant
+    biomes:
+      - Sandy Desert
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Moderate
 gravity: 0.66 G
 magnetosphere: Average
 name: Fermi III
-o2: TBD
+o2_percent: 18
 resources:
 - Alkanes
 - Argon
@@ -33,10 +159,11 @@ resources:
 - Vanadium
 - Water
 system: Fermi
-surface_temp: TBD
+surface_temp: 17
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+  - Primordial Network
+  - Ecological Consortium - Ecological Consortium - Hive Structures
+  - Gravitational Anomaly
 type: Rock
 water: Heavy Metal

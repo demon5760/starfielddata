@@ -1,22 +1,96 @@
 atmosphere: STD CO2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: 
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
+  Nebula Vine:
+    resource: Fiber
+    biomes:
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Stunted Pine:
+    resource: Structural
+    biomes:
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Starpod Silkweed:
+    resource: Nutrient
+    biomes:
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+  
+  Red Latticbulb:
+    resource: Fiber
+    biomes:
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Scarlet Hillfrond:
+    resource: Structural
+    biomes:
+      - Hilss
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Complex
+  
+  Terra Root:
+    resource: Fiber
+    biomes:
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Golden Creeper:
+    resource: Structural
+    biomes:
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Savage Woundword:
+    resource: Structural
+    biomes:
+      - Swamp
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
 flora_rating: Primordial
 gravity: 0.60 G
 magnetosphere: Weak
 name: Heisenberg V-a
-o2_percent: TBD
+o2_percent: 0
 planet: Heisenberg V
 resources:
 - Aluminum
@@ -27,10 +101,11 @@ resources:
 - Chlorosilanes
 - Iron
 - Water
-surface_temp: TBD
+surface_temp: -2
 temperature: Cold
 traits:
-- TBD1
-- TBD2
+  - Aeriform Life - Aeriform Life - Fermentation Vents
+  - Diseased Biosphere - Diseased Biosphere - Infected Grove
+  - Gravitational Anomaly
 type: Rock
 water: Safe

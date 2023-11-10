@@ -1,0 +1,9 @@
+name: Ahnjong Sinclair
+establishment: Sinclair's Books
+vendor: true
+sells_categories:
+  - notes
+buys_books:
+  - The Count of Monte Cristo
+  - "Omega: The Last Days"
+  - The Comet
