@@ -19,44 +19,42 @@
       </article>
       <div>
         {{ if not (eq $resource.type "Manufactured" )}}
-        <h2>Locations</h2>
-        {{ $resource.name }} can be found on the following planets and moons.
+        <h3>Farming Locations</h3>
+        {{ $resource.name }} can be farmed in the following locations
 
         <table>
           <tr>
             <th>Name</th>
             <th>System</th>
+            <th>Entity</th>
+            <th>Outpost Production</th>
           </tr>
           {{ $bodies := merge $.Site.Data.moons $.Site.Data.planets }}
           {{ range $bodies }}
             {{ $farmable := false}}
+            {{ $body := . }}
 
-            {{ range .flora }}
+            {{ $sources := merge .flora .fauna}}
+
+            {{ range $source_name, $source_data := $sources }}
               
               {{ if eq .resource $resource_name }}
-                {{ if .outpost_production_allowed }}
-                  {{ $farmable = true}}
-                {{ end }}
+                <tr>
+                  <td>{{ partial "util/get_location_link.html" ( slice $body.name $.Site) }}</td>
+                  <td>
+                    {{ $system_name := partial "util/get_system_name.html" ( slice $body.name $.Site) }}
+                    {{ partial "util/get_location_link.html" ( slice $system_name $.Site) }}
+                  </td>
+                  <td>{{ $source_name }}</td>
+                  <td>
+                    {{ if .outpost_production_allowed }}
+                      &check;
+                    {{ end }}
+                  </td>
+
+                </tr>
               {{ end }}
             {{ end }}
-
-            {{ if in .resources $resource.name }}
-              {{ $farmable = true}}
-            {{end }}
-
-            {{ if $farmable }}
-              <tr>
-                <td>
-                    {{ partial "util/get_location_link.html" ( slice .name $.Site) }}
-                </td>
-                <td>
-                  {{ $system_name := partial "util/get_system_name.html" ( slice .name $.Site) }}
-                  {{ partial "util/get_location_link.html" ( slice $system_name $.Site) }}
-                </td>
-              </tr>
-            {{ end }}
-
-
 
           {{ end }}
 
