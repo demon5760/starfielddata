@@ -1,21 +1,94 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-fauna_rating: TBD
+  Flocking Hippodon Herbivore:
+    temperament: Peaceful
+    resource: Cosmetic
+    biomes:
+      - Decidiuous Forest
+      - Coniferous Forest
+    health: 120
+    outpost_production_allowed: true
+  
+  Herding Vuvuzelisk Herbivore:
+    temperament: Territorial
+    resource: Fiber
+    non_lethal_harvest: true
+    biomes:
+      - Deciduous Forest
+      - Confierous Forest
+    health: 150
+    outpost_production_allowed: true
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Pinecone Herbivore:
+    temperament: Peaceful
+    resource: Antimicrobial
+    non_lethal_harvest: false
+    biomes:
+      - Frozen Plains
+      - Deciduous Forest
+      - Confierous Forest
+    health: 20
+  
+  Pack Cricket:
+    temperament: Defensive
+    resource: Sealant
+    non_lethal_harvest: false
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+    health: 275
+    outpost_production_allowed: true
+    abilities: []
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Rotorstalk:
+    resource: Toxin
+    biomes:
+      - Deciduous Forest
+      - Confierous Forest
+    genetics:
+      - Double Helix
+      - Cabon-based
+    reproduction: Self-fertilization
+  
+  Leafy Morningstar:
+    resource: Structural
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+    genetics:
+      - Double Helix
+      - Cabon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Sweet Canis Vine:
+    resource: Nutrient
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+    genetics:
+      - Double Helix
+      - Cabon-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Marginal
 gravity: 0.46 G
 magnetosphere: Average
 name: Bardeen V-c
-o2_percent: TBD
+o2_percent: 18
 planet: Bardeen V
 resources:
 - Chlorine
@@ -26,7 +99,7 @@ resources:
 - Platinum
 - Water
 - Xenon
-surface_temp: TBD
+surface_temp: -6
 temperature: Cold
 traits: []
 type: Rock

@@ -1,33 +1,214 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD10: {}
-  TBD11: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-  TBD9: {}
-fauna_rating: TBD
+  Herding Dragon Scavenger:
+    temperament: Wary
+    resource: Sealant
+    non_lethal_harvest: true
+    biomes:
+      - Frozen Plains
+      - Wetlands
+    health: 95
+    outpost_production_allowed: true
+    abilities:
+      - Venomous
+  
+  Tubecrawler Scavenger:
+    temperament: Skittish
+    resource: Nutrient
+    biomes:
+      - Frozen Plains
+      - Wetlands
+    health: 20
+  
+  Pack Horsamander:
+    temperament: Wary
+    resource: Polymer
+    biomes:
+      - Frozen Plains
+      - Wetlands
+    health: 135
+  
+  Herding Hornface Herbivore:
+    temperament: Skittish
+    resource: Gastro Delight
+    biomes:
+      - Wetlands
+      - Deciduous Forest
+    health: 95
+    outpost_production_allowed: true
+  
+  Parrothawk Scavenger:
+    temperament: Peaceful
+    resource: Membrane
+    biomes:
+      - Mountains
+      - Wetlands
+      - Deciduous Forest
+      - Hills
+    health: 20
+  
+  Herding Spiderwasp Grazer:
+    temperament: Wary
+    resource: Amino Acids
+    non_lethal_harvest: false
+    biomes:
+      - Wetlands
+      - Deciduous Forest
+    health: 220
+    outpost_production_allowed: true
+  
+  Swarming Clickbeetle:
+    temperament: Wary
+    resource: Sedative
+    biomes:
+      - Wetlands
+      - Deciduous Forest
+    health: 205
+    outpost_production_allowed: true
+    abilities:
+      - Heals very rapidly
+      - Ranged mouth attack
+  
+  Schooling Kronosaurus Scavenger:
+    temperament: Wary
+    resource: Structural
+    biomes:
+      - Wetlands
+    health: 370
+  
+  FLocking Roundface Herbivor:
+    temperament: Territorial
+    resource: Metabolic Agent
+    non_lethal_harvest: false
+    biomes:
+      - Mountains
+      - Deciduous Forest
+      - Hills
+    health: 70
+    outpost_production_allowed: true
+    abilities:
+      - Ranged attack that slows target
+  
+  Pack Exocrawler:
+    temperament: Wary
+    resource: Spice
+    non_lethal_harvest: false
+    biomes:
+      - Mountains
+      - Deciduous Forest
+      - Hills
+    health: 415
+    abilities:
+      - Fast attacks
+      - Ranged tail attack
+    resistances:
+      - Energy damage
+      - Physical damage
+
+  Grabber Grazer:
+    temperament: Wary
+    resource: Pigment
+    biomes:
+      - Mountains
+      - Deciduous Forest
+      - Hills
+    health: 20
+  
+fauna_rating: Abundant
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-flora_rating: TBD
+  Frost Reed:
+    resource: Cosmetic
+    biomes:
+      - Mountains
+      - Frozen Plains
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Cuttings
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Bowing Shadeleaf:
+    resource: Lubricant
+    biomes:
+      - Mountains
+      - Frozen Plains
+      - Deciduous Forest
+      - Hills
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Rotting Stinkroot:
+    resource: Sealant
+    biomes:
+      - Wetlands
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Gnaw Stalk:
+    resource: Metabolic Agent
+    biomes:
+      - Wetlands
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-fertilization
+  
+  Nebula Weed:
+    resource: Analgesic
+    biomes:
+      - Wetlands
+      - Deciduous Forest
+      - Hills
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Bleeding Heart Vine:
+    resource: Fiber
+    biomes:
+      - Mountains
+      - Hills
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-fertilization
+  
+  Leafy Morningstar:
+    resource: Toxin
+    biomes:
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Abundant
 gravity: 0.95 G
 magnetosphere: Weak
 name: Bardeen III
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Argon
 - Carboxylic Acids
@@ -38,10 +219,10 @@ resources:
 - Nickel
 - Water
 system: Bardeen
-surface_temp: TBD
+surface_temp: 17
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+  - Amphibious Foothold - Amphibious Thicket - Remains of Amphibious Lifeforms
+  - Global Glacial Recession - Melted Glacier - Glacial Remnant
 type: Rock
 water: Safe
