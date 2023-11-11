@@ -1,0 +1,25 @@
+{{ $flora_names := slice }}
+{{ $flora_map := dict }}
+{{- $bodies := merge $.Site.Data.moons $.Site.Data.planets -}}
+{{- range $bodies -}}
+    {{- $body := . }}
+    {{- range $name, $data := $body.flora -}}
+        {{ if not (in $flora_names $name )}}
+            {{ $flora_names = $flora_names | append $name }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{ range $flora_names }}
+    {{ $flora_name := . }}
+    {{ $found_on := slice }}
+    {{ range $bodies }}
+        {{ $body := . }}
+        {{ if index $body.flora $flora_name }}
+            {{ $found_on = $found_on | append (dict $body.name (index $body.flora $flora_name ) )}}
+        {{ end }}
+    {{ end }}
+    {{ $flora_map = merge $flora_map (dict . (dict "bodies" $found_on) )}}
+{{ end }}
+
+{{ return $flora_map }}

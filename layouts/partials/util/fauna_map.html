@@ -1,0 +1,25 @@
+{{ $fauna_names := slice }}
+{{ $fauna_map := dict }}
+{{- $bodies := merge $.Site.Data.moons $.Site.Data.planets -}}
+{{- range $bodies -}}
+    {{- $body := . }}
+    {{- range $name, $data := $body.fauna -}}
+        {{ if not (in $fauna_names $name )}}
+            {{ $fauna_names = $fauna_names | append $name }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{ range $fauna_names }}
+    {{ $fauna_name := . }}
+    {{ $found_on := slice }}
+    {{ range $bodies }}
+        {{ $body := . }}
+        {{ if index $body.fauna $fauna_name }}
+            {{ $found_on = $found_on | append (dict $body.name (index $body.fauna $fauna_name ) )}}
+        {{ end }}
+    {{ end }}
+    {{ $fauna_map = merge $fauna_map (dict . (dict "bodies" $found_on) )}}
+{{ end }}
+
+{{ return $fauna_map }}

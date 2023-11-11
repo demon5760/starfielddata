@@ -1,0 +1,1 @@
+{{ partial "util/fauna_map" . | jsonify }}
