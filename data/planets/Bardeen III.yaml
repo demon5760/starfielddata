@@ -33,7 +33,7 @@ fauna:
   
   Herding Hornface Herbivore:
     temperament: Skittish
-    resource: Gastro Delight
+    resource: Gastronomic Delight
     biomes:
       - Wetlands
       - Deciduous Forest

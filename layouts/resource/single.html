@@ -18,7 +18,38 @@
 
       </article>
       <div>
-        {{ if not (eq $resource.type "Manufactured" )}}
+        {{ if eq $resource.type "Inorganic" }}
+        <div id="extraction_locations">
+          <h3>Extraction Locations</h3>
+          {{ $resource.name }} can be extracted in the following locations:
+          <table class="data_table">
+            <thead>
+              <th>Name</th>
+              <th>System</th>
+              <th>Additional Resource Qty</th>
+            </thead>
+            <tbody>
+              {{ $bodies := merge $.Site.Data.moons $.Site.Data.planets }}
+              {{ range $bodies }}
+                {{ $body := .}}
+                {{ if in $body.resources $resource_name }}
+                <tr>
+                  <td>{{ partial "util/get_location_link.html" ( slice $body.name $.Site) }}</td>
+                  <td>
+                    {{ $system_name := partial "util/get_system_name.html" ( slice $body.name $.Site) }}
+                    {{ partial "util/get_location_link.html" ( slice $system_name $.Site) }}
+                  </td>
+                  <td>{{ sub ($body.resources | len) 1 }} </td>
+                </tr>
+                {{ end }}
+
+              {{ end }}
+            </tbody>
+          </table>
+        </div>
+        {{ end }}
+        {{ if eq $resource.type "Organic" }}
+        <div id="farming_locations">
         <h3>Farming Locations</h3>
         {{ $resource.name }} can be farmed in the following locations
 
@@ -59,6 +90,7 @@
           {{ end }}
 
         </table>
+        </div>
         {{end}}
       </div>
      
