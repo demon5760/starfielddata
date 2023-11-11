@@ -3,11 +3,42 @@ type: Organic
 rarity: Common
 mass: 0.50
 value: 4
+state: Solid
 farming:
   Greenhouse:
-    Water: 1
+    - Water: 1
   Animal Husbandry Facility:
     - Nutrient: 2
       Water: 1
+variations:
+  Root:
+    state: Solid
+    mass: 0.10
+    value: 4
+  Hide:
+    state: Solid
+    mass: 0.50
+    value: 4
+  Tissue:
+    state: Solid
+    mass: 0.20
+    value: 4
+  Carapace:
+    state: Solid
+    mass: 0.30
+    value: 4
+  Stalk:
+    state: Solid
+    mass: 0.10
+    value: 4
+  Bone:
+    state: Solid
+    mass: 0.30
+    value: 4
+  Leaf:
+    state: Solid
+    mass: 0.10
+    value: 4
+
 credits:
   - Demon5760

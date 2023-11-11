@@ -34,7 +34,7 @@
           <h2>Organic</h2>
           <table class="data_table">
             <thead>
-            <tr><th>Name</th><th>Type</th><th>Value</th><th>Rarity</th><th>Mass</th></tr>
+            <tr><th>Name</th><th>Type</th><th>Value</th><th>Rarity</th><th>Mass</th><th>State</th><th>Variations</th></tr>
             </thead>
             <tbody>
           {{ range .Pages }}
@@ -46,6 +46,12 @@
             <td>{{ $resource.value }}</td>
             <td>{{ $resource.rarity }}</td>
             <td>{{ $resource.mass }}</td>
+            <td>{{ partial "util/tbd_data_resolver" $resource.state }}</td>
+            <td>
+              {{ if $resource.variations }}
+                {{ $resource.variations | len }}
+              {{ end }}
+            </td>
           </tr>
           {{ end }}
           {{ end}}

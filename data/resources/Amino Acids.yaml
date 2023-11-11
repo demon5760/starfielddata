@@ -3,9 +3,10 @@ type: Organic
 rarity: Rare
 mass: 0.50
 value: 10
+state: Solid
 farming:
   Greenhouse:
-    Water: 1
+    - Water: 1
   Animal Husbandry Facility:
     - Fiber: 2
       Water: 1

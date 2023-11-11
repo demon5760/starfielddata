@@ -3,11 +3,45 @@ type: Organic
 rarity: Uncommon
 mass: 0.50
 value: 11
+state: Solid
 farming:
   Greenhouse:
-    Water: 1
+    - Water: 1
   Animal Husbandry Facility:
     - Fiber: 2
       Water: 1
+variations:
+  Vital Fluids:
+    state: Liquid
+    mass: 0.20
+    value: 11
+  Carapace:
+    state: Solid
+    mass: 0.30
+    value: 11
+  Leaf:
+    state: Solid
+    mass: 0.10
+    value: 11
+  Tissue:
+    state: Solid
+    mass: 0.20
+    value: 11
+  Bone:
+    state: Solid
+    mass: 0.30
+    value: 11
+  Flower:
+    state: Solid
+    mass: 0.05
+    value: 11
+  Gland:
+    state: Solid
+    mass: 0.20
+    value: 11
+  Seed:
+    state: Solid
+    mass: 0.10
+    value: 11
 credits:
   - Demon5760

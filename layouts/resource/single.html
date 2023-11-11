@@ -19,6 +19,26 @@
       </article>
       <div>
         {{ if eq $resource.type "Inorganic" }}
+
+        <div id="production">
+          <h2>Production</h2>
+          {{ $resource.name }} can be produced using a {{ $resource.name }} extractor. You will need {{$resource.state}} storage.
+
+          <table>
+              <tr>
+                  <th>Extractor Type</th><th>Power Req</th>
+              </tr>
+              <tr>
+                  <td>Standard</td><td>5</td>
+              </tr>
+              <tr>
+                  <td>Commercial</td><td>10</td>
+              </tr>
+              <tr>
+                  <td>Industrial</td><td>20</td>
+              </tr>
+          </table>
+        </div>
         <div id="extraction_locations">
           <h3>Extraction Locations</h3>
           {{ $resource.name }} can be extracted in the following locations:
@@ -48,7 +68,54 @@
           </table>
         </div>
         {{ end }}
-        {{ if eq $resource.type "Organic" }}
+        {{ if eq $resource.type "Organic"}}
+
+        {{ if $resource.variations}}
+        <div id="variations">
+          <h2>Variations</h2>
+          {{ $resource.name }} is known to come in the following variations:
+          <table class="data_table">
+            <thead>
+              <tr><th>Name</th><th>State</th><th>mass</th><th>value</th></tr>
+            </thead>
+            <tbody>
+            {{ range $name, $data :=  $resource.variations }}
+              <tr>
+                <td>{{ $resource.name }} ({{ $name }}) </td>
+                <td>{{ partial "util/tbd_data_resolver" $data.state }}</td>
+                <td>{{ partial "util/tbd_data_resolver" $data.mass }}</td>
+                <td>{{ partial "util/tbd_data_resolver" $data.value }}</td>
+              </tr>
+            {{ end }}
+          </tbody>
+          </table>
+        </div>
+        {{ end }}
+
+        {{ if $resource.farming }}
+
+        <div id="farming">
+          <h2>Farming</h2>
+          
+          <p>It will be produced in a {{ partial "util/tbd_data_resolver" $resource.state }} state and will need to be stored in {{ partial "util/tbd_data_resolver" $resource.state }} storage</p>
+          
+          You have a few options for farming {{ $resource_name }}:
+          <ul>
+          {{ range $builder, $inputs := $resource.farming }}
+            <li>{{ $builder }}
+              <ul>
+                {{ range $inputs }}
+                  {{ range $input_resource_name, $qty := . }}
+                    <li>{{$qty}} x {{ partial "util/get_resource_link" (slice $input_resource_name $.Site )}}</li>
+                  {{ end }}
+                {{ end }}
+              </ul>
+            </li>
+          {{ end }}
+          </ul>
+
+        </div>
+        {{ end }}
         <div id="farming_locations">
         <h3>Farming Locations</h3>
         {{ $resource.name }} can be farmed in the following locations

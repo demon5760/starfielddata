@@ -5,7 +5,7 @@ mass: 1.40
 value: 67
 farming:
   Greenhouse:
-    Water: 1
+    - Water: 1
   Animal Husbandry Facility:
     - Fiber: 2
       Water: 1

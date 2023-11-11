@@ -13,7 +13,9 @@ One {{ $resource_name }} has a mass of {{ $resource.mass }} and is worth {{ $res
 
 ---
 
+<!-- Need more data before we turn this on
 ## Purchase
+
 {{ $resource_name }} can be purchased at the following locations.
 {{ range $.Site.Data.vendors }}
 {{ if index .items.RESOURCES $resource_upper }}
@@ -21,6 +23,7 @@ One {{ $resource_name }} has a mass of {{ $resource.mass }} and is worth {{ $res
 {{ end }}
 
 {{ end }}
+-->
 
 
 
@@ -53,86 +56,6 @@ flowchart TD
 
 ```
 {{ end }}
-{{ end }}
-{{ end }}
-
-
-{{ if and (eq $resource.type "Organic") ($resource.farming) }}
-## Farming
-You have a few different options for farming {{ $resource_name }}.
-{{ if $resource.farming.Greenhouse }}
-### Greenhouse
-The Standard, Commercial, and Industrial Greenhouse all use the same input ingredients and power requirements.
-
-```mermaid
-flowchart TD
-    {{ $resource_slug }}GreenhousePower[Power x 3]
-    {{ $resource_slug }}Greenhouse[Greenhouse - {{ $resource.name }}]
-    {{ $resource_slug }}Storage[Storage]
-
-    {{ range $res_name, $res_qty := $resource.farming.Greenhouse }}
-        {{ $res_slug := replace $res_name " " "" }}
-        {{$res_slug}}[{{$res_qty}} {{$res_name}}]
-        {{$res_slug}} --> {{ $resource_slug }}Greenhouse
-    {{ end }}
-
-    {{ $resource_slug }}GreenhousePower --> {{ $resource_slug }}Greenhouse
-    {{ $resource_slug }}Greenhouse --> {{ $resource_slug }}Storage
-
-```
-{{ end }}
-
-{{ if index $resource.farming "Animal Husbandry Facility" }}
-### Animal Husbandry Facility
-The Standard, Commercial, and Industrial Animal Husbandry Facility all have the same power requirements.
-
-There are {{ index $resource.farming "Animal Husbandry Facility" | len }} different combination(s) of ingredients.
-
-{{ range index $resource.farming "Animal Husbandry Facility" }}
-
-```mermaid
-flowchart TD
-    {{ $resource_slug }}AnimalHusbandryFacilityPower[Power x 3]
-    {{ $resource_slug }}AnimalHusbandryFacility[Animal Husbandry Facility - {{ $resource.name }}]
-    {{ $resource_slug }}Storage[Storage]
-
-    {{ range $res_name, $res_qty := . }}
-        {{ $res_slug := replace $res_name " " "" }}
-        {{$res_slug}}[{{$res_qty}} {{$res_name}}]
-        {{$res_slug}} --> {{ $resource_slug }}AnimalHusbandryFacility
-    {{ end }}
-
-    {{ $resource_slug }}AnimalHusbandryFacilityPower --> {{ $resource_slug }}AnimalHusbandryFacility
-    {{ $resource_slug }}AnimalHusbandryFacility --> {{ $resource_slug }}Storage
-
-```
-{{ end }}
-{{ end }}
-{{ end }}
-
-
-{{ if eq $resource.type "Inorganic"  }}
-## Production
-
-
-{{ $extractors := slice
-    (dict "name" (printf "Extractor - %s" $resource.name) "power" 5)
-    (dict "name" (printf "Extractor - %s - Commercial" $resource.name)  "power" 10)
-    (dict "name" (printf "Extractor - %s - Industrial" $resource.name)  "power" 20)
-}}
-
-{{ range $extractors }}
-### {{ .name }}
-```mermaid
-flowchart TD
-    {{ $resource_slug }}ExtractorPower[Power x {{ .power }}]
-    {{ $resource_slug }}Extractor[Extractor - {{ $resource.name }}]
-    {{ $resource_slug }}Storage[Storage - {{ $resource.state }}]
-
-    {{ $resource_slug }}ExtractorPower --> {{ $resource_slug }}Extractor
-    {{ $resource_slug }}Extractor --> {{ $resource_slug }}Storage
-
-```
 {{ end }}
 {{ end }}
 

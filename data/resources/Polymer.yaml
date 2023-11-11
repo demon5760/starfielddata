@@ -3,11 +3,17 @@ type: Organic
 rarity: Exotic
 mass: 0.50
 value: 20
+state: Solid
 farming:
   Greenhouse:
-    Water: 1
+    - Water: 1
   Animal Husbandry Facility:
     - Fiber: 2
       Water: 1
+variations:
+  Bone:
+    state: Solid
+    mass: 0.30
+    value: 20
 credits:
   - Demon5760
