@@ -1,4 +1,4 @@
-atmosphere: '-0'
+atmosphere: None
 credits:
 - Starfield Sheet 1
 fauna: {}
@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.17 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Delta Vulpes III-a
 o2_percent: TBD
 planet: Delta Vulpes III
@@ -18,4 +18,4 @@ surface_temp: TBD
 temperature: Frozen
 traits: []
 type: Barren
-water: '-0'
+water: None

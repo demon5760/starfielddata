@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 2.40 G
 magnetosphere: extreme
 name: Heinlein VI
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Heinlein
 surface_temp: TBD

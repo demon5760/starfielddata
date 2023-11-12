@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.66 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Max
 o2_percent: TBD
 planet: Suvorov
@@ -24,4 +24,4 @@ traits:
 - TBD1
 - TBD2
 type: Rock
-water: '-0'
+water: None

@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 2.45 G
 magnetosphere: Strong
 name: Feynman VI
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Feynman
 surface_temp: TBD

@@ -10,7 +10,7 @@ flora_rating: TBD
 gravity: 1.47 G
 magnetosphere: Average
 name: Volii Alpha
-o2: TBD
+o2_percent: TBD
 resources:
 - Benzene
 - Water

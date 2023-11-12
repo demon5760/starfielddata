@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.50 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Kang VII-c
 o2_percent: TBD
 planet: Kang VII

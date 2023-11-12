@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.43 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Zelazny VII-b
 o2_percent: TBD
 planet: Zelazny VII

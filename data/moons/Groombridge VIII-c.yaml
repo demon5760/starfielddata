@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.55 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Groombridge VIII-c
 o2_percent: TBD
 planet: Groombridge VIII

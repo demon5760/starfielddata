@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.45 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Jaffa VII-b
 o2_percent: TBD
 planet: Jaffa VII

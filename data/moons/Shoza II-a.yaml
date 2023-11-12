@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.42 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Shoza II-a
 o2_percent: TBD
 planet: Shoza II
@@ -25,4 +25,4 @@ traits:
 - TBD1
 - TBD2
 type: Rock
-water: '-0'
+water: None

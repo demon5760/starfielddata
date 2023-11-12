@@ -1,12 +1,12 @@
-atmosphere: '-0'
+atmosphere: None
 credits:
 - Starfield Sheet 1
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.15 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Alchiba III-a
 o2_percent: TBD
 planet: Alchiba III
@@ -19,6 +19,6 @@ resources:
 surface_temp: TBD
 temperature: Temperate
 traits:
-- TBD1
+  - Pelted Fields
 type: Ice
-water: '-0'
+water: None

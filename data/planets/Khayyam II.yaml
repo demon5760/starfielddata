@@ -22,7 +22,7 @@ flora_rating: TBD
 gravity: 1.05 G
 magnetosphere: Powerful
 name: Khayyam II
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Chlorine

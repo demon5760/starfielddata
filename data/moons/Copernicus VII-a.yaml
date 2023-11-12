@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.64 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Copernicus VII-a
 o2_percent: TBD
 planet: Copernicus VII

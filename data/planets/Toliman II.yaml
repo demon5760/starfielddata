@@ -19,7 +19,7 @@ flora_rating: TBD
 gravity: 1.00 G
 magnetosphere: Average
 name: Toliman II
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Benzene

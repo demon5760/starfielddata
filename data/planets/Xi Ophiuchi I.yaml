@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.79 G
 magnetosphere: TBD
 name: Xi Ophiuchi I
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Beryllium

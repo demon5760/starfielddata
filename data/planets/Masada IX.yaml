@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 1.06 G
 magnetosphere: Weak
 name: Masada IX
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Masada
 surface_temp: TBD

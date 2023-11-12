@@ -22,7 +22,7 @@ flora_rating: TBD
 gravity: 0.71 G
 magnetosphere: Very Strong
 name: Rutherford III
-o2: TBD
+o2_percent: TBD
 resources:
 - Argon
 - Chlorine

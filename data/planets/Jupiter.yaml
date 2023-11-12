@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 2.64 G
 magnetosphere: Extreme
 name: Jupiter
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Sol
 surface_temp: TBD

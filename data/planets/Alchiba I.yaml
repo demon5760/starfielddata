@@ -1,10 +1,11 @@
 atmosphere: EXTR CO2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 1.75 G
 magnetosphere: Average
 name: Alchiba I
@@ -18,8 +19,8 @@ system: Alchiba
 surface_temp: TBD
 temperature: Inferno
 traits:
-- TBD1
-- TBD2
-- TBD3
+  - Emerging Tectonics
+  - TBD2
+  - TBD3
 type: Rock
 water: None

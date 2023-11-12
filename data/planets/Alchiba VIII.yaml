@@ -1,10 +1,11 @@
 atmosphere: HIGH N2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 2.07 G
 magnetosphere: Very Strong
 name: Alchiba VIII
@@ -16,6 +17,6 @@ system: Alchiba
 surface_temp: TBD
 temperature: Deep Freeze
 traits:
-- TBD1
+- Frozen Ecosystem
 type: Rock
 water: None

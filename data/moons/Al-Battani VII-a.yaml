@@ -7,7 +7,7 @@ fauna_rating: None
 flora: {}
 flora_rating: None
 gravity: 0.42 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Al-Battani VII-a
 o2_percent: 0
 planet: Al-Battani VII

@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.54 G
 magnetosphere: TBD
 name: Sirius I
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Helium-3

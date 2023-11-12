@@ -15,7 +15,7 @@ flora_rating: TBD
 gravity: 0.99 G
 magnetosphere: Weak
 name: Maal IV
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Iridium

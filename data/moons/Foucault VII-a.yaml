@@ -1,4 +1,4 @@
-atmosphere: '-0'
+atmosphere: None
 credits:
 - Starfield Sheet 1
 fauna: {}
@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.56 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Foucault VII-a
 o2_percent: TBD
 planet: Foucault VII

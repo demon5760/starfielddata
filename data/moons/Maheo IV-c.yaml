@@ -7,7 +7,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.68 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Maheo IV-c
 o2_percent: TBD
 planet: Maheo IV

@@ -11,7 +11,7 @@ flora_rating: Primordial
 gravity: 1.02 G
 magnetosphere: Weak
 name: Aranae I
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Beryllium

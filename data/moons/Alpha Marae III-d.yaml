@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.72 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Alpha Marae III-d
 o2_percent: TBD
 planet: Alpha Marae III

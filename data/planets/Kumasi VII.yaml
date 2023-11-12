@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 1.77 G
 magnetosphere: Extreme
 name: Kumasi VII
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Kumasi
 surface_temp: TBD

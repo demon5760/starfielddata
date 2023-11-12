@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.27 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Fermi IX-d
 o2_percent: TBD
 planet: Fermi IX
@@ -18,4 +18,4 @@ surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Barren
-water: '-0'
+water: None

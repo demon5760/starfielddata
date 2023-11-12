@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 5.35 G
 magnetosphere: Massive
 name: Indum III
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Indum
 surface_temp: TBD

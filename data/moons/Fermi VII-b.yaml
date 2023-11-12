@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.42 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Fermi VII-b
 o2_percent: TBD
 planet: Fermi VII
@@ -22,4 +22,4 @@ surface_temp: TBD
 temperature: Deep Freeze
 traits: []
 type: Rock
-water: '-0'
+water: None

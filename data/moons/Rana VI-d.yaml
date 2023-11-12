@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.43 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Rana VI-d
 o2_percent: TBD
 planet: Rana VI

@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 2.70 G
 magnetosphere: Extreme
 name: Fermi IX
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Fermi
 surface_temp: TBD

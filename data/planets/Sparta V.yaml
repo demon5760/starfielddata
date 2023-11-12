@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.65 G
 magnetosphere: Weak
 name: Sparta V
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Cobalt

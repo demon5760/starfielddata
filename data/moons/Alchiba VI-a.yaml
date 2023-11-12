@@ -1,12 +1,13 @@
-atmosphere: '-0'
+atmosphere: None
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.04 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Alchiba VI-a
 o2_percent: TBD
 planet: Alchiba VI

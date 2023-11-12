@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.37 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Xi Ophiuchi VI-d
 o2_percent: TBD
 planet: Xi Ophiuchi VI

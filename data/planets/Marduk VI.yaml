@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.61 G
 magnetosphere: Weak
 name: Marduk VI
-o2: TBD
+o2_percent: TBD
 resources:
 - Caesium
 - Chlorine

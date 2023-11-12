@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 1.69 G
 magnetosphere: Very Strong
 name: Zosma III
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Zosma
 surface_temp: TBD

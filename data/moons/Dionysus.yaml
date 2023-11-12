@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.63 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Dionysus
 o2_percent: TBD
 planet: Aion

@@ -9,7 +9,7 @@ flora_rating: None
 gravity: 0.81 G
 magnetosphere: Weak
 name: Al-Battani VII
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Al-Battani
 surface_temp: TBD

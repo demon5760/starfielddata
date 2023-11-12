@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.59 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Gamma Vulpes II-d
 o2_percent: TBD
 planet: Gamma Vulpes II
@@ -23,4 +23,4 @@ temperature: Deep Freeze
 traits:
 - TBD1
 type: Rock
-water: '-0'
+water: None

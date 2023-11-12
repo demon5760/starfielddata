@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.34 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Porrima II-c
 o2_percent: TBD
 planet: Porrima II
@@ -20,4 +20,4 @@ traits:
 - TBD1
 - TBD2
 type: Rock
-water: '-0'
+water: None

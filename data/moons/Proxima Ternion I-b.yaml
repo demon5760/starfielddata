@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.41 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Proxima Ternion I-b
 o2_percent: TBD
 planet: Proxima Ternion I
@@ -20,4 +20,4 @@ traits:
 - TBD1
 - TBD2
 type: Rock
-water: '-0'
+water: None

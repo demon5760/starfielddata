@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.37 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Muphrid VIII-b
 o2_percent: TBD
 planet: Muphrid VIII
@@ -23,4 +23,4 @@ traits:
 - TBD3
 - TBD4
 type: Ice
-water: '-0'
+water: None

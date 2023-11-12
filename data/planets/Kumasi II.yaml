@@ -26,7 +26,7 @@ flora_rating: TBD
 gravity: 0.96 G
 magnetosphere: Very Weak
 name: Kumasi II
-o2: TBD
+o2_percent: TBD
 resources:
 - Cobalt
 - Iridium

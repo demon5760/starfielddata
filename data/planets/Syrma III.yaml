@@ -16,7 +16,7 @@ flora_rating: TBD
 gravity: 0.38 G
 magnetosphere: Weak
 name: Syrma III
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Argon

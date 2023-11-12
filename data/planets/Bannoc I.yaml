@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 1.01 G
 magnetosphere: Average
 name: Bannoc I
-o2: TBD
+o2_percent: TBD
 resources:
 - Cobalt
 - Lead

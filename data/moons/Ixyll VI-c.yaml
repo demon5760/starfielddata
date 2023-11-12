@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.49 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Ixyll VI-c
 o2_percent: TBD
 planet: Ixyll VI

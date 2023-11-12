@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 1.24 G
 magnetosphere: Average
 name: Masada II
-o2: TBD
+o2_percent: TBD
 resources:
 - Iridium
 - Lead

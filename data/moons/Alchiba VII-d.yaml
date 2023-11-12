@@ -1,12 +1,12 @@
-atmosphere: '-0'
+atmosphere: None
 credits:
 - Starfield Sheet 1
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.11 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Alchiba VII-d
 o2_percent: TBD
 planet: Alchiba VII
@@ -16,6 +16,6 @@ resources:
 surface_temp: TBD
 temperature: Deep Freeze
 traits:
-- TBD1
+- Coralline Landmass
 type: Ice
 water: Safe

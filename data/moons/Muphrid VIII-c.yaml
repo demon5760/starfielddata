@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.62 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Muphrid VIII-c
 o2_percent: TBD
 planet: Muphrid VIII

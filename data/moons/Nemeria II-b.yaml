@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.38 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Nemeria II-b
 o2_percent: TBD
 planet: Nemeria II
@@ -20,4 +20,4 @@ surface_temp: TBD
 temperature: Temperate
 traits: []
 type: Rock
-water: '-0'
+water: None

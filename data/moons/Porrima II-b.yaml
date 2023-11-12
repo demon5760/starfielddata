@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.41 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Porrima II-b
 o2_percent: TBD
 planet: Porrima II
@@ -18,4 +18,4 @@ temperature: Temperate
 traits:
 - TBD1
 type: Barren
-water: '-0'
+water: None

@@ -22,7 +22,7 @@ flora_rating: TBD
 gravity: 0.51 G
 magnetosphere: Very Weak
 name: Oborum I
-o2: TBD
+o2_percent: TBD
 resources:
 - Chlorine
 - Chlorosilanes

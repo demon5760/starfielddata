@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.41 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Denebola III-a
 o2_percent: TBD
 planet: Denebola III

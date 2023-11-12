@@ -1,4 +1,4 @@
-atmosphere: '-0'
+atmosphere: None
 credits:
 - Starfield Sheet 1
 fauna: {}
@@ -20,4 +20,4 @@ traits:
 - TBD1
 - TBD2
 type: Ice
-water: '-0'
+water: None

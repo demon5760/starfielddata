@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.66 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Shoza VIII-d
 o2_percent: TBD
 planet: Shoza VIII

@@ -16,7 +16,7 @@ flora_rating: TBD
 gravity: 0.91 G
 magnetosphere: Weak
 name: Bannoc II
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Argon

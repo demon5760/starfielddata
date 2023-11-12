@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 1.16 G
 magnetosphere: Average
 name: Zeta Ophiuchi II
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Beryllium

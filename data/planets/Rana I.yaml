@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.81 G
 magnetosphere: Powerful
 name: Rana I
-o2: TBD
+o2_percent: TBD
 resources:
 - Alkanes
 - Iron

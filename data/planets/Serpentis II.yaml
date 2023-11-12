@@ -14,7 +14,7 @@ flora_rating: TBD
 gravity: 1.33 G
 magnetosphere: Average
 name: Serpentis II
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Beryllium

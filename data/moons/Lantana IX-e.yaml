@@ -6,7 +6,7 @@ fauna_rating: TBD
 flora: {}
 flora_rating: TBD
 gravity: 0.47 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Lantana IX-e
 o2_percent: TBD
 planet: Lantana IX

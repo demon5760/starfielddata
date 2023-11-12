@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.67 G
 magnetosphere: TBD
 name: Moloch VII
-o2: TBD
+o2_percent: TBD
 resources:
 - Copper
 - Fluorine

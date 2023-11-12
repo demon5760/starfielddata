@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 3.11 G
 magnetosphere: Extreme
 name: Porrima V
-o2: TBD
+o2_percent: TBD
 resources: []
 system: Porrima
 surface_temp: TBD

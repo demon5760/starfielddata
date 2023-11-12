@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 1.14 G
 magnetosphere: Powerful
 name: Heisenberg IV
-o2: TBD
+o2_percent: TBD
 resources:
 - Copper
 - Fluorine

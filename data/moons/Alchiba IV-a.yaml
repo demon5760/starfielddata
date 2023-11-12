@@ -1,12 +1,13 @@
 atmosphere: THIN CO2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.36 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Alchiba IV-a
 o2_percent: TBD
 planet: Alchiba IV
@@ -20,6 +21,8 @@ resources:
 - Water
 surface_temp: TBD
 temperature: Cold
-traits: []
+traits:
+  - TBD1
+  - TBD2
 type: Rock
 water: Chemical

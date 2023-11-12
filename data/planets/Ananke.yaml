@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 1.12 G
 magnetosphere: Powerful
 name: Ananke
-o2: TBD
+o2_percent: TBD
 resources:
 - Aluminum
 - Europium
