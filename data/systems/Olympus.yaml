@@ -3,8 +3,8 @@ level: 10
 faction: None
 catalogue_id: Gl 570A
 spectral_class: K4
-temperature: 4540 K
-mass: 0.71 SM
+temperature: 4540
+mass: 0.71
 radius: 530580
 magnitude: 6.89
 planets: 6

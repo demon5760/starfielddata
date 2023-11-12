@@ -3,8 +3,8 @@ level: 55
 faction: None
 catalogue_id: Gl 711
 spectral_class: K0
-temperature: 4890 K
-mass: 2.00 SM
+temperature: 4890
+mass: 2.00
 radius: 4101364
 magnitude: 1.89
 planets: 7

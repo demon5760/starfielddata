@@ -3,8 +3,8 @@ level: 50
 faction: None
 catalogue_id: Gl 670B
 spectral_class: K3
-temperature: 4705 K
-mass: 0.73 SM
+temperature: 4705
+mass: 0.73
 radius: 545899
 magnitude: 7.70
 planets: 6

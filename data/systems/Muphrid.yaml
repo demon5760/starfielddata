@@ -3,8 +3,8 @@ level: 15
 faction: None
 catalogue_id: Gl 534
 spectral_class: G0
-temperature: 6100 K
-mass: 1.10 SM
+temperature: 6100
+mass: 1.10
 radius: 731114
 magnitude: 2.40
 planets: 8

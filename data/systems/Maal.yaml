@@ -3,8 +3,8 @@ level: 60
 faction: None
 catalogue_id: TBD
 spectral_class: F8
-temperature: 6180 K
-mass: 1.18 SM
+temperature: 6180
+mass: 1.18
 radius: 772893
 magnitude: 3.02
 planets: 10

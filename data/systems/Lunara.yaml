@@ -3,8 +3,8 @@ level: 25
 faction: Crimson Fleet
 catalogue_id: Gl 660A
 spectral_class: G4
-temperature: 5660 K
-mass: 0.95 SM
+temperature: 5660
+mass: 0.95
 radius: 663805
 magnitude: 11.41
 planets: 11

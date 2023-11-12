@@ -3,8 +3,8 @@ level: 25
 faction: None
 spectral_class: G8
 catalogue_id: Gl 451A
-temperature: 4760 K
-mass: 0.66 SM
+temperature: 4760
+mass: 0.66
 radius: 474212
 magnitude: 6.63
 planets: 8

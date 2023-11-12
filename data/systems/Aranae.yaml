@@ -3,8 +3,8 @@ level: 15
 faction: None
 catalogue_id: Gl 570B
 spectral_class: K5
-temperature: 4375 K
-mass: 0.69 SM
+temperature: 4375
+mass: 0.69
 radius: 515262
 magnitude: 9.15
 planets: 5

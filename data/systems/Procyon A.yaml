@@ -3,8 +3,8 @@ level: 10
 faction: None
 catalogue_id: Gl 280A
 spectral_class: F5 
-temperature: 6530 K
-mass: 1.50 SM
+temperature: 6530
+mass: 1.50
 radius: 1424384
 magnitude: 2.67
 planets: 6

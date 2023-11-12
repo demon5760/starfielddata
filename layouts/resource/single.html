@@ -74,7 +74,7 @@
         <div id="variations">
           <h2>Variations</h2>
           {{ $resource.name }} is known to come in the following variations:
-          <table class="data_table">
+          <table >
             <thead>
               <tr><th>Name</th><th>State</th><th>mass</th><th>value</th></tr>
             </thead>
@@ -97,9 +97,9 @@
         <div id="farming">
           <h2>Farming</h2>
           
-          <p>It will be produced in a {{ partial "util/tbd_data_resolver" $resource.state }} state and will need to be stored in {{ partial "util/tbd_data_resolver" $resource.state }} storage</p>
+          <p>{{ $resource_name }} will be produced in a {{ partial "util/tbd_data_resolver" $resource.state }} state and will need to be stored in {{ partial "util/tbd_data_resolver" $resource.state }} storage</p>
           
-          You have a few options for farming {{ $resource_name }}:
+          You have some options for farming {{ $resource_name }}:
           <ul>
           {{ range $builder, $inputs := $resource.farming }}
             <li>{{ $builder }}

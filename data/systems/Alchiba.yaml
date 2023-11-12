@@ -3,8 +3,8 @@ level: 50
 faction: None
 spectral_class: F0
 catalogue_id: Gl 455.3
-temperature: 7040 K
-mass: 1.39 SM
+temperature: 7040
+mass: 1.39
 radius: 904150
 magnitude: 3.15
 planets: 11

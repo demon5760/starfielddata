@@ -3,8 +3,8 @@ level: 20
 faction: None
 catalogue_id: Gl 139
 spectral_class: G8
-temperature: 5400 K
-mass: 0.70 SM
+temperature: 5400
+mass: 0.70
 radius: 639860
 magnitude: 5.35
 planets: 9

@@ -3,8 +3,8 @@ level: 10
 faction: None
 catalogue_id: Gl 191
 spectral_class: M0
-temperature: 3570 K
-mass: 0.28 SM
+temperature: 3570
+mass: 0.28
 radius: 202636
 magnitude: 10.90
 planets: 2

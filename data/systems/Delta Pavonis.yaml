@@ -3,8 +3,8 @@ level: 25
 faction: None
 catalogue_id: Gl 780
 spectral_class: G5
-temperature: 5570 K
-mass: 0.99 SM
+temperature: 5570
+mass: 0.99
 radius: 833527
 magnitude: 4.62
 planets: 7

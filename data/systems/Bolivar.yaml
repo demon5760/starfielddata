@@ -3,8 +3,8 @@ level: 35
 faction: None
 catalogue_id: NN 3727A
 spectral_class: M3
-temperature: 3280 K
-mass: 0.31 SM
+temperature: 3280
+mass: 0.31
 radius: 309157
 magnitude: 10.56
 planets: 1

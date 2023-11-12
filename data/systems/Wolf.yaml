@@ -3,8 +3,8 @@ level: 5
 faction: United Colonies
 catalogue_id: Gl 406
 spectral_class: M6
-temperature: 2860 K
-mass: 0.09 SM
+temperature: 2860
+mass: 0.09
 radius: 111415
 magnitude: 16.56
 planets: 2

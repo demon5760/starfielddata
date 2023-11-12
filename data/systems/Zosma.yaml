@@ -3,8 +3,8 @@ level: 50
 faction: None
 catalogue_id: Gl 419
 spectral_class: A14
-temperature: 8900 K
-mass: 2.20 SM
+temperature: 8900
+mass: 2.20
 radius: 1488370
 magnitude: 1.29
 planets: 5

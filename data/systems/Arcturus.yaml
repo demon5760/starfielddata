@@ -3,8 +3,8 @@ level: 15
 faction: None
 catalogue_id: Gl 541
 spectral_class: K2
-temperature: 4280 K
-mass: 1.08 SM
+temperature: 4280
+mass: 1.08
 radius: 17665700
 magnitude: -0.31 
 planets: 3

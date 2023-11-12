@@ -3,8 +3,8 @@ level: 10
 faction: None
 catalogue_id: Gl 244B
 spectral_class: WD
-temperature: 25200 K
-mass: 1.02 SM
+temperature: 25200
+mass: 1.02
 radius: 5564
 magnitude: 11.18
 planets: 1

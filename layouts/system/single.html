@@ -26,10 +26,9 @@
           <strong>Catalogue ID:</strong> <span class="{{$catalogueIdSpanClass}}">{{ $system.catalogue_id }}</span>
           
         </div>
-        <div><strong>Temperature:</strong> {{ $system.temperature }}</div>
-        <div><strong>Mass:</strong> {{ $system.mass }}</div>
-        <div><strong>Radius:</strong> {{ $system.radius }}</div>
-        <div><strong>Magnitude:</strong> {{ $system.magnitude }}</div>
+        <div><strong>Temperature:</strong>{{ $system.temperature | lang.FormatNumber 0 }} K</div>
+        <div><strong>Mass:</strong> {{ $system.mass | lang.FormatNumber 0 }} M<sub>&#9737;</sub></div>
+        <div><strong>Radius:</strong> {{ $system.radius | lang.FormatNumber 0 }}</div>
         <div><strong>Magnitude:</strong> {{ $system.magnitude }}</div>
 
         There are {{ $system.planets }} planets and {{ $system.moons }} moons can be found in {{ $system.name }}.

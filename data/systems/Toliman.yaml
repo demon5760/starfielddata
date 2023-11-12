@@ -3,8 +3,8 @@ level: 5
 faction: None
 catalogue_id: Gl 559B
 spectral_class: K1
-temperature: 5260 K
-mass: 0.91 SM
+temperature: 5260
+mass: 0.91
 radius: 601086
 magnitude: 5.74
 planets: 2

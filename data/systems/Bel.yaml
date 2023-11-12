@@ -3,8 +3,8 @@ level: 55
 faction: None
 catalogue_id: NN 3830
 spectral_class: G0
-temperature: 6000 K
-mass: 1.10 SM
+temperature: 6000
+mass: 1.10
 radius: 731114
 magnitude: 5.33
 planets: 7

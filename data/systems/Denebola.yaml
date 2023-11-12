@@ -3,8 +3,8 @@ level: 30
 faction: None
 catalogue_id: Gl 448 
 spectral_class: A3
-temperature: 8500 K
-mass: 1.78 SM
+temperature: 8500
+mass: 1.78
 radius: 1201824
 magnitude: 1.93
 planets: 3

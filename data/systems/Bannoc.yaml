@@ -3,8 +3,8 @@ level: 50
 faction: None
 catalogue_id: Gl 544A 
 spectral_class: K1
-temperature: 5035 K
-mass: 0.76 SM
+temperature: 5035
+mass: 0.76
 radius: 576536
 magnitude: 5.98
 planets: 4

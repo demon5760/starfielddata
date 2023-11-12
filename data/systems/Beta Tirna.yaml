@@ -3,8 +3,8 @@ level: 35
 faction: None
 spectral_class: M5 
 catalogue_id: GL 442B
-temperature: 3000 K
-mass: 0.21 SM
+temperature: 3000
+mass: 0.21
 radius: 222816
 magnitude: 15.17
 planets: 1

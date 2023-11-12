@@ -3,8 +3,8 @@ level: 30
 faction: None
 catalogue_id: Gl 596.1A
 spectral_class: G5
-temperature: 5575 K
-mass: 0.93 SM
+temperature: 5575
+mass: 0.93
 radius: 647559
 magnitude: 5.03
 planets: 8

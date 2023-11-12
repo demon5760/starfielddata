@@ -3,8 +3,8 @@ level: 25
 faction: None
 catalogue_id: Gl 721
 spectral_class: A0
-temperature: 9600 K
-mass: 2.13 SM
+temperature: 9600
+mass: 2.13
 radius: 1642771
 magnitude: 0.60
 planets: 2

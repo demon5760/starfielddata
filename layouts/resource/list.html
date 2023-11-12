@@ -8,7 +8,7 @@
           </div>
 
         {{ end }}
-        <div class="page-list">
+        <div class="page-list"> 
           <h2>Inorganic</h2>
             <table class="data_table">
               <thead>
@@ -49,7 +49,11 @@
             <td>{{ partial "util/tbd_data_resolver" $resource.state }}</td>
             <td>
               {{ if $resource.variations }}
-                {{ $resource.variations | len }}
+                <ul>
+                  {{ range $name, $data := $resource.variations }}
+                    <li> {{ $name }} </li>
+                  {{ end }}
+                </ul>
               {{ end }}
             </td>
           </tr>

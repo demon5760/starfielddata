@@ -3,8 +3,8 @@ level: 20
 faction: None
 catalogue_id: Gl 663B
 spectral_class: K1
-temperature: 5035 K
-mass: 0.76 SM
+temperature: 5035
+mass: 0.76
 radius: 576536
 magnitude: 6.19
 planets: 5

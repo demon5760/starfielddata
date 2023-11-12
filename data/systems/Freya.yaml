@@ -3,8 +3,8 @@ level: 40
 faction: None
 catalogue_id: Gl 564
 spectral_class: G2
-temperature: 5830 K
-mass: 1.00 SM
+temperature: 5830
+mass: 1.00
 radius: 696300
 magnitude: 4.56
 planets: 9

@@ -3,8 +3,8 @@ level: 1
 faction: Freestar Collective
 catalogue_id: Gl 702A
 spectral_class: K0
-temperature: 5200 K
-mass: 0.78 SM
+temperature: 5200
+mass: 0.78
 radius: 591855
 magnitude: 5.49
 planets: 7

@@ -3,8 +3,8 @@ level: 60
 faction: None
 spectral_class: G9
 catalogue_id: NN 3969
-temperature: 5235 K
-mass: 0.81 SM
+temperature: 5235
+mass: 0.81
 radius: 602995
 magnitude: 10.22
 planets: 9

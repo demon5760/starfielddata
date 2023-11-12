@@ -3,8 +3,8 @@ level: 20
 faction: None
 catalogue_id: Gl 34B
 spectral_class: K7
-temperature: 4045 K
-mass: 0.56 SM
+temperature: 4045
+mass: 0.56
 radius: 459589
 magnitude: 8.63
 planets: 5

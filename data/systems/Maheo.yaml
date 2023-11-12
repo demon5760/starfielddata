@@ -3,8 +3,8 @@ level: 1
 faction: None
 catalogue_id: Gl 566B
 spectral_class: K4
-temperature: 4540 K
-mass: 0.71 SM
+temperature: 4540
+mass: 0.71
 radius: 530580
 magnitude: 7.84
 planets: 7

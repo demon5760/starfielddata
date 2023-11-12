@@ -3,8 +3,8 @@ level: 1
 faction: Freestar Collective
 spectral_class: G8
 catalogue_id: GL 566A
-temperature: 5320 K
-mass: 0.84 SM
+temperature: 5320
+mass: 0.84
 radius: 614136
 magnitude: 5.40
 planets: 9

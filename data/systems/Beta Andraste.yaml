@@ -3,8 +3,8 @@ level: 20
 faction: None
 catalogue_id: Gl 53B
 spectral_class: M3
-temperature: 3280 K
-mass: 0.31 SM
+temperature: 3280
+mass: 0.31
 radius: 309157
 magnitude: 11.60
 planets: 1

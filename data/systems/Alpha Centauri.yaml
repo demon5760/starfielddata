@@ -3,8 +3,8 @@ level: 1
 faction: United Colonies
 catalogue_id: Gl 559A
 spectral_class: G2
-temperature: 5790 K
-mass: 1.10 SM
+temperature: 5790
+mass: 1.10
 radius: 862420
 magnitude: 4.38
 planets: 4

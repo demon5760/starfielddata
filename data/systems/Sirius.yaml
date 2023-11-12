@@ -3,8 +3,8 @@ level: 5
 faction: None
 catalogue_id: Gl 244A
 spectral_class: A2
-temperature: 9940 K
-mass: 2.06 SM
+temperature: 9940
+mass: 2.06
 radius: 1190001
 magnitude: 1.45
 planets: 3

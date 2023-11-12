@@ -3,8 +3,8 @@ level: 5
 faction: Freestar Collective
 catalogue_id: Gl 506
 spectral_class: G5
-temperature: 5575 K
-mass: 0.93 SM
+temperature: 5575
+mass: 0.93
 radius: 647559
 magnitude: 5.08
 planets: 6

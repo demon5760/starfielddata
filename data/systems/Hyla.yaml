@@ -3,8 +3,8 @@ level: 40
 faction: None
 catalogue_id: Gl 547
 spectral_class: G1
-temperature: 5915 K
-mass: 1.05 SM
+temperature: 5915
+mass: 1.05
 radius: 717189
 magnitude: 5.07
 planets: 8

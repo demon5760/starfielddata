@@ -3,8 +3,8 @@ level: 10
 faction: None
 catalogue_id: Gl 820B
 spectral_class: K7
-temperature: 4045 K
-mass: 0.60 SM
+temperature: 4045
+mass: 0.60
 radius: 484624
 magnitude: 8.33
 planets: 3

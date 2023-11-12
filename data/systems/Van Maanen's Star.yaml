@@ -3,8 +3,8 @@ level: 10
 faction: None
 catalogue_id: Gl 35
 spectral_class: WD
-temperature: 6130 K
-mass: 0.70 SM
+temperature: 6130
+mass: 0.70
 radius: 9609
 magnitude: 14.22
 planets: 1

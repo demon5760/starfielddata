@@ -3,8 +3,8 @@ level: 45
 faction: None
 catalogue_id: Gl 678A
 spectral_class: G8
-temperature: 5500 K
-mass: 1.10 SM
+temperature: 5500
+mass: 1.10
 radius: 1182350
 magnitude: 4.24 
 planets: 5

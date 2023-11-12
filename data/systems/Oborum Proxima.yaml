@@ -3,8 +3,8 @@ level: 25
 faction: None
 catalogue_id: Gl 667C
 spectral_class: M2
-temperature: 3700 K
-mass: 0.31 SM
+temperature: 3700
+mass: 0.31
 radius: 292465
 magnitude: 11.02
 planets: 1

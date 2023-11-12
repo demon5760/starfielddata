@@ -3,8 +3,8 @@ level: 20
 faction: None
 catalogue_id: Gl 34A
 spectral_class: G0
-temperature: 5970 K
-mass: 0.97 SM
+temperature: 5970
+mass: 0.97
 radius: 722346
 magnitude: 4.58
 planets: 4

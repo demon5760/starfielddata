@@ -14,11 +14,14 @@
               <thead>
               <tr>
                 <th>Name</th>
-                <th>Level</th>
-                <th>Planets</th>
-                <th>Moons</th>
-                <th>Resources <br />Unique</th>
-                <th>Resources<br />Total</th>
+                <th>Lvl</th>
+                <th>Bodies</th>
+                <th>Mass (M<sub>&#9737;</sub>)</th>
+                <th>Temp (K)</th>
+                <th>Radius (km)</th>
+                <th>Magnitude</th>
+                <th>Res. Qty</th>
+
               </tr>
             </thead>
             <tbody>
@@ -27,8 +30,13 @@
             <tr>
               <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
               <td>{{ $system.level }}</td>
-              <td>{{ $system.planets }}</td>
-              <td>{{ $system.moons }}</td>
+              <td>{{ add $system.planets $system.moons }}</td>
+              <td>{{ replace $system.mass " SM" ""}}</td>
+              <td>{{ (replace $system.temperature " K" "") | lang.FormatNumber 0 }}</td>
+              <td>{{ $system.radius | lang.FormatNumber 0}}</td>
+              <td>{{ $system.magnitude }} </td>
+              
+
               {{ $resouce_list := slice }}
               {{ range $.Site.Data.planets }}
                 {{ if eq .system $system.name}}
@@ -42,10 +50,7 @@
                 {{ end }}
               {{ end }}
 
-              <td>
-                {{ $resouce_list | uniq | len}}
-              </td>
-              <td>
+               <td>
                 {{ $resouce_list | len}}
               </td>
             </tr>

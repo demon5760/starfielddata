@@ -3,8 +3,8 @@ level: 15
 faction: None
 catalogue_id: Gl 695A 
 spectral_class: G5
-temperature: 5590 K
-mass: 0.93 SM
+temperature: 5590
+mass: 0.93
 radius: 647559
 magnitude: 3.82
 planets: 6

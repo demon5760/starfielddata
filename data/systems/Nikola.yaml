@@ -3,8 +3,8 @@ level: 40
 faction: None
 catalogue_id: NN 4056
 spectral_class: G5
-temperature: 5575 K
-mass: 0.93 SM
+temperature: 5575
+mass: 0.93
 radius: 647559
 magnitude: 11.13
 planets: 10
