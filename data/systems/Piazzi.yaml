@@ -2,12 +2,12 @@ name: Piazzi
 level: 10
 faction: None
 catalogue_id: Gl 820A
-spectral_class: K4
+spectral_class: K5
 temperature: 4375 K
 mass: 0.69 SM
 radius: 515262
-magnitude: 7.49
+magnitude: 7.48
 planets: 7
 moons: 14
 credits:
-  - Inara
+  - Demon5760

@@ -3,11 +3,11 @@ level: 35
 faction: None
 spectral_class: G5 
 catalogue_id: NN 3781A
-temperature: 5575 K
-mass: 0.93 SM
+temperature: 5575
+mass: 0.93
 radius: 647559
-magnitude: 6.12
+magnitude: 6.11
 planets: 8
 moons: 12
 credits:
-  - Inara
+  - Demon5760
