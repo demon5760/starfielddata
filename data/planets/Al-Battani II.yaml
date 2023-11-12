@@ -3,18 +3,106 @@ credits:
   - Starfield Sheet 1
   - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
+  Pack Dragondon:
+    temperament: Territorial
+    resource: Analgesic
+    non_lethal_harvest: false
+    biomes:
+      - Frozen Plains
+    health: 310
+    abilities:
+      - Staggering atacks
+    resistances:
+      - Blast damage
+      - Physical damage
+  
+  Flocking Nautilods Filterer:
+    temperament: Defensive
+    resource: Sealant
+    biomes:
+      - Hills
+      - Mountains
+    health: 95
+    abilities:
+      - Attacks deplete  O2
+  
+  Herding Scoopback Gephage:
+    temperament: Territorial
+    resource: Hallucinogen
+    non_lethal_harvest: false
+    biomes:
+      - Hills
+      - Mountains
+    health: 735
+  
+  Pack Cranehopper:
+    temperament: Defensive
+    resource: Sealant
+    biomes:
+      - Hills
+      - Mountains
+    health: 205
+    abilities:
+      - Increased armor pentration
+      - Ranged mouth attack
+  
+  Spaceroach Geophage:
+    temperament: Wary
+    resource: Toxin
+    biomes:
+      - Hills
+      - Mountains
+    health: 20
+  
+  Herding Sentinel Filterer:
+    temperament: Wary
+    resource: Ornamental
+    non_lethal_harvest: false
+    biomes:
+      - Ocean
+      - Frozen Plains
+    health: 195
+  
+  Beetle Scavenger:
+    temperament: Peaceful
+    resource: Adhesive
+    biomes:
+      - Frozen Plains
+    health: 20
+
 fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
+  Bleeding Heart Vine:
+    resource: Fiber
+    biomes:
+      - Hills
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-fertilization
+  
+  Star Bloom Root:
+    resource: Adhesive
+    biomes:
+      - Hills
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Arsenic-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Mountain Silkweed:
+    resource: Metabolic Agent
+    biomes:
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-fertilization
+  
 flora_rating: Marginal
 gravity: 0.84 G
 magnetosphere: Weak

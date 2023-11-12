@@ -1,17 +1,18 @@
 atmosphere: H2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 1.99 G
 magnetosphere: Strong
 name: Al-Battani VI
-o2: TBD
+o2: N/A
 resources: []
 system: Al-Battani
-surface_temp: TBD
+surface_temp: N/A
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

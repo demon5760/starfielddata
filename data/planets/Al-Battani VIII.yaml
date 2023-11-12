@@ -1,20 +1,21 @@
-atmosphere: TBD
+atmosphere: None
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.49 G
 magnetosphere: Weak
 name: Al-Battani VIII
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Aluminum
 - Beryllium
 - Helium-3
 system: Al-Battani
-surface_temp: TBD
+surface_temp: 232
 temperature: Deep Freeze
 traits: []
 type: Barren

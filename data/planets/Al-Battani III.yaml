@@ -20,7 +20,7 @@ system: Al-Battani
 surface_temp: -42
 temperature: Cold
 traits:
-- Extinction Event - Tar Pits - Skeletal Remains
-- TBD2
+  - Extinction Event - Tar Pits - Skeletal Remains
+  - Prismatic Plumes
 type: Rock
 water: None

@@ -1,22 +1,23 @@
-atmosphere: '-0'
+atmosphere: None
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.15 G
-magnetosphere: '-0'
+magnetosphere: None
 name: Al-Battani V-a
-o2_percent: TBD
+o2_percent: 0
 planet: Al-Battani V
 resources:
 - Aluminum
 - Beryllium
 - Helium-3
 - Neodymium
-surface_temp: TBD
+surface_temp: -178
 temperature: Deep Freeze
 traits: []
 type: Barren
-water: '-0'
+water: None
