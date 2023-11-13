@@ -9,7 +9,7 @@ flora_rating: None
 gravity: 0.80 G
 magnetosphere: Weak
 name: Alchiba IV
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Copper
 - Iridium
@@ -19,7 +19,7 @@ resources:
 - Vanadium
 - Water
 system: Alchiba
-surface_temp: TBD
+surface_temp: -42
 temperature: Cold
 traits: []
 type: Rock

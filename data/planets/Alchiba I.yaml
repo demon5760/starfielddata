@@ -9,18 +9,18 @@ flora_rating: None
 gravity: 1.75 G
 magnetosphere: Average
 name: Alchiba I
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Cobalt
 - Lead
 - Nickel
 - Palladium
 system: Alchiba
-surface_temp: TBD
+surface_temp: 541
 temperature: Inferno
 traits:
   - Emerging Tectonics
-  - TBD2
+  - Prismatic Plumes - Crystalline Minerals - Crystalline Pools
   - TBD3
 type: Rock
 water: None

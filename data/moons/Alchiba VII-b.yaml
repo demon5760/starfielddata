@@ -9,7 +9,7 @@ flora_rating: None
 gravity: 0.45 G
 magnetosphere: None
 name: Alchiba VII-b
-o2_percent: TBD
+o2_percent: 0
 planet: Alchiba VII
 resources:
 - Chlorine
@@ -19,7 +19,7 @@ resources:
 - Nickel
 - Tetrafluorides
 - Water
-surface_temp: TBD
+surface_temp: -10
 temperature: Cold
 traits: []
 type: Rock

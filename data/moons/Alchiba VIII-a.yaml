@@ -9,12 +9,12 @@ flora_rating: None
 gravity: 0.04 G
 magnetosphere: None
 name: Alchiba VIII-a
-o2_percent: TBD
+o2_percent: 0
 planet: Alchiba VIII
 resources:
 - Lead
 - Water
-surface_temp: TBD
+surface_temp: -174
 temperature: Deep Freeze
 traits:
 - Slushy Subsurface Seas

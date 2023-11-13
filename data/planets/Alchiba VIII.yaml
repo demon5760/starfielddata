@@ -9,12 +9,12 @@ flora_rating: None
 gravity: 2.07 G
 magnetosphere: Very Strong
 name: Alchiba VIII
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Helium-3
 - Iron
 system: Alchiba
-surface_temp: TBD
+surface_temp: -162
 temperature: Deep Freeze
 traits:
 - Frozen Ecosystem

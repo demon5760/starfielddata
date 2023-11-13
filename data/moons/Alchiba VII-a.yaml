@@ -9,12 +9,12 @@ flora_rating: None
 gravity: 0.15 G
 magnetosphere: None
 name: Alchiba VII-a
-o2_percent: TBD
+o2_percent: 0
 planet: Alchiba VII
 resources:
 - Copper
 - Water
-surface_temp: TBD
+surface_temp: -162
 temperature: Deep Freeze
 traits: []
 type: Ice

@@ -1,24 +1,25 @@
 atmosphere: STD O2 (TOX)
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.74 G
 magnetosphere: None
 name: Alchiba X-b
-o2_percent: TBD
+o2_percent: 21
 planet: Alchiba X
 resources:
 - Argon
 - Benzene
 - Lead
 - Water
-surface_temp: TBD
+surface_temp: 21
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+- Global Glacial Recession
+- Pelted Fields - Meteor Shower Impact Site - Stony Meteorite
 type: Rock
 water: Biological

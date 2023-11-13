@@ -9,14 +9,14 @@ flora_rating: None
 gravity: 0.08 G
 magnetosphere: None
 name: Alchiba V-a
-o2_percent: TBD
+o2_percent: 0
 planet: Alchiba V
 resources:
 - Alkanes
 - Helium-3
 - Iron
 - Ytterbium
-surface_temp: TBD
+surface_temp: -48
 temperature: Cold
 traits: []
 type: Barren

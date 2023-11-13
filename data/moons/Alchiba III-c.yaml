@@ -9,7 +9,7 @@ flora_rating: None
 gravity: 0.14 G
 magnetosphere: None
 name: Alchiba III-c
-o2_percent: TBD
+o2_percent: 0
 planet: Alchiba III
 resources:
 - Aluminum
@@ -20,7 +20,7 @@ resources:
 - Nickel
 - Platinum
 - Water
-surface_temp: TBD
+surface_temp: 0
 temperature: Temperate
 traits: []
 type: Barren

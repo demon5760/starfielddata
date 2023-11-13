@@ -9,13 +9,13 @@ flora_rating: None
 gravity: 0.30 G
 magnetosphere: None
 name: Alchiba VI-c
-o2_percent: TBD
+o2_percent: 0
 planet: Alchiba VI
 resources:
 - Copper
 - Fluorine
 - Water
-surface_temp: TBD
+surface_temp: -125
 temperature: Frozen
 traits: []
 type: Ice

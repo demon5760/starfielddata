@@ -9,15 +9,15 @@ flora_rating: None
 gravity: 0.16 G
 magnetosphere: None
 name: Alchiba VI-b
-o2_percent: TBD
+o2_percent: 0
 planet: Alchiba VI
 resources:
 - Copper
 - Tetrafluorides
 - Water
-surface_temp: TBD
+surface_temp: -126
 temperature: Frozen
 traits:
-- TBD1
+- Crystalline Crust - Crystalline Matrix - Crystalline Nucleation Nodule
 type: Ice
 water: Safe

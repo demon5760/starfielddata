@@ -1,10 +1,11 @@
 atmosphere: None
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.10 G
 magnetosphere: None
 name: Alchiba IX-a
@@ -13,7 +14,7 @@ planet: Alchiba IX
 resources:
 - Argon
 - Water
-surface_temp: TBD
+surface_temp: -186
 temperature: Deep Freeze
 traits: []
 type: Ice
