@@ -1,0 +1,59 @@
+{{ define "main" }}
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <h1>To-Do List</h1>
+
+        <h2>Missing Data</h2>
+        As you can imagine, there is a lot of data to wrangle. The list below represents things we know we need:
+        <h3>System Data</h3>
+        <ul>
+            {{ range $.Site.Data.systems }}
+                {{ $system := . }}
+                {{ range $key, $value :=  $system }}
+                    {{ if eq (partial "util/is_missing" $value) true }}
+                        <li> {{ partial "util/get_location_link" (slice $system.name $.Site) }} is missing a value for {{ $key }}</li>
+                    {{ end }}
+                {{ end }}
+
+            {{ end }}
+        </ul>
+
+        <h3>Planet & Moon Data</h3>
+        <ul>
+            {{ $bodies := merge $.Site.Data.planets $.Site.Data.moons }}
+            {{ range $bodies }}
+                {{ $body := . }}
+                {{ range $key, $value :=  $body }}
+
+                    {{ if not (in (slice "flora" "fauna" "traits" "resources") $key )}}
+                        {{ if eq (partial "util/is_missing" $value) true }}
+                            <li> {{ partial "util/get_location_link" (slice $body.name $.Site) }} is missing a value for {{ $key }}</li>
+                        {{ end }}
+                    {{ end }}
+                    {{ if in (slice "flora" "fauna") $key }}
+                        {{ range $fkey, $fvalue := $value }}
+                            {{ if hasPrefix $fkey "TBD" }}
+                                <li>{{ partial "util/get_location_link" (slice $body.name $.Site) }} has a {{ $key }} of <strong>{{$fkey}}</strong>. Needs real data.</li>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                    {{ if eq $key "traits" }}
+                        {{ range $value }}
+                            {{ if hasPrefix . "TBD" }}
+                            <li>{{ partial "util/get_location_link" (slice $body.name $.Site) }} has <strong>{{.}}</strong> in {{ $key }}. Needs real data.</li>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+
+            {{ end }}
+        </ul>
+
+
+
+    </div>
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,13 @@
+{{ $value := . }}
+{{ $result := false }}
+
+{{ if not $value }}
+    {{ if not (eq $value 0 )}}
+        {{ $result = true }}
+    {{ end }}
+{{ else }}
+    {{ $result = eq $value "TBD"}}
+{{ end }}
+
+
+{{ return $result }}
