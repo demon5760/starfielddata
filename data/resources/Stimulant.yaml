@@ -18,5 +18,9 @@ variations:
     state: Solid
     mass: 0.30
     value: 20
+  Vital Fluids:
+    state: Liquid
+    mass: 0.20
+    value: 20
 credits:
   - Demon5760

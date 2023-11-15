@@ -35,5 +35,9 @@ variations:
     state: Solid
     mass: 0.10
     value: 10
+  Root:
+    state: Solid
+    mass: 0.10
+    value: 10
 credits:
   - Demon5760

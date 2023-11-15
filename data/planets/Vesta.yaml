@@ -1,25 +1,131 @@
 atmosphere: STD O2 (TOX)
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-fauna_rating: TBD
+  Gossamer Filterer:
+    temperament: Peaceful
+    resource: Sealant
+    biomes:
+      - Volcanic 
+      - Savanna
+      - Mountains
+      - Frozen Plains
+      - Plateau
+      - Deciduous Forest
+    health: 20
+  
+  Hunting Bonefrill Stalker:
+    temperament: Fearless
+    resource: Analgesic
+    biomes:
+      - Savanna
+      - Deciduous Forest
+    health: 310
+    abilities:
+      - Ranged mouth attack
+  
+  Noid Filterer:
+    temperament: Wary
+    resource: Toxin
+    biomes:
+      - Volcanic
+      - Mountains
+      - Plateau
+    health: 20
+    outpost_production_allowed: true
+  
+  Herding Lockjaw Grazer:
+    temperament: Wary
+    resource: Metabolic Agent
+    biomes:
+      - Volcanic
+      - Mountains
+      - Plateau
+    health: 120
+    outpost_production_allowed: true
+    resistances:
+      - Blast damage
+      - Physical damage
+  
+  Pack Ankylosaurus:
+    temperament: Wary
+    resource: Ornamental
+    non_lethal_harvest: false
+    biomes:
+      - Volcanic
+      - Mountains
+      - Plateau
+    health: 170
+  
+  Exocrawler Scavenger:
+    temperament: Territorial
+    resource: Membrane
+    biomes:
+      - Savanna
+      - Deciduous Forest
+    health: 195
+  
+  Grabber Grazer:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    biomes:
+      - Savanna
+      - Deciduous Forest
+    health: 20
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-flora_rating: TBD
+  Broken Heart Vine:
+    resource: Structural
+    biomes:
+      - Savanna
+      - Deciduous Forest
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+  Spitting Pokeweed:
+    resource: Nutrient
+    biomes:
+      - Savanna
+      - Deciduous Forest
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Complex
+  
+  Arc Root:
+    resource: Toxin
+    biomes:
+      - Volcanic
+      - Mountains
+      - Plateau
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Aurora Palm:
+    resource: Fiber
+    biomes:
+      - Volcanic
+      - Mountains
+      - Plateau
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Spores
+  
+flora_rating: Marginal
 gravity: 0.63 G
 magnetosphere: Weak
 name: Vesta
-o2_percent: TBD
+o2_percent: 18
 resources:
 - Argon
 - Benzene
@@ -30,11 +136,11 @@ resources:
 - Mercury
 - Water
 system: Lunara
-surface_temp: TBD
+surface_temp: 5
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Global Glacial Recession - Melted Glacier - Glacial Remnant
+- Diseased Biosphere - Diseased Biosphere - Infected Grove
+- Psychotropic Biota - Unusual Growths - Fungal Grotto
 type: Rock
 water: Biological

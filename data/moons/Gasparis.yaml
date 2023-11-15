@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.43 G
 magnetosphere: None
 name: Gasparis
-o2_percent: TBD
+o2_percent: 0
 planet: Cassini
 resources:
 - Antimony
@@ -16,9 +16,8 @@ resources:
 - Fluorine
 - Gold
 - Water
-surface_temp: TBD
+surface_temp: -192
 temperature: Deep Freeze
-traits:
-- TBD1
+traits: []
 type: Ice
 water: Safe

@@ -45,5 +45,9 @@ variations:
     state: Solid
     mass: 0.10
     value: 6
+  Tissue:
+    state: Solid
+    mass: 0.20
+    value: 6
 credits:
   - Demon5760

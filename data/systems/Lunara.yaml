@@ -1,13 +1,13 @@
 name: Lunara
 level: 25
-faction: Crimson Fleet
+faction: None
 catalogue_id: Gl 660A
 spectral_class: G4
 temperature: 5660
 mass: 0.95
 radius: 663805
-magnitude: 11.41
-planets: 11
-moons: 14
+magnitude: 11.40
+planets: 8
+moons: 17
 credits:
-  - Inara
+  - Demon5760

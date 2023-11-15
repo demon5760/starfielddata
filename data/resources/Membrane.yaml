@@ -27,5 +27,9 @@ variations:
     state: Solid
     mass: 0.10
     value: 9
+  Stalk:
+    state: Solid
+    mass: 0.10
+    value: 9
 credits:
   - Demon5760
