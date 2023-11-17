@@ -14,3 +14,4 @@ In my travels/research I've come across a few different Google Sheets:
 
 * [Starfield Sheet](https://docs.google.com/spreadsheets/d/1idlpvoAhu2KHdi7J60Iz02HAIplHkEVpwt9JcmpWsKU/edit#gid=647788885)
 * [Starfield - Resource overview of systems](https://docs.google.com/spreadsheets/d/1seE2vzP_8Whs43C-6CXpoHPyJMFGoUH4TkSzeJqMHm4/edit#gid=1292729315)
+* [Starfield Scanner Compendium](https://steamcommunity.com/sharedfiles/filedetails/?id=3083536900)
