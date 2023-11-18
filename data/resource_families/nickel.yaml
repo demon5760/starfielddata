@@ -1,0 +1,8 @@
+name: Nickel
+type: Inorganic
+resources:
+  - Cobalt
+  - Platinum
+  - Palladium
+credits:
+  - Demon5760

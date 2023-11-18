@@ -32,15 +32,7 @@ fauna:
     biomes:
       - Deciduous Forest
     health: 625
-  
-  Herding Clawback Scavenger:
-    temperament: Wary
-    resource: Structural
-    biomes:
-      - Sandy Desert
-      - Mountains
-    health: 70
-  
+   
   Vampire Geophage:
     temperament: Peaceful
     resource: Membrane
@@ -56,13 +48,20 @@ fauna:
       - Ocean
     health: 395
   
-  Fingerface Ge0phage:
+  Fingerface Geophage:
     temperament: Wary
     resource: Sealant
     biomes:
       - Frozen Mountains
       - Sandy Desert
       - Mountains
+    health: 20
+  
+  Spaceroach Scavenger:
+    temperament: Peaceful
+    resource: Toxin
+    biomes:
+      - Deciduous Forest
     health: 20
   
 fauna_rating: Moderate

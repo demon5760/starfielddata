@@ -1,0 +1,10 @@
+name: Lead
+type: Inorganic
+resources:
+  - Tungsten
+  - Silver
+  - Titanium
+  - Mercury
+  - Dysprosium
+credits:
+  - Demon5760

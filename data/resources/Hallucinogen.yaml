@@ -39,6 +39,10 @@ variations:
     state: Solid
     mass: 0.20
     value: 14
+  Carapace:
+    state: Solid
+    mass: 0.30
+    value: 14
 
 credits:
   - Demon5760

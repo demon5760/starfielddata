@@ -31,5 +31,9 @@ variations:
     state: Solid
     mass: 0.10
     value: 10
+  Gland:
+    state: Solid
+    mass: 0.20
+    value: 10
 credits:
   - Demon5760

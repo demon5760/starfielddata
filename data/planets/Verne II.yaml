@@ -1,9 +1,27 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
+  Hunting Thronmantis:
+    temperament: Fearless
+    resource: Hallucinogen
+    biomes:
+      - Mountains
+    health: 625
+    abilities: []
+  
+  Herding Stonewalker Grazer:
+    temperament: Defensive
+    resource: Antimicrobial
+    biomes:
+      - Mountains
+    health: 395
+    outpost_production_allowed: true
+    resistances:
+      - Energy damage
+      - Physical damage
+  
   TBD3: {}
   TBD4: {}
   TBD5: {}
@@ -11,7 +29,16 @@ fauna:
   TBD7: {}
 fauna_rating: TBD
 flora:
-  TBD1: {}
+  Crag Root:
+    resource: Fiber
+    biomes:
+      - Mountains
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+  
   TBD2: {}
   TBD3: {}
   TBD4: {}
@@ -20,7 +47,7 @@ flora_rating: TBD
 gravity: 0.77 G
 magnetosphere: Average
 name: Verne II
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Argon
 - Benzene
@@ -30,7 +57,7 @@ resources:
 - Tungsten
 - Water
 system: Verne
-surface_temp: TBD
+surface_temp: -16
 temperature: Cold
 traits:
 - TBD1

@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 1.00 G
 magnetosphere: TBD
 name: Earth
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Chlorine
 - Chlorosilanes
@@ -16,7 +16,7 @@ resources:
 - Mercury
 - Water
 system: Sol
-surface_temp: TBD
+surface_temp: -1
 temperature: Cold
 traits:
 - TBD1

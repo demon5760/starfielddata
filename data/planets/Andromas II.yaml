@@ -11,8 +11,7 @@ fauna:
       - Frozen Mountains
       - Hills
       - Savanna
-    health:
-      20
+    health: 20
 
   Herding Snail Grazer:
     temperament: Peaceful
@@ -20,8 +19,7 @@ fauna:
     biomes:
       - Hills
       - Savanna
-    health:
-      50
+    health: 50
 
   Pack Brainsprout:
     temperament: Fearless
@@ -29,8 +27,7 @@ fauna:
     biomes:
       - Hills
       - Savanna
-    health:
-      275
+    health: 275
     resistances: []
 
   Schooling Seahag Grazer:
@@ -38,16 +35,14 @@ fauna:
     resource: Toxin
     biomes:
       - Ocean
-    health:
-      150
+    health: 150
 
   Hunting Sharkwhale:
     temperament: Defensive
     resource: Cosmetic
     biomes:
       - Ocean
-    health:
-      550
+    health: 550
     abilities:
       - Laceration damage
       - Extra Health

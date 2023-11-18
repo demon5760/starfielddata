@@ -1,28 +1,80 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
+  Coralheart Geophage:
+    temperament: Peaceful
+    resource: Structural
+    biomes:
+      - Volcanic
+      - Mountains
+      - Frozen Plains
+      - Confierous Forest
+    health: 20
+  
+  Lockjaw Grazer:
+    temperament: Wary
+    resource: Antimicrobial
+    non_lethal_harvest: false
+    biomes:
+      - Volcanic
+      - Mountains
+      - Coniferous Forest
+    health: 245
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Pack Clickbeetle:
+    temperament: Territorial
+    resource: Structural
+    biomes:
+      - Volcanic
+      - Mountains
+      - Coniferous Forest
+    health: 760
+    abilities: []
+  
 fauna_rating: TBD
 flora:
-  TBD1: {}
-  TBD2: {}
+  Aurora Palm:
+    resource: Nutrient
+    biomes:
+      - Mountains
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Cuttings
+  
+  Starburst Silkweed:
+    resource: Sealant
+    biomes:
+      - Mountains
+      - Confierous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Cuttings
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
   TBD3: {}
   TBD4: {}
 flora_rating: TBD
 gravity: 0.62 G
 magnetosphere: Very Strong
 name: Copernicus III
-o2_percent: TBD
+o2_percent: 18
 resources:
 - Argon
 - Benzene
 - Lead
 - Water
 system: Copernicus
-surface_temp: TBD
+surface_temp: 28
 temperature: Temperate
 traits:
 - TBD1
