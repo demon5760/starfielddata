@@ -1,0 +1,7 @@
+title: Grunt Issue 5
+effect: Ballistic weapons permanently do an additional 5% more critical damage.
+mass: 0.00
+value: 100
+location: Kryx - The Key - Bar
+credits:
+  - Demon5760
