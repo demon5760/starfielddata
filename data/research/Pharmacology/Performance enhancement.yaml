@@ -14,7 +14,7 @@ data:
         Carboxylic Acids: 10
         Hippolyta: 5
         Infantry Alpha: 5
-        Membrane: 10
+        Membrane: 5
         Solvent: 10
       unlocks:
         - Panopticon

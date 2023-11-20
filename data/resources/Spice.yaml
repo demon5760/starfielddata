@@ -39,6 +39,14 @@ variations:
     state: Solid
     mass: 0.05
     value: 11
+  Bone:
+    state: Solid
+    mass: 0.30
+    value: 11
+  Gland:
+    state: Solid
+    mass: 0.20
+    value: 11
 credits:
   - Demon5760
 
