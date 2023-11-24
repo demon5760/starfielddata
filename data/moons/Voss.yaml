@@ -1,14 +1,15 @@
 atmosphere: THIN N2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.41 G
 magnetosphere: None
 name: Voss
-o2_percent: TBD
+o2_percent: 0
 planet: Olivas
 resources:
 - Cobalt
@@ -19,9 +20,9 @@ resources:
 - Uranium
 - Vanadium
 - Water
-surface_temp: TBD
+surface_temp: -76
 temperature: Frozen
 traits:
-- TBD1
+  - Solar Storm Seasons
 type: Rock
 water: Chemical
