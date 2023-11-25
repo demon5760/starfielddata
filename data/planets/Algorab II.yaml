@@ -27,8 +27,8 @@ system: Algorab
 surface_temp: TBD
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+  - Ecological Consortium
+  - Psychotropic Biota
+  - Sentient Microbial Colonies
 type: Rock
 water: Safe

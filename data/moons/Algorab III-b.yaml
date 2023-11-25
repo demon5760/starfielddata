@@ -1,6 +1,7 @@
 atmosphere: THIN CO2 (COR)
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Starfield Scanner Compendium
 fauna:
   TBD1: {}
   TBD2: {}
@@ -31,7 +32,7 @@ resources:
 surface_temp: TBD
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+  - Global Glacial Recession
+  - Psychotropic Biota
 type: Rock
 water: Radioactive

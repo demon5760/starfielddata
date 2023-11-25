@@ -1,6 +1,7 @@
 atmosphere: STD CO2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Starfield Scanner Compendium
 fauna: {}
 fauna_rating: TBD
 flora: {}
@@ -18,6 +19,6 @@ resources:
 surface_temp: TBD
 temperature: Frozen
 traits:
-- TBD1
+  - Continual Conductor	
 type: Rock
 water: Chemical

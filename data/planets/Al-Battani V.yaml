@@ -7,7 +7,7 @@ fauna_rating: None
 flora: {}
 flora_rating: None
 gravity: 0.77 G
-magnetosphere: TBD
+magnetosphere: Weak
 name: Al-Battani V
 o2_percent: 0
 resources:

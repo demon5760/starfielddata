@@ -1,6 +1,7 @@
-atmosphere: TBD
+atmosphere: None
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
 fauna_rating: TBD
 flora: {}
@@ -8,12 +9,12 @@ flora_rating: TBD
 gravity: 1.37 G
 magnetosphere: Average
 name: Volii Tau
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Helium-3
 - Iron
 system: Volii
-surface_temp: TBD
+surface_temp: -153
 temperature: Deep Freeze
 traits: []
 type: Rock

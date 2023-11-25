@@ -12,7 +12,13 @@ fauna:
     abilities:
       - Extra Health
   
-  TBD2: {}
+  Chasmbass:
+    temperament: Peaceful 
+    resource: 
+    biomes:
+      - Ocean
+    health: 50
+  
 fauna_rating: TBD
 flora: {}
 flora_rating: TBD
