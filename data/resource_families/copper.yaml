@@ -1,0 +1,10 @@
+name: Copper
+type: Inorganic
+resources:
+  - Fluorine
+  - Tetrafluorides
+  - Gold
+  - Ionic liquids
+  - Antimony
+credits:
+  - Demon5760

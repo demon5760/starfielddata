@@ -1,0 +1,9 @@
+name: Chlorine
+type: Inorganic
+resources:
+  - Chlorosilanes
+  - Lithium
+  - Xenon
+  - Caesium
+credits:
+  - Demon5760

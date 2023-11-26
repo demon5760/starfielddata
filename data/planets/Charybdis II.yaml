@@ -1,33 +1,225 @@
 atmosphere: HIGH O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD10: {}
-  TBD11: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-  TBD9: {}
-fauna_rating: TBD
+  Pack Vulture:
+    temperament: Defensive
+    resource: Adhesive
+    biomes:
+      - Savanna
+    health: 135
+    outpost_production_allowed: true
+    abilities:
+      - Ranged mouth attack
+  
+  Trilobite Grazer:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Savanna
+    health: 20
+    outpost_production_allowed: true
+  
+  Flocking Sporeback Grazer:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Savanna
+    health: 170
+  
+  Pack Eggtail Stalker:
+    temperament: Wary
+    resource: Ornamental
+    biomes:
+      - Swamp
+      - Wetlands
+    health: 270
+    outpost_production_allowed: true
+    abilities:
+      - Ranged mouth attack
+  
+  Flamethorn Grazer:
+    temperament: Peaceful
+    resource: Spice
+    biomes:
+      - Swamp
+      - Wetlands
+    health: 20
+  
+  Herding Glider Scavenger:
+    temperament: Peaceful
+    resource: Pigment
+    biomes:
+      - Swamp
+      - Deciduous Forest
+      - Coniferous Forest
+      - Savanna
+      - Wetlands
+    health: 395
+    outpost_production_allowed: true
+  
+  Flocking Hippodon Scavenger:
+    temperament: Peaceful
+    resource: Structural
+    biomes:
+      - Swamp
+      - Wetlands
+    health: 295
+  
+  Flocking Cranehopper Grazer:
+    temperament: Peaceful
+    resource: Sealant
+    biomes:
+      - Deciduous Forest
+      - Confierous Forest
+    health: 490
+    outpost_production_allowed: true
+  
+  Pack Silverfish:
+    temperament: Territorial
+    resource: Amino Acids
+    biomes:
+      - Deciduous Forest
+      - Confierous Forest
+    health: 100
+    outpost_production_allowed: true
+    abilities: []
+  
+  Triworm Scavenger:
+    temperament: Peaceful
+    resource: Membrane
+    biomes:
+      - Frozen Hills
+      - Deciduous Forest
+      - Coniferous Forest
+    health: 20
+    outpost_production_allowed: true
+  
+  Pack Mothwing:
+    temperament: Wary
+    resource: Hypercatalyst
+    biomes:
+      - Swamp
+      - Coniferous Forest
+      - Deciduous Forest
+      - Savanna
+      - Wetlands
+    health: 135
+    abilities: []
+  
+fauna_rating: Abundant
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-flora_rating: TBD
+  Abyss Pine Seedling:
+    resource: Fiber
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Nebula Weed:
+    resource: Nutrient 
+    biomes:
+      - Swamp
+      - Deciduous Forest
+      - Coniferous Forest
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Canary Reed:
+    resource: Metabolic Agent
+    biomes:
+      - Swamp
+      - Coniferous Forest
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Complex
+  
+  Flame Vine:
+    resource: Structural
+    biomes:
+      - Swamp
+      - Deciduous Forest
+      - Coniferous Forest
+      - Wetlands
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Savage Woundwort:
+    resource: Ornamental
+    biomes:
+      - Swamps
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Swamp Bottle Root:
+    resource: Cosmetic
+    biomes:
+      - Swamp
+      - Wetlands
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Sage Shrub:
+    resource: Toxin
+    biomes:
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Split Leaf Watercress:
+    resource: Sealant
+    biomes:
+      - Wetlands
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Abundant
 gravity: 1.15 G
 magnetosphere: Weak
 name: Charybdis II
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Aluminum
 - Argon
@@ -38,9 +230,9 @@ resources:
 - Neodymium
 - Water
 system: Charybdis
-surface_temp: TBD
+surface_temp: 10
 temperature: Temperate
 traits:
-- TBD1
+- Aeriform Life
 type: Rock
 water: Safe
