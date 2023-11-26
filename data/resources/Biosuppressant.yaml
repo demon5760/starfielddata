@@ -19,5 +19,9 @@ variations:
     state: Liquid
     mass: 0.20
     value: 16
+  Sap:
+    state: Liquid
+    mass: 0.10
+    value: 16
 credits:
   - Demon5760

@@ -53,5 +53,9 @@ variations:
     state: Solid
     mass: 0.30
     value: 6
+  Flower:
+    state: Solid
+    mass: 0.05
+    value: 6
 credits:
   - Demon5760

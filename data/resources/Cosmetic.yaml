@@ -34,5 +34,9 @@ variations:
     state: Solid
     mass: 0.10
     value: 8
+  Seed:
+    state: Solid
+    mass: 0.10
+    value: 8
 credits:
   - Demon5760

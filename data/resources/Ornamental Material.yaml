@@ -43,5 +43,13 @@ variations:
     state: Solid
     mass: 0.10
     value: 11
+  Hide:
+    state: Solid
+    mass: 0.50
+    value: 11
+  Root:
+    state: Solid
+    mass: 0.10
+    value: 11
 credits:
   - Demon5760

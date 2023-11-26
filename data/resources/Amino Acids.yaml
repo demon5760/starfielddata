@@ -10,5 +10,14 @@ farming:
   Animal Husbandry Facility:
     - Fiber: 2
       Water: 1
+variations:
+  Gland:
+    state: Solid
+    mass: 0.20
+    value: 10
+  Vital Fluids:
+    state: Liquid
+    mass: 0.20
+    value: 10
 credits:
   - Demon5760
