@@ -25,24 +25,27 @@
             {{ $bodies := merge $.Site.Data.planets $.Site.Data.moons }}
             {{ range $bodies }}
                 {{ $body := . }}
+                {{ $system_name := partial "util/get_system_name" (slice $body.name $.Site)}}
+                {{ $system_link := partial "util/get_location_link" (slice $system_name $.Site) }}
+
                 {{ range $key, $value :=  $body }}
 
                     {{ if not (in (slice "flora" "fauna" "traits" "resources") $key )}}
                         {{ if eq (partial "util/is_missing" $value) true }}
-                            <li> {{ partial "util/get_location_link" (slice $body.name $.Site) }} is missing a value for {{ $key }}</li>
+                            <li> {{ partial "util/get_location_link" (slice $body.name $.Site) }} in {{ $system_link }} is missing a value for {{ $key }}</li>
                         {{ end }}
                     {{ end }}
                     {{ if in (slice "flora" "fauna") $key }}
                         {{ range $fkey, $fvalue := $value }}
                             {{ if hasPrefix $fkey "TBD" }}
-                                <li>{{ partial "util/get_location_link" (slice $body.name $.Site) }} has a {{ $key }} of <strong>{{$fkey}}</strong>. Needs real data.</li>
+                                <li>{{ partial "util/get_location_link" (slice $body.name $.Site) }} in {{ $system_link }} has a {{ $key }} of <strong>{{$fkey}}</strong>. Needs real data.</li>
                             {{ end }}
                         {{ end }}
                     {{ end }}
                     {{ if eq $key "traits" }}
                         {{ range $value }}
                             {{ if hasPrefix . "TBD" }}
-                            <li>{{ partial "util/get_location_link" (slice $body.name $.Site) }} has <strong>{{.}}</strong> in {{ $key }}. Needs real data.</li>
+                            <li>{{ partial "util/get_location_link" (slice $body.name $.Site) }} in {{ $system_link }} has <strong>{{.}}</strong> in {{ $key }}. Needs real data.</li>
                             {{ end }}
                         {{ end }}
                     {{ end }}
@@ -50,9 +53,6 @@
 
             {{ end }}
         </ul>
-
-
-
     </div>
   </div>
 </div>
