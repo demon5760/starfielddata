@@ -1,31 +1,214 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-  TBD9: {}
-fauna_rating: TBD
+  Herding Cutterhead Herbivore:
+    temperament: Dfensive
+    resource: Nutrient
+    biomes:
+      - Deciduous Forest
+      - Mountains
+    health: 50
+    outpost_production_allowed: true
+  
+  Pack Coralbug:
+    temperament: Wary
+    resource: Membrane
+    biomes:
+      - Deciduous Forest
+      - Mountains
+    health: 70
+    abilities:
+      - Ranged mouth attack
+  
+  Apex Parrothawk:
+    temperament: Defensive
+    resource: Stuctural
+    biomes:
+      - Frozen Mountains
+      - Deciduous Forest
+      - Mountains
+      - Coniferous Forest
+    health: 100
+  
+  Carasnail Scavenger:
+    temperament: Peaceful
+    resource: Cosmetic
+    biomes:
+      - Deciduous Forest
+      - Mountains
+    health: 20
+  
+  Hunting Tuskfrog:
+    temperament: Defensive
+    resource: Sedative
+    biomes:
+      - Deciduous Forest
+      - Mountains
+    health: 200
+    abilities:
+      - Increased armor penetration
+      - Ranged mouth attack
+  
+  Herding Reefwalker Scavenger:
+    temperament: Defensive
+    resource: Toxin
+    non_lethal_harvest: false
+    biomes:
+      - Frozen Mountains
+      - Coniferous Forest
+    health: 50
+    outpost_production_allowed: true
+  
+  Beetle Grazer:
+    temperament: Skittish
+    resource: Metabolic Agent
+    non_lethal_harvest: false
+    biomes:
+      - Frozen Mountains
+      - Coniferous Forest
+    health: 20
+  
+  Apex Crocodaunt:
+    temperament: Territorial
+    resource: Spice
+    non_lethal_harvest: false
+    biomes:
+      - Frozen Mountains
+      - Coniferous Forest
+    health: 100
+    abilities:
+      - Ranged mouth attack
+    resistances:
+      - Reflects melee damage
+  
+  Flocking Seabat Geophage:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    non_lethal_harvest: false
+    biomes:
+      - Deciduous Forest
+      - Mountains
+    health: 50
+    outpost_production_allowed: true
+    abilities:
+      - Staggering attacks
+    weakness:
+      - Physical damage
+  
+fauna_rating: Abundant
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-flora_rating: TBD
+  Cold Cave Nettle:
+    resource: Toxin
+    biomes:
+      - Frozen Mountains
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    reproduction2: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Boreas Root:
+    resource: Fiber
+    biomes:
+      - Frozen Mountains
+      - Mountains
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Broadleaf Rose:
+    resource: Nutrient
+    biomes:
+      - Mountains
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Tufted Snow Willow:
+    resource: Metabolic Agent
+    biomes:
+      - Frozen Mountains
+      - Mountains
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    reproduction2: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Glossy Stickweed:
+    resource: Fiber
+    biomes:
+      - Deciduous Forest
+      - Mountains
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Cliff Laurel:
+    resource: Nutrient
+    biomes:
+      - Frozen Mountains
+      - Deciduous Forest
+      - Mountains
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Aurora Palm:
+    resource: Toxin
+    biomes:
+      - Deciduous Forest
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Spiral Creeper:
+    resource: Toxin
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Abundant
 gravity: 0.91 G
 magnetosphere: Strong
 name: Jemison
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Argon
 - Chlorine
@@ -33,11 +216,11 @@ resources:
 - Lead
 - Water
 system: Alpha Centauri
-surface_temp: TBD
+surface_temp: 21
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
+- Ecological Consortium - Ecological Consortium - Hive Structure
+- Global Glacial Recession - Melted Glacier - Glacial Remnant
 type: Rock
 water: Safe
