@@ -19,6 +19,6 @@ resources:
 surface_temp: TBD
 temperature: Frozen
 traits:
-  - Continual Conductor	
+  - Continual Conductor
 type: Rock
 water: Chemical

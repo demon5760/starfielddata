@@ -11,17 +11,17 @@ fauna:
     health: 200
     abilities:
       - Extra Health
-  
+
   Chasmbass:
     temperament: Peaceful 
-    resource: 
+    resource: Chasmbass oil
     biomes:
       - Ocean
     health: 50
   
-fauna_rating: TBD
+fauna_rating: Moderate
 flora: {}
-flora_rating: TBD
+flora_rating: Moderate
 gravity: 1.47 G
 magnetosphere: Average
 name: Volii Alpha

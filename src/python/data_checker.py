@@ -11,6 +11,8 @@ import sys
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 
 import local_data
+from starfieldcompendium_checker import StarfieldCompendiumChecker
+
 
 REPORT_TBD = False
 
@@ -146,4 +148,5 @@ class StarfieldSheetProcessor:
 
 if __name__ == "__main__":
     logging.info("Checking Data")
-    StarfieldSheetProcessor().process()
+    # StarfieldSheetProcessor().process()
+    StarfieldCompendiumChecker().process()

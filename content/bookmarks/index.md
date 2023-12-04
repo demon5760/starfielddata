@@ -9,6 +9,7 @@ Other sites/tools/resources.
 * [Inara](https://inara.cz/starfield) - Companion site for Starfield. Game data, galleries, news and more...
 * [Starfield Game Maps](https://game-maps.com/Starfield/Starfield.asp) - Starfield Game Guide with discovered and described Starfield Maps of systems and planets
 * [Hardcore Gamer](https://hardcoregamer.com/db/starfield-database/) - Another site with a large collection of Starfield information.
+* [Starfield Compendium](https://starfieldcompendium.com/) - Using Starfield Compendium, players can filter the planets and moons by the criteria they need.
 
 In my travels/research I've come across a few different Google Sheets:
 
