@@ -1,10 +1,11 @@
 atmosphere: EXTR CO2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 1.84 G
 magnetosphere: Powerful
 name: Bondar
