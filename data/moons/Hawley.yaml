@@ -1,14 +1,15 @@
 atmosphere: THIN M
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.50 G
 magnetosphere: None
 name: Hawley
-o2_percent: TBD
+o2_percent: 0
 planet: Olivas
 resources:
 - Cobalt
@@ -16,9 +17,9 @@ resources:
 - Nickel
 - Uranium
 - Water
-surface_temp: TBD
+surface_temp: -75
 temperature: Frozen
 traits:
-- TBD1
+- Pelted Fields
 type: Rock
 water: None

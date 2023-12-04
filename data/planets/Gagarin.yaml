@@ -1,36 +1,165 @@
 atmosphere: HIGH O2
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-fauna_rating: TBD
+  Herding Coralbucket Filterer:
+    temperament: Territorial
+    resource: Cosmetic
+    biomes:
+      - Swamp
+      - Rocky Desert
+      - Wetlands
+    health: 50
+  
+  Pack Prong Wing Seabat:
+    temperament: Wary
+    resource: Metabolic Agent
+    biomes:
+      - Swamp
+      - Rocky Desert
+      - Wetlands
+    health: 100
+    abilities:
+      - Laceration damage
+  
+  Trilobite Scavenger:
+    temperament: Skittish
+    resource: Spice
+    non_lethal_harvest: true
+    biomes:
+      - Swamp
+      - Rocky Desert
+      - Wetlands
+    health: 20
+  
+  Flocking Shardhopper Geophage:
+    temperament: Wary
+    resource: Toxin
+    non_lethal_harvest: false
+    biomes:
+      - Swamp
+      - Rocky Desert
+      - Wetlands
+    health: 50
+    outpost_production_allowed: true
+    resistances: []
+  
+  Flocking Coralcrawler Geophage:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Swamp
+      - Rocky Desert
+      - Wetlands
+    health: 50
+    outpost_production_allowed: true
+  
+  Apex Dust Devil Exorunner:
+    temperament: Defensive
+    resource: Antimicrobial
+    non_lethal_harvest: false
+    biomes:
+      - Swamp
+      - Rocky Desert
+      - Wetlands
+    health: 170
+    abilities:
+      - Staggering attacks
+    resistances:
+      - Energy damage
+      - Physical damage
+      - Reflects melee damage
+  
+  Pack Seahag:
+    temperament: Aggressive
+    resource: Antimicrobial
+    biomes:
+      - Ocean
+      - Swamp
+    health: 70
+  
+  Sunfish Filtere:
+    temperament: Skittish
+    resource: Sealant
+    biomes:
+      - Ocean
+      - Swamp
+    health: 50
+  
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Bitter Goldenglow:
+    resource: Structural
+    biomes:
+      - Rocky Desert
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Complex
+  
+  Swamp Bottle Root:
+    resource: Sealant
+    biomes:
+      - Swamp
+      - Wetlands
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Velvet Bloom:
+    resource: Fiber
+    biomes:
+      - Swamp
+      - Wetlands
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Sweetwater Cactus:
+    resource: Adhesive
+    biomes:
+      - Swamp
+      - Rocky Desert
+    genetics:
+      - Double Helix
+      - HF-based
+    reproduction: Cuttings
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Burnt Pokeleaf:
+    resource: Fiber
+    biomes:
+      - Rocky Desert
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Flowering
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Moderate
 gravity: 0.89 G
 magnetosphere: Powerful
 name: Gagarin
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Chlorine
 - Chlorosilanes
 - Lead
 - Water
 system: Alpha Centauri
-surface_temp: TBD
+surface_temp: 46
 temperature: Temperate
 traits:
-- TBD1
+- Coralline Landmass - Coral Pond - Coralline Mineral Pool
 type: Rock
 water: Biological

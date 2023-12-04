@@ -9,7 +9,7 @@ flora_rating: None
 gravity: 1.84 G
 magnetosphere: Powerful
 name: Bondar
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Chlorine
 - Lead
@@ -18,11 +18,11 @@ resources:
 - Tungsten
 - Xenon
 system: Alpha Centauri
-surface_temp: TBD
+surface_temp: 461
 temperature: Inferno
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Emerging Tectonics
+- Active Faulting - Colossal Shards - Tectonic Faulting
+- Charred Ecosystem - Charred Ecosystem - Sinter Terraces
 type: Rock
 water: None
