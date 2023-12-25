@@ -1,6 +1,7 @@
 atmosphere: None
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna: {}
 fauna_rating: TBD
 flora: {}
@@ -8,15 +9,16 @@ flora_rating: TBD
 gravity: 0.14 G
 magnetosphere: None
 name: Navacci
-o2_percent: TBD
+o2_percent: 0
 planet: Polvo
 resources:
 - Aluminum
 - Europium
 - Helium-3
-surface_temp: TBD
+surface_temp: 24
 temperature: Temperate
 traits:
-- TBD1
+  - TBD1
+  - Gravitational Anomaly
 type: Barren
 water: None

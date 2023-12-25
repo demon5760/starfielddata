@@ -1,22 +1,112 @@
 atmosphere: STD M
 credits:
-- Starfield Sheet 1
+  - Starfield Sheet 1
+  - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-fauna_rating: TBD
+  Swarming Shardhopper:
+    temperament: Fearless
+    resource: Ornamental
+    biomes:
+      - Volcanic
+      - Mountains
+      - Deciduous Forest
+      - Frozen Plains
+    health: 240
+    outpost_production_allowed: true
+    abilities:
+      - Freezing damage
+      - Heals very rapidly
+  
+  Coralheart Filterer:
+    temperament: Peaceful
+    resource: Toxin
+    non_lethal_harvest: false
+    biomes:
+      - Volcanic
+      - Mountains
+      - Deciduous Forest
+      - Frozen Plains
+    health: 20
+  
+  Pearl Filterer:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Volcanic
+      - Mountains
+      - Deciduous Forest
+      - Frozen Plains
+      - Savanna
+    health: 20
+  
+  Herding Coralbug Fitlerer:
+    temperament: Territorial
+    resource: Membrane
+    biomes:
+      - Volcanic
+      - Mountains
+      - Deciduous Forest
+      - Savanna
+    health: 320
+    abilities: []
+  
+  Herding Coralcrawler Filterer:
+    temperament: Weary
+    resource: Sealant
+    non_lethal_harvest: false
+    biomes:
+      - Volcanic
+      - Mountains
+      - Deciduous Forest
+      - Frozen Plains
+    health: 320
+    outpost_production_allowed: true
+    abilities: []
+    resistances: []
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Leafy Morningstar:
+    resource: Membrane
+    biomes:
+      - Deciduous Forest
+      - Savanna
+    genetics:
+      - Double Helix
+      - Methane-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Starpod Silkweed:
+    resource: Fiber
+    biomes:
+      - Deciduous Forest
+      - Savanna
+    genetics:
+      - Double Helix
+      - Methane-based
+    reproduction: Spores
+  
+  Cliffberry:
+    resource: Structural
+    biomes:
+      - Volcanic
+      - Mountains
+    genetics:
+      - Double Helix
+      - Methane-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Marginal
 gravity: 0.91 G
 magnetosphere: Weak
 name: Bannoc II
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Aluminum
 - Argon
@@ -27,10 +117,9 @@ resources:
 - Vanadium
 - Water
 system: Bannoc
-surface_temp: TBD
+surface_temp: 12
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+  - Aeriform Life - Aeriform Life - Fermentation Vents
 type: Rock
 water: Biological
