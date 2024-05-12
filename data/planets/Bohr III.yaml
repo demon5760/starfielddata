@@ -23,9 +23,9 @@ system: Bohr
 surface_temp: -42
 temperature: Cold
 traits:
-- Crystalline Matrix - Crystalline Nucleation Nodule
-- Subsurface Seas - Subsurface Seas - Organonitrogen Vent
-- Conductive Ridge - Conductive Ridge - Crystalline Briars 
-- TBD4
+- Crystalline Crust
+- Slushy Subsurface Seas
+- Corraline Landmass
+- Continual Conductor
 type: Rock
 water: Chemical

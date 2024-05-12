@@ -3,9 +3,9 @@ credits:
 - Starfield Sheet 1
 - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.52 G
 magnetosphere: Average
 name: Bohr IV
@@ -23,7 +23,7 @@ system: Bohr
 surface_temp: -75
 temperature: Frozen
 traits:
-- Crystalline Minerals - Crystalline Minerals - Crystalline Pools
-- TBD2
+- Pristmatic Plumes
+- Sonorous Lithosphere
 type: Rock
 water: None
