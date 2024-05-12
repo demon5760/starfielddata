@@ -1,0 +1,7 @@
+title: Grunt Issue 3
+effect: Ballistic weapons permanently do an additional 5% more critical damage.
+mass: 0.00
+value: 100
+location: Cheyenne - Montara Luna - Encampment outside Waggoner Farm
+credits:
+  - Demon5760

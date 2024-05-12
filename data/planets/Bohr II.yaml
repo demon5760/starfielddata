@@ -1,37 +1,155 @@
 atmosphere: THIN O2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-fauna_rating: TBD
+  Coralheart Filterer:
+    temperament: Wary
+    resource: Membrane
+    non_lethal_harvest: false
+    biomes:
+      - Frozen Crevasses
+      - Mountains
+    health: 20
+  
+  Thorn Scavenger:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    biomes:
+      - Deciduous Forest
+    health: 20
+  
+  Crocalypse Grazer:
+    temperament: Territorial
+    resource: Polymer
+    biomes:
+      - Deciduous Forest
+    health: 445
+  
+  Lockjaw Grazer:
+    temperament: Peaceful 
+    resource: Aromatic
+    biomes:
+      - Deciduous
+    health: 445
+  
+  Swarming Twistfin:
+    temperament: Wary
+    resource: Aromatic
+    biomes:
+      - Frozen Crevasses
+      - Deciduous Forest
+    health: 205
+    abilities:
+      - Laceration damage
+  
+  Parrothark Filter:
+    temperament: Wary
+    resource: Pigment
+    biomes:
+      - Deciduous Forest
+      - Mountains
+    health: 20
+  
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-flora_rating: TBD
+  Stinging Ice Stalk:
+    resource: Sealant
+    biomes:
+      - Frozen Crevasses
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+  
+  Frost Reed:
+    resource:  Nutrient
+    biomes:
+      - Frozen Crevasses
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Enduring Bugleweed:
+    resource: Adhesive
+    biomes:
+      - Frozen Crevasses
+      - Mountains
+    genetics:
+      - Chiral Opposite
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Crag Root:
+    resource: Structural
+    biomes:
+      - Deciduous Forest
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+  
+  Jagged Heart Lef:
+    resource: FIber
+    biomes:
+      - Deciduous Forest
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Leafy Morningstar:
+    resource: Cosmetic
+    biomes:
+      - Deciduous Forest
+    genetics:
+      - Chiral Opposite
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Nebula Weed:
+    resource: Toxin
+    biomes:
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Abundant
 gravity: 0.62 G
 magnetosphere: Average
 name: Bohr II
-o2_percent: TBD
+o2_percent: 18
 resources:
 - Copper
 - Iron
 - Nickel
 - Water
 system: Bohr
-surface_temp: TBD
+surface_temp: 5
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+- Aeriform Life
+- Diseased Biosphere - Diseased Biosphere - Infected Grove
 type: Rock
 water: Chemical
