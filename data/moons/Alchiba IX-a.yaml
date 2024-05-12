@@ -9,7 +9,7 @@ flora_rating: None
 gravity: 0.10 G
 magnetosphere: None
 name: Alchiba IX-a
-o2_percent: TBD
+o2_percent: 0
 planet: Alchiba IX
 resources:
 - Argon
