@@ -1,6 +1,7 @@
 atmosphere: None
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
 fauna_rating: TBD
 flora: {}
@@ -8,7 +9,7 @@ flora_rating: TBD
 gravity: 0.22 G
 magnetosphere: None
 name: Heinlein V-b
-o2_percent: TBD
+o2_percent: 0
 planet: Heinlein V
 resources:
 - Aluminum
@@ -16,7 +17,7 @@ resources:
 - Europium
 - Helium-3
 - Neodymium
-surface_temp: TBD
+surface_temp: -159
 temperature: Deep Freeze
 traits: []
 type: Barren
