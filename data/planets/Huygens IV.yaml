@@ -10,7 +10,7 @@ fauna:
       - Ocean
     health: 220
  
-   Milliwhale Filterer:
+  Milliwhale Filterer:
     temperament: Peaceful
     resource: Toxin
     biomes:
