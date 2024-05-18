@@ -1,29 +1,173 @@
 atmosphere: HIGH O2 (TOX)
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD10: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
+  Shellephant Grazer:
+    temperament: Wary
+    resource: Cosmetic
+    biomes:
+      - Deciduous Forest
+      - Mountains
+      - Tropical Forest
+    health: 495
+  
+  Milliwhale Scavenger:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    biomes:
+      - Swamp
+      - Wetlands
+      - Savanna
+    health: 20
+    outpost_production_allowed: true
+  
+  Schooling Arapaima Scavenger:
+    temperament: Defensive
+    resource: Nutrient
+    biomes:
+      - Ocean
+      - Swamp
+    health: 495
+  
+  Cyclozard Grazer:
+    temperament: Territorial
+    resource: Membrane
+    biomes:
+      - Swamp
+      - Wetlands
+      - Savanna
+    health: 495
+  
+  Hunting Shieldshell:
+    temperament: Defensive
+    resource: Lubricant
+    biomes:
+      - Swamp
+      - Wetlands
+      - Savanna
+    health: 485
+    abilities:
+      - Venomous
+  
+  Thorn Filterer:
+    temperament: Wary
+    resource: Sealant
+    biomes:
+      - Deciduous Forest
+      - Mountains
+    health: 20
+    outpost_production_allowed: true
+  
+  Puffball Filterer:
+    temperament: Wary
+    resource: Pigment
+    non_lethal_harvest: true
+    biomes:
+      - Deciduous Forest
+      - Frozen Crevasses
+      - Mountains
+      - Swamp
+      - Wetlands
+      - Savanna
+      - Tropical Forest
+    health: 20
+  
+  Marnokk Grazer:
+    temperament: Territorial
+    resource: Nutrient
+    non_lethal_harvest: true
+    biomes:
+      - Deciduous Forest
+      - Tropical Forest
+    health: 495
+  
+  Hunting Vectorback:
+    temperament: Fearless
+    resource: Hallucinogen
+    biomes:
+      - Deciduous Forest
+      - Tropical Forest
+    health: 685
+    outpost_production_allowed: true
+    abilities:
+      - Staggering attacks
+  
   TBD9: {}
-fauna_rating: TBD
+fauna_rating: Abundant
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Nebula Weed:
+    resource: Hallucinogen
+    biomes:
+      - Deciduous Forest
+      - Mountains
+      - Savanna
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Arsenic-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Festering Junglecreep:
+    resource: Toxin
+    biomes:
+      - Deciduous Forest
+      - Swamp
+      - Wetlands
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Mire Root:
+    resource: Sealant
+    biomes:
+      - Deciduous Forest
+      - Swamp
+      - Wetlands
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-fertilization
+  
+  Crag Root:
+    resource: Structural
+    biomes:
+      - Deciduous Forest
+      - Mountains
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Flowering
+  
+  Spitting Goatweed:
+    resource: Nutrient
+    biomes:
+      - Mountains
+      - Swamp
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Moderate
 gravity: 0.87 G
 magnetosphere: Average
 name: Huygens III
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Alkanes
 - Caesium
@@ -33,11 +177,11 @@ resources:
 - Lead
 - Water
 system: Huygens
-surface_temp: TBD
+surface_temp: 28
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Diseased Biosphere - Diseased Biosphere - Infected Grove
+- Global Glacial Recession - Melted Glacier - Glacial Remnant
+- Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
 type: Rock
 water: Safe

@@ -1,6 +1,7 @@
 atmosphere: HIGH CO2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
 fauna_rating: TBD
 flora: {}
@@ -8,7 +9,7 @@ flora_rating: TBD
 gravity: 1.40 G
 magnetosphere: Powerful
 name: Huygens II
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Chlorine
 - Iridium
@@ -17,10 +18,10 @@ resources:
 - Vanadium
 - Xenon
 system: Huygens
-surface_temp: TBD
+surface_temp: 279
 temperature: Inferno
 traits:
-- TBD1
-- TBD2
+- Deep Ocean Deposits - Eroded Reef Outcropping
+- Colossal Shards - Tectonic Faulting
 type: Rock
 water: None

@@ -1,32 +1,204 @@
 atmosphere: STD O2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD10: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
+  Jackknife Geophage:
+    temperament: Skittish
+    resource: Fiber
+    non_lethal_harvest: true
+    biomes:
+      - Rocky Desert
+    health: 20
+  
+  Herding Sailgator Herbivore:
+    temperament: Peaceful
+    resource: Cosmetic
+    biomes:
+      - Frozen Plains
+    health: 190
+    abilities:
+      - Extra Health
+      - Ranged attack that slows target
+  
+  Hunting Cagebrain:
+    temperament: Defensive
+    resource: Amino Acids
+    biomes:
+      - Hills
+      - Mountains
+    health: 1035
+    abilities:
+      - Laceration damage
+      - Physical damage
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Schooling Arapaima Filterer:
+    temperament: Wary
+    resource: Membrane
+    biomes:
+      - Ocean
+    health: 95
+  
+  Pack Coralcrawler:
+    temperament: Defensive
+    resource: Biosuppressant
+    biomes:
+      - Frozen Plains
+    health: 275
+    resistances:
+      - Reflects melee damage
+      - Ranged mouth attack
+  
+  Mayfly Herbivore:
+    temperament: Peaceful
+    resource: Sealant
+    non_lethal_harvest: true
+    biomes:
+      - Rocky Desert
+      - Frozen Plains
+      - Hills
+      - Mountains
+    health: 20
+  
+  Flocking Scorpion Geophage:
+    temperament: Wary
+    resource: Nutrient
+    non_lethal_harvest: true
+    biomes:
+      - Hills
+      - Mountains
+    health: 145
+    outpost_production_allowed: true
+  
+  Hunting Brainsquid:
+    temperament: Wary
+    resource: Pigment
+    non_lethal_harvest: true
+    biomes:
+      - Rocky Desert
+    health: 1140
+    abilities:
+      - Venomous
+    resistances:
+      - Energy damage
+      - Physical damage
+      - Reflects melee damage
+  
+  Herding Trihron Geophage:
+    temperament: Wary
+    resource: Structural
+    non_lethal_harvest: true
+    biomes:
+      - Rocky Desert
+    health: 140
+    abilities:
+      - Extra Health
+  
   TBD9: {}
 fauna_rating: TBD
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
+  Tremor Root:
+    resource: FIber
+    biomes:
+      - Rocky Desert
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-fertilization
+  
+  Crag Root:
+    resource: Toxin
+    biomes:
+      - Rocky Desert
+      - Frozen Plains
+      - Hills
+      - Mountains
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Flowering
+  
+  Golden Sand Root:
+    resource: Spice
+    biomes:
+      - Rocky Desert
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Flowering
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Enduring Bugleweed:
+    resource: Structural
+    biomes:
+      - Rocky Desert
+      - Frozen Plains
+      - Hills
+      - Mountains
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Flowering
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Bowing Shadeleaf:
+    resource: Nutrient
+    biomes:
+      - Rocky Desert
+      - Hills
+      - Mountains
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Frigid Palm:
+    resource: Sealant
+    biomes:
+      - Frozen Plains
+      - Mountains
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Flowering
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Sub-zero Silkweed:
+    resource: Metabolic Agent
+    biomes:
+      - Frozen Plains
+      - Mountains
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Complex
+  
+  Cage Brain:
+    resource: Toxin
+    biomes:
+      - Hills
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Complex
+  
 flora_rating: TBD
 gravity: 0.96 G
 magnetosphere: Very Weak
 name: Kumasi II
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Cobalt
 - Iridium
@@ -37,7 +209,7 @@ resources:
 - Uranium
 - Water
 system: Kumasi
-surface_temp: TBD
+surface_temp: 1
 temperature: Temperate
 traits:
 - TBD1

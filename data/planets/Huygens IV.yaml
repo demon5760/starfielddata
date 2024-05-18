@@ -1,30 +1,87 @@
 atmosphere: THIN O2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-fauna_rating: TBD
+  Schooling Finback Scavenger:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Ocean
+    health: 220
+ 
+   Milliwhale Filterer:
+    temperament: Peaceful
+    resource: Toxin
+    biomes:
+      - Frozen Plains
+      - Hills
+    health: 20
+    outpost_production_allowed: true
+  
+  Swarming Beetlecrab:
+    temperament: Fearless
+    resource: Cosmetic
+    biomes:
+      - Hills
+    health: 970
+    outpost_production_allowed: true
+    abilities:
+      - Laceration damage
+  
+  Herding Roundshell Grazer:
+    temperament: Wary
+    resource: Sedative
+    biomes:
+      - Hills
+    health: 345
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Augustus Creeper:
+    resource: Fiber
+    biomes:
+      - Hills
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Cuttings
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Aruna Goldenglow:
+    resource: Sedative
+    biomes:
+      - Hills
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Red Latticebulb:
+    resource: Nutrient
+    biomes:
+      - Hills
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+flora_rating: Marginal
 gravity: 0.43 G
 magnetosphere: Average
 name: Huygens IV
-o2_percent: TBD
+o2_percent: 18
 resources:
 - Argon
 - Nickel
 - Water
 system: Huygens
-surface_temp: TBD
+surface_temp: 17
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+- Amphibious Foothold - Amphibious Thicket - Remains Of Amphibious Lifeforms
+- Coralline Landmass - Coral Pond - Coralline Mineral Pool
 type: Rock
 water: Biological

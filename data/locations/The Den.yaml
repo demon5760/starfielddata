@@ -1,2 +1,21 @@
 name: The Den
 system: Wolf
+o2_percent: 24
+surface_temp: 22
+gravity: 1.00 G
+vending_machines:
+  - brand: Can-Uck
+    cost: 105
+  - brand: Centauri Mills
+    cost: 90
+kiosks:
+  - Trade Authority
+slates:
+  - Kreet Officer (Evidence)
+vendors:
+  - name: Trade Authority
+    npc: Marcel Duris
+  - name: Ship Services
+    npc: Ship Services Technician
+  - name: Bar
+    npc: Orval Romack
