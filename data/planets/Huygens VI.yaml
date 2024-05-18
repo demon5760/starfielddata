@@ -1,14 +1,15 @@
 atmosphere: STD M
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.82 G
 magnetosphere: Weak
 name: Huygens VI
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Chlorine
 - Cobalt
@@ -17,11 +18,11 @@ resources:
 - Nickel
 - Water
 system: Huygens
-surface_temp: TBD
+surface_temp: -121
 temperature: Frozen
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Slushy Subsurface Seas - Subsurface Seas - Organonitrogen Vent
+- Frozen Ecoystem - Frozen Crevasse - Uplifted Fossils
+- Coralline Landmass - Coral Pond - Coralline Mineral Pool
 type: Rock
 water: Safe
