@@ -1,30 +1,87 @@
 atmosphere: THIN M
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-fauna_rating: TBD
+  Flocking Canard Filterer:
+    temperament: Wary
+    resource: Simulant
+    non_lethal_harvest: true
+    biomes:
+      - Ocean
+    health: 495
+  
+  Pack Dragonfly:
+    temperament: Territorial
+    resource: Stimulant
+    biomes:
+      - Sandy Desert
+    health: 485
+  
+  Jellyfin Filterer:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Sandy Desert
+    health: 20
+  
+  Herding Tapeworm Scavenger:
+    temperament: Peaceful
+    resource: Sealant
+    non_lethal_harvest: true
+    biomes:
+      - Sandy Desert
+    health: 390
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Sandclaw:
+    resource: Structural 
+    biomes:
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Self-fertilization
+  
+  Bristle Barrel:
+    resource: Fiber
+    biomes:
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Self-fertilization
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Wanderer's Husk:
+    resource: Metabolic Agent
+    biomes:
+      - Sady Desert
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Marginal
 gravity: 0.55 G
 magnetosphere: Very Stron
 name: Huygens VII-b
-o2_percent: TBD
+o2_percent: 0
 planet: Huygens VII
 resources:
 - Iridium
 - Uranium
 - Water
-surface_temp: TBD
+surface_temp: 36
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+- Sentient Microbial Colonies
+- Diseased Biosphere - Diseased Biosphere - Infected Grove
 type: Rock
 water: Safe
