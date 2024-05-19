@@ -1,22 +1,95 @@
 atmosphere: HIGH O2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-fauna_rating: TBD
+  Herding Blistercrab Scavenger:
+    temperament: Territorial
+    resource: Pigment
+    non_lethal_harvest: true
+    biomes:
+      - Frozen Plains
+      - Coniferous Forest
+    health: 220
+    abilities:
+      - Heals very rapidly
+  
+  Thorn Scavenger:
+    temperament: Peaceful
+    resource: Ornamental
+    non_lethal_harvest: false
+    biomes:
+      - Frozen Plains
+      - Coniferous Forest
+    health: 20
+  
+  Herding Leecher Grazer:
+    temperament: Defensive
+    resource: Pigment
+    non_lethal_harvest: true
+    biomes:
+      - Savanna
+    health: 495
+  
+  Grabber Grazer:
+    temperament: Peaceful
+    resource: Pigment
+    non_lethal_harvest: false
+    biomes:
+      - Savanna
+    health: 20
+  
+  Hunting Ocotomaggot:
+    temperament: Territorial
+    resource: Sealant
+    biomes:
+      - Savanna
+    health: 1665
+    abilities:
+      - Venomous
+      - Ranged mouth attack
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Terra Root:
+    resource: Structural
+    biomes:
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    reproduction2: Self-cloning
+    outpost_production_allowed: false
+    required_inputs:
+      - Water
+  
+  Forest Wisp:
+    resource: Sealant
+    biomes:
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: false
+    required_inputs:
+      - Water
+  
+  Canary Reed:
+    resource: Pigment
+    biomes:
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+flora_rating: Marginal
 gravity: 1.48 G
 magnetosphere: Powerful
 name: Algorab II
-o2_percent: TBD
+o2_percent: 24
 resources:
 - Argon
 - Carboxylic Acids
@@ -24,11 +97,11 @@ resources:
 - Lithium
 - Water
 system: Algorab
-surface_temp: TBD
+surface_temp: 0
 temperature: Temperate
 traits:
-  - Ecological Consortium
-  - Psychotropic Biota
-  - Sentient Microbial Colonies
+  - Ecological Consortium - Ecological Consortium - Hive Structures
+  - Psychotropic Biota - Fungal Growths - Fungal Grotto
+  - Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
 type: Rock
 water: Safe

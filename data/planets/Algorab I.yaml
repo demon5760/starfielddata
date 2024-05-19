@@ -2,22 +2,23 @@ atmosphere: STD CO2
 credits:
   - Starfield Sheet 1
   - Starfield Scanner Compendium
+  - Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.79 G
 magnetosphere: Weak
 name: Algorab I
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Iridium
 - Lead
 - Uranium
 system: Algorab
-surface_temp: TBD
+surface_temp: 445
 temperature: Inferno
 traits:
-- Charred Ecosystem
+- Charred Ecosystem - Charred Ecosystem - Sinter Terraces
 type: Rock
 water: None
