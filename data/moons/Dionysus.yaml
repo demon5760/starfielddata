@@ -1,14 +1,15 @@
 atmosphere: STD O2 (TOX)
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.63 G
 magnetosphere: None
 name: Dionysus
-o2_percent: TBD
+o2_percent: 18
 planet: Aion
 resources:
 - Alkanes
@@ -19,12 +20,12 @@ resources:
 - Nickel
 - Uranium
 - Water
-surface_temp: TBD
+surface_temp: 28
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
-- TBD4
+- Solar Storm Seasons - Sludge Pools - Iron Meteorite
+- Global Glacial Recession - Melted Glacier - Glacial Remnant
+- Emerging Tectonics
+- Gravitational Anomaly - Gravitational Anomaly - Gravitational Anomaly
 type: Rock
 water: Radioactive
