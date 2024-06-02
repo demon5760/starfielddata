@@ -1,14 +1,15 @@
 atmosphere: THIN M (COR)
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.41 G
 magnetosphere: None
 name: Denebola III-a
-o2_percent: TBD
+o2_percent: 0
 planet: Denebola III
 resources:
 - Alkanes
@@ -19,11 +20,11 @@ resources:
 - Tantalum
 - Water
 - Ytterbium
-surface_temp: TBD
+surface_temp: -111
 temperature: Frozen
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Gaseous Font - Volcanic Vents - Outgassing Field
+- Continual Conductor
+- Extinction Event - Tar Pits - Skeletal Remains
 type: Rock
 water: Chemical

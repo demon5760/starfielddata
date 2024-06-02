@@ -1,17 +1,18 @@
 atmosphere: H2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 3.89 G
 magnetosphere: Extreme
 name: Denebola II
-o2_percent: TBD
+o2_percent: N/A
 resources: []
 system: Denebola
-surface_temp: TBD
+surface_temp: N/A
 temperature: Frozen
 traits: []
 type: Gas Giant
