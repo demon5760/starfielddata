@@ -1,6 +1,7 @@
 atmosphere: THIN N2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
 fauna_rating: TBD
 flora: {}
@@ -8,14 +9,14 @@ flora_rating: TBD
 gravity: 0.48 G
 magnetosphere: Weak
 name: Hawking IV
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Chlorine
 - Lead
 - Nickel
 - Water
 system: Hawking
-surface_temp: TBD
+surface_temp: -186
 temperature: Deep Freeze
 traits: []
 type: Rock

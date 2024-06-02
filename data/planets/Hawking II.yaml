@@ -1,14 +1,15 @@
 atmosphere: STD CO2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.73 G
 magnetosphere: Weak
 name: Hawking II
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Alkanes
 - Chlorine
@@ -16,11 +17,11 @@ resources:
 - Iron
 - Water
 system: Hawking
-surface_temp: TBD
+surface_temp: -56
 temperature: Frozen
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Continual Conductor - Conductive Ridge - Crystalline Briars
+- Coralline Landmass - Coral Pond - Corraline Mineral Pool
+- Sonorous Lithosphere - Crystal Columns - Oscilating Crystals
 type: Rock
 water: Chemical

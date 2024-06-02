@@ -1,14 +1,15 @@
 atmosphere: STD M
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 1.03 G
 magnetosphere: Average
 name: Hawking III
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Copper
 - Iridium
@@ -16,11 +17,11 @@ resources:
 - Uranium
 - Water
 system: Hawking
-surface_temp: TBD
+surface_temp: -110
 temperature: Frozen
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Solar Storms - SLudge Pools - Iron Meteorite
+- Frozen Ecosystem
+- Primed For Life - Sulfur Pools - Warm Pond
 type: Rock
 water: Safe

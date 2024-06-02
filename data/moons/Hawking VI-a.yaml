@@ -1,6 +1,7 @@
 atmosphere: None
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
 fauna_rating: TBD
 flora: {}
@@ -8,14 +9,14 @@ flora_rating: TBD
 gravity: 0.27 G
 magnetosphere: None
 name: Hawking VI-a
-o2_percent: TBD
+o2_percent: 0
 planet: Hawking VI
 resources:
 - Nickel
 - Palladium
 - Platinum
 - Water
-surface_temp: TBD
+surface_temp: -225
 temperature: Deep Freeze
 traits: []
 type: Ice
