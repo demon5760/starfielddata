@@ -2,26 +2,134 @@ atmosphere: THIN O2 (COR)
 credits:
 - Starfield Sheet 1
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
+  Gossamer Filterer:
+    temperament: Peaceful
+    resource: Fiber
+    biomes:
+      - Frozen Hills
+    health: 20
+  
+  Hunting Crab Scavenger:
+    temperament: Territorial
+    resource: Toxin
+    biomes:
+      - Frozen Hills
+    health: 730
+    abilities:
+      - Freezing damage
+    resistances:
+      - Blast damage
+      - Physical damage
+  
+  Herding Horsamander Geophage:
+    temperament: Defensive
+    resource: Polymer
+    biomes:
+      - Hills
+      - Frozen Hills
+    health: 420
+  
+  Pack Exocrawler Scavenger:
+    temperament: Wary
+    resource: Adhesive
+    biomes:
+      - Savanna
+    health: 765
+    outpost_production_allowed: true
+    abilities:
+      - Ranged mouth attack
+  
+  Flamethorn Grazer:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Savanna
+    health: 20
+  
+  Hunting Trapmaw:
+    temperament: Defensive
+    resource: Amino Acids
+    biomes:
+      - Hills
+      - Savanna
+    health: 625
+    abilities:
+      - Camouflaged
+      - Heals rapidly
+  
+  Herding Octomaggot Filterer:
+    temperament: Wary
+    resource: Metabolic Agent
+    biomes:
+      - Hills
+      - Savanna
+    health: 445
+    outpost_production_allowed: true
+  
   TBD8: {}
-fauna_rating: TBD
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Aruna Goldenglow:
+    resource: Sealant
+    biomes:
+      - Frozen Hills
+      - Hills
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+  Sage Shrub:
+    resource: Analgesic
+    biomes:
+      - Hills
+      - Savanna
+    genetics:
+      - Chiral Opposite
+      - H2S-based
+    reproduction: Flowering
+    outpost_production_allowed: false
+    required_inputs:
+      - Water
+  
+  Savanna Sweetbush:
+    resource: Aromatic
+    biomes:
+      - Hills
+      - Savanna
+    genetics:
+      - Chiral Opposite
+      - H2S-based
+    reproduction: Self-fertilization
+  
+  Fallen Star Palm:
+    resource: Antimicrobial
+    biomes:
+      - Savanna
+    genetics:
+      - Chiral Opposite
+      - H2S-based
+    reproduction: Complex 
+  
+  Twilight Cradleleaf:
+    resource: Structural
+    biomes:
+      - Hills
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Flowering
+    outpost_production_allowed: false
+    required_inputs:
+      - Water
+  
+flora_rating: Moderate
 gravity: 0.52 G
 magnetosphere: Weak
 name: Bel I
-o2_percent: TBD
+o2_percent: 18
 resources:
 - Argon
 - Carboxylic Acids
@@ -31,9 +139,9 @@ resources:
 - Nickel
 - Water
 system: Bel
-surface_temp: TBD
+surface_temp: 27
 temperature: Temperate
 traits:
-- TBD1
+- Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
 type: Rock
 water: Chemical

@@ -2,22 +2,95 @@ atmosphere: HIGH O2 (TOX)
 credits:
 - Starfield Sheet 1
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-fauna_rating: TBD
+  Grabber Grazer:
+    temperament: Wary
+    resource: Metabolic Agent
+    biomes:
+      - Savanna
+    health: 20
+  
+  Hunting Trihorn:
+    temperament: Territorial
+    resource: Fiber
+    biomes:
+      - Coniferous Forest
+      - Savanna
+    health: 835
+  
+  Herding Seabat Grazer:
+    temperament: Wary
+    resource: Ornamental
+    biomes:
+      - Savanna
+    health: 145
+    abilities:
+      - Attacks deplete O2
+  
+  Drone Filterer:
+    temperament: Peaceful
+    resource: Memory Substrate
+    biomes:
+      - Frozen Dunes
+      - Confierous Forest
+      - Savanna
+    health: 20
+  
+  Herding Bonemane Herbivore:
+    temperament: Defensive
+    resource: Antimicrobial
+    biomes:
+      - Coniferous Forest
+    health: 170
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-flora_rating: TBD
+  Forest Wisp:
+    resource: Structural
+    biomes:
+      - Confierous Forest
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Abyss Pine Seedling:
+    resource: Aromatic
+    biomes:
+      - Coniferous Forest
+    genetics:
+      - Double Helix
+      - Arsenic-based
+    reproduction: Self-cloning
+    outpost_production_allowed: false
+    required_inputs:
+      - Water
+  
+  Fallen Star Palm:
+    resource: Nutrient
+    biomes:
+      - Savanna
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Canary Reed:
+    resource: Toxin
+    biomes:
+      - Savanna
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+flora_rating: Marginal
 gravity: 1.31 G
 magnetosphere: Average
 name: Bel II
-o2_percent: TBD
+o2_percent: 24
 resources:
 - Aluminum
 - Argon
@@ -26,11 +99,11 @@ resources:
 - Lithium
 - Water
 system: Bel
-surface_temp: TBD
+surface_temp: -12
 temperature: Cold
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Amphibious Foothold - Amphibious Thicket - Remains Of Amphibious Lifeforms
+- Psychotropic Biota - Lush Grove - Fungal Grotto
+- Ecological Consortium - Ecological Consortium - Hive Structures
 type: Rock
 water: Biological
