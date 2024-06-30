@@ -1,6 +1,7 @@
 atmosphere: THIN O2 (COR)
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
   Gossamer Filterer:
     temperament: Peaceful
@@ -66,7 +67,15 @@ fauna:
     health: 445
     outpost_production_allowed: true
   
-  TBD8: {}
+  Spaceroach Grazer:
+    temperament: Wary
+    resource: Aromatic
+    biomes:
+      - Frozen Hills
+      - Hills
+      - Savanna
+    health: 20
+  
 fauna_rating: Moderate
 flora:
   Aruna Goldenglow:
