@@ -1,21 +1,22 @@
 atmosphere: None
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.06 G
 magnetosphere: None
 name: Alpha Andraste I-a
-o2_percent: TBD
+o2_percent: 0
 planet: Alpha Andraste I
 resources:
 - Helium-3
 - Iron
-surface_temp: TBD
+surface_temp: 592
 temperature: Inferno
 traits:
-- TBD1
+- Boiled Seas - Deep Ocean Deposits - Eroded Reef Outcropping
 type: Barren
 water: None

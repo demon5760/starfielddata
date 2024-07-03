@@ -1,18 +1,57 @@
 atmosphere: THIN CO2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: 
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
+  Wanderer's Husk:
+    resource: Nutrient
+    biomes:
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Complex
+    outpost_production_allowed: false
+    required_inputs:
+      - Water
+  
+  Haviva Vine:
+    resource: Antimicrobial
+    biomes:
+      - Craters
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Flowering
+    outpost_production_allowed: false
+    required_inputs:
+      - Water
+  
+  Nebula Vine:
+    resource: Spice
+    biomes:
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+  Aurora Palm:
+    resource: Metabolic Agent
+    biomes:
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Cuttings
+
 flora_rating: Primordial
 gravity: 0.37 G
 magnetosphere: Weak
 name: Alpha Andraste II
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Aluminum
 - Beryllium
@@ -21,9 +60,9 @@ resources:
 - Iron
 - Tantalum
 system: Alpha Andraste
-surface_temp: TBD
+surface_temp: 53
 temperature: Hot
 traits:
-- TBD1
+- Continual Conductor
 type: Rock
 water: None

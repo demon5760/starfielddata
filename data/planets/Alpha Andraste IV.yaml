@@ -1,6 +1,7 @@
 atmosphere: HIGH M
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
 fauna_rating: TBD
 flora: {}
@@ -8,7 +9,7 @@ flora_rating: TBD
 gravity: 0.85 G
 magnetosphere: Very Weak
 name: Alpha Andraste IV
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Alkanes
 - Copper
@@ -19,10 +20,10 @@ resources:
 - Titanium
 - Water
 system: Alpha Andraste
-surface_temp: TBD
+surface_temp: -87
 temperature: Frozen
 traits:
-- TBD1
-- TBD2
+- Frozen Ecosystem
+- Emerging Tectonics - Emerging Tectonics - Hot Springs Terraces
 type: Rock
 water: Chemical
