@@ -1,30 +1,189 @@
 atmosphere: HIGH O2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD10: {}
-  TBD11: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-  TBD9: {}
-fauna_rating: TBD
+  Flocking Leafback Grazer:
+    temperament: Peaceful
+    resource: Sealant
+    non_lethal_harvest: true
+    biomes:
+      - Deciduous Forest
+      - Savanna
+    health: 170
+  
+  Pack Longhorn:
+    temperament: Defensive
+    resource: Hallucinogen
+    biomes:
+      - Tropical Forest
+      - Deciduous Forest
+      - Coniferous Forest
+    health: 275
+    abilities:
+      - Venomous
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Beetle Geophage:
+    temperament: Peaceful
+    resource: Toxin
+    biomes:
+      - Tropical Forest
+      - Deciduous Forest
+      - Coniferous Forest
+    health: 20
+  
+  Herding Trihorn Grazer:
+    temperament: Territorial
+    resource: Sealant
+    biomes:
+      - Frozen Dunes
+    health: 245
+  
+  Pack Trapmaw:
+    temperament: Wary
+    resource: Hallucinogen
+    non_lethal_harvest: true
+    biomes:
+      - Frozen Dunes
+    health: 240
+    abilities:
+      - Freezing damage
+      - Laceration damage
+      - Heals rapidly
+  
+  Trident Scavenger:
+    temperament: Wary
+    resource: Cosmetic
+    non_lethal_harvest: true
+    biomes:
+      - Frozen Dunes
+    health: 20
+  
+  Pack Lionbear:
+    temperament: Defensive
+    resource: Spice
+    biomes:
+      - Tropical Forest
+      - Savanna
+    health: 345
+    abilities:
+      - Staggering attacks
+  
+  Lockjaw Grazer:
+    temperament: Defensive
+    resource: Structural
+    non_lethal_harvest: true
+    biomes:
+      - Tropical Forest
+      - Savanna
+    health: 245
+  
+  Hunting Clickbeetle Scavenger:
+    temperament: Fearless
+    resource: Sealant
+    non_lethal_harvest: true
+    biomes:
+      - Savanna
+    health: 345
+    resistances:
+      - Blast damage
+      - Physical damage
+  
+  Jackknife Grazer:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    non_lethal_harvest: true
+    biomes:
+      - Tropical Forest
+      - Savanna
+    health: 20
+    outpost_production_allowed: false
+  
+  Twintail Herbivore:
+    temperament: Wary
+    resource: Sedative
+    biomes:
+      - Tropical Forest
+      - Coniferous Forest
+    health: 245
+    outpost_production_allowed: true
+  
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Sweet Root:
+    resource: Hallucinogen
+    biomes:
+      - Tropical Forest
+      - Savanna
+    genetics:
+      - XNA
+      - HF-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Lattice Leaf:
+    resource: Biosuppressant
+    biomes:
+      - Tropical Forest
+      - Deciduous Forest
+    genetics:
+      - XNA
+      - HF-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Abyss Pine Seedling:
+    resource: Hallucinogen
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+      - Savanna
+    genetics:
+      - XNA
+      - HF-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Splitting Goatweed:
+    resource: Sealant
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Splitting Pokeweed:
+    resource: Sedative
+    biomes:
+      - Tropical Forest
+      - Deciduous Forest
+      - Coniferous Forest
+      - Savanna
+    genetics:
+      - XNA
+      - HF-based
+    reproduction: Complex
+  
+flora_rating: Moderate
 gravity: 1.44 G
 magnetosphere: Powerful
 name: Alpha Andraste III
-o2_percent: TBD
+o2_percent: 24
 resources:
 - Argon
 - Chlorine
@@ -33,10 +192,10 @@ resources:
 - Water
 - Xenon
 system: Alpha Andraste
-surface_temp: TBD
+surface_temp: 9
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+- Sentient Microbial Colonies
+- Psychotropic Biota - Fungal Growths - Fungal Grotto
 type: Rock
 water: Heavy Metal
