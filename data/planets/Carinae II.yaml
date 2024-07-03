@@ -1,14 +1,15 @@
-atmosphere: TBD
+atmosphere: None
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.89 G
 magnetosphere: Average
 name: Carinae II
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Aluminum
 - Argon
@@ -17,10 +18,10 @@ resources:
 - Neon
 - Water
 system: Carinae
-surface_temp: TBD
+surface_temp: -193
 temperature: Deep Freeze
 traits:
-- TBD1
-- TBD2
+- Pelted Fields
+- Gaseous Font - Volcanic Vents - Outgassing Field
 type: Rock
 water: Chemical
