@@ -1,25 +1,139 @@
 atmosphere: STD O2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-fauna_rating: TBD
+  Hunting Brainsprout:
+    temperament: Territorial
+    resource: Fiber
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+      - Tropical Forest
+    health: 275
+    abilities:
+      - Venomous
+  
+  Coralbug Scavenger:
+    temperament: Wary
+    resource: Structural
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+      - Tropical Forest
+    health: 390
+    outpost_production_allowed: false
+    abilities:
+      - 
+    resistances:
+      - 
+  
+  Lesser Silverfish:
+    temperament: Territorial
+    resource: Analgesic
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+      - Tropical Forest
+    health: 930
+    abilities:
+      - Ranged mouth attack
+  
+  Spaceroach Grazer:
+    temperament: Wary
+    resource: Fiber
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+      - Tropical Forest
+    health: 20
+  
+  Hunting Stonewalker Stalker:
+    temperament: Territorial
+    resource: Analgesic
+    biomes:
+      - Plateau
+    health: 1680
+    abilities:
+      - Extra health
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Centiskull Grazer:
+    temperament: Wary
+    resource: Fiber
+    biomes:
+      - Plateau
+    health: 20
+  
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Starleaf:
+    resource: Cosmetic
+    biomes:
+      - Plateau
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Starburst Silkweed:
+    resource: Sealant
+    biomes:
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Blue Weeping Shrub:
+    resource: Cosmetic
+    biomes:
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-fertilization
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Explorer's Coleus:
+    resource: Sealant
+    biomes:
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Apollo Fireleaf:
+    resource: Structural
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+      - Tropical Forest
+      - Plateau
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+  
+flora_rating: Moderate
 gravity: 1.04 G
 magnetosphere: Average
 name: Cassiopeia I
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Chlorine
 - Cobalt
@@ -27,12 +141,12 @@ resources:
 - Fluorine
 - Nickel
 - Water
-surface_temp: TBD
+surface_temp: 37
 system: Eta Cassiopeia
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Amphibious Foothold
+- Psychotropic Biota - Unusual Growth - Fungal Grotto
+- Aeriform Life - Aeriform Life - Fermentation Vents
 type: Rock
 water: Safe
