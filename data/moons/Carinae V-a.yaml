@@ -1,22 +1,23 @@
 atmosphere: None
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.07 G
 magnetosphere: None
 name: Carinae V-a
-o2_percent: TBD
+o2_percent: 0
 planet: Carinae V
 resources:
 - Copper
 - Tetrafluorides
 - Water
-surface_temp: TBD
+surface_temp: -235
 temperature: Deep Freeze
 traits:
-- TBD1
+- Coralline Landmass
 type: Ice
 water: Safe

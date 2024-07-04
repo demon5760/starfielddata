@@ -1,14 +1,15 @@
 atmosphere: THIN N2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.36 G
 magnetosphere: None
 name: Carinae III-a
-o2_percent: TBD
+o2_percent: 0
 planet: Carinae III
 resources:
 - Alkanes
@@ -16,11 +17,11 @@ resources:
 - Lead
 - Rothicite
 - Water
-surface_temp: TBD
+surface_temp: -177
 temperature: Frozen
 traits:
-- TBD1
-- TBD2
-- TBD3
+  - Prismatic Plumes - Crystalline Minerals - Crystalline Pools
+  - Active Faulting - Colossal Shards - Tectonic Faulting
+  - Energetic Rifting - Thermal Rise - Fumarole Field
 type: Rock
 water: Heavy Metal

@@ -15,11 +15,8 @@ resources:
 - Aluminum
 - Beryllium
 - Helium-3
-surface_temp: -77
+surface_temp: 140
 temperature: Scorched
-traits:
-  - Prismatic Plumes - Crystalline Minerals - Crystalline Pools
-  - Active Faulting - Colossal Shards - Tectonic Faulting
-  - Energetic Rifting - Thermal Rise - Fumarole Field
+traits: []
 type: Barren
 water: None
