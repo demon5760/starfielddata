@@ -1,21 +1,25 @@
 atmosphere: None
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.27 G
 magnetosphere: None
 name: Carinae II-a
-o2_percent: TBD
+o2_percent: 0
 planet: Carinae II
 resources:
 - Aluminum
 - Beryllium
 - Helium-3
-surface_temp: TBD
+surface_temp: -77
 temperature: Scorched
-traits: []
+traits:
+  - Prismatic Plumes - Crystalline Minerals - Crystalline Pools
+  - Active Faulting - Colossal Shards - Tectonic Faulting
+  - Energetic Rifting - Thermal Rise - Fumarole Field
 type: Barren
 water: None
