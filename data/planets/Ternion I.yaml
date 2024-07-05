@@ -1,24 +1,23 @@
 atmosphere: Extra CO2
 credits:
 - Starfield Sheet 1
-- Demon5760
 fauna: {}
-fauna_rating: None
+fauna_rating: TBD
 flora: {}
-flora_rating: None
+flora_rating: TBD
 gravity: 0.82 G
 magnetosphere: Powerful
 name: Ternion I
-o2_percent: 0
+o2_percent: TBD
 resources:
 - Aluminum
 - Beryllium
 - Europium
 - Helium-3
 system: Alpha Ternion
-surface_temp: 318
+surface_temp: TBD
 temperature: Inferno
 traits:
-- Charred Ecosystem
+- TBD1
 type: Barren
 water: None
