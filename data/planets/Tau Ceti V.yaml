@@ -1,14 +1,15 @@
 atmosphere: EXTR N2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 1.71 G
 magnetosphere: Very Strong
 name: Tau Ceti V
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Alkanes
 - Cobalt
@@ -19,10 +20,10 @@ resources:
 - Water
 - Ytterbium
 system: Tau Ceti
-surface_temp: TBD
+surface_temp: -126
 temperature: Frozen
 traits:
-- TBD1
-- TBD2
+- Emerging Tectonics - Emerging Tectonics - Hot Springs Terraces
+- Frozen Ecosystem - Frozen Crevasse - Uplifted Fossils
 type: Rock
 water: Chemical

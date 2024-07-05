@@ -1,21 +1,78 @@
 atmosphere: THIN O2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-fauna_rating: TBD
+  Herding Bonemane Grazer:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Hills
+    health: 50
+    outpost_production_allowed: true
+  
+  Eggback Herbivore:
+    temperament: Skittish
+    resource: Solvent
+    non_lethal_harvest: true
+    biomes:
+      - Hills
+    health: 195
+    outpost_production_allowed: true
+  
+  Hunting Ankylosaurus:
+    temperament: Territorial
+    resource: Sealant
+    biomes:
+      - Hills
+    health: 310
+    outpost_production_allowed: true
+  
+  Centiskull Filterer:
+    temperament: Peaceful
+    resource: Fiber
+    biomes:
+      - Hills
+    health: 20
+    outpost_production_allowed: true
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Warren Nettle:
+    resource: Toxin
+    biomes:
+      - Hills
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Crimson Gibbet:
+    resource: Structural
+    biomes:
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-fertilization
+  
+  Aruna Goldenglow:
+    resource: Nutrient
+    biomes:
+      - Hills
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+flora_rating: Marginal
 gravity: 1.00 G
 magnetosphere: Average
 name: Tau Ceti II
-o2_percent: TBD
+o2_percent: 18
 resources:
 - Alkanes
 - Argon
@@ -23,10 +80,10 @@ resources:
 - Iron
 - Water
 system: Tau Ceti
-surface_temp: TBD
+surface_temp: 7
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+- Amphibious Foothold
+- Aeriform Life - Aeriform Life - Fermentation Vents
 type: Rock
 water: Biological
