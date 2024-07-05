@@ -1,24 +1,135 @@
 atmosphere: THIN M
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-fauna_rating: TBD
+  Hunting Raptor:
+    temperament: Defensive
+    resource: Pigment
+    biomes:
+      - Rocky Desert
+      - Plateau
+      - Mountains
+      - Volcanic
+    health: 240
+    abilities:
+      - Staggering attacks
+  
+  Herding Vuvuzelisk Geophage:
+    temperament: Wary
+    resource: Sealant
+    non_lethal_harvest: true
+    biomes:
+      - Rocky Desert
+      - Plateau
+      - Mountains
+      - Volcanic
+    health: 50
+  
+  Herding Olgreg:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    non_lethal_harvest: true
+    biomes:
+      - Rocky Desert
+      - Plateau
+      - Mountains
+      - Volcanic
+    health: 195
+  
+  Jackknife Geophage:
+    temperament: Peaceful
+    resource: Fiber
+    biomes:
+      - Rocky Desert
+      - Plateau
+      - Mountains
+      - Volcanic
+    health: 20
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-flora_rating: TBD
+  Moon Root:
+    resource: Membrane 
+    biomes:
+      - Rocky Desert
+      - Volcanic
+    genetics:
+      - XNA
+      - H2S-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Golden Sand Root:
+    resource: Nutrient
+    biomes:
+      - Rocky Desert
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Flowering
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Stunted Pine:
+    resource: Amino Acids
+    biomes:
+      - Mountains
+    genetics:
+      - XNA
+      - H2S-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Arc Root:
+    resource: Toxin
+    biomes:
+      - Plateau
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Self-cloning
+    outpost_production_allowed: false
+    required_inputs:
+      - Water
+  
+  Red Stinging Netile:
+    resource: Nutrient
+    biomes:
+      - Plateau
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Cuttings
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Ash Flower:
+    resource: Structural
+    biomes:
+      - Mountains
+      - VOlcanic
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Flowering
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Marginal
 gravity: 0.46 G
 magnetosphere: Weak
 name: Cassiopeia IV-a
-o2_percent: TBD
+o2_percent: 0
 planet: Cassiopeia IV
 resources:
 - Alkanes
@@ -29,10 +140,10 @@ resources:
 - Tantalum
 - Uranium
 - Water
-surface_temp: TBD
+surface_temp: 39
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+- Prismatic Plumes - Crystalline Minerals - Crystalline Pools
+- Sentient Microbial Colonies
 type: Rock
 water: Radioactive
