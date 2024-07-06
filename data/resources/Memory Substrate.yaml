@@ -3,6 +3,7 @@ type: Organic
 rarity: Unique
 mass: 1.40
 value: 65
+state: Solid
 farming:
   Greenhouse:
     - Water: 1
