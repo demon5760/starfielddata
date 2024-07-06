@@ -1,14 +1,15 @@
 atmosphere: STD M
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.54 G
 magnetosphere: Weak
 name: Eridani V
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Chlorine
 - Lead
@@ -16,10 +17,11 @@ resources:
 - Silver
 - Water
 system: Eridani
-surface_temp: TBD
+surface_temp: -48
 temperature: Cold
 traits:
-- TBD1
-- TBD2
+- Gravitational Anomaly
+- Crystalline Crust
+- Active Faulting - Colossal Shards - Tectonic Faulting
 type: Rock
 water: Safe
