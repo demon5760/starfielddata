@@ -40,7 +40,7 @@
                 {{ if in (slice "flora" "fauna") $key }}
                     {{ range $fkey, $fvalue := $value }}
                         {{ if hasPrefix $fkey "TBD" }}
-                            {{ $task := printf "%s in %s has a %s of <strong>%s</strong>. Needs real data." 
+                            {{ $task := printf "%s in %s has a %s rating of <strong>%s</strong>. Needs real data." 
                                 (partial "util/get_location_link" (slice $body.name $.Site)) $system_link $key $fkey | safeHTML 
                             }}
                             {{ $body_tasks = $body_tasks | append $task }}
