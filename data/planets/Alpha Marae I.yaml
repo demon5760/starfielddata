@@ -1,16 +1,34 @@
 atmosphere: STD CO2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: 
-  TBD1: {}
-  TBD2: {}
+  Fingerface Geophage:
+    temperament: Skittish
+    resource: Selant
+    non_lethal_harvest: true
+    biomes:
+      - Rocky Desert
+      - Hills
+      - Sandy Desert
+    health: 20
+  
+  Morion Grazer:
+    temperament: Peaceful
+    resource: Toxin
+    biomes:
+      - Rocky Desert
+      - Hills
+      - Sandy Desert
+    health: 20
+  
 fauna_rating: Primordial
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 1.08 G
 magnetosphere: Average
 name: Alpha Marae I
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Cobalt
 - Lead
@@ -19,10 +37,10 @@ resources:
 - Uranium
 - Vanadium
 system: Alpha Marae
-surface_temp: TBD
+surface_temp: 237
 temperature: Scorched
 traits:
-- TBD1
-- TBD2
+- Continual Conductor
+- Global Glacial Recession - Melted Glacier - Glacial Remnant
 type: Rock
 water: None

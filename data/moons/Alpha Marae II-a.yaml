@@ -1,21 +1,22 @@
 atmosphere: None
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.12 G
 magnetosphere: None
 name: Alpha Marae II-a
-o2_percent: TBD
+o2_percent: 0
 planet: Alpha Marae II
 resources:
 - Nickel
 - Water
-surface_temp: TBD
+surface_temp: -46
 temperature: Cold
 traits:
-- TBD1
+- Crystalline Crust
 type: Ice
 water: Chemical
