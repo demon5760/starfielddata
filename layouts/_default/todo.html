@@ -21,36 +21,50 @@
         </ul>
 
         <h3>Planet & Moon Data</h3>
-        <ul>
-            {{ $bodies := merge $.Site.Data.planets $.Site.Data.moons }}
-            {{ range $bodies }}
-                {{ $body := . }}
-                {{ $system_name := partial "util/get_system_name" (slice $body.name $.Site)}}
-                {{ $system_link := partial "util/get_location_link" (slice $system_name $.Site) }}
+        {{ $body_tasks := slice }}
 
-                {{ range $key, $value :=  $body }}
+        {{ $bodies := merge $.Site.Data.planets $.Site.Data.moons }}
+        {{ range $bodies }}
+            {{ $body := . }}
+            {{ $system_name := partial "util/get_system_name" (slice $body.name $.Site)}}
+            {{ $system_link := partial "util/get_location_link" (slice $system_name $.Site) }}
 
-                    {{ if not (in (slice "flora" "fauna" "traits" "resources") $key )}}
-                        {{ if eq (partial "util/is_missing" $value) true }}
-                            <li> {{ partial "util/get_location_link" (slice $body.name $.Site) }} in {{ $system_link }} is missing a value for {{ $key }}</li>
-                        {{ end }}
-                    {{ end }}
-                    {{ if in (slice "flora" "fauna") $key }}
-                        {{ range $fkey, $fvalue := $value }}
-                            {{ if hasPrefix $fkey "TBD" }}
-                                <li>{{ partial "util/get_location_link" (slice $body.name $.Site) }} in {{ $system_link }} has a {{ $key }} of <strong>{{$fkey}}</strong>. Needs real data.</li>
-                            {{ end }}
-                        {{ end }}
-                    {{ end }}
-                    {{ if eq $key "traits" }}
-                        {{ range $value }}
-                            {{ if hasPrefix . "TBD" }}
-                            <li>{{ partial "util/get_location_link" (slice $body.name $.Site) }} in {{ $system_link }} has <strong>{{.}}</strong> in {{ $key }}. Needs real data.</li>
-                            {{ end }}
+            {{ range $key, $value :=  $body }}
+
+                {{ if not (in (slice "flora" "fauna" "traits" "resources") $key )}}
+                    {{ if eq (partial "util/is_missing" $value) true }}
+                        {{ $task := printf "%s in %s is missing a value for %s." (partial "util/get_location_link" (slice $body.name $.Site)) $system_link $key | safeHTML }}
+                        {{ $body_tasks = $body_tasks | append $task }}
+                     {{ end }}
+                {{ end }}
+                {{ if in (slice "flora" "fauna") $key }}
+                    {{ range $fkey, $fvalue := $value }}
+                        {{ if hasPrefix $fkey "TBD" }}
+                            {{ $task := printf "%s in %s has a %s of <strong>%s</strong>. Needs real data." 
+                                (partial "util/get_location_link" (slice $body.name $.Site)) $system_link $key $fkey | safeHTML 
+                            }}
+                            {{ $body_tasks = $body_tasks | append $task }}
                         {{ end }}
                     {{ end }}
                 {{ end }}
+                {{ if eq $key "traits" }}
+                    {{ range $value }}
+                        {{ if hasPrefix . "TBD" }}
+                            {{ $task := printf "%s in %s has trait <strong>%s</strong>. Needs real data." 
+                                (partial "util/get_location_link" (slice $body.name $.Site)) $system_link . | safeHTML 
+                            }}
+                            {{ $body_tasks = $body_tasks | append $task }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
 
+        {{ end }}
+
+        {{ $body_tasks | len }} data points needed.
+        <ul>
+            {{ range $body_tasks }}
+                <li>{{ . }}</li>
             {{ end }}
         </ul>
     </div>
