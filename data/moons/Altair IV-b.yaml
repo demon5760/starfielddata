@@ -1,14 +1,15 @@
 atmosphere: None
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.14 G
 magnetosphere: None
 name: Altair IV-b
-o2_percent: TBD
+o2_percent: 0
 planet: Altair IV
 resources:
 - Chlorine
@@ -16,9 +17,9 @@ resources:
 - Lithium
 - Water
 - Xenon
-surface_temp: TBD
+surface_temp: -145
 temperature: Frozen
 traits:
-- TBD1
+- Crystalline Crust
 type: Ice
 water: Heavy Metal

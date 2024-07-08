@@ -1,14 +1,15 @@
 atmosphere: STD M
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
 flora_rating: TBD
 gravity: 0.60 G
 magnetosphere: None
 name: Altair IV-c
-o2_percent: TBD
+o2_percent: 0
 planet: Altair IV
 resources:
 - Chlorine
@@ -17,12 +18,11 @@ resources:
 - Nickel
 - Tungsten
 - Water
-surface_temp: TBD
+surface_temp: -12
 temperature: Cold
 traits:
-- TBD1
-- TBD2
-- TBD3
-- TBD4
+- Extinction Event
+- Emerging Tectonics- Emerging Tectonics - Hot Spring Terraces
+- Coralline Landmass - Coral Pond - Coralline Mineral Pool
 type: Rock
 water: Chemical
