@@ -1,14 +1,15 @@
 atmosphere: THIN M
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.48 G
 magnetosphere: None
 name: Ampere
-o2_percent: TBD
+o2_percent: 0
 planet: Faraday
 resources:
 - Alkanes
@@ -19,7 +20,7 @@ resources:
 - Uranium
 - Vanadium
 - Water
-surface_temp: TBD
+surface_temp: 39
 temperature: Temperate
 traits: []
 type: Rock
