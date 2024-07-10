@@ -1,20 +1,79 @@
 atmosphere: STD M (TOX)
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-fauna_rating: TBD
+  Swarming Stalker Scorpion:
+    temperament: Territorial
+    resource: Metabolic Agent
+    non_lethal_harvest: true
+    biomes:
+      - Hills
+      - Wetlands
+    health: 100
+    resistances:
+      - EM damage
+  
+  Flocking Glowhands Grazer:
+    temperament: Defensive
+    resource: Spice
+    non_lethal_harvest: true
+    biomes:
+      - Frozen Plains
+      - Hills
+      - Wetlands
+    health: 50
+  
+  Siren:
+    temperament: Aggressive
+    resource: Structural
+    biomes:
+      - Frozen Plains
+      - Hills
+      - Wetlands
+    health: 1140
+    abilities:
+      - Extra health
+  
+  Flocking Cutterhead Grazer:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Hills
+      - Wetlands
+    health: 50
+    outpost_production_allowed: true
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-flora_rating: TBD
+  Red Stinging Nettle:
+    resource: Sealant
+    biomes:
+      - Hills
+      - Wetlands
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Cuttings
+    outpost_production_allowed: false
+    required_inputs:
+      - Water
+  
+  Starpod Silkweed:
+    resource: Toxin
+    biomes:
+      - Hills
+      - Wetlands
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Spores
+  
+flora_rating: Marginal
 gravity: 0.61 G
 magnetosphere: Weak
 name: Niira
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Argon
 - Benzene
@@ -25,11 +84,11 @@ resources:
 - Nickel
 - Water
 system: Narion
-surface_temp: TBD
+surface_temp: 31
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Global Glacial Recession - Melted Glacier - Glacial Remnant
+- Charred Ecosystem - Charred Ecosystem - Sinter Terraces
+- Coralline Landmass - Coral Pond - Coralline Mineral Pool
 type: Rock
 water: Heavy Metal

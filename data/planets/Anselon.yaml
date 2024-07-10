@@ -1,16 +1,17 @@
 atmosphere: H2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 1.81 G
 magnetosphere: Strong
 name: Anselon
-o2_percent: TBD
+o2_percent: N/A
 resources: []
-surface_temp: TBD
+surface_temp: N/A
 system: Narion
 temperature: Deep Freeze
 traits: []

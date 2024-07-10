@@ -1,20 +1,72 @@
 atmosphere: STD O2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-fauna_rating: TBD
+  Trilobite:
+    temperament: Wary 
+    resource: Nutrient
+    biomes:
+      - Frozen Volcanic
+      - Mountains
+      - Volcanic
+    health: 20
+  
+  Kreet Stalker:
+    temperament: Defensive
+    resource: Fiber
+    biomes:
+      - Mountains
+      - Volcanic
+    health: 200
+  
+  Kreet Grazer:
+    temperament: Wary
+    resource: Antimicrobial
+    non_lethal_harvest: true
+    biomes:
+      - Mountains
+      - Volcanic
+    health: 50
+    outpost_production_allowed: true
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Frost Reed:
+    resource: Nutrient
+    biomes:
+      - Frozen Volcanic
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Cuttings
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Dust Root:
+    resource: Fiber
+    biomes:
+      - Volcanic
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Nebula Vine:
+    resource: Fiber
+    biomes:
+      - Mountains
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+flora_rating: Marginal
 gravity: 0.55 G
 magnetosphere: Very Strong
 name: Kreet
-o2_percent: TBD
+o2_percent: 18
 planet: Anselon
 resources:
 - Alkanes
@@ -25,9 +77,9 @@ resources:
 - Neon
 - Silver
 - Water
-surface_temp: TBD
+surface_temp: 25
 temperature: Temperate
 traits:
-- TBD1
+- Boiled Seas - Deep Ocean - Eroded Reef Outcropping
 type: Rock
 water: Biological
