@@ -1,26 +1,52 @@
 atmosphere: STD M
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: 
-  TBD1: {}
-  TBD2: {}
+  Herding Wobbleback Gephage:
+    temperament: Wary
+    resource: Sealant
+    non_lethal_harvest: true
+    biomes:
+      - Craters
+    health: 50
+  
+  Hunting Leafstrider:
+    temperament: Territorial
+    resource: Ornamental
+    biomes:
+      - Craters
+    health: 205
+    abilities:
+      - Burning damage
+    resistances:
+      - Blast damage
+      - Physical damage
+  
 fauna_rating: Primordial
 flora: 
-  TBD1: {}
+  Dovefoot Pedestal:
+    resource: Nutrient
+    biomes:
+      - Craters
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Flowering
+  
 flora_rating: Primordial
 gravity: 1.02 G
 magnetosphere: Weak
 name: Aranae I
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Aluminum
 - Beryllium
 - Helium-3
 system: Aranae
-surface_temp: TBD
+surface_temp: -151
 temperature: Deep Freeze
 traits:
-- TBD1
-- TBD2
+- Bolide Bombardment - Meteorite Crater - Impact Crater
 type: Barren
 water: None
