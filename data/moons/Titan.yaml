@@ -1,10 +1,11 @@
 atmosphere: STD N2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.14 G
 magnetosphere: None
 name: Titan
@@ -18,7 +19,7 @@ resources:
 surface_temp: TBD
 temperature: Deep Freeze
 traits:
-- TBD1
-- TBD2
+- Crystalline Crust
+- Frozen Ecosystem
 type: Rock
 water: Safe

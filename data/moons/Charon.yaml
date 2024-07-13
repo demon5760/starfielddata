@@ -1,6 +1,7 @@
 atmosphere: None
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
 fauna_rating: TBD
 flora: {}
@@ -8,12 +9,12 @@ flora_rating: TBD
 gravity: 0.03 G
 magnetosphere: None
 name: Charon
-o2_percent: TBD
+o2_percent: 0
 planet: Pluto
 resources:
 - Copper
 - Water
-surface_temp: TBD
+surface_temp: -222
 temperature: Deep Freeze
 traits: []
 type: Ice
