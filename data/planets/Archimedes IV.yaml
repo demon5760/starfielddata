@@ -1,14 +1,15 @@
 atmosphere: STD M
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 1.04 G
 magnetosphere: Very Strong
 name: Archimedes IV
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Copper
 - Fluorine
@@ -17,11 +18,11 @@ resources:
 - Mercury
 - Water
 system: Archimedes
-surface_temp: TBD
+surface_temp: -40
 temperature: Cold
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Sonorous Lithosphere - Crystal Columns - Oscilating Crystals
+- Energetic Rifting - Thermal Craters - Fumarole Field
+- Emerging Tectonics - Emerging Tectonics - Hot Springs Terraces
 type: Rock
 water: Heavy Metal

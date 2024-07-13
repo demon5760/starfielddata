@@ -1,14 +1,15 @@
 atmosphere: THIN CO2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.43 G
 magnetosphere: None
 name: Archimedes VI-a
-o2_percent: TBD
+o2_percent: 0
 planet: Archimedes VI
 resources:
 - Argon
@@ -18,9 +19,9 @@ resources:
 - Silver
 - Uranium
 - Water
-surface_temp: TBD
+surface_temp: -160
 temperature: Deep Freeze
 traits:
-- TBD1
+- Emerging Tectonics
 type: Rock
 water: Chemical

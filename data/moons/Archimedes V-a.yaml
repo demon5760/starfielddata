@@ -1,14 +1,90 @@
 atmosphere: STD O2
 credits:
 - Starfield Sheet 1
-fauna: {}
-fauna_rating: TBD
-flora: {}
-flora_rating: TBD
+fauna:
+  Spaceroach Scavenger:
+    temperament: Peaceful
+    resource: Structural
+    biomes:
+      - Frozen Volcanic
+      - Wetlands
+      - Hills
+      - Mountains
+      - Deciduous Forest
+      - Savanna
+    health: 20
+  Hunting Cricket:
+    temperament: Fearless
+    resource: Adhesive
+    non_lethal_harvest: true
+    biomes:
+      - Hills
+      - Deciduous Forest
+      - Savanna
+    health: 3340
+  Hunting Crocalypse:
+    temperament: Fearless
+    resource: Adhesive
+    non_lethal_harvest: true
+    biomes:
+      - Wetlands
+    health: 695
+  Hunting Boneshell:
+    temperament: Fearless
+    resource: Adhesive
+    non_lethal_harvest: true
+    biomes:
+      - Wetlands
+      - Hills
+      - Savanna
+    health: 240
+    resistances:
+      - Energy damage
+      - Physical damage
+  Hunting Glider:
+    temperament: Fearless
+    resource: Adhesive
+    non_lethal_harvest: true
+    biomes:
+      - Hills
+      - Mountains
+    health: 2085      
+fauna_rating: Marginal
+flora:
+  Red Latticebulb:
+    resource: Toxin
+    biomes:
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  Spitting Pokeweed:
+    resource: Adhesive
+    biomes:
+      - Wetlands
+      - Mountains
+      - Deciduous Forest
+    genetics:
+      - XNA
+      - Carbon-based
+    reproduction: Complex
+  Canary Reed:
+    resource: Sealant
+    biomes:
+      - Hills
+      - Mountains
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Complex
+  
+flora_rating: Marginal
 gravity: 0.67 G
 magnetosphere: Average
 name: Archimedes V-a
-o2_percent: TBD
+o2_percent: 18
 planet: Archimedes V
 resources:
 - Chlorine
@@ -19,11 +95,11 @@ resources:
 - Tantalum
 - Water
 - Ytterbium
-surface_temp: TBD
+surface_temp: 9
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Amphibious Foothold - Amphibious Thicket - Remains Of Amphibious Lifeforms
+- Psychotropic Biota - Fungal Growths - Fungal Grotto
+- Global Glacial Recession
 type: Rock
 water: Heavy Metal

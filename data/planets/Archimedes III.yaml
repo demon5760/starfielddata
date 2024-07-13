@@ -1,28 +1,170 @@
 atmosphere: STD O2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-  TBD9: {}
-fauna_rating: TBD
+  Hornwing Scavenger:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Swamp
+      - Wetlands
+      - Coniferous Forest
+      - Savanna
+      - Mountains
+      - Deciduous Forest
+    health: 20
+  
+  Beetle Scavenger:
+    temperament: Wary
+    resource: Ornamental
+    non_lethal_harvest: true
+    biomes:
+      - Frozen Plains
+      - Coniferous Forest
+      - Mountains
+      - Deciduous Forest
+    health: 20
+  
+  Flocking Leafbug Grazer:
+    temperament: Wary
+    resource: Sealant
+    non_lethal_harvest: true
+    biomes:
+      - Swamp
+      - Wetlands
+      - Coniferous Forest
+      - Savanna
+      - Deciduous Forest
+    health: 50
+    abilities:
+      - Venomous
+      - Ranged mouth attack
+  
+  Swarming Maggotmaw:
+    temperament: Defensive
+    resource: Antimicrobial
+    non_lethal_harvest: true
+    biomes:
+      - Swamp
+      - Wetlands
+      - Coniferous Forest
+      - Savanna
+      - Deciduous Forest
+    health: 835
+  
+  Flocking Clickbeetle Grazer:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Swamp
+      - Wetlands
+      - Savanna
+    health: 545
+  
+  Herding Kelpstrider Herbivore:
+    temperament: Wary
+    resource: Lubricant
+    biomes:
+      - Swamp
+      - Coniferous Forest
+      - Deciduous Forest
+    health: 545
+  
+  Pack Trapmaw:
+    temperament: Fearless
+    resource: Pigment
+    biomes:
+      - Swamp
+      - Wetlands
+      - Coniferous Forest
+      - Deciduous Forest
+    health: 135
+    abilities:
+      - Fast attacks
+  
+  Herding Lockjaw Scavenger:
+    temperament: Wary
+    resource: Fiber
+    non_lethal_harvest: true
+    biomes:
+      - Swamps
+      - Wetlands
+    health: 220
+  
+  Grabber Scavenger:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    biomes:
+      - Swamp
+      - Wetlands
+    health: 20
+  
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Moon Root:
+    resource: Pigment
+    biomes:
+      - Swamp
+      - Wetlands
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Velvet Bloom:
+    resource: Aromatic
+    biomes:
+      - Swamp
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+  Jagged Heart Leaf:
+    resource: Lubricant
+    biomes:
+      - Coniferous Forest
+      - Deciduous Forest
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Canary Reed:
+    resource: Lubricant
+    biomes:
+      - Savanna
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Complex
+  
+  Cliff Laurel:
+    resource: Selant
+    biomes:
+      - Savanna
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Moderate
 gravity: 0.70 G
 magnetosphere: Weak
 name: Archimedes III
-o2_percent: TBD
+o2_percent: 18
 resources:
 - Aluminum
 - Beryllium
@@ -33,10 +175,10 @@ resources:
 - Tungsten
 - Water
 system: Archimedes
-surface_temp: TBD
+surface_temp: 11
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+- Aeriform Life
+- Global Glacial Recession - Melted Glacier - Glacial Remnant
 type: Rock
 water: Safe
