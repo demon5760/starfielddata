@@ -1,22 +1,103 @@
 atmosphere: STD O2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-fauna_rating: TBD
+  Herding Brainsprout Grazer:
+    temperament: Wary
+    resource: Adhesive
+    non_lethal_harvest: false
+    biomes:
+      - Tropical Forest
+      - Sandy Desert
+      - Mountains
+    health: 120
+    outpost_production_allowed: true
+  
+  Flocking Orchid Scavenger:
+    temperament: Wary
+    resource: Amino Acides
+    biomes:
+      - Tropical Forest
+      - Sandy Desert
+      - Mountains
+    health: 95
+    weaknesses:
+      - Physical damage
+  
+  Jackknife Grazer:
+    temperament: Peaceful
+    resource: Toxin
+    biomes:
+      - Frozen Crevasses
+      - Tropical Forest
+      - Sandy Desert
+      - Mountains
+    health: 20
+  
+  Hunting Landshark:
+    temperament: Territorial
+    resource: Metabolic Agent
+    non_lethal_harvest: true
+    biomes:
+      - Tropical Forest
+      - Sandy Desert
+      - Mountains
+    health: 170
+    abilities:
+      - Staggering attacks
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-flora_rating: TBD
+  Fire Rose:
+    resource: Toxin 
+    biomes:
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Moth Vine:
+    resource: Polymer
+    biomes:
+      - Tropical Forest
+    genetics:
+      - Chiral Opposite
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Hecate's Fireleaf:
+    resource: Sealant
+    biomes:
+      - Sandy Desert
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Enduring Bugleweed:
+    resource: Fiber
+    biomes:
+      - Sandy Desert
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Marginal
 gravity: 0.95 G
 magnetosphere: Average
 name: Arcturus II
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Alkanes
 - Argon
@@ -27,9 +108,9 @@ resources:
 - Uranium
 - Water
 system: Arcturus
-surface_temp: TBD
+surface_temp: 23
 temperature: Temperate
 traits:
-- TBD1
+- Ecological Consortium  - Ecological Consortium - Hive Structures
 type: Rock
 water: Chemical

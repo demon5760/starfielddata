@@ -1,19 +1,20 @@
 atmosphere: THIN CO2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.40 G
 magnetosphere: None
 name: Arcturus III-a
-o2_percent: TBD
+o2_percent: 0
 planet: Arcturus III
 resources:
 - Argon
 - Water
-surface_temp: TBD
+surface_temp: -32
 temperature: Cold
 traits: []
 type: Ice

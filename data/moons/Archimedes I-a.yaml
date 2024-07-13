@@ -9,7 +9,7 @@ flora_rating: None
 gravity: 0.14 G
 magnetosphere: None
 name: Archimedes I-a
-o2_percent: TBD
+o2_percent: 0
 planet: Archimedes I
 resources:
 - Aluminum
