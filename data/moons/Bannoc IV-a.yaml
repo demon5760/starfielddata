@@ -1,23 +1,24 @@
 atmosphere: None
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.06 G
 magnetosphere: None
 name: Bannoc IV-a
-o2_percent: TBD
+o2_percent: 0
 planet: Bannoc IV
 resources:
 - Caesium
 - Chlorine
 - Chlorosilanes
 - Water
-surface_temp: TBD
+surface_temp: -162
 temperature: Deep Freeze
 traits:
-- TBD1
+- Gaseous Font
 type: Ice
 water: Chemical

@@ -20,6 +20,6 @@ system: Sol
 surface_temp: -1
 temperature: Cold
 traits:
-- TBD1
+- iron
 type: Rock
 water: Safe

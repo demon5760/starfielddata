@@ -1,14 +1,15 @@
 atmosphere: STD CO2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 1.01 G
 magnetosphere: Average
 name: Bannoc I
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Cobalt
 - Lead
@@ -17,10 +18,10 @@ resources:
 - Silver
 - Uranium
 system: Bannoc
-surface_temp: TBD
+surface_temp: 255
 temperature: Inferno
 traits:
-- TBD1
-- TBD2
+- Continual Conductor
+- Charred Ecosystem - Charred Ecosystem - Sinter Terraces
 type: Rock
 water: None
