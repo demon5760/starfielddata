@@ -1,20 +1,21 @@
 atmosphere: None
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.11 G
 magnetosphere: None
 name: Bara VI-a
-o2_percent: TBD
+o2_percent: 0
 planet: Bara VI
 resources:
 - Cobalt
 - Nickel
 - Water
-surface_temp: TBD
+surface_temp: -169
 temperature: Deep Freeze
 traits: []
 type: Ice

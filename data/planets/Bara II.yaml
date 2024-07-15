@@ -2,20 +2,28 @@ atmosphere: EXTR CO2
 credits:
 - Starfield Sheet 1
 fauna: 
-  TBD1: {}
+  Flocking Crab Geophage:
+    temperament: Territorial
+    resource: Sealant
+    non_lethal_harvest: true
+    biomes:
+      - Mountains
+      - Rocky Desert
+    health: 145
+  
 fauna_rating: Primordial
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 1.70 G
 magnetosphere: Very Strong
 name: Bara II
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Iridium
 - Iron
 - Uranium
 system: Bara
-surface_temp: TBD
+surface_temp: 336
 temperature: Inferno
 traits: []
 type: Rock

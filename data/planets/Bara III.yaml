@@ -1,25 +1,133 @@
 atmosphere: STD CO2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-fauna_rating: TBD
+  Pack Crabfly:
+    temperament: Wary
+    resource: Fiber
+    non_lethal_harvest: true
+    biomes:
+      - Frozen Plains
+      - Svanna
+    health: 1035
+    abilities:
+      - Ranged mouth attack
+    resistances:
+      - Reflects melee damage
+  
+  Flocking Plateskin Grazer:
+    temperament: Peaceful
+    resource: Stimulant
+    non_lethal_harvest: true
+    biomes:
+      - Frozen Plains
+      - Savanna
+      - Mountains
+    health: 440
+  
+  Hunting Brainsquid:
+    temperament: Territorial
+    resource: Analgesic
+    biomes:
+      - Frozen Plains
+      - Savanna
+      - Mountains
+    health: 1560
+    abilities:
+      - Venomous
+      - Ranged mouth attack
+  
+  Mothwing Scavenger:
+    temperament: Peaceful
+    resource: Pigment
+    biomes:
+      - Frozen Plains
+      - Savanna
+      - Mountains
+    health: 20
+  
+  Herding Leafstrider Filterer:
+    temperament: Peaceful
+    resource: Ornamental
+    biomes:
+      - Frozen Plains
+      - Savanna
+    health: 220
+    abilities:
+      - Ranged mouth attack
+    resistances:
+      - Reflects melee damage
+  
+  Caterpillar Scavenger:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Frozen Plains
+      - Savanna
+    health: 20
+    outpost_production_allowed: true
+  
+  Beetle Grazer:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    non_lethal_harvest: true
+    biomes:
+      - Savanna
+      - Mountains
+    health: 20
+    outpost_production_allowed: true
+  
+  Shoaling Exowhale Filterer:
+    temperament: Territorial
+    resource: Antimicrobial
+    biomes:
+      - Ocean
+    health: 50
+  
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Spitting Goatweed:
+    resource: Sealant
+    biomes:
+      - Savanna
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Nebula Vine:
+    resource: ANalgesic
+    biomes:
+      - Frozen Plains
+      - Savanna
+      - Mountains
+    genetics:
+      - Double Helix
+      - Cabon-based
+    reproduction: Self-cloning
+  
+  Cold Cave Nettle:
+    resource: Toxin
+    biomes:
+      - Frozen Plains
+      - Mountains
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Marginal
 gravity: 0.47 G
 magnetosphere: Average
 name: Bara III
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Alkanes
 - Argon
@@ -29,10 +137,10 @@ resources:
 - Iron
 - Water
 system: Bara
-surface_temp: TBD
+surface_temp: -18
 temperature: Cold
 traits:
-- TBD1
-- TBD2
+- Sentient Microbial Colonies
+- Amphibious Foothold - Amphibious Thicket - Remains Of Amphibious Lifeforms
 type: Rock
 water: Biological
