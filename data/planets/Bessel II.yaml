@@ -1,21 +1,22 @@
-atmosphere: TBD
+atmosphere: None
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.90 G
 magnetosphere: Weak
 name: Bessel II
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Aluminum
 - Beryllium
 - Helium-3
 - Neodymium
 system: Bessel
-surface_temp: TBD
+surface_temp: -160
 temperature: Deep Freeze
 traits: []
 type: Barren
