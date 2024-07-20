@@ -1,21 +1,86 @@
 atmosphere: STD N2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-fauna_rating: TBD
+  Worm Geophage:
+    temperament: Wary
+    resource: Fiber
+    biomes:
+      - Frozen Plains
+      - Mountains
+    health: 20
+  
+  Herding Vuvuzelisk Grazer:
+    temperament: Wary
+    resource: Toxin
+    non_lethal_harvest: true
+    biomes:
+      - Coniferous Forest
+    health: 245
+  
+  Spaceroach Filterer:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    biomes:
+      - Coniferous Forest
+    health: 20
+  
+  Hunting Cricket:
+    temperament: Defensive
+    resource: Ornamental
+    biomes:
+      - Coniferous Forest
+    health: 835
+    abilities:
+      - Fast attacks
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Enduring Bugleweed:
+    resource: Nutrient
+    biomes:
+      - Coniferous Forest
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Flowering
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Abyss Pine Seedling:
+    resource: Adhesive
+    biomes:
+      - Coniferous Forest
+      - Mountains
+    genetics:
+      - XNA
+      - HF-based
+    reproduction: Flowering
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Forest Wisp:
+    resource: Structural
+    biomes:
+      - Coniferous Forest
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Marginal
 gravity: 1.34 G
 magnetosphere: Powerful
 name: Beta Ternion III
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Argon
 - Benzene
@@ -23,10 +88,10 @@ resources:
 - Lead
 - Water
 system: Beta Ternion
-surface_temp: TBD
+surface_temp: -16
 temperature: Cold
 traits:
-- TBD1
-- TBD2
+- Diseased Biosphere - Diseased Biosphere - Infected Grove
+- Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
 type: Rock
 water: Heavy Metal

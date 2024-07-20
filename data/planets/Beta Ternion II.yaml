@@ -1,29 +1,184 @@
 atmosphere: STD O2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-  TBD9: {}
-fauna_rating: TBD
+  Glider Scavenger:
+    temperament: Peaceful
+    resource: Pigment
+    biomes:
+      - Volcanic
+      - Mountains
+      - Frozen Plains
+      - Deciduous Forest
+      - Savanna
+      - Sandy Desert
+      - Hills
+    health: 20
+    outpost_production_allowed: true
+  
+  Brainsprout Grazer:
+    temperament: Wary
+    resource: Analgesic
+    biomes:
+      - Deciduous Forest
+    health: 545
+  
+  Wiggler Scavenger:
+    temperament: Peaceful
+    resource: Sealant
+    biomes:
+      - Volcanic
+      - Mountains
+      - Frozen Plains
+      - Deciduous Forest
+      - Savanna
+      - Sandy Desert
+      - Hills
+    health: 20
+    outpost_production_allowed: true
+  
+  Hunting Landshark:
+    temperament: Fearless
+    resource: Adhesive
+    biomes:
+      - Deciduous Forest
+    health: 835
+  
+  Tongueface Herbivore:
+    temperament: Wary
+    resource: Membrane
+    biomes:
+      - Deciduous Forest
+    health: 1635
+  
+  Pack Lionbear:
+    temperament: Territorial
+    resource: Toxin
+    biomes:
+      - Deciduous Forest
+    health: 765
+  
+  Flocking Geckon Scavenger:
+    temperament: Wary
+    resource: Amino Acids
+    non_lethal_harvest: true
+    biomes:
+      - Volcanic
+      - Mountains
+      - Savanna
+      - Sandy Desert
+      - Hills
+    health: 50
+    abilities:
+      - Hills Rapidly
+  
+  Hunting Stonewalker Scavenger:
+    temperament: Fearless
+    resource: Biosuppressant
+    biomes:
+      - Volcanic
+      - Mountains
+      - Savanna
+      - Sandy Desert
+      - Hills
+    health: 2295
+  
+  Beetle Savenger:
+    temperament: Peaceful
+    resource: Structural
+    biomes:
+      - Volcanic
+      - Mountains
+      - Savanna
+      - Sandy Desert
+      - Hills
+    health: 20
+  
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-flora_rating: TBD
+  Crimson Gibbet:
+    resource: Fiber
+    biomes:
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Tundra Vine:
+    resource: Hallucinogen
+    biomes:
+      - Savanna
+      - Sandy Desert
+      - Hills
+    genetics:
+      - Chiral Opposite
+      - HF-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Sage Shrub:
+    resource: Metabolic Agent
+    biomes:
+      - Savanna
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Fallen Star Palm:
+    resource: Nutrient
+    biomes:
+      - Deciduous Forest
+      - Savanna
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Cliff Laurel:
+    resource: Stimulant
+    biomes:
+      - Volcanic
+      - Mountains
+      - Deciduous Forest
+    genetics:
+      - Chiral Opposite
+      - HF-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Star Bloom Root:
+    resource: Spice
+    biomes:
+      - Volcanic
+      - Mountains
+      - Deciduous Forest
+      - Hills
+    genetics:
+      - Chiral Opposite
+      - Carbon-based
+    reproduction: Spores
+    reproduction2: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Moderate
 gravity: 1.34 G
 magnetosphere: Powerful
 name: Beta Ternion II
-o2_percent: TBD
+o2_percent: 24
 resources:
 - Argon
 - Cobalt
@@ -34,9 +189,9 @@ resources:
 - Uranium
 - Water
 system: Beta Ternion
-surface_temp: TBD
+surface_temp: 17
 temperature: Temperate
 traits:
-- TBD1
+- Ecological Consortium
 type: Rock
 water: Chemical

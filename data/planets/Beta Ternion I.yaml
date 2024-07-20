@@ -1,20 +1,80 @@
 atmosphere: HIGH O2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-fauna_rating: TBD
+  Herding Leafback Grazer:
+    temperament: Wary
+    resource: Stimulant
+    non_lethal_harvest: true
+    biomes:
+      - Sandy Deserts
+      - Mountains
+    health: 295
+    outpost_production_allowed: false
+  
+  Thorn Filterer:
+    temperament: Wary 
+    resource: Toxin
+    biomes:
+      - Frozen Volcanic
+      - Sandy Desert
+      - Mountains
+    health: 20
+  
+  Hunting Crab:
+    temperament: Territorial
+    resource: Nutrient
+    biomes:
+      - Sandy Desert
+      - Mountains
+    health: 590
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Stunted Pine:
+    resource: Metabolic Agent
+    biomes:
+      - Sandy Desert
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Bristle Barrel:
+    resource: Stimulant
+    biomes:
+      - Sandy Desert
+      - Mountains
+    genetics:
+      - Chiral Opposite
+      - HF-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Wanderer's Husl:
+    resource: Structural
+    biomes:
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Marginal
 gravity: 1.35 G
 magnetosphere: Powerful
 name: Beta Ternion I
-o2_percent: TBD
+o2_percent: 24
 resources:
 - Chlorine
 - Chlorosilanes
@@ -23,10 +83,10 @@ resources:
 - Lithium
 - Water
 system: Beta Ternion
-surface_temp: TBD
+surface_temp: 39
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+- Global Glacial Recession - Melted Glacier - Glacial Remnant
+- Ecological Consortium - Ecological Consortium - Hive Structures
 type: Rock
 water: Chemical
