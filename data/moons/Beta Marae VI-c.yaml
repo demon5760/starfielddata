@@ -9,12 +9,12 @@ flora_rating: None
 gravity: 0.13 G
 magnetosphere: None
 name: Beta Marae VI-c
-o2_percent: TBD
+o2_percent: 0
 planet: Beta Marae VI
 resources:
 - Copper
 - Water
-surface_temp: TBD
+surface_temp: -218
 temperature: Deep Freeze
 traits: []
 type: Ice
