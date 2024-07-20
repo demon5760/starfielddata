@@ -1,21 +1,105 @@
 atmosphere: STD O2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-fauna_rating: TBD
+  Herding Marnokk Scavenger:
+    temperament: Wary
+    resource: Toxin
+    biomes:
+      - Savanna
+      - Hills
+      - Wetlands
+      - Deciduous Forest
+      - Tropical Forest
+    health: 245
+  
+  Tubule Filterer:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    biomes:
+      - Savanna
+      - Hills
+      - Wetlands
+      - Deciduous Forest
+      - Frozen Plains
+      - Tropical Forest
+    health: 20
+
+  Hunting Brainsquid:
+    temperament: Fearless
+    resource: Hallucinogen
+    biomes:
+      - Savanna
+      - Hills
+      - Wetlands
+      - Deciduous Forest
+      - Tropical Forest
+    health: 340
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-flora_rating: TBD
+  Red Latticebulb:
+    resource: Fiber
+    biomes:
+      - Savanna
+      - Hills
+      - Deciduous Forest
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+  Lattice Leaf:
+    resource: Structural
+    biomes:
+      - Savanna
+      - Wetlands
+      - Deciduous Forest
+      - Tropical Forest
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Explorer's Coleus:
+    resource: Sealant
+    biomes:
+      - Hills
+      - Wetlands
+      - Deciduous Forest
+      - Tropical Forest
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Spores
+    reproduction2: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Desiccated Yarberry:
+    resource: Nutrient
+    biomes:
+      - Wetlands
+      - Tropical Forest
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Spores
+    reproduction2: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Marginal
 gravity: 0.82 G
 magnetosphere: Weak
 name: Bolivar I
-o2_percent: TBD
+o2_percent: 18
 resources:
 - Chlorine
 - Copper
@@ -24,9 +108,9 @@ resources:
 - Tungsten
 - Water
 system: Bolivar
-surface_temp: TBD
+surface_temp: 27
 temperature: Temperate
 traits:
-- TBD1
+ - Ecological Consortium - Ecological Consortium - Hive Structures
 type: Rock
 water: Biological
