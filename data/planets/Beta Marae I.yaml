@@ -1,34 +1,227 @@
 atmosphere: HIGH O2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD10: {}
-  TBD11: {}
-  TBD12: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
+  Swarming Brightcage:
+    temperament: Wary
+    resource: Biosuppressant
+    non_lethal_harvest: true
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+    health: 170
+    abilities:
+      - Ranged mouth attack
+  
+  Herding Rockhound Scavenger:
+    temperament: Defensive
+    resource: Metabolic Agent
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+    health: 220
+    outpost_production_allowed: true
+  
+  Herding Beetlecrab Grazer:
+    temperament: Peaceful
+    resource: Lubricant
+    non_lethal_harvest: true
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+    health: 320
+    outpost_production_allowed: true
+  
+  Herding Mothwing Scavenger:
+    temperament: Peaceful
+    resource: Membrane
+    biomes:
+      - Wetlands
+      - Deciduous Forest
+      - Coniferous Forest
+      - Rocky Desert
+      - Mountains
+      - Plateau
+      - Tropical Forest
+    health: 50
+  
+  Swarming Eggback:
+    temperament: Fearless
+    resource: Amino Acids
+    non_lethal_harvest: true
+    biomes:
+      - Wetlands
+      - Tropical Forest
+    health: 135
+  
+  Flocking Leafstrider Filterer:
+    temperament: Defensive
+    resource: Nutrient
+    biomes:
+      - Wetlands
+      - Tropical Forest
+    health: 195
+    outpost_production_allowed: true
+  
+  Herding Vectorback Herbivore:
+    temperament: Wary
+    resource: Aromatic
+    non_lethal_harvest: true
+    biomes:
+      - Wetlands
+      - Tropical Forest
+    health: 1100
+    outpost_production_allowed: true
+    abilities:
+      - Laceration damage
+  
+  Herding Roundshell Scavenger:
+    temperament: Peaceful
+    resource: Sedative
+    non_lethal_harvest: true
+    biomes:
+      - Wetlands
+      - Tropical Forest
+    health: 295
+    outpost_production_allowed: true
+    resistances:
+      - Blast damage
+      - Physical damage
+  
+  Hunting Boneshell:
+    temperament: Wary
+    resource: Hallucinogen
+    non_lethal_harvest: true
+    biomes:
+      - Wetlands
+      - Tropical Forest
+    health: 960
+    abilities:
+      - Ranged mouth attack
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Coralheart Scavenger:
+    temperament: Wary
+    resource: Cosmetic
+    biomes:
+      - Wetlands
+      - Tropical Forest
+    health: 20
+  
+  Grabber Grazer:
+    temperament: Peaceful
+    resource: Pigment
+    non_lethal_harvest: true
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+    health: 20
+  
   TBD9: {}
-fauna_rating: TBD
+fauna_rating: Abundant
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-flora_rating: TBD
+  Aurora Palm:
+    resource: Structural
+    biomes:
+      - Coniferous Forest
+      - Rocky Desert
+      - Mountains
+      - Plateau
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+
+  Titan Coleus:
+    resource: Fiber
+    biomes:
+      - Rocky Desert
+      - Mountains
+      - Plateau
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Complex
+  
+  Burnt Pokeleaf:
+    resource: Cosmetic
+    biomes:
+      - Rocky Desert
+      - Mountains
+      - Plateau
+    genetics:
+      - Chiral Opposite
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Bog Bloom:
+    resource: Toxin 
+    biomes:
+      - Wetlands
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Complext
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Firecracker Vine:
+    resource: Metabolic Agent
+    biomes:
+      - Wetlands
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Autumn Junglebloom:
+    resource: Sealant
+    biomes:
+      - Wetlands
+      - Deciduous Forest
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+  
+  Starburst Silkweed:
+    resource: Nutrient
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Spitting Pokeweed:
+    resource: Fiber
+    biomes:
+      - Deciduous Forest
+      - Coniferous Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Complex
+  
+flora_rating: Abundant
 gravity: 1.21 G
 magnetosphere: Very Strong
 name: Beta Marae I
-o2_percent: TBD
+o2_percent: 24
 resources:
 - Argon
 - Chlorine
@@ -37,9 +230,9 @@ resources:
 - Uranium
 - Water
 system: Beta Marae
-surface_temp: TBD
+surface_temp: 33
 temperature: Temperate
 traits:
-- TBD1
+- Psychotropic Biota - Fungal Growths - Fungal Grotto
 type: Rock
 water: Chemical

@@ -1,14 +1,15 @@
 atmosphere: STD M
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.51 G
 magnetosphere: None
 name: Beta Marae IV-b
-o2_percent: TBD
+o2_percent: 0
 planet: Beta Marae IV
 resources:
 - Cobalt
@@ -17,9 +18,9 @@ resources:
 - Uranium
 - Vanadium
 - Water
-surface_temp: TBD
+surface_temp: -12
 temperature: Cold
 traits:
-- TBD1
+ - Aeriform Life - Aeriform Life - Fermentation Vents
 type: Rock
 water: Safe
