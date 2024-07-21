@@ -1,26 +1,58 @@
 atmosphere: STD O2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-fauna_rating: TBD
+  Flocking Clawback Filterer:
+    temperament: Wary
+    resource: Nutrient
+    non_lethal_harvest: true
+    biomes:
+      - Frozen Crevasses
+    health: 140
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Immature Grylloba:
+    temperament: Unknown
+    resource: Adhesive
+    biomes:
+      - Frozen Crevasses
+    health: 100
+    outpost_production_allowed: false
+  
+  Young Grylloba:
+    temperament: Unknown
+    resource: Adhesive
+    biomes:
+      - Frozen Crevasses
+    health: 135
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-flora_rating: TBD
+  Stinging Ice Stalk:
+    resource: Toxin
+    biomes:
+      - Frozen Crevasses
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Cuttings
+  
+flora_rating: Primordial
 gravity: 1.04 G
 magnetosphere: Powerful
 name: Suvorov
-o2_percent: TBD
+o2_percent: 18
 resources:
 - Copper
 - Fluorine
 - Water
 system: Kryx
-surface_temp: TBD
+surface_temp: -53
 temperature: Frozen
 traits:
-- TBD1
+- Frozen Ecosystem - Frozen Crevasse - Uplifted Fossils
 type: Rock
 water: Chemical
