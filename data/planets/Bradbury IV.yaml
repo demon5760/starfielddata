@@ -1,31 +1,93 @@
 atmosphere: STD 02
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-fauna_rating: TBD
+  Herding Stonewalker Geophage:
+    temperament: Territorial
+    resource: Sealant
+    non_lethal_harvest: true
+    biomes:
+      - Volcanic
+    health: 145
+  
+  Swarming Boneback:
+    temperament: Territorial
+    resource: Hallucinogen
+    non_lethal_harvest: true
+    biomes:
+      - Volcanic
+    health: 70
+    abilities:
+      - Fast attacks
+      - Increased armor penetration
+  
+  Herding Rockhound Geophage:
+    temperament: Wary
+    resource: Antimicrobial
+    biomes:
+      - Volcanic
+    health: 70
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Coralheart Filterer:
+    temperament: Wary
+    resource: Ornamental
+    biomes:
+      - Volcanic
+      - Frozen Plains
+    health: 20
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-flora_rating: TBD
+  Crater Weed:
+    resource: Toxin
+    biomes:
+      - Volcanic
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Leaning Fireleaf:
+    resource: Hallucinogen
+    biomes:
+      - Volcanic
+    genetics:
+      - Chiral Opposite
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Sub-zero Silkweed:
+    resource: Nutrient
+    biomes:
+      - Volcanic
+      - Frozen Plains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Complex
+  
+flora_rating: Marginal
 gravity: 1.04 G
 magnetosphere: Average
 name: Bradbury IV
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Argon
 - Benzene
 - Uranium
 - Water
 system: Bradbury
-surface_temp: TBD
+surface_temp: -12
 temperature: Cold
 traits:
-- TBD1
+- Coralline Landmass
 - TBD2
 type: Rock
 water: Chemical
