@@ -1,25 +1,26 @@
 atmosphere: STD CO2
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.70 G
 magnetosphere: Powerful
 name: Copernicus I
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Lead
 - Nickel
 - Tungsten
 - Water
 system: Copernicus
-surface_temp: TBD
+surface_temp: 218
 temperature: Scorched
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Energetic Rifting
+- Prismatic Plumes
+- Active Faulting - Colossal Shards - Tectonic Faulting
 type: Rock
 water: None

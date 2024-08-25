@@ -3,22 +3,113 @@ credits:
   - Starfield Sheet 1
   - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-fauna_rating: TBD
+  Gossamer Filterer:
+    temperament: Peaceful
+    resource: Fiber
+    biomes:
+      - Frozen Volcanic
+      - Swamp
+      - Savanna
+    health: 20
+
+  Trilobite Geophage:
+    temperament: Peaceful
+    resource: Fiber
+    non_lethal_harvest: true
+    biomes:
+      - Hills
+      - Frozen Volcanic
+      - Swamp
+    health: 20
+  
+  Cockroach Geophage:
+    temperament: Wary
+    resource: Membrane
+    biomes:
+      - Hills
+      - Swamp
+      - Savanna
+    health: 95
+  
+  Hunting Sunflower:
+    temperament: Wary
+    resource: Membrane
+    biomes:
+      - Hills
+      - Swamp
+      - Savanna
+    health: 1035
+    abilities:
+      - Ranged mouth attack
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Bellona Bush:
+    resource: Membrane
+    biomes:
+      - Swamp
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Savage Woundwort:
+    resource: Sealant
+    biomes:
+      - Swamp
+      - Savanna
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Tundra Vine:
+    resource: Membrane
+    biomes:
+      - Hills
+      - Savanna
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Flowering
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Broken Heart Vine:
+    resource: Nutrient
+    biomes:
+      - Hills
+      - Savanna
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+  Augustus Creeper:
+    resource: Structural
+    biomes:
+      - Hills
+      - Savanna
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Cuttings
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Marginal
 gravity: 0.42 G
 magnetosphere: Weak
 name: Copernicus IV
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Aluminum
 - Argon
@@ -26,9 +117,9 @@ resources:
 - Nickel
 - Water
 system: Copernicus
-surface_temp: TBD
+surface_temp: -16
 temperature: Cold
 traits:
-- TBD1
+- Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
 type: Rock
 water: Biological

@@ -1,26 +1,143 @@
 atmosphere: THIN OC (TOX)
 credits:
 - Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-fauna_rating: TBD
+  Hunting Cricket Stalker:
+    temperament: Wary
+    resource: Solvent
+    biomes:
+      - Mountains
+      - Frozen Plains
+      - Hills
+    health: 825
+  
+  Shroombobber Filterer:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Mountains
+      - Frozen Plains
+      - Hills
+    health: 20
+  
+  Triworm Scavenger:
+    temperament: Peaceful
+    resource: Amino Acids
+    non_lethal_harvest: true
+    biomes:
+      - Mountains
+      - Frozen Plains
+      - Hills
+    health: 195
+    outpost_production_allowed: true
+  
+  Herding Windbag Grazer:
+    temperament: Defensive
+    resource: Metabolic Agent
+    biomes:
+      - Swamp
+      - Wetlands
+    health: 245
+  
+  Grabber Scavenger:
+    temperament: Wary
+    resource: Cosmetic
+    biomes:
+      - Swamp
+      - Wetlands
+    health: 20
+ 
+  Hunting Angler:
+    temperament: Defensive
+    resource: Analgesic
+    biomes:
+      - Swamp
+      - Wetlands
+    health: 240
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Herding Lionfish Grazer:
+    temperament: Peaceful
+    resource: Sealant
+    biomes:
+      - Ocean
+      - Swamp
+    health: 245
+  
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Cliffberry:
+    resource: Structural
+    biomes:
+      - Mountains
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Enduring Bugleweed:
+    resource: Pigment
+    biomes:
+      - Mountains
+      - Hills
+    genetics:
+      - Standard Helix
+      - Arsenic-based
+    reproduction: Flowering
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Passenger Vine:
+    resource: Sealant
+    biomes:
+      - Mountains
+      - Swamp
+      - Wetlands
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-fertilization
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Sweeping Silkweed:
+    resource: Toxin
+    biomes:
+      - Swamp
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-fertilization
+  
+  Warren Nettle:
+    resource: Nutrient
+    biomes:
+      - Mountains
+      - Swamp
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Flowering
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Marginal
 gravity: 0.53 G
 magnetosphere: Average
 name: Copernicus II
-o2_percent: TBD
+o2_percent: 18
 resources:
 - Benzene
 - Copper
@@ -31,10 +148,10 @@ resources:
 - Titanium
 - Water
 system: Copernicus
-surface_temp: TBD
+surface_temp: 28
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+- Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
+- Amphibious Foothold - Amphibious Thicket - Remains Of Amphibious Lifeforms
 type: Rock
 water: Safe

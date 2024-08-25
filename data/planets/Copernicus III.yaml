@@ -61,8 +61,30 @@ flora:
     required_inputs:
       - Water
   
-  TBD3: {}
-  TBD4: {}
+  Cliffberry:
+    resource: Amino Acids
+    biomes:
+      - Mountains
+    genetics:
+      - Standard Helix
+      - HF-based
+    reproduction: Complex
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Spiny Ghost Cactus:
+    resource: Antimicrobial
+    biomes:
+      - Volcanic
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Flowring
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
 flora_rating: TBD
 gravity: 0.62 G
 magnetosphere: Very Strong
@@ -77,8 +99,8 @@ system: Copernicus
 surface_temp: 28
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
+- Global Glacial Recession - Melted Glacier - Glacial Remnant
+- Amphibious Foothold - Amphibious Thicket - Remains Of Amphibious Lifeforms
 type: Rock
 water: Safe
