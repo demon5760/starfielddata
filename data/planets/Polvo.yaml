@@ -3,21 +3,142 @@ credits:
   - Starfield Sheet 1
   - Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
+  Grabber Filterer:
+    temperament: Skittish
+    resource: Metabolic Agent
+    non_lethal_harvest: true
+    biomes:
+      - Frozen Hills
+      - Rocky Desert
+      - Hills
+    health: 20
+  
+  Herding Bighorn Geophage:
+    temperament: Wary
+    resource: Antimicrobial
+    biomes:
+      - Rocky Desert
+      - Hills
+    health: 50
+    outpost_production_allowed: true
+  
+  Flocking Ankylosaurus Geophage:
+    temperament: Defensive
+    resource: Structural
+    biomes:
+      - Rocky Desert
+      - Hills
+    health: 70
+    outpost_production_allowed: true
+    resistances:
+      - Energy damage
+      - Physical damage
+      - Reflects melee damage
+  
+  Herding Trihorn Grazer:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Hills
+    health: 95
+    outpost_production_allowed: true
+  
+  Hunting Bonemane:
+    temperament: Defensive
+    resource: Amino Acids
+    biomes:
+      - Hills
+    health: 70
+  
+  Pack Vulture Stalker:
+    temperament: Defensive
+    resource: Spice
+    biomes:
+      - Rocky Desert
+      - Hills
+    health: 100
+    outpost_production_allowed: true
+    abilities:
+      - Ranged mouth attack
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Pack Kronosaurus:
+    temperament: Defensive
+    resource: Ornamental
+    biomes:
+      - Ocean
+    health: 100
+  
+  Schooling Bladehead Grazer:
+    temperament: Wary
+    resource: Membrane
+    biomes:
+      - Ocean
+    health: 50
+  
 fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
+  Barrenbulb:
+    resource: Fiber
+    biomes:
+      - Rocky Desert
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Canis Palm:
+    resource: Aminco Acids
+    biomes:
+      - Rocky Desert
+    genetics:
+      - XNS
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Aruna Goldenflow:
+    resource: Toxin
+    biomes:
+      - Rocky Desert
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Bleeding Heart Vine:
+    resource: Solvent
+    biomes:
+      - Rocky Desert
+      - Hills
+    genetics:
+      - XNA
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Bowing Shadeleaf:
+    resource: Sealant
+    biomes:
+      - Rocky Desert
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    reproduction2: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
 flora_rating: Moderate
 gravity: 0.81 G
 magnetosphere: Average
@@ -36,7 +157,7 @@ surface_temp: 28
 temperature: Temperate
 traits:
   - Sentient Microbial Colonies
-  - TBD2
-  - TBD3
+  - Ecological Consortium - Ecological Consortium - Hive Structures
+  - Psychotropic Biota - Unusual Growths - Fungal Grotto
 type: Rock
 water: Radioactive
