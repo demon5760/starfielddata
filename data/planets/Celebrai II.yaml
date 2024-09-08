@@ -1,29 +1,181 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-  TBD9: {}
-fauna_rating: TBD
+  Flocking Roundshell Grazer:
+    temperament: Wary
+    resource: Sedative
+    biomes:
+      - Mountains
+      - Savanna
+      - Frozen Plains
+      - Hills
+    health: 50
+    abilities:
+      - Heals Rapidly
+  
+  Glowback Grazer:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Mountains
+      - Savanna
+      - Frozen Plains
+      - Hills
+    health: 20
+    outpost_production_allowed: true
+  
+  Longhron Grazer:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Mountains
+      - Savanna
+      - Frozen Plains
+      - Hills
+    health: 50
+  
+  Pack Lionbear:
+    temperament: Defensive
+    resource: Hallucinogen
+    biomes:
+      - Mountains
+      - Savanna
+      - Frozen Plains
+      - Hills
+    health: 835
+    abilities:
+      - Ranged attack that slows target
+
+  Horsamander Grazer:
+    temperament: Wary
+    resource: Lubricant
+    biomes:
+      - Savanna
+      - Frozen Plains
+    health: 295
+  
+  Trident Filterer:
+    temperament: Wary
+    resource: Spice
+    biomes:
+      - Savanna
+      - Frozen Plains
+    health: 20
+  
+  Hunting Leafback:
+    temperament: Fearless
+    resource: Amino Acids
+    biomes:
+      - Savanna
+      - Frozen Plains
+    health: 835
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Spikeworm Herbivore:
+    temperament: Peaceful
+    resource: Ornamental
+    biomes:
+      - Savanna
+      - Frozen Plains
+    health: 20
+    outpost_production_allowed: true
+  
+  Thorn Grazer:
+    temperament: Peaceful
+    resource: Analgesic
+    biomes:
+      - Mountains
+      - Savanna
+      - Frozen Plains
+      - Hills
+    health: 20
+    outpost_production_allowed: true
+  
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-flora_rating: TBD
+  Sage Shrub:
+    resource: Pigment
+    biomes:
+      - Savanna
+      - Hills
+    genetics:
+      - XNA
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Bowing Shadeleaf:
+    resource: Toxin
+    biomes:
+      - Mountains
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Warren Nettle:
+    resource: Metabolic Agent
+    biomes:
+      - Mountains
+      - Savanna
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Augustus Creeper:
+    resource: Structural
+    biomes:
+      - Mountains
+      - Savanna
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Bleeding Heart Vine:
+    resource: Sealant
+    biomes:
+      - Mountains
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-fertilization
+  
+  Mountain Silkweed:
+    resource: Fiber
+    biomes:
+      - Mountains
+      - Frozen Plains
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-fertilization
+  
+flora_rating: Moderate
 gravity: 0.86 G
 magnetosphere: Average
 name: Celebrai II
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Alkanes
 - Chlorine
@@ -33,9 +185,9 @@ resources:
 - Iron
 - Water
 system: Celebrai
-surface_temp: TBD
+surface_temp: 17
 temperature: Temperate
 traits:
-- TBD1
+- Aeriform Life
 type: Rock
 water: Heavy Metal
