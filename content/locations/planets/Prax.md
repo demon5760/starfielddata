@@ -1,5 +1,5 @@
 
 +++
-title = "PraX"
+title = "Prax"
 type = 'planet'
 +++
