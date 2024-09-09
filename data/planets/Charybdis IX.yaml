@@ -6,7 +6,7 @@ fauna_rating: None
 flora: {}
 flora_rating: None
 gravity: 0.18 G
-magnetosphere: TBD
+magnetosphere: None
 name: Charybdis IX
 o2_percent: 0
 resources:
