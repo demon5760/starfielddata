@@ -1,20 +1,20 @@
 atmosphere: HIGH O2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 1.54 G
 magnetosphere: Powerful
 name: Charybdis I
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Iron
 - Lead
 - Uranium
 system: Charybdis
-surface_temp: TBD
+surface_temp: 148
 temperature: Scorched
 traits: []
 type: Rock

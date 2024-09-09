@@ -1,14 +1,14 @@
 atmosphere: STD CO2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.47 G
 magnetosphere: Weak
 name: Charybdis V
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Antimony
 - Chlorine
@@ -19,7 +19,7 @@ resources:
 - Tungsten
 - Water
 system: Charybdis
-surface_temp: TBD
+surface_temp: -56
 temperature: Frozen
 traits: []
 type: Rock

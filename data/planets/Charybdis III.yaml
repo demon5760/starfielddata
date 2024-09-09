@@ -1,7 +1,6 @@
 atmosphere: STD O2
 credits:
-  - Starfield Sheet 1
-  - Demon5760
+    - Demon5760
 fauna:
   Spaceroach Grazer:
     temperament: Peaceful
@@ -18,13 +17,54 @@ fauna:
     health: 270
     abilities: []
   
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-fauna_rating: TBD
+  Grub Grazer:
+    temperament: Wary
+    resource: Cosmetic
+    biomes:
+      - Frozen Dunes
+      - Wetlands
+    health: 270
+  
+  Swarming Glider:
+    temperament: Aggressive
+    resource: Solvent
+    biomes:
+      - Frozen Dunes
+      - Wetlands
+    health: 100
+
+  Pack Cephalopod:
+    temperament: Territorial
+    resource: Hallucinogen
+    biomes:
+      - Wetlands
+    health: 170
+    abilities:
+      - Increased armor penetration
+  
+  Ghost Grazer:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Frozen Dunes
+      - Wetlands
+    health: 20
+  
+  Herding Dragonfly Grazer:
+    temperament: Wary
+    resource: Membrane
+    biomes:
+      - Ocean
+    health: 540
+  
+  Hunting Skullface:
+    temperament: Aggressvie
+    resource: Ornamental
+    biomes:
+      - Ocean
+    health: 1040
+  
+fauna_rating: Moderate
 flora:
   Spitting Goatweed:
     resource: Fiber
@@ -47,8 +87,17 @@ flora:
       - Carbon-based
     reproduction: Self-fertilization
   
-  TBD3: {}
-flora_rating: TBD
+  Sub-Zero Silkweed:
+    resource: Sealant
+    biomes:
+      - Frozen Dunes
+      - Wetlands
+    genetics:
+      - Double Helix
+      - Carbon-based
+    reproduction: Complex
+  
+flora_rating: Marginal
 gravity: 1.16 G
 magnetosphere: Powerful
 name: Charybdis III
@@ -63,8 +112,8 @@ system: Charybdis
 surface_temp: 10
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Primoridal Network - Exposed Root System - Ancient Ortet Nodule
+- Amphibious Foothold - Amphibious Thicket - Remains Of Amphibious Lifeforms
+- Coralline Landmass - Coral Pond - Coralline Mineral Pool
 type: Rock
 water: Biological

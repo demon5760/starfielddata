@@ -1,6 +1,6 @@
 atmosphere: THIN M
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
 fauna_rating: TBD
 flora: {}
@@ -8,7 +8,7 @@ flora_rating: TBD
 gravity: 0.49 G
 magnetosphere: None
 name: Charybdis VII-d
-o2_percent: TBD
+o2_percent: 0
 planet: Charybdis VII
 resources:
 - Chlorine
@@ -19,7 +19,7 @@ resources:
 - Platinum
 - Tantalum
 - Water
-surface_temp: TBD
+surface_temp: -12
 temperature: Cold
 traits: []
 type: Rock

@@ -1,16 +1,38 @@
 atmosphere: HIGH CO2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: 
-  TBD1: {}
-  TBD2: {}
+  Eurymedon Bulb:
+    resource: Structural
+    biomes:
+      - Plateau
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-fertilization
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Prickly Awaj:
+    resource: Nutrient
+    biomes:
+      - Rocky Desert
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
 flora_rating: Primordial
 gravity: 0.83 G
 magnetosphere: Average
 name: Charybdis IV
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Cobalt
 - Copper
@@ -20,9 +42,11 @@ resources:
 - Uranium
 - Water
 system: Charybdis
-surface_temp: TBD
+surface_temp: -18
 temperature: Cold
 traits:
-- TBD1
+- Primordial Network
+- Psychotropic Biota - Lush Grove - Fungal Grotto
+- Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
 type: Rock
 water: None
