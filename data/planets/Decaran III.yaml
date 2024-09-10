@@ -1,14 +1,14 @@
-atmosphere: TBD
+atmosphere: None
 credits:
 - Starfield Sheet 1
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 1.02 G
 magnetosphere: Average
 name: Decaran III
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Cobalt
 - Copper
@@ -19,9 +19,9 @@ resources:
 - Uranium
 - Water
 system: Decaran
-surface_temp: TBD
+surface_temp: -202
 temperature: Deep Freeze
 traits:
-- TBD1
+- Emerging Tectonics
 type: Rock
 water: None

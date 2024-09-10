@@ -1,23 +1,97 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-fauna_rating: TBD
+  Herding Crabfly Grazer:
+    temperament: Wary
+    resource: Membrane
+    non_lethal_harvest: true
+    biomes:
+      - Frozen Plains
+    health: 50
+  
+  Carasnail Grazer:
+    temperament: Peaceful
+    resource: Antimicrobial
+    non_lethal_harvest: true
+    biomes:
+      - Mountains
+      - Frozen Plains
+    health: 20
+  
+  Hunting Cockroach:
+    temperament: Fearless
+    resource: Lubricant
+    biomes:
+      - Frozen Plains
+    health: 2505
+  
+  Flocking Caterpillar Scavenger:
+    temperament: Defensive
+    resource: Toxin
+    biomes:
+      - Frozen Plains
+    health: 540
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Mountain Silkweed:
+    resource: Nutrient
+    biomes:
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+  Cliff Laurel:
+    resource: Sealant
+    biomes:
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Sillicon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Ice Creeper:
+    resource: Amino Acids
+    biomes:
+      - Mountains
+      - Frozen Plains
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Boreas Root:
+    resource: Fiber
+    biomes:
+      - Frozen Plains
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+
+  Iceblood Vine:
+    resource: Metabolic Agent
+    biomes:
+      - Frozen Plains
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+flora_rating: Moderate
 gravity: 1.09 G
 magnetosphere: Weak
 name: Decaran I
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Argon
 - Benzene
@@ -26,10 +100,10 @@ resources:
 - Iron
 - Water
 system: Decaran
-surface_temp: TBD
+surface_temp: -16
 temperature: Cold
 traits:
-- TBD1
-- TBD2
+- Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
+- Ecological Consortium - Ecological Consortium - Hive Structures
 type: Rock
 water: Safe
