@@ -1,6 +1,5 @@
 atmosphere: STD O2
 credits:
-  - Starfield Sheet 1
   - Demon5760
 fauna:
   Coralheart Geophage:
@@ -36,7 +35,7 @@ fauna:
     health: 760
     abilities: []
   
-fauna_rating: TBD
+fauna_rating: Marginal
 flora:
   Aurora Palm:
     resource: Nutrient
@@ -85,7 +84,7 @@ flora:
     required_inputs:
       - Water
   
-flora_rating: TBD
+flora_rating: Marginal
 gravity: 0.62 G
 magnetosphere: Very Strong
 name: Copernicus III
