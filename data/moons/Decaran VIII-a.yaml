@@ -8,12 +8,12 @@ flora_rating: None
 gravity: 0.43 G
 magnetosphere: None
 name: Decaran VIII-a
-o2_percent: TBD
+o2_percent: 0
 planet: Decaran VIII
 resources:
 - Helium-3
 - Iron
-surface_temp: TBD
+surface_temp: -238
 temperature: Deep Freeze
 traits: []
 type: Barren
