@@ -2,16 +2,16 @@ atmosphere: None
 credits:
 - Starfield Sheet 1
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.01 G
 magnetosphere: None
 name: Deimos
-o2_percent: TBD
+o2_percent: N/A
 planet: Mars
 resources: []
-surface_temp: TBD
+surface_temp: N.A
 temperature: Cold
 traits: []
 type: Asteroid

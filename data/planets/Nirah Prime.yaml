@@ -1,17 +1,17 @@
 atmosphere: H2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 2.71 G
 magnetosphere: Strong
 name: Nirah Prime
-o2_percent: TBD
+o2_percent: N/A
 resources: []
 system: Nirah
-surface_temp: TBD
+surface_temp: N/A
 temperature: Deep Freeze
 traits: []
 type: Gas Giant

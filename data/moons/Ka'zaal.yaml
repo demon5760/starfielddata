@@ -1,21 +1,125 @@
 atmosphere: HIGH M
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-fauna_rating: TBD
+  Herding Boneglider Filterer:
+    temperament: Peaceful
+    resource: Membrane
+    biomes:
+      - Hills
+      - Frozen Mountains
+      - Wetlands
+    health: 520
+  
+  Flocking Scepter Geophage:
+    temperament: Skittish
+    resource: Pigment
+    non_lethal_harvest: true
+    biomes:
+      - Hills
+    health: 495
+    outpost_production_allowed: true
+    resistances:
+      - EM damage
+  
+  Hunting Arachnomantis Stalker:
+    temperament: Territorial
+    resource: Sealant
+    biomes:
+      - Hills
+    health: 2505
+    abilities:
+      - Acidic blood (reflects melee damage, armor piercing attacks)
+      - Venomous
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Flamethorn Geophage:
+    temperament: Peaceful
+    resource: Toxin
+    non_lethal_harvest: true
+    biomes:
+      - Hills
+    health: 20
+    abilities:
+      - Acidic blood (reflects melee damage, armor piercing attacks)
+  
+  Herding Lockjaw Herbivore:
+    temperament: Defensive
+    resource: Aromatic
+    non_lethal_harvest: true
+    biomes:
+      - Wetlands
+    health: 520
+    outpost_production_allowed: true
+  
+  Hunting Silverfish:
+    temperament: Fearless
+    resource: Solvent
+    biomes:
+      - Wetlands
+    health: 600
+  
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Rotting Stinkroot:
+    resource: Metabolic Agent
+    biomes:
+      - Hills
+      - Wetlands
+    genetics:
+      - Double Helix
+      - Methane-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Swamp Weed:
+    resource: Fiber
+    biomes:
+      - Hills
+      - Wetlands
+    genetics:
+      - Double Helix
+      - Methane-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Gnaw Stalk:
+    resource: Structural
+    biomes:
+      - Hills
+      - Wetlands
+    genetics:
+      - Double Helix
+      - Methane-based
+    reproduction: Self-fertilization
+  
+  Aruna Goldenglow:
+    resource: Toxin
+    biomes:
+      - Hills
+      - Wetlands
+    genetics:
+      - Double Helix
+      - Methane-based
+    reproduction: Self-cloning
+  
+  Red Latticebulb:
+    resource: Nutrient
+    biomes:
+      - Hills
+      - Wetlands
+    genetics:
+      - Double Helix
+      - Methane-based
+    reproduction: Self-cloning
+  
+flora_rating: Moderate
 gravity: 1.44 G
 magnetosphere: Powerful
 name: Ka'zaal
@@ -28,8 +132,8 @@ resources:
 surface_temp: TBD
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Primordial Network - Exposed Root System - Ancient Ortet Nodule
+- Psychotropic Biota - Lush Grove - Fungal Grotto
+- Energetic Rifting - Thermal Crater - Fumarole Field
 type: Rock
 water: Biological
