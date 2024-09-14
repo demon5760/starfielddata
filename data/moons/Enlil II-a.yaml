@@ -1,17 +1,17 @@
 atmosphere: None
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.06 G
 magnetosphere: None
 name: Enlil II-a
-o2_percent: TBD
+o2_percent: N/A
 planet: Enlil II
 resources: []
-surface_temp: TBD
+surface_temp: N/A
 temperature: Temperate
 traits: []
 type: Asteroid

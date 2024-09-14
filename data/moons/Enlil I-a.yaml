@@ -1,17 +1,45 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: 
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
+  Snail Geophage:
+    temperament: Peaceful
+    resource: Toxin
+    non_lethal_harvest: true
+    biomes:
+      - Volcanic
+      - Mountains
+      - Hills
+    health: 20
+  
+  Anteater Geophage:
+    temperament: Wary
+    resource: Structural
+    biomes:
+      - Volcanic
+      - Mountains
+      - Hills
+    health: 545
+  
+  Hunting Brainsprout:
+    temperament: Territorial
+    resource: Sedative
+    biomes:
+      - Volcanic
+      - Mountains
+      - Hills
+    health: 765
+    outpost_production_allowed: false
+    abilities:
+      - Ranged mouth attack
+  
 fauna_rating: Primordial
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.64 G
 magnetosphere: Average
 name: Enlil I-a
-o2_percent: TBD
+o2_percent: 18
 planet: Enlil I
 resources:
 - Cobalt
@@ -19,9 +47,9 @@ resources:
 - Lead
 - Nickel
 - Uranium
-surface_temp: TBD
+surface_temp: 251
 temperature: Inferno
 traits:
-- TBD1
+- Prismatic Plumes - Crystalline Minerals - Crystalline Pools
 type: Rock
 water: None

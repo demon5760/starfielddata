@@ -1,25 +1,117 @@
 atmosphere: STD M
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-fauna_rating: TBD
+  Fleshleaf Filterer:
+    temperament: Wary
+    resource: Cosmetic
+    biomes:
+      - Frozen Plains
+      - Tropical Forest
+      - Mountains
+      - Savanna
+    health: 20
+  
+  Pack Cagebrain:
+    temperament: Defensive
+    resource: Biosuppressant
+    biomes:
+      - Tropical Forest
+      - Mountains
+      - Savanna
+    health: 345
+  
+  Crabfly Herbivore:
+    temperament: Defensive
+    resource: Spice
+    biomes:
+      - Tropical Forest
+      - Mountains
+      - Savanna
+    health: 545
+  
+  Trilobite Filter:
+    temperament: Peaceful
+    resource: Toxin
+    biomes:
+      - Tropical Forest
+      - Mountains
+      - Savanna
+    health: 20
+  
+  Windbag Grazer:
+    temperament: Wary
+    resource: Hallucinogen
+    biomes:
+      - Savanna
+    health: 2180
+  
+  Hunting Spiderwasp Stalker:
+    temperament: Territorial
+    resource: Analgesic
+    biomes:
+      - Savanna
+    health: 2505
+  
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Satellite Ghostvine:
+    resource: Metabolic Agent
+    biomes:
+      - Mountains
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Self-fertilization
+  
+  Broken Heart Vine:
+    resource: Sedative
+    biomes:
+      - Tropical Forest
+      - Savanna
+    genetics:
+      - XNA
+      - Methane-based
+    reproduction: Self-cloning
+  
+  Tropical Maw Palm:
+    resource: Nutrient
+    biomes:
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Cuttings
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Nebula Vine:
+    resource: Fiber
+    biomes:
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Self-cloning
+  
+  Cage Brain:
+    resource: Structural
+    biomes:
+      - Tropical Forest
+      - Mountains
+      - Savanna
+    genetics:
+      - Standard Helix
+      - Methane-based
+    reproduction: Complex
+  
+flora_rating: Moderate
 gravity: 0.69 G
 magnetosphere: Very Strong
 name: Enlil II
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Alkanes
 - Aluminum
@@ -30,9 +122,9 @@ resources:
 - Tantalum
 - Water
 system: Enlil
-surface_temp: TBD
+surface_temp: 31
 temperature: Temperate
 traits:
-- TBD1
+- Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
 type: Rock
 water: Heavy Metal

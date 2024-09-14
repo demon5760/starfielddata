@@ -1,14 +1,14 @@
 atmosphere: EXTR CO2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 1.63 G
 magnetosphere: Very Strong
 name: Enlil I
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Cobalt
 - Lead
@@ -16,10 +16,10 @@ resources:
 - Platinum
 - Uranium
 system: Enlil
-surface_temp: TBD
+surface_temp: 219
 temperature: Scorched
 traits:
-- TBD1
-- TBD2
+- Primed For Life - Sulfur Pools - Warm Pond
+- Active Faulting - Colossal Shards - Tectonic Faulting
 type: Rock
 water: None
