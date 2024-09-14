@@ -1,24 +1,24 @@
 atmosphere: THIN N2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.76 G
 magnetosphere: Average
 name: Delta Vulpes II
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Cobalt
 - Iron
 - Nickel
 - Water
 system: Delta Vulpes
-surface_temp: TBD
+surface_temp: -89
 temperature: Frozen
 traits:
-- TBD1
-- TBD2
+- Continual Conductor
+- Energetic Rifting - Thermal Crater - Fumarole Field
 type: Rock
 water: Safe
