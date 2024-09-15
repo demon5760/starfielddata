@@ -1,14 +1,14 @@
 atmosphere: THIN M
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.57 G
 magnetosphere: Very Weak
 name: Fermi VI
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Alkanes
 - Chlorine
@@ -19,7 +19,7 @@ resources:
 - Tantalum
 - Water
 system: Fermi
-surface_temp: TBD
+surface_temp: -98
 temperature: Frozen
 traits: []
 type: Rock

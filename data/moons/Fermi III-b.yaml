@@ -1,20 +1,21 @@
 atmosphere: None
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.17 G
 magnetosphere: None
 name: Fermi III-b
-o2_percent: TBD
+o2_percent: 0
 planet: Fermi III
 resources:
 - Helium-3
 - Iron
-surface_temp: TBD
+surface_temp: 20
 temperature: Temperate
-traits: []
+traits:
+  - Boiled Seas - Deep Ocean Deposits - Eroded Reef Outcropping
 type: Barren
 water: None
