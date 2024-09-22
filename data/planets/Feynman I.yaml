@@ -40,7 +40,7 @@ fauna_rating: Primordial
 flora: {}
 flora_rating: None
 gravity: 0.64 G
-magnetosphere: TBD
+magnetosphere: None
 name: Feynman I
 o2_percent: 0
 resources:
