@@ -1,17 +1,48 @@
 atmosphere: STD M
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: 
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
+  Crag Sprinter:
+    temperament: Fearless
+    resource: Cosmetic
+    biomes:
+      - Volcanic
+      - Mountains
+      - Plateau
+      - Hills
+      - Sandy Desert
+    health: 310
+  
+  Stonewalker Gephage:
+    temperament: Wary
+    resource: Structural
+    biomes:
+      - Volcanic
+      - Mountains
+      - Plateau
+      - Hills
+      - Sandy Desert
+    health: 345
+  
+  Grub Filterer:
+    temperament: Peaceful
+    resource: Toxin
+    non_lethal_harvest: false
+    biomes:
+      - Volcanic
+      - Mountains
+      - Plateau
+      - Hills
+      - Sandy Desert
+    health: 20
+  
 fauna_rating: Primordial
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.64 G
 magnetosphere: TBD
 name: Feynman I
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Chlorine
 - Chlorosilanes
@@ -22,9 +53,10 @@ resources:
 - Tetrafluorides
 - Uranium
 system: Feynman
-surface_temp: TBD
+surface_temp: 598
 temperature: Inferno
 traits:
-- TBD1
+- Continual Conductor
+- Gravitational Anomaly
 type: Rock
 water: None

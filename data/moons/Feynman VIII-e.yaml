@@ -1,22 +1,22 @@
 atmosphere: None
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.03 G
 magnetosphere: None
 name: Feynman VIII-e
-o2_percent: TBD
+o2_percent: 0
 planet: Feynman VIII
 resources:
 - Copper
 - Tetrafluorides
 - Water
-surface_temp: TBD
+surface_temp: -201
 temperature: Deep Freeze
 traits:
-- TBD1
+ - Gaseous Font - Volcanic Vents - Outgassing Field
 type: Ice
 water: Chemical

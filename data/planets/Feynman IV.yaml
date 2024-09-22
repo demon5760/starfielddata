@@ -1,21 +1,100 @@
 atmosphere: THIN O2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-fauna_rating: TBD
+  Herding Brainsprout Grazer:
+    temperament: Defensive
+    resource: Sedative
+    biomes:
+      - Frozen Volcanic
+      - Craters
+      - Savanna
+      - Mountains
+    health: 295
+  
+  Centiskull Scavenger:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Frozen Volcanic
+      - Craters
+      - Savanna
+      - Mountains
+    health: 20
+  
+  Hunting Brainsquid:
+    temperament: Territorial
+    resource: Cosmetic
+    biomes:
+      - Frozen Volcanic
+      - Craters
+      - Savanna
+      - Mountains
+    health: 765
+ 
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-flora_rating: TBD
+  Tufted Snow Willow:
+    resource: Sealant
+    biomes:
+      - Frozen Volcanic
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: false
+    required_inputs:
+      - Water
+  
+  Spiral Bloom:
+    resource: Metabolic Agent
+    biomes:
+      - Frozen Volcanic
+      - Craters
+      - Savanna
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: false
+    required_inputs:
+      - Water
+  
+  Bitter Bramble:
+    resource: Toxin
+    biomes:
+      - Craters
+      - Savanna
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-fertilization
+    outpost_production_allowed: false
+    required_inputs:
+      - Water
+  
+  Blistered Hornbulb:
+    resource: Fiber
+    biomes:
+      - Craters
+      - Savanna
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Complex
+    outpost_production_allowed: false
+    required_inputs:
+      - Water
+  
+flora_rating: Marginal
 gravity: 0.57 G
 magnetosphere: Powerful
 name: Feynman IV
-o2_percent: TBD
+o2_percent: 18
 resources:
 - Aluminum
 - Argon
@@ -26,10 +105,10 @@ resources:
 - Iron
 - Water
 system: Feynman
-surface_temp: TBD
+surface_temp: 18
 temperature: Cold
 traits:
-- TBD1
-- TBD2
+- Psychotropic Biota
+- Sentient Microbial Colonies
 type: Rock
 water: Safe

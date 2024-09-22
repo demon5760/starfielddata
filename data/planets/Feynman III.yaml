@@ -1,26 +1,150 @@
 atmosphere: HIGH O2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-fauna_rating: TBD
+  Beetle Scavenger:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    non_lethal_harvest: false
+    biomes:
+      - Volcanic
+      - Sandy Desert
+      - Mountains
+    health: 20
+  
+  Beetlecrab Grazer:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Volcanic
+      - Sandy Desert
+      - Mountains
+    health: 545
+  
+  Hunting Coralbug:
+    temperament: Territorial
+    resource: Biosuppressant
+    biomes:
+      - Volcanic
+      - Sandy Desert
+      - Mountains
+    health: 765
+  
+  Spore Filterer:
+    temperament: Peaceful
+    resource: Toxin
+    non_lethal_harvest: true
+    biomes:
+      - Volcanic
+      - Sandy Desert
+      - Frozen Plains
+      - Deciduous Forest
+      - Tropical Forest
+      - Mountains
+    health: 20
+  
+  Flocking Clawback Herbivore:
+    temperament: Wary
+    resource: Aromatic
+    non_lethal_harvest: true
+    biomes:
+      - Deciduous Forest
+      - Tropical Forest
+    health: 195
+    abilities:
+      - Heals rapidly
+  
+  Pack Clickbeetle:
+    temperament: Wary
+    resource: Aromatic
+    biomes:
+      - Deciduous Forest
+      - Tropical Forest
+    health: 765
+    abilities:
+      - Venomous
+  
+  Spikeworm Filterer:
+    temperament: Wary
+    resource: Pigment
+    non_lethal_harvest: true
+    biomes:
+      - Deciduous Forest
+      - Tropical Forest
+    health: 20
+ 
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Tropical Maw Palm:
+    resource: Fiber
+    biomes:
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Cuttings
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Apollo Fireleaf:
+    resource: Structural
+    biomes:
+      - Deciduous Forest
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+  
+  Sweet Fumewort:
+    resource: Toxin
+    biomes:
+      - Volcanic
+      - Sandy Desert
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Star Bloom Root:
+    resource: Sealant
+    biomes:
+      - Volcanic
+      - Sandy Desert
+      - Deciduous Forest
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Spiral Creeper:
+    resource: Nutrient
+    biomes:
+      - Deciduous Forest
+      - Tropical Forest
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Flowering
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Moderate
 gravity: 1.63 G
 magnetosphere: Powerful
 name: Feynman III
-o2_percent: TBD
+o2_percent: 24
 resources:
 - Alkanes
 - Chlorine
@@ -31,11 +155,11 @@ resources:
 - Vanadium
 - Water
 system: Feynman
-surface_temp: TBD
+surface_temp: 22
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Diseased Biosphere
+- Global Glacial Recession - Melted Glacier - Glacial Remnant
+- Sentient Microbial Colonies - Sentient Microbial Colony - Microbial Community
 type: Rock
 water: Safe

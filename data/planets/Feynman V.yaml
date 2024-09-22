@@ -1,14 +1,14 @@
 atmosphere: STD CO2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.65 G
 magnetosphere: Powerful
 name: Feynman V
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Cobalt
 - Copper
@@ -19,11 +19,11 @@ resources:
 - Tungsten
 - Water
 system: Feynman
-surface_temp: TBD
+surface_temp: -44
 temperature: Cold
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Primed For Life
+- Prismatic Plumes - Crystalline Minerals - Crystalline Pools
+- Frozen Ecosystem - Frozen Crevasse - Uplifted Fossils
 type: Rock
 water: Chemical
