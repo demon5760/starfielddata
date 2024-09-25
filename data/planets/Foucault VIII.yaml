@@ -1,21 +1,21 @@
-atmosphere: TBD
+atmosphere: None
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.05 G
-magnetosphere: TBD
+magnetosphere: None
 name: Foucault VIII
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Argon
 - Water
 system: Foucault
-surface_temp: TBD
+surface_temp: -216
 temperature: Deep Freeze
 traits:
-- TBD1
+- Coralline Landmass
 type: Ice
 water: Safe

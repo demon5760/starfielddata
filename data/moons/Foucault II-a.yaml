@@ -1,20 +1,20 @@
 atmosphere: None
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.30 G
 magnetosphere: None
 name: Foucault II-a
-o2_percent: TBD
+o2_percent: 0
 planet: Foucault II
 resources:
 - Aluminum
 - Beryllium
 - Helium-3
-surface_temp: TBD
+surface_temp: 446
 temperature: Inferno
 traits: []
 type: Barren
