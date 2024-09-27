@@ -1,27 +1,151 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-fauna_rating: TBD
+  Immature Cataxi Hunter:
+    temperament: ""
+    resource: Sealant
+    biomes:
+      - Wetlands
+      - Deciduous Forest
+      - Tropical Forest
+      - Mountains
+    health: 100
+  
+  Adult Cataxi Hunter:
+    temperament: ""
+    resource: Sealant
+    biomes:
+      - Wetlands
+      - Deciduous Forest
+      - Tropical Forest
+      - Mountains
+    health: 310
+  
+  Herding Sunflower Filterer:
+    temperament: Wary
+    resource: Fiber
+    non_lethal_harvest: true
+    biomes:
+      - Deciduous Forest
+      - Mountains
+    health: 95
+ 
+  Metropus Scavenger:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    biomes:
+      - Frozen Mountains
+      - Wetlands
+      - Deciduous Forest
+      - Tropical Forest
+    health: 20
+  
+  Herding Dodo Scavenger:
+    temperament: Territorial
+    resource: Analgesic
+    biomes:
+      - Deciduous Forest
+      - Tropical Forest
+      - Mountains
+    health: 70
+  
+  Flocking Crab Herbivore:
+    temperament: Territorial
+    resource: Nutrient
+    biomes:
+      - Wetlands
+      - Tropical Forest
+    health: 220
+  
+  Morningstar Filterer:
+    temperament: Territorial
+    resource: Polymer
+    non_lethal_harvest: true
+    biomes:
+      - Ocean
+    health: 50
+ 
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-flora_rating: TBD
+  Fire Rose:
+    resource: Sedative
+    biomes:
+      - Wetlands
+      - Deciduous Forest
+      - Tropical Forest
+    genetics:
+      - XNA
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Mire Root:
+    resource: Toxin
+    biomes:
+      - Wetlands
+      - Tropical Forest
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-fertilization
+  
+  Spitting Pokeweed:
+    resource: Spice
+    biomes:
+      - Wetlands
+      - Deciduous Forest
+      - Tropical Forest
+      - Mountains
+    genetics:
+      - XNA
+      - Silicon-based
+    reproduction: Complex
+  
+  Blue Weeping Shrub:
+    resource: Membrane
+    biomes:
+      - Deciduous Forest
+      - Tropical Forest
+      - Mountains
+    genetics:
+      - XNA
+      - Silicon-based
+    reproduction: Self-fertilization
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Boreas Root:
+    resource: Ornamental
+    biomes:
+      - Frozen Mountains
+      - Mountains
+    genetics:
+      - XNA
+      - Silicon-based
+    reproduction: Self-fertilization
+  
+  Star Bloom Root:
+    resource: Sealant
+    biomes:
+      - Deciduous Forest
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Moderate
 gravity: 0.82 G
 magnetosphere: Very Weak
 name: Freya III
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Argon
 - Benzene
@@ -32,9 +156,9 @@ resources:
 - Silver
 - Water
 system: Freya
-surface_temp: TBD
+surface_temp: 36
 temperature: Temperate
 traits:
-- TBD1
+- Psychotropic Biota
 type: Rock
 water: Heavy Metal

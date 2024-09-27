@@ -1,23 +1,23 @@
 atmosphere: None
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.09 G
 magnetosphere: None
 name: Freya IX-a
-o2_percent: TBD
+o2_percent: 0
 planet: Freya IX
 resources:
 - Chlorine
 - Chlorosilanes
 - Water
 - Xenon
-surface_temp: TBD
+surface_temp: -222
 temperature: Deep Freeze
 traits:
-- TBD1
+- Slushy Subsurface Seas
 type: Ice
 water: Safe

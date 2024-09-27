@@ -1,14 +1,14 @@
 atmosphere: None
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.58 G
 magnetosphere: None
 name: Freya VII-a
-o2_percent: TBD
+o2_percent: 0
 planet: Freya VII
 resources:
 - Copper
@@ -19,9 +19,9 @@ resources:
 - Titanium
 - Tungsten
 - Water
-surface_temp: TBD
+surface_temp: -202
 temperature: Deep Freeze
 traits:
-- TBD1
+- Solar Storm Seasons - Storm Crater - Iron Meteorite Fragements
 type: Rock
 water: Radioactive

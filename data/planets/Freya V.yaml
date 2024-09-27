@@ -1,14 +1,14 @@
 atmosphere: THIN N2 (COR)
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.39 G
 magnetosphere: Weak
 name: Freya V
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Chlorine
 - Chlorosilanes
@@ -19,11 +19,11 @@ resources:
 - Nickel
 - Water
 system: Freya
-surface_temp: TBD
+surface_temp: -63
 temperature: Frozen
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Frozen Ecosystem - Frozen Crevasse - Uplifted Fossils
+- Pelted Fields - Meteor Shower Impact Site - Stony Meteorite
+- Solar Storm Seasons - Sludge Pools - Iron Meteorite
 type: Rock
 water: Chemical

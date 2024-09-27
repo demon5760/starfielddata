@@ -1,17 +1,41 @@
 atmosphere: None
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-fauna_rating: TBD
+  Herding Crabfly Geophage:
+    temperament: Defensive
+    resource: Adhesive
+    biomes:
+      - Mountains
+      - Rocky Desert
+      - Hills
+    health: 145
+  
+  Herding Geophage:
+    temperament: Peaceful
+    resource: Toxin
+    biomes:
+      - Mountains
+      - Rocky Desert
+      - Hills
+    health: 20
+  
+  Hunting Glowhands Stalker:
+    temperament: Wary
+    resource: Structural
+    biomes:
+      - Mountains
+      - Rocky Desert
+      - Hills
+    health: 345
+  
+fauna_rating: Primordial
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.56 G
 magnetosphere: Very Weak
 name: Freya IX-b
-o2_percent: TBD
+o2_percent: 0
 planet: Freya IX
 resources:
 - Cobalt
@@ -21,7 +45,7 @@ resources:
 - Platinum
 - Uranium
 - Water
-surface_temp: TBD
+surface_temp: -207
 temperature: Deep Freeze
 traits: []
 type: Rock
