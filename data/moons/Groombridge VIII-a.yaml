@@ -1,6 +1,5 @@
 atmosphere: THIN CO2
 credits:
-  - Starfield Sheet 1
   - Demon5760
 fauna:
   Flocking Shroomhead Grazer:
@@ -41,9 +40,41 @@ fauna:
     abilities:
       - Venomous
 
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
+  Herding Longneck Herbivore:
+    temperament: Wary
+    resource: Aromatic
+    non_lethal_harvest: true
+    biomes:
+      - Tropical Forest
+      - Savanna
+    health: 150
+    abilities:
+      - Staggering attacks
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Pack Tentabeard:
+    temperament: Fearless
+    resource: Pigment
+    biomes:
+      - Tropical Forest
+      - Savanna
+    health: 240
+    abilities:
+      - Laceration damage
+      - Increased armor penetration
+  
+  Beetle Grazer:
+    temperament: Skittish
+    resource: Metabolic Agent
+    non_lethal_harvest: true
+    biomes:
+      - Coniferous Forest
+      - Deciduous Forest
+      - Tropical Forest
+    health: 20
+  
 fauna_rating: Marginal
 flora:
   Blue Weeping Shrub:
@@ -137,10 +168,44 @@ flora:
       - Silicon-based
     reproduction: Spores
 
-
-  TBD7: {}
-  TBD8: {}
-  TBD9: {}
+  Sage Shrub:
+    resource: Fiber
+    biomes:
+      - Mountains
+      - Savanna
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Nova Bloom:
+    resource: Toxin
+    biomes:
+      - Mountains
+      - Savanna
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Tropical Maw Palm:
+    resource: Sealant
+    biomes:
+      - Tropical Forest
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
 flora_rating: Moderate
 gravity: 0.48 G
 magnetosphere: Weak
