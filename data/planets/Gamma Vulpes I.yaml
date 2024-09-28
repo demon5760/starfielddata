@@ -1,30 +1,159 @@
 atmosphere: HIGH O2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-fauna_rating: TBD
+  Herding Longhorn Herbivore:
+    temperament: Defensive
+    resource: Sealant
+    biomes:
+      - Sandy Desert
+    health: 540
+  
+  Tongueface Grazer:
+    temperament: Defensive
+    resource: Metabolic Agent
+    biomes:
+      - Sandy Desert
+    health: 545
+  
+  Pack Rockhound:
+    temperament: Defensive
+    resource: Polymer
+    non_lethal_harvest: true
+    biomes:
+      - Sandy Desert
+    health: 730
+    outpost_production_allowed: true
+  
+  Hunting Hammersaur:
+    temperament: Wary
+    resource: Spice
+    biomes:
+      - Sandy Desert
+    health: 2295
+    abilities:
+      - Ranged mouth attack
+  
+  Flamethorn Filterer:
+    temperament: Peaceful
+    resource: Toxin
+    biomes:
+      - Sandy Desert
+    health: 20
+  
+  Snuffler Grazer:
+    temperament: Wary
+    resource: Sealant
+    non_lethal_harvest: true
+    biomes:
+      - Frozen Plains
+      - Sandy Desert
+    health: 20
+  
+  Herding Lionfish Filterer:
+    temperament: Defensive
+    resource: Adhesive
+    biomes:
+      - Ocean
+    health: 145
+  
+  Roundshell Grazer:
+    temperament: Wary
+    resource: Hallucinogen
+    biomes:
+      - Sandy Desert
+    health: 545
+ 
+fauna_rating: Abundant
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-flora_rating: TBD
+  Iceblood Vine:
+    resource: Toxin
+    biomes:
+      - Frozen Plains
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+  Chillhook:
+    resource: Nutrient
+    biomes:
+      - Frozen Plains
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Dunetangle:
+    resource: Fiber
+    biomes:
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+  Sweet Fumewort:
+    resource: Metabolic Agent
+    biomes:
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Wonderer's Husk:
+    resource: Structural
+    biomes:
+      - Frozen Plains
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Hecate's Fireleaf:
+    resource: Toxin
+    biomes:
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+  Sandy Goldenflow:
+    resource: Nutrient
+    biomes:
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Spores
+    reproduction2: Self-cloning 
+  
+  Stinging Flutterleaf:
+    resource: Sealant
+    biomes:
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+flora_rating: Abundant
 gravity: 1.02 G
 magnetosphere: Weak
 name: Gamma Vulpes I
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Chlorine
 - Chlorosilanes
@@ -32,10 +161,10 @@ resources:
 - Lithium
 - Water
 system: Gamma Vulpes
-surface_temp: TBD
+surface_temp: 39
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+- Global Glacial Recession - Melted Glacier - Glacial Remnant
+- Ecological Consortium - Ecological Consortium - Hive Structures
 type: Rock
 water: Safe

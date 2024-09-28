@@ -1,27 +1,152 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-fauna_rating: TBD
+  Grabber Filterer:
+    temperament: Skittish
+    resource: Matabolic Agent
+    non_lethal_harvest: true
+    biomes:
+      - Volcanic
+      - Mountains
+    health: 20
+  
+  Toadface Grazer:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Volcanic
+      - Mountains
+    health: 545
+  
+  Hunting Nailtail:
+    temperament: Territorial
+    resource: Pigment
+    biomes:
+      - Volcanic
+      - Mountains
+    health: 765
+    resistances:
+      - Blast damage
+      - Physical damage
+  
+  Milliwhale Scavenger:
+    temperament: Peaceful
+    resource: Sealant
+    non_lethal_harvest: true
+    biomes:
+      - Deciduous Forest
+      - Wetlands
+    health: 20
+    outpost_production_allowed: true
+  
+  Seahorse Grazer:
+    temperament: Defensive
+    resource: Aromatic
+    biomes:
+      - Deciduous Forest
+      - Wetlands
+    health: 545
+  
+  Hunting Dragon:
+    temperament: Fearless
+    resource: Structural
+    biomes:
+      - Deciduous Forest
+      - Wetlands
+    health: 730
+    abilities:
+      - Acidic blood (reflects melee damage, armor piercing attacks)
+  
+  Schooling Kronosaurus Grazer:
+    temperament: Defensive
+    resource: Membrane
+    biomes:
+      - Ocean
+    health: 545
+  
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-flora_rating: TBD
+  Swamp Bottle Root:
+    resource: Toxin
+    biomes:
+      - Deciduous Forest
+      - Wetlands
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    reproduction2: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Hardy Woundwort:
+    resource: Nutrient
+    biomes:
+      - Deciduous Forest
+      - Wetlands
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Spirit Laurel:
+    resource: Cosmetic
+    biomes:
+      - Deciduous Forest
+      - Mountains
+      - Wetlands
+    genetics:
+      - Chiral Opposite
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Explorer's Coleus:
+    resource: Structural
+    biomes:
+      - Deciduous Forest
+      - Wetlands
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+    reproduction2: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Ash Sweeper:
+    resource: Nutrient 
+    biomes:
+      - Volcanic
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+  Nebula Vine:
+    resource: Fiber
+    biomes:
+      - Volcanic
+      - Mountains
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+  
+flora_rating: Moderate
 gravity: 0.61 G
 magnetosphere: Average
 name: Gamma Vulpes II-a
-o2_percent: TBD
+o2_percent: 18
 planet: Gamma Vulpes II
 resources:
 - Argon
@@ -32,11 +157,11 @@ resources:
 - Nickel
 - Uranium
 - Water
-surface_temp: TBD
+surface_temp: 12
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Ecological Consortium
+- Psychotropic Biota - Lush Grove - Fungal Grotto
+- Amphibious Foothold - Amphibious Thicket - Remains Of Amphibious Lifeforms
 type: Rock
 water: Chemical
