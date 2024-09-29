@@ -1,14 +1,14 @@
 atmosphere: STD CO2 (COR)
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 0.81 G
 magnetosphere: Average
 name: Heinlein II
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Chlorine
 - Iridium
@@ -17,9 +17,9 @@ resources:
 - Uranium
 - Vanadium
 system: Heinlein
-surface_temp: TBD
+surface_temp: 303
 temperature: Inferno
 traits:
-- TBD1
+- Prismatic Plumes
 type: Rock
 water: None

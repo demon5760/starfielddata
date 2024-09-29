@@ -1,20 +1,77 @@
 atmosphere: STD M
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: 
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
+  Herding Boneback Filterer:
+    temperament: Peaceful
+    resource: Structural
+    biomes:
+      - Deciduous Forest
+      - Tropical Forest
+      - Hills
+      - Rocky Desert
+    health: 70
+  
+  Cassowary Grazer:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Deciduous Forest
+      - Tropical Forest
+      - Hills
+      - Rocky Desert
+    health: 20
+  
+  Hunting Shieldshell:
+    temperament: Territorial
+    resource: Nutrient
+    biomes:
+      - Deciduous Forest
+      - Tropical Forest
+      - Hills
+      - Rocky Desert
+    health: 485
+  
+  Beetle Filterer:
+    temperament: Peaceful
+    resource: Toxin
+    non_lethal_harvest: true
+    biomes:
+      - Deciduous Forest
+      - Tropical Forest
+      - Hills
+      - Rocky Desert
+    health: 20
+  
+  Schooling Kronosaurus Filterer:
+    temperament: Wary
+    resource: Structural
+    biomes:
+      - Ocean
+    health: 95
+
 fauna_rating: Primordial
 flora: 
-  TBD1: {}
+  Phoenix Briar:
+    resource: Nutrient
+    biomes:
+      - Deciduous Forest
+      - Tropical Forest
+      - Hills
+      - Rocky Desert
+    genetics:
+      - Double Helix
+      - Methane-based
+    reproduction: Cuttings
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
 flora_rating: Primordial
 gravity: 0.53 G
 magnetosphere: Weak
 name: Heinlein VI-a
-o2_percent: TBD
+o2_percent: 0
 planet: Heinlein VI
 resources:
 - Chlorine
@@ -25,9 +82,9 @@ resources:
 - Palladium
 - Water
 - Xenon
-surface_temp: TBD
+surface_temp: 23
 temperature: Temperate
 traits:
-- TBD1
+- Amphibious Foothold
 type: Rock
 water: Biological

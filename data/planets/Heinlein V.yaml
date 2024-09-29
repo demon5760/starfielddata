@@ -1,14 +1,14 @@
 atmosphere: EXTR N2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna: {}
-fauna_rating: TBD
+fauna_rating: None
 flora: {}
-flora_rating: TBD
+flora_rating: None
 gravity: 1.23 G
 magnetosphere: Average
 name: Heinlein V
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Argon
 - Carboxylic Acids
@@ -19,10 +19,10 @@ resources:
 - Silver
 - Water
 system: Heinlein
-surface_temp: TBD
+surface_temp: -157
 temperature: Deep Freeze
 traits:
-- TBD1
-- TBD2
+- Energetic Rifting
+- Primed For Life - Sulfur Pools - Warm Pond
 type: Rock
 water: Safe

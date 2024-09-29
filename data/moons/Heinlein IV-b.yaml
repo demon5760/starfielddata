@@ -1,21 +1,89 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-fauna_rating: TBD
+  Herding Cutterhead Grazer:
+    temperament: Wary
+    resource: Cosmetic
+    biomes:
+      - Sandy Desert
+      - Volcanic
+      - Mountains
+      - Hills
+    health: 50
+  
+  Swarming Octomaggot:
+    temperament: Territorial
+    resource: Sedative
+    biomes:
+      - Sandy Desert
+      - Volcanic
+      - Mountains
+      - Hills
+    health: 345
+    abilities:
+      - Venomous
+  
+  Triworm Filterer:
+    temperament: Wary
+    resource: Toxin
+    biomes:
+      - Sandy Desert
+      - Volcanic
+      - Mountains
+      - Hills
+    health: 20
+  
+fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-flora_rating: TBD
+  Aries Vine:
+    resource: Fiber
+    biomes:
+      - Volcanic
+      - Mountains
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Crag Root:
+    resource: Fiber
+    biomes:
+      - Volcanic
+      - Mountains
+      - Hills
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+  
+  Dunetangle:
+    resource: Structural
+    biomes:
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+  
+  Sandy Goldenflow:
+    resource: Sealant
+    biomes:
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+  
+flora_rating: Marginal
 gravity: 0.65 G
 magnetosphere: Very Strong
 name: Heinlein IV-b
-o2_percent: TBD
+o2_percent: 18
 planet: Heinlein IV
 resources:
 - Alkanes
@@ -26,11 +94,11 @@ resources:
 - Mercury
 - Silver
 - Water
-surface_temp: TBD
+surface_temp: 35
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
-- TBD3
+- Global Global Glacial Recession
+- Psychotropic Biota - Lush Grove - Fungal Grotto
+- Continual Conductor - Conductive Ridge - Crystalline Briars
 type: Rock
 water: Radioactive
