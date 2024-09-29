@@ -1,14 +1,83 @@
 atmosphere: THIN M
 credits:
-- Starfield Sheet 1
-fauna: {}
-fauna_rating: TBD
-flora: {}
-flora_rating: TBD
+- Demon5760
+fauna:
+  Herding Tongueface Geophage:
+    temperament: Wary
+    resource: Structural
+    non_lethal_harvest: true
+    biomes:
+      - Volcanic
+      - Hills
+    health: 70
+    resistances:
+      - Energy damage
+      - Physical damage
+  Hunting Vectorback:
+    temperament: Fearless
+    resource: Membrane
+    biomes:
+      - Volcanic
+      - Hills
+    health: 340
+  
+  Milliwhale Filterer:
+    temperament: Skittish
+    resource: Nutrient
+    non_lethal_harvest: true
+    biomes:
+      - Volcanic
+      - Hills
+    health: 20
+    outpost_production_allowed: true
+
+  Shoaling Finback Scavenger:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Ocean
+    health: 220
+
+fauna_rating: Marginal
+flora:
+  Kingshead Bugloss:
+    resource: Membrane
+    biomes:
+      - Volcanic
+      - Hills
+    genetics:
+      - Double Helix
+      - Methane-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+
+  Ash Sweeper:
+    resource: Ornamental
+    biomes:
+      - Volcanic
+      - Hills
+    genetics:
+      - Double Helix
+      - Methane-based
+    reproduction: Self-cloning
+
+  Leaning Fireleaf:
+    resource: Antimicrobial
+    biomes:
+      - Volcanic
+      - Hills
+    genetics:
+      - Double Helix
+      - Methane-based
+    reproduction: Self-cloning
+  
+flora_rating: Marginal
 gravity: 0.55 G
 magnetosphere: Weak
 name: Guniibuu VI-b
-o2_percent: TBD
+o2_percent: 0
 planet: Guniibuu VI
 resources:
 - Cobalt
@@ -17,10 +86,10 @@ resources:
 - Nickel
 - Palladium
 - Water
-surface_temp: TBD
+surface_temp: -18
 temperature: Cold
 traits:
-- TBD1
-- TBD2
+- Ecological Consortium
+- Aeriform Life - Aeriform Life - Fermentation Vents
 type: Rock
 water: Biological

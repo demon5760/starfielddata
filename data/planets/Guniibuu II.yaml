@@ -1,6 +1,5 @@
 atmosphere: High O2
 credits:
-  - Starfield Sheet 1
   - Demon5760
 fauna:
   Herding Clickbeetle Grazer:
@@ -181,6 +180,5 @@ surface_temp: 21
 temperature: Temperate
 traits:
   - Global Glacial Recession - Melted Glacier - Glacial Remnant
-  - TBD2
 type: Rock
 water: Radioactive
