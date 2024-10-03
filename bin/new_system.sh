@@ -16,5 +16,5 @@ magnitude:
 planets: 
 moons: 
 credits:
-  - Inara
+  - Demon5760
 EOF
