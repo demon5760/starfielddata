@@ -1,0 +1,22 @@
+name: Kavnyk II-a
+planet: Kavnyk II
+type: Ice
+gravity: 0.04 G
+temperature: Cold
+atmosphere: None
+magnetosphere: None
+water: Chemical
+o2_percent: TBD
+surface_temp: TBD
+fauna: {}
+fauna_rating: None
+flora: {}
+flora_rating: None
+traits:
+  - Solar Storm Seasons
+resources:
+  - Water
+  - Chlorine
+  - Lithium
+credits:
+  - Demon5760

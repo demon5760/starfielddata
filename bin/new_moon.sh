@@ -3,8 +3,9 @@ RESOURCE_NAME=$1
 PLANET_NAME=$2
 
 hugo new content --kind moon "locations/moons/${RESOURCE_NAME}.md"
+DATA_FILE="data/moons/${RESOURCE_NAME}.yaml"
 
-cat << EOF > "data/moons/${RESOURCE_NAME}.yaml"
+cat << EOF > "${DATA_FILE}"
 name: ${RESOURCE_NAME}
 planet: ${PLANET_NAME}
 type: 
@@ -12,17 +13,17 @@ gravity: G
 temperature: 
 atmosphere: 
 magnetosphere: 
-fauna_rating: 
-flora_rating: 
 water: 
-o2_percent: 
-surface_temp: 
-flora: {}
+o2_percent: TBD
+surface_temp: TBD
 fauna: {}
-traits:
-  - TBD
-resources:
-  - TBD
+fauna_rating: 
+flora: {}
+flora_rating: 
+traits: []
+resources: []
 credits:
-  - TBD
+  - Demon5760
 EOF
+
+code "${DATA_FILE}"

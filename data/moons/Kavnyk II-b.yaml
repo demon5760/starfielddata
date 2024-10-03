@@ -1,0 +1,21 @@
+name: Kavnyk II-b
+planet: Kavnyk II
+type: Ice
+gravity: 0.05 G
+temperature: Cold
+atmosphere: None
+magnetosphere: None
+water: Chemical
+o2_percent: TBD
+surface_temp: TBD
+fauna: {}
+fauna_rating: None
+flora: {}
+flora_rating: None
+traits: []
+resources:
+  - Water
+  - Chlorine
+  - Chlorosilanes
+credits:
+  - Demon5760

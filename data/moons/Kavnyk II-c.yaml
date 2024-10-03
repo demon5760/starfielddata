@@ -1,0 +1,31 @@
+name: Kavnyk II-c
+planet: Kavnyk II
+type: Rock
+gravity: 0.68 G
+temperature: Cold
+atmosphere: O2
+magnetosphere: Weak
+water: Safe
+o2_percent: TBD
+surface_temp: TBD
+fauna: 
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+fauna_rating: Marginal
+flora:
+  TBD1: {}
+  TBD2: {}
+flora_rating: Marginal
+traits: []
+resources:
+  - Water
+  - Nickel
+  - Argon
+  - Lead
+  - Benzene
+  - Cobalt
+  - Platinum
+credits:
+  - Demon5760

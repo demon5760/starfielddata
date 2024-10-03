@@ -1,0 +1,18 @@
+name: Kavnyk II
+system: Kavnyk
+type: Gas Giant
+gravity: 3.40 G
+temperature: Cold
+atmosphere: H2
+magnetosphere: Powerful
+water: None
+o2_percent: N/A
+surface_temp: N/A
+fauna: {}
+fauna_rating: None
+flora: {}
+flora_rating: None
+traits: []
+resources: []
+credits:
+  - Demon5760

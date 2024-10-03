@@ -1,0 +1,21 @@
+name: Kavnyk I-a
+planet: Kavnyk I
+type: Ice
+gravity: 0.06 G
+temperature: Deep Freeze
+atmosphere: None
+magnetosphere: None
+water: Heavy Metal
+o2_percent: TBD
+surface_temp: TBD
+fauna: {}
+fauna_rating: None
+flora: {}
+flora_rating: None
+traits: []
+resources:
+  - Water
+  - Chlorine
+  - Chlorosilanes
+credits:
+  - Demon5760

@@ -1,0 +1,22 @@
+name: Kavnyk I-c
+planet: Kavnyk I
+type: Barren
+gravity: 0.12 G
+temperature: Hot
+atmosphere: None
+magnetosphere: None
+water: None
+o2_percent: TBD
+surface_temp: TBD
+fauna: {}
+fauna_rating: None
+flora: {}
+flora_rating: None
+traits: []
+resources:
+  - Copper
+  - Nickel
+  - Gold
+  - Palladium
+credits:
+  - Demon5760

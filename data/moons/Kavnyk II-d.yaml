@@ -1,0 +1,27 @@
+name: Kavnyk II-d
+planet: Kavnyk II
+type: Rock
+gravity: 0.50 G
+temperature: Cold
+atmosphere: Thin M
+magnetosphere: Very Weak
+water: Bilogical
+o2_percent: TBD
+surface_temp: TBD
+fauna: {}
+fauna_rating: None
+flora:
+  TBD1: {}
+flora_rating: Primordial 
+traits:
+  - TBD1
+resources:
+  - Water
+  - Copper
+  - Nickel
+  - Lead
+  - Fluorine
+  - Tetrafluorides
+  - Titanium
+credits:
+  - Demon5760

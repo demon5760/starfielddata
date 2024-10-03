@@ -1,0 +1,44 @@
+name: Va'Ruun'kai
+planet: Kavnyk I
+type: Rock
+gravity: 1.00 G
+temperature: Temperate
+atmosphere: High O2
+magnetosphere: Average
+water: Safe
+o2_percent: 21
+surface_temp: 6
+fauna: 
+  TBD1: {}
+  TBD2: {}
+  TBD3: {}
+  TBD4: {}
+  TBD5: {}
+  TBD6: {}
+  TBD7: {}
+  TBD8: {}
+  TBD9: {}
+  TBD10: {}
+  TBD11: {}
+  TBD12: {}
+  TBD13: {}
+  TBD14: {}
+  TBD15: {}
+  TBD16: {}
+  TBD17: {}
+  TBD18: {}
+fauna_rating: Abundant
+flora: 
+  TBD1: {}
+  TBD2: {}
+flora_rating: Abundant
+traits: []
+resources:
+  - Water
+  - Chlorine
+  - Nickel
+  - Uranium
+  - Cobalt
+  - Iridium
+credits:
+  - Demon5760

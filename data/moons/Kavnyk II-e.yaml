@@ -1,0 +1,27 @@
+name: Kavnyk II-e
+planet: Kavnyk II
+type: Rock
+gravity: 0.61 G
+temperature: Cold
+atmosphere: STD M
+magnetosphere: None
+water: Chemical
+o2_percent: TBD
+surface_temp: TBD
+fauna: {}
+fauna_rating: None
+flora: {}
+flora_rating: None
+traits:
+  - Bolide Bombardment
+resources:
+  - Chlorine
+  - Nickel
+  - Lead
+  - Uranium
+  - Cobalt
+  - Alkanes
+  - Iridium
+  - Tantalum
+credits:
+  - Demon5760
