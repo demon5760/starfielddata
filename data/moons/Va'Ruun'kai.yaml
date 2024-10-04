@@ -9,28 +9,175 @@ water: Safe
 o2_percent: 21
 surface_temp: 6
 fauna: 
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-  TBD8: {}
-  TBD9: {}
-  TBD10: {}
-  TBD11: {}
-  TBD12: {}
-  TBD13: {}
-  TBD14: {}
-  TBD15: {}
-  TBD16: {}
-  TBD17: {}
-  TBD18: {}
+  Hunting Rocky Bonecrest:
+    temperament: Defensive
+    resource: Adhesive
+    biomes:
+      - Rocky Desert
+    health: 1530
+  
+  Female Groat:
+    temperament: Peaceful
+    resource: Nutrient
+    non_lethal_harvest: true
+    biomes:
+      - Rocky Desert
+      - Frozen Craters
+      - Sandy Desert
+    health: 545
+  
+  Kid Groat:
+    temperament: Peaceful
+    resource: Nutrient
+    non_lethal_harvest: true
+    biomes:
+      - Rocky Desert
+      - Frozen Craters
+      - Sandy Desert
+    health: 545
+  
+  Male Groat:
+    temperament: Peaceful
+    resource: Nutrient
+    non_lethal_harvest: true
+    biomes:
+      - Rocky Desert
+      - Frozen Craters
+      - Sandy Desert
+    health: 545
+  
+  Rocky Nautilus Scavenger:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Rocky Desert
+    health: 20
+  
+  Hunting Sandy Bonecrest:
+    temperament: Defensive
+    resource: Adhesive
+    biomes:
+      - Sandy Desert
+    health: 270
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Herding Rocky Bladeback Grazer:
+    temperament: Peaceful
+    resource: Membrane
+    biomes:
+      - Rocky Desert
+    health: 270
+  
+  Herding Sandy Bladeback Grazer:
+    temperament: Peaceful
+    resource: Membrane
+    biomes:
+      - Sandy Desert
+    health: 295
+  
+  Sandy Nautilus Scavenger:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Sandy Desert
+    health: 20
+  
+  Frozen Nautiloos Scavenger:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    biomes:
+      - Frozen Craters
+    health: 20
+    outpost_production_allowed: true
+  
+  Frozen Grub Grazer:
+    temperament: Peaceful
+    resource: Lubricant
+    non_lethal_harvest: true
+    biomes:
+      - Frozen Craters
+    health: 20
+    outpost_production_allowed: true
+  
+  Herding Frozen Bladeback Grazer:
+    temperament: Peaceful
+    resource: Membrane
+    biomes:
+      - Frozen Craters
+    health: 70
+  
+  Hunting Frozen Bonecrest:
+    temperament: Defensive
+    resource: Adhesive
+    biomes:
+      - Frozen Craters
+    health: 1530
+  
+  Frozen Nautilus Scavenger:
+    temperament: Peaceful
+    resource: Nutrient
+    biomes:
+      - Frozen Craters
+    health: 20
+  
+  Rocky Nautiloos Scavenger:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    biomes:
+      - Rocky Desert
+    health: 20
+    outpost_production_allowed: true
+  
+  Sandy Nautiloos Scavenger:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    biomes:
+      - Sandy Desert
+    health: 20
+    outpost_production_allowed: true
+  
+  Sandy Grub Grazer:
+    temperament: Peaceful
+    resource: Lubricant
+    non_lethal_harvest: true
+    biomes:
+      - Sandy Desert
+    health: 20
+    outpost_production_allowed: true
+  
+  Rocky Grub Grazer:
+    temperament: Peaceful
+    resource: Lubricant
+    non_lethal_harvest: true
+    biomes:
+      - Rocky Desert
+    health: 20
+    outpost_production_allowed: true
+  
 fauna_rating: Abundant
 flora: 
-  TBD1: {}
-  TBD2: {}
+  Halepod:
+    resource: Sealant
+    biomes:
+      - Rocky Desert
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+  
+  Pendentleaf:
+    resource: Lubricant
+    biomes:
+      - Rocky Desert
+      - Sandy Desert
+    genetics:
+      - Standard Helix
+      - Carbon-based
+    reproduction: Spores
+  
 flora_rating: Abundant
 traits: []
 resources:

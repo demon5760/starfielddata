@@ -6,17 +6,74 @@ temperature: Cold
 atmosphere: O2
 magnetosphere: Weak
 water: Safe
-o2_percent: TBD
-surface_temp: TBD
+o2_percent: 18
+surface_temp: -34
 fauna: 
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
+  Herding Olgreg Scavenger:
+    temperament: Wary
+    resource: Membrane
+    biomes:
+      - Plateau
+      - Hills
+    health: 220
+    resistances:
+      - Energy damage
+      - Physical damage
+  
+  Hunting Twintail:
+    temperament: Defensive
+    resource: Cosmetic
+    biomes:
+      - Rocky Desert
+      - Plateau
+      - Hills
+    health: 765
+  
+  Tubecrawler Scavenger:
+    temperament: Peaceful
+    resource: Lubricant
+    biomes:
+      - Rocky Desert
+      - Plateau
+      - Hills
+    health: 20
+    outpost_production_allowed: true
+  
+  Herding Wobbleback Grazer:
+    temperament: Wary
+    resource: Nutrient
+    biomes:
+      - Rocky Desert
+    health: 545
+  
 fauna_rating: Marginal
 flora:
-  TBD1: {}
-  TBD2: {}
+  Sleeping Giant Thorn:
+    resource: Metabolic Agent
+    biomes:
+      - Rocky Desert
+      - Plateau
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+  Bright Fire Reed:
+    resource: Amino Acids
+    biomes:
+      - Plateau
+      - Hills
+    genetics:
+      - Standard Helix
+      - Silicon-based
+    reproduction: Spores
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
 flora_rating: Marginal
 traits: []
 resources:

@@ -6,8 +6,8 @@ temperature: Deep Freeze
 atmosphere: None
 magnetosphere: None
 water: Heavy Metal
-o2_percent: TBD
-surface_temp: TBD
+o2_percent: 0
+surface_temp: -198
 fauna: {}
 fauna_rating: None
 flora: {}

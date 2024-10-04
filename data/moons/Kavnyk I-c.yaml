@@ -6,8 +6,8 @@ temperature: Hot
 atmosphere: None
 magnetosphere: None
 water: None
-o2_percent: TBD
-surface_temp: TBD
+o2_percent: 0
+surface_temp: 73
 fauna: {}
 fauna_rating: None
 flora: {}

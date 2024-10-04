@@ -6,15 +6,27 @@ temperature: Cold
 atmosphere: Thin M
 magnetosphere: Very Weak
 water: Bilogical
-o2_percent: TBD
-surface_temp: TBD
+o2_percent: 0
+surface_temp: -27
 fauna: {}
 fauna_rating: None
 flora:
-  TBD1: {}
+  Red stinging Nettle:
+    resource: Lubricant
+    biomes:
+      - Rocky Desert
+      - Hills
+    genetics:
+      - Double Helix
+      - Methane-based
+    reproduction: Cuttings
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
 flora_rating: Primordial 
 traits:
-  - TBD1
+  - Primed For Life
 resources:
   - Water
   - Copper

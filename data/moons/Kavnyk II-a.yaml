@@ -6,14 +6,14 @@ temperature: Cold
 atmosphere: None
 magnetosphere: None
 water: Chemical
-o2_percent: TBD
-surface_temp: TBD
+o2_percent: 0
+surface_temp: -45
 fauna: {}
 fauna_rating: None
 flora: {}
 flora_rating: None
 traits:
-  - Solar Storm Seasons
+  - Solar Storm Seasons - Storm Crater - Iron Meteorite Fragements
 resources:
   - Water
   - Chlorine
