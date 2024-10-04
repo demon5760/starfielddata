@@ -31,7 +31,7 @@
         <div><strong>Radius:</strong> {{ $system.radius | lang.FormatNumber 0 }}</div>
         <div><strong>Magnitude:</strong> {{ $system.magnitude }}</div>
 
-        There are {{ $system.planets }} planets and {{ $system.moons }} moons can be found in {{ $system.name }}.
+        {{ $system.planets }} planets and {{ $system.moons }} moons can be found in {{ $system.name }}.
 
         <h2>Planets</h2>
         {{ $planets := slice }}
