@@ -8,6 +8,7 @@ googleAnalytics = 'G-MS58PM494H'
 titleCase = false
 
 [params]
+  since = 2023
   disclaimerText = 'This website is a personal project. This site is not affiliated with, nor endorsed by Bethesda.'
 [menu]
 [[menu.main]]
