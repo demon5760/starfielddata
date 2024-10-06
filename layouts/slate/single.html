@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+{{ $slate := index $.Site.Data.slates .Title }}
+{{ $data_file := printf "data/slates/%s.yaml" .Title }}
+
+{{ $credits := slice }}
+{{ if $slate.credits }}
+  {{ $credits = $credits | append $slate.credits}}
+{{ end }}
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        {{ .Content }}
+
+        {{ .Title }} is a <b>{{ $slate.type }}</b> slate which has a mass of <em><b>{{ $slate.mass }}</b></em> and is worth <em>{{ $slate.value }}</em>.
+        
+        {{ if $slate.message }}
+          <h2>Message</h2>
+          <blockquote>{{ $slate.message |markdownify }}</blockquote>
+        {{ end }}
+
+        
+
+      </article>
+      {{ partial "page_credits.html" (slice $.Site.Data.sources $credits .Title) }}
+      {{ partial "last_updated.html" $data_file }}
+    </div>
+  </div>
+</div>
+{{ end }}

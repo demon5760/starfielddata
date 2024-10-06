@@ -45,7 +45,12 @@
                             {{end}}
                           </ul>
                     </td>
-                    <td>{{ $flora_details.reproduction }}</td>
+                    <td>{{ $flora_details.reproduction }}
+                        {{ if $flora_details.reproduction2 }}
+                            &#38; {{ $flora_details.reproduction2 }}
+                        {{ end }}
+
+                    </td>
                     <td>
                         <ul>
                             {{ range $flora_details.genetics }}

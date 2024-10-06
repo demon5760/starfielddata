@@ -17,8 +17,19 @@
             </thead>
             <tbody>
               {{ range $.Site.Data.slates }}
+              
                 <tr>
-                  <td>{{ .title }} </td>
+                  <td>
+                    {{ $slate_page_file := printf "/items/slates/%s" .title }}
+                    {{ $slate_page := $.Site.GetPage $slate_page_file }}
+
+                    {{ if $slate_page }}
+                      <a href='{{ $slate_page.Permalink }}'>{{ .title }}</a>
+                    {{ else }}
+                      {{ .title }}
+                    {{ end }}
+                   
+                  </td>
                   <td>{{ .mass }}</td>
                   <td>{{ .value }}</td>
                 </tr>
