@@ -1,5 +1,13 @@
 title: "Note from a Patron"
 mass: 0.00
 value: 0
+type: Text Log
+green_light: true
+message: |
+  Hard to enjoy a bottle of koza when this it the view. It just doesn't taste
+  the same without my old friends here with me. I think this will be my last
+  drink before I join them in the crater.
+
+  Thank you for the memories.
 credits:
   - Demon5760

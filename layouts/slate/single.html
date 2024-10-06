@@ -46,7 +46,15 @@
               This
             {{ end }}
             slate contains the following message: <br />
-            <blockquote>{{ $slate.message |markdownify }}</blockquote>
+            <blockquote>
+              {{ if $slate.to }}
+                TO: {{ $slate.to }}<br />
+              {{ end }}
+              {{ if $slate.from }}
+                FROM: {{ $slate.from }}<br /><br />
+              {{ end }}
+              {{ $slate.message |markdownify }}
+            </blockquote>
           </p>
 
         {{ end }}

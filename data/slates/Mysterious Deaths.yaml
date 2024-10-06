@@ -1,5 +1,21 @@
 title: "Mysterious Deaths"
 mass: 0.00
 value: 0
+type: Text Log
+message: |
+  Everyone,
+
+  On more than one occasion, seemingly healthy animals have been dying,
+  and with no obvious cause. Please keep a close eye on your groats.
+  Look for any sign of unusual behavior or illness. If you see something
+  unusual, let me know right away.
+
+  I sent a message to Azad Dubas at Hamadi Station in the hope that he
+  and he his wife can look into the matter. Serpent willing, they will solve
+  this mystery quickly.
+
+  Alicja
+
+# and he his wife seems like a typo - Opened support ticket 241006-003343
 credits:
   - Demon5760
