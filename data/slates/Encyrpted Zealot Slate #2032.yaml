@@ -1,5 +1,10 @@
 title: "Encyrpted Zealot Slate #2032"
 mass: 0.00
 value: 0
+type: Text Log
+sub_title: Jandar's Rest
+contains: Map Coordinates
+message: |
+  The slate is encrypted. Use an encryption key to decrypt its contents.
 credits:
   - Demon5760

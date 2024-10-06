@@ -14,11 +14,41 @@
       <article role="main" class="blog-post">
         {{ .Content }}
 
-        {{ .Title }} is a <b>{{ $slate.type }}</b> slate which has a mass of <em><b>{{ $slate.mass }}</b></em> and is worth <em>{{ $slate.value }}</em>.
-        
+        <p>{{ .Title }} is
+          {{ if hasPrefix (lower $slate.type) "a" }}
+            an
+          {{ else }}
+            a
+          {{ end }}
+          
+          {{ $slate.type }} slate which has a mass of {{ $slate.mass }} and is worth {{ $slate.value }}.
+          {{ if $slate.sub_title }}
+            It is subtitled "{{ $slate.sub_title }}".
+          {{ end }}
+          {{ if $slate.contains }}
+            It contains {{ $slate.contains }}.
+          {{ end }}
+
+        </p>
+        {{ if $slate.green_light }}
+          <p>&#129001; This slate's green light is illuminated.</p>
+        {{ end }}
+
+
+
         {{ if $slate.message }}
-          <h2>Message</h2>
-          <blockquote>{{ $slate.message |markdownify }}</blockquote>
+          <p>
+            {{ if $slate.date }}
+              Dated {{ $slate.date }}, this
+            {{ else if $slate.year }}
+              Written at some point in {{ $slate.year }}, this
+            {{ else }}
+              This
+            {{ end }}
+            slate contains the following message: <br />
+            <blockquote>{{ $slate.message |markdownify }}</blockquote>
+          </p>
+
         {{ end }}
 
         
