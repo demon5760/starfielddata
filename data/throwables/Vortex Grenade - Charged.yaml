@@ -1,0 +1,13 @@
+name: Vortex Grenade - Charged
+mass: 0.20
+value: 600
+description: A Charged Vortex Grenade that explodes and does damage like a conventional grenade.
+crafting:
+  Industrial Workbench:
+    - Glowing Vortex Cyst: 1
+      Vortex Shard: 1
+damage:
+  physical: 56
+  energy: 85
+credits:
+  - Demon5760

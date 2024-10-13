@@ -1,0 +1,8 @@
+name: Incendiary Grenade
+mass: 0.30
+value: 480
+damage:
+  physical: 1
+  energy: 25
+credits:
+  - Demon5760

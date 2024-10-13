@@ -1,0 +1,8 @@
+name: Inferno Mine
+mass: 0.40
+value: 510
+damage:
+  physical: 1
+  energy: 35
+credits:
+  - Demon5760

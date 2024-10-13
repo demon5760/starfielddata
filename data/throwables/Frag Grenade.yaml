@@ -1,0 +1,7 @@
+name: Frag Grenade
+mass: 0.20
+value: 350
+damage:
+  physical: 101
+credits:
+  - Demon5760

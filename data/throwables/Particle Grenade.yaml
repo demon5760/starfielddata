@@ -1,0 +1,8 @@
+name: Particle Grenade
+mass: 0.40
+value: 575
+damage:
+  physical: 61
+  energy: 60
+credits:
+  - Demon5760

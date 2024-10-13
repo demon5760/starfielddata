@@ -1,0 +1,54 @@
+{{ define "main" }}
+
+{{ $entity := index $.Site.Data.throwables .Title }}
+{{ $data_file := printf "data/throwables/%s.yaml" .Title }}
+
+{{ $credits := slice }}
+{{ if $entity.credits }}
+  {{ $credits = $credits | append $entity.credits}}
+{{ end }}
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        {{ .Content }}
+
+        <p>   
+          {{ $entity.description }} Has a mass of {{ $entity.mass }} and is worth {{ $entity.value }}.
+        </p>
+
+        {{ if $entity.damage }}
+          <h2>Damage</h2>
+          <ul>
+            {{ range $type, $value := $entity.damage }}
+              <li>{{ strings.FirstUpper $type }} - {{ $value }} </li>
+            {{ end }}
+          </ul>
+
+        {{ end }}
+
+        {{ if $entity.crafting }}
+          {{ if index $entity.crafting "Industrial Workbench" }}
+            <h2>Crafting</h2>
+            {{ $entity.name }} can be crafted at an Industrial Workbench using the following materials:
+            <ul>
+              {{ $recipes := index $entity.crafting "Industrial Workbench" }}
+              {{ $first_recipe := index $recipes 0}}
+              {{ range $material, $qty := $first_recipe }}
+                <li>{{ $qty }} x {{ $material }}</li>
+              {{ end }}
+            </ul>
+
+          {{ end }}
+          
+    
+        {{ end }}
+
+      </article>
+      {{ partial "page_credits.html" (slice $.Site.Data.sources $credits .Title) }}
+      {{ partial "last_updated.html" $data_file }}
+    </div>
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,60 @@
+{{ define "main" }}
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        {{ with .Content }}
+         <div class="well">
+            {{.}}
+          </div>
+
+        {{ end }}
+        <div class="list">
+          <table class="data_table">
+            <thead>
+              <tr>
+                <th>Name</th><th>Damage</th>><th>Crafting</th>
+              </tr>
+            </thead>
+            <tbody>
+              {{ range $.Site.Data.throwables }}
+              
+                <tr>
+                  <td>
+                    {{ $page_file := printf "/items/throwables/%s" .name }}
+                    {{ $page := $.Site.GetPage $page_file }}
+
+                    {{ if $page }}
+                      <a href='{{ $page.Permalink }}'>{{ .name }}</a>
+                    {{ else }}
+                      {{ .name }}
+                    {{ end }}
+
+                  </td>
+                  <td>
+                    {{ range $type, $value := .damage }}
+                      {{ strings.FirstUpper $type }} - {{ $value }} <br />
+                    {{ end }}
+                  </td>
+                  <td>
+                    {{ if .crafting }}
+                      {{ if index .crafting "Industrial Workbench" }}
+                        {{ $recipes := index .crafting "Industrial Workbench" }}
+                        {{ $first_recipe := index $recipes 0}}
+                        <ul>
+                          {{ range $material, $qty := $first_recipe }}
+                            <li>{{ $material }} ({{ $qty }})</li>
+                          {{ end }}
+                        </ul>
+                      {{ end }}
+                    
+                    {{ end }}
+                  </td>
+                </tr>
+              {{ end }}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}

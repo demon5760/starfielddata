@@ -1,0 +1,12 @@
+name: Vortex Grenade - Unstable
+mass: 0.20
+value: 600
+description: An Unstable Vortex Grenade with unpredictable effects.
+crafting:
+  Industrial Workbench:
+    - Vortex Cyst: 1
+      Vortex Shard: 1
+damage:
+  physical: 1
+credits:
+  - Demon5760

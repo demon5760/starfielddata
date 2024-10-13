@@ -1,0 +1,14 @@
+name: Vortex Grenade - Lure
+mass: 0.20
+value: 600
+description: A Lure Vortex Grenade that summons a Vortex Horror.
+crafting:
+  Industrial Workbench:
+    - Vortex Cyst: 1
+      Dark Vortex Cyst: 1
+      Vortex Shard: 1
+damage:
+  TBD: "?"
+credits:
+  - Demon5760
+      

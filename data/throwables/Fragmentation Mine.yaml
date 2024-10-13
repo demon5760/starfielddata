@@ -1,0 +1,7 @@
+name: Fragmentation Mine
+mass: 0.30
+value: 415
+damage:
+  physical: 101
+credits:
+  - Demon5760

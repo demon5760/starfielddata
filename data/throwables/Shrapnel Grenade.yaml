@@ -1,0 +1,7 @@
+name: Shrapnel Grenade
+mass: 0.40
+value: 450
+damage:
+  physical: 51
+credits:
+  - Demon5760

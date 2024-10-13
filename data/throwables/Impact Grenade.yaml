@@ -1,0 +1,7 @@
+name: Impact Grenade
+mass: 0.20
+value: 450
+damage:
+  physical: 101
+credits:
+  - Demon5760

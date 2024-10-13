@@ -1,0 +1,12 @@
+name: Vortex Grenade - Binding
+mass: 0.20
+value: 600
+description: A Binding Vortex Grenade that explodes and freezes enemies in place.
+crafting:
+  Industrial Workbench:
+    - Dark Vortex Cyst: 1
+      Vortex Shard: 1
+damage:
+  physical: 1
+credits:
+  - Demon5760
