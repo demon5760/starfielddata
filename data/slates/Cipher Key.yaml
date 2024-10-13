@@ -1,0 +1,24 @@
+title: "Cipher Key"
+mass: 0.00
+value: 0
+credits:
+  - Demon5760
+type: Text Log
+sub_title: Shipment delivery instructions
+contains: coordinates 
+gree_light: false
+message: |
+  When making your delivery, you will be provided with a slate with a serial
+  number associated with it.
+
+  Use the key to multiply each digit to get the password. This will unlock
+  the slate and provide the coordinates for where your shipment will be
+  sent.
+
+  Key = Odd numbers x 1, Even numbers x 2 \
+  Number to Apply Key to = Slate #
+
+  Example: \
+  Supply Slate #12345 \
+  Password = 14385
+  

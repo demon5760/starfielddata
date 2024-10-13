@@ -29,6 +29,9 @@
             It contains {{ $slate.contains }}.
           {{ end }}
 
+          {{ if $slate.for }}
+            The slate has been written for {{ $slate.for }}.
+          {{ end }}
         </p>
         {{ if $slate.green_light }}
           <p>&#129001; This slate's green light is illuminated.</p>
