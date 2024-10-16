@@ -1,0 +1,18 @@
+title: "Score board"
+mass: 0.00
+value: 0
+credits:
+  - Demon5760
+type: Text Log
+green_light: false
+message: |
+  Score board:
+
+  Michael: 23 points \
+  Nina: 20 points \
+  Ilya: 19 points \
+  Simon: 16 points \
+  Matt: 15 points \
+  Cazz: 14 points \
+  Andrew: 12 points \
+  Sam: 10 points
