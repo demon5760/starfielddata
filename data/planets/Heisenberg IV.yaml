@@ -8,7 +8,7 @@ flora_rating: None
 gravity: 1.14 G
 magnetosphere: Powerful
 name: Heisenberg IV
-o2_percent: TBD
+o2_percent: 0
 resources:
 - Copper
 - Fluorine
@@ -17,7 +17,7 @@ resources:
 - Tungsten
 - Water
 system: Heisenberg
-surface_temp: TBD
+surface_temp: -92
 temperature: Frozen
 traits:
 - Sonorous Lithosphere
