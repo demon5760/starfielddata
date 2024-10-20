@@ -1,26 +1,136 @@
 atmosphere: STD O2
 credits:
-- Starfield Sheet 1
+- Demon5760
 fauna:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-  TBD6: {}
-  TBD7: {}
-fauna_rating: TBD
+  Drone Grazer:
+    temperament: Peaceful
+    resource: Metabolic Agent
+    non_lethal_harvest: true
+    biomes:
+      - Frozen Hills
+      - Hills
+      - Mountains
+      - Rocky Desert
+    health: 20
+  
+  Herding Windbag Grazer:
+    temperament: Wary
+    resource: Aromatic
+    non_lethal_harvest: true
+    biomes:
+      - Hills
+      - Mountains
+      - Rocky Desert
+    health: 510
+  
+  Trilobite Filterer:
+    temperament: Wary
+    resource: Toxin
+    biomes:
+      - Hills
+      - Mountains
+      - Rocky Desert
+    health: 20
+  
+  Hunting Exocrawler:
+    temperament: Defensive
+    resource: Antimicrobial
+    biomes:
+      - Hills
+      - Mountains
+      - Rocky Desert
+    health: 765
+  
+  Leafbug Grazer:
+    temperament: Defensive
+    resource: Pigment
+    biomes:
+      - Hills
+      - Mountains
+      - Rocky Desert
+    health: 1635
+  
+  Herding Flapwheel Grazer:
+    temperament: Defensive
+    resource: Nutrient
+    biomes:
+      - Ocean
+    health: 960
+  
+  Hunting Scarab:
+    temperament: Defensive
+    resource: Polymer
+    biomes:
+      - Hills
+      - Mountains
+      - Rocky Desert
+    health: 765
+  
+fauna_rating: Moderate
 flora:
-  TBD1: {}
-  TBD2: {}
-  TBD3: {}
-  TBD4: {}
-  TBD5: {}
-flora_rating: TBD
+  Crag Root:
+    resource: Aromatic
+    biomes:
+      - Hills
+      - Mountains
+      - Rocky Desert
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+  Nebula Vine:
+    resource: Fiber
+    biomes:
+      - Hills
+      - Mountains
+      - Rocky Desert
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+  Scarlet Hillfrond:
+    resource: Sealant
+    biomes:
+      - Hills
+      - Mountains
+      - Rocky Desert
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+  Bitter Goldenglow:
+    resource: Nutrient
+    biomes:
+      - Hills
+      - Mountains
+      - Rocky Desert
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-cloning
+  
+  Warren Nettle:
+    resource: Structural
+    biomes:
+      - Hills
+      - Mountains
+      - Rocky Desert
+    genetics:
+      - Double Helix
+      - Silicon-based
+    reproduction: Self-cloning
+    outpost_production_allowed: true
+    required_inputs:
+      - Water
+  
+flora_rating: Moderate
 gravity: 1.09 G
 magnetosphere: Weak
 name: Heisenberg II
-o2_percent: TBD
+o2_percent: 21
 resources:
 - Copper
 - Fluorine
@@ -31,10 +141,10 @@ resources:
 - Uranium
 - Water
 system: Heisenberg
-surface_temp: TBD
+surface_temp: 27
 temperature: Temperate
 traits:
-- TBD1
-- TBD2
+- Ecological Consortium - Ecological Consortium - Hive Structures
+- Psychotropic Biota - Unusual Growths - Fungal Grotto
 type: Rock
 water: Biological
