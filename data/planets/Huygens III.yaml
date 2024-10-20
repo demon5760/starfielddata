@@ -1,6 +1,5 @@
 atmosphere: HIGH O2 (TOX)
 credits:
-- Starfield Sheet 1
 - Demon5760
 fauna:
   Shellephant Grazer:
@@ -93,7 +92,17 @@ fauna:
     abilities:
       - Staggering attacks
   
-  TBD9: {}
+  Pack Trapmaw:
+    temperament: Wary
+    resource: Spice
+    biomes:
+      - Deciduous Forest
+      - Mountains
+      - Tropical Forest
+    health: 100
+    abilities:
+      - Ranged mouth attack
+  
 fauna_rating: Abundant
 flora:
   Nebula Weed:
